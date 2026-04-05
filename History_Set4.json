@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Who was elected as the first king of the Pala dynasty in Kamarupa? / কামৰূপৰ পাল বংশৰ প্ৰথম ৰজা হিচাপে কাক নিৰ্বাচিত কৰা হৈছিল?",
+    "options": ["Brahmapala", "Ratnapala", "Indrapala", "Gopala"],
+    "answer": 0
+  },
+  {
+    "question": "The Pala dynasty of Kamarupa was established in which century? / কামৰূপৰ পাল বংশ কোন শতিকাত প্ৰতিষ্ঠা হৈছিল?",
+    "options": ["9th Century", "10th Century", "11th Century", "12th Century"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the wife of Brahmapala? / ব্ৰহ্মপালৰ পত্নীৰ নাম কি আছিল?",
+    "options": ["Nayanadevi", "Kuladevi", "Amritaprabha", "Rajyamati"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the most powerful king of the Pala dynasty of Kamarupa? / কামৰূপৰ পাল বংশৰ আটাইতকৈ শক্তিশালী ৰজা কোন আছিল?",
+    "options": ["Brahmapala", "Ratnapala", "Indrapala", "Dharmapala"],
+    "answer": 1
+  },
+  {
+    "question": "Ratnapala shifted the capital to which city? / ৰত্নপালে ৰাজধানী কোনখন চহৰলৈ স্থানান্তৰ কৰিছিল?",
+    "options": ["Pragjyotishpur", "Haroppeswar", "Durjaya", "Kamrupnagar"],
+    "answer": 2
+  },
+  {
+    "question": "The city 'Durjaya' is associated with which modern location? / 'দুৰ্জয়া' নগৰখন বৰ্তমানৰ কোনখন ঠাইৰ সৈতে জড়িত?",
+    "options": ["Tezpur", "North Guwahati", "Sivasagar", "Jorhat"],
+    "answer": 1
+  },
+  {
+    "question": "What title did Ratnapala assume? / ৰত্নপালে কি উপাধি গ্ৰহণ কৰিছিল?",
+    "options": ["Maharajadhiraja", "Parameswara Paramabhattaraka", "Kumara Raja", "Sakalyadhishwar"],
+    "answer": 1
+  },
+  {
+    "question": "The 'Bargaon copper plate' was issued by which king? / 'বৰগাঁও তাম্ৰ শাসন' কোনজন ৰজাই জাৰি কৰিছিল?",
+    "options": ["Brahmapala", "Ratnapala", "Indrapala", "Dharmapala"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the successor of Ratnapala? / ৰত্নপালৰ উত্তৰাধিকাৰী কোন আছিল?",
+    "options": ["Indrapala", "Brahmapala", "Gopala", "Harshapala"],
+    "answer": 2
+  },
+  {
+    "question": "The 'Guwakuchi copper plate' belongs to which king? / 'গুৱাকুছি তাম্ৰ শাসন' কোনজন ৰজাৰ দিনৰ?",
+    "options": ["Ratnapala", "Indrapala", "Dharmapala", "Jayapala"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the last great ruler of the Pala dynasty of Kamarupa? / কামৰূপৰ পাল বংশৰ শেষৰ জন মহান শাসক কোন আছিল?",
+    "options": ["Dharmapala", "Jayapala", "Indrapala", "Ratnapala"],
+    "answer": 0
+  },
+  {
+    "question": "Dharmapala shifted the capital from Durjaya to? / ধৰ্মপালে ৰাজধানী দুৰ্জয়াৰ পৰা ক’লৈ স্থানান্তৰ কৰিছিল?",
+    "options": ["Pragjyotishpur", "Kamrupnagar", "Haroppeswar", "Sonitpur"],
+    "answer": 1
+  },
+  {
+    "question": "The 'Kamauli grant' mentions which of the following kings? / 'কামৌলি শাসন'ত তলৰ কোনজন ৰজাৰ উল্লেখ আছে?",
+    "options": ["Brahmapala", "Jayapala", "Vaidyadeva", "Ratnapala"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the last king of the Pala dynasty in Kamarupa? / কামৰূপৰ পাল বংশৰ অন্তিম ৰজা কোন আছিল?",
+    "options": ["Dharmapala", "Jayapala", "Ratnapala", "Indrapala"],
+    "answer": 1
+  },
+  {
+    "question": "The Pala dynasty of Kamarupa ended with the invasion of? / কাৰ আক্ৰমণৰ ফলত কামৰূপৰ পাল বংশৰ পতন ঘটিছিল?",
+    "options": ["Bakhtiyar Khilji", "Gaur King Ramapala/Vaidyadeva", "Ahoms", "Burmese"],
+    "answer": 1
+  },
+  {
+    "question": "Which religion received significant patronage during the Pala period? / পাল বংশৰ দিনত কোনটো ধৰ্মই বিশেষ পৃষ্ঠপোষকতা লাভ কৰিছিল?",
+    "options": ["Tantric Shaktism and Shaivism", "Jainism", "Sikhism", "Islam"],
+    "answer": 0
+  },
+  {
+    "question": "The 'Khonamukh copper plate' was issued by? / 'খোনামুখ তাম্ৰ শাসন' কোনে জাৰি কৰিছিল?",
+    "options": ["Dharmapala", "Indrapala", "Brahmapala", "Ratnapala"],
+    "answer": 0
+  },
+  {
+    "question": "The Pala dynasty of Kamarupa had no direct connection with? / কামৰূপৰ পাল বংশৰ কাৰ সৈতে কোনো প্ৰত্যক্ষ সম্পৰ্ক নাছিল?",
+    "options": ["Pala dynasty of Bengal", "Varman dynasty", "Mlechchha dynasty", "None of these"],
+    "answer": 0
+  },
+  {
+    "question": "Who composed the 'Puspabhadra copper plate' inscription? / 'পুষ্পভদ্ৰা তাম্ৰ শাসন' কোনে ৰচনা কৰিছিল?",
+    "options": ["Dharmapala", "Aniruddha", "Prasthanakalpa", "Ratnapala"],
+    "answer": 0
+  },
+  {
+    "question": "What was the emblem used in the seals of the Pala kings? / পাল ৰজাসকলৰ মোহৰত ব্যৱহাৰ কৰা চিহ্নটো কি আছিল?",
+    "options": ["Lion", "Rhino", "Elephant (Gaja)", "Tiger"],
+    "answer": 2
+  }
+]
