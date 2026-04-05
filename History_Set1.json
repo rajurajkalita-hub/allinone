@@ -10,93 +10,93 @@
     "answer": 2
   },
   {
-    "question": "Narakasur established which dynasty? / নৰকাসুৰে কোনটো বংশ প্ৰতিষ্ঠা কৰিছিল?",
-    "options": ["Mlechchha", "Bhauma", "Danava", "Varman"],
+    "question": "Who was the last king of the Danava dynasty? / দানৱ বংশৰ অন্তিম ৰজা কোন আছিল?",
+    "options": ["Mahiranga", "Ghatakasura", "Ratnasura", "Sambarasura"],
     "answer": 1
   },
   {
-    "question": "According to the Kalika Purana, Narakasur was killed by? / কালিকা পুৰাণৰ মতে নৰকাসুৰক কোনে বধ কৰিছিল?",
-    "options": ["Lord Rama", "Lord Shiva", "Lord Krishna", "Bhim"],
+    "question": "Who killed Ghatakasura and established the Bhauma dynasty? / কোনে ঘটকাসুৰক বধ কৰি ভৌগ বংশ প্ৰতিষ্ঠা কৰিছিল?",
+    "options": ["Bhagadatta", "Narakasura", "Vajradatta", "Pushyavarman"],
+    "answer": 1
+  },
+  {
+    "question": "According to mythology, Narakasura was the son of whom? / পৌৰাণিক আখ্যান মতে নৰকাসুৰ কাৰ পুত্ৰ আছিল?",
+    "options": ["Lord Shiva", "Lord Vishnu (Varaha incarnation)", "Lord Brahma", "King Janaka"],
+    "answer": 1
+  },
+  {
+    "question": "Which goddess was worshipped by Narakasura? / নৰকাসুৰে কোন গৰাকী দেৱীক পূজা কৰিছিল?",
+    "options": ["Goddess Durga", "Goddess Lakshmi", "Goddess Kamakhya", "Goddess Saraswati"],
     "answer": 2
   },
   {
-    "question": "Who was the son of Narakasur? / নৰকাসুৰৰ পুত্ৰ কোন আছিল?",
-    "options": ["Bhagadatta", "Vajradatta", "Pushyavarman", "Bana"],
+    "question": "Who was the son of Narakasura who participated in the Kurukshetra War? / কুৰুক্ষেত্ৰ যুদ্ধত অংশগ্ৰহণ কৰা নৰকাসুৰৰ পুত্ৰজন কোন আছিল?",
+    "options": ["Bhagadatta", "Vajradatta", "Pushadatta", "Banamala"],
+  "answer": 0
+  },
+  {
+    "question": "The capital of Narakasura was situated at? / নৰকাসুৰৰ ৰাজধানী ক’ত অৱস্থিত আছিল?",
+    "options": ["Tezpur", "Pragjyotishpur", "Kundil", "Guwahati"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the daughter of Bhagadatta married to Duryodhana? / দুৰ্যোধনৰ সৈতে বিবাহ হোৱা ভগদত্তৰ জীয়ৰীৰ নাম কি আছিল?",
+    "options": ["Usha", "Rukmini", "Bhanumati", "Chitralekha"],
+    "answer": 2
+  },
+  {
+    "question": "Which king of ancient Assam was killed by Krishna? / প্ৰাচীন অসমৰ কোনজন ৰজাক কৃষ্ণই বধ কৰিছিল?",
+    "options": ["Bhagadatta", "Narakasura", "Bana Raja", "Bhismaka"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the founder of the Varman dynasty? / বৰ্মন বংশৰ প্ৰতিষ্ঠাপক কোন আছিল?",
+    "options": ["Bhaskarvarman", "Pushyavarman", "Mahendravarman", "Samudravarman"],
+    "answer": 1
+  },
+  {
+    "question": "Which Varman king performed Ashwamedha Yagna for the first time? / কোনজন বৰ্মন ৰজাই প্ৰথমবাৰৰ বাবে অশ্বমেধ যজ্ঞ পাতিছিল?",
+    "options": ["Pushyavarman", "Mahendravarman", "Bhuti Varman", "Bhaskarvarman"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the contemporary ruler of Pushyavarman in Northern India? / উত্তৰ ভাৰতত পুষ্যবৰ্মনৰ সমসাময়িক শাসক কোন আছিল?",
+    "options": ["Chandragupta I", "Samudragupta", "Ashoka", "Harsha"],
+    "answer": 1
+  },
+  {
+    "question": "The Varman dynasty was named after which lineage? / বৰ্মন বংশটো কোনটো বংশৰ নামেৰে নামাকৰণ কৰা হৈছিল?",
+    "options": ["Bhauma/Naraka lineage", "Pala lineage", "Lunar lineage", "Solar lineage"],
     "answer": 0
   },
   {
-    "question": "Bhagadatta fought in the Mahabharata war on behalf of? / ভগদত্তই মহাভাৰতৰ যুদ্ধত কাৰ হৈ যুঁজিছিল?",
-    "options": ["Pandavas", "Kauravas", "Yadavas", "Nagas"],
-    "answer": 1
-  },
-  {
-    "question": "What was the name of Bhagadatta's famous elephant? / ভগদত্তৰ বিখ্যাত হাতীটোৰ নাম কি আছিল?",
-    "options": ["Airavat", "Supratika", "Ashwatthama", "Indrajeet"],
-    "answer": 1
-  },
-  {
-    "question": "Who was the daughter of Bhagadatta married to Duryodhana? / দুৰ্যোধনৰ সৈতে বিবাহ হোৱা ভগদত্তৰ জীয়ৰী কোন আছিল?",
-    "options": ["Usha", "Rukmini", "Bhanumati", "Chitrangada"],
+    "question": "Who was the mother of Bhaskarvarman? / ভাস্কৰবৰ্মনৰ মাতৃৰ নাম কি আছিল?",
+    "options": ["Dattadevi", "Amritaprabha", "Nayanadevi", "Dhruvaswamini"],
     "answer": 2
   },
   {
-    "question": "Bana Raja ruled from which place? / বাণ ৰজাই ক’ৰ পৰা শাসন কৰিছিল?",
-    "options": ["Pragjyotishpur", "Sonitpur", "Kundil", "Haigriva"],
+    "question": "Which Chinese traveler visited Assam during Bhaskarvarman's reign? / ভাস্কৰবৰ্মনৰ দিনত কোনজন চীনা পৰিব্ৰাজক অসমলৈ আহিছিল?",
+    "options": ["Fa-Hien", "Hiuen Tsang", "I-tsing", "Marco Polo"],
     "answer": 1
   },
   {
-    "question": "Who was the daughter of King Bana? / ৰজা বাণৰ জীয়ৰী কোন আছিল?",
-    "options": ["Usha", "Rukmini", "Hidimba", "Ulupi"],
+    "question": "Hiuen Tsang visited Kamarupa in which year? / হিউৱেন চাঙে কোন বছৰত কামৰূপ ভ্ৰমণ কৰিছিল?",
+    "options": ["630 AD", "643 AD", "650 AD", "600 AD"],
+    "answer": 1
+  },
+  {
+    "question": "What was the title taken by Bhaskarvarman? / ভাস্কৰবৰ্মনে কি উপাধি গ্ৰহণ কৰিছিল?",
+    "options": ["Maharajadhiraja", "Kumara Raja", "Vikramaditya", "Sakalyadhishwar"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the king of Gauda defeated by Bhaskarvarman and Harshavardhana? / ভাস্কৰবৰ্মন আৰু হৰ্ষবৰ্ধনৰ দ্বাৰা পৰাজিত হোৱা গৌড়ৰ ৰজা কোন আছিল?",
+    "options": ["Shashanka", "Dharmapala", "Gopala", "Lalitaditya"],
     "answer": 0
   },
   {
-    "question": "Usha was married to Aniruddha. Who was Aniruddha? / উষা অনিৰুদ্ধৰ সৈতে বিবাহপাশত আৱদ্ধ হৈছিল। অনিৰুদ্ধ কোন আছিল?",
-    "options": ["Son of Krishna", "Grandson of Krishna", "Brother of Krishna", "Son of Bhim"],
-    "answer": 1
-  },
-  {
-    "question": "King Bhismaka ruled over which kingdom? / ৰজা ভীষ্মকে কোনখন ৰাজ্য শাসন কৰিছিল?",
-    "options": ["Sonitpur", "Vidarbha (Kundil)", "Kamrupa", "Davaka"],
-    "answer": 1
-  },
-  {
-    "question": "Rukmini was the daughter of? / ৰুক্মিণী কাৰ জীয়ৰী আছিল?",
-    "options": ["Bana Raja", "Bhismaka", "Narakasur", "Bhagadatta"],
-    "answer": 1
-  },
-  {
-    "question": "Who founded the Varman Dynasty? / বৰ্মন বংশ কোনে প্ৰতিষ্ঠা কৰিছিল?",
-    "options": ["Bhaskaravarman", "Mahendravarman", "Pushyavarman", "Bhutivarman"],
-    "answer": 2
-  },
-  {
-    "question": "The Varman Dynasty is contemporary of which Gupta King? / বৰ্মন বংশ কোনজন গুপ্ত ৰজাৰ সমসাময়িক?",
-    "options": ["Chandragupta I", "Samudragupta", "Kumargupta", "Skandagupta"],
-    "answer": 1
-  },
-  {
-    "question": "Which Varman King performed the Ashwamedha Sacrifice? / কোনজন বৰ্মন ৰজাই অশ্বমেধ যজ্ঞ কৰিছিল?",
-    "options": ["Pushyavarman", "Mahendravarman", "Bhaskaravarman", "Bhutivarman"],
-    "answer": 1
-  },
-  {
-    "question": "Who was the most famous king of the Varman Dynasty? / বৰ্মন বংশৰ আটাইতকৈ বিখ্যাত ৰজা কোন আছিল?",
-    "options": ["Bhaskaravarman", "Pushyavarman", "Balamavarman", "Susthitavarman"],
-    "answer": 0
-  },
-  {
-    "question": "Bhaskaravarman was also known as? / ভাস্কৰবৰ্মনক আন কি নামেৰে জনা গৈছিল?",
-    "options": ["Vikramaditya", "Kumar Raja", "Shakya Muni", "Maharajadhiraja"],
-    "answer": 1
-  },
-  {
-    "question": "Which Chinese traveler visited Kamrupa during Bhaskaravarman's reign? / ভাস্কৰবৰ্মনৰ ৰাজত্বকালত কোনজন চীনা পৰিব্ৰাজকে কামৰূপ ভ্ৰমণ কৰিছিল?",
-    "options": ["Fa-Hien", "I-Tsing", "Hiuen Tsang", "Sung Yun"],
-    "answer": 2
-  },
-  {
-    "question": "Hiuen Tsang visited Kamrupa in which year? / হিউৱেন চাঙে কিমান চনত কামৰূপ ভ্ৰমণ কৰিছিল?",
-    "options": ["640 AD", "643 AD", "630 AD", "650 AD"],
+    "question": "The Nidhanpur copper plate grant was issued by? / নিধনপুৰ তাম্ৰ শাসন কোনে জাৰি কৰিছিল?",
+    "options": ["Bhuti Varman", "Bhaskarvarman", "Vanamala", "Ratnapala"],
     "answer": 1
   }
 ]
