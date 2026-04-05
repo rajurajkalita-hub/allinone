@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Who was the founder of the Koch dynasty? / কোঁচ বংশৰ প্ৰতিষ্ঠাপক কোন আছিল?",
+    "options": ["Naranarayan", "Chilarai", "Biswa Singha", "Hariya Mandal"],
+    "answer": 2
+  },
+  {
+    "question": "What was the original name of King Naranarayan? / ৰজা নৰনাৰায়ণৰ আচল নাম কি আছিল?",
+    "options": ["Malladev", "Sukladhwaj", "Biswa Singha", "Gohain Kamal"],
+    "answer": 0
+  },
+  {
+    "question": "Who was the famous general and brother of Naranarayan? / নৰনাৰায়ণৰ ভাতৃ তথা বিখ্যাত সেনাপতিজন কোন আছিল?",
+    "options": ["Gohain Kamal", "Raghu Dev", "Hariya Mandal", "Sukladhwaj (Chilarai)"],
+    "answer": 3
+  },
+  {
+    "question": "The Koch kingdom reached its zenith during the reign of? / কাৰ ৰাজত্বকালত কোঁচ ৰাজ্যই উন্নতিৰ চৰম শিখৰ পাইছিল?",
+    "options": ["Biswa Singha", "Naranarayan", "Raghu Dev", "Parikshit Narayan"],
+    "answer": 1
+  },
+  {
+    "question": "The Kamakhya Temple was rebuilt during the reign of? / কাৰ ৰাজত্বকালত কামাখ্যা মন্দিৰ পুনৰ নিৰ্মাণ কৰা হৈছিল?",
+    "options": ["Biswa Singha", "Chilarai", "Naranarayan", "Raghu Dev"],
+    "answer": 2
+  },
+  {
+    "question": "Why was Sukladhwaj known as 'Chilarai'? / শুক্লধ্বজক কিয় 'চিলাৰায়' বুলি জনা গৈছিল?",
+    "options": ["He was very kind", "He wore white clothes", "He attacked like a kite (Chila)", "He was very tall"],
+    "answer": 2
+  },
+  {
+    "question": "In which year did the Koch kingdom divide into Koch Bihar and Koch Hajo? / কোঁচ ৰাজ্য কেতিয়া কোঁচ বিহাৰ আৰু কোঁচ হাজোত বিভক্ত হৈছিল?",
+    "options": ["1540 AD", "1581 AD", "1600 AD", "1562 AD"],
+    "answer": 1
+  },
+  {
+    "question": "The road built by Gohain Kamal from Koch Bihar to Narayanpur is known as? / গোহাঁই কামাল নিৰ্মাণ কৰা কোঁচ বিহাৰৰ পৰা নাৰায়ণপুৰলৈ যোৱা পথটো কি নামেৰে জনা যায়?",
+    "options": ["Gohain Kamal Ali", "Dhudar Ali", "Seuj Ali", "Raj Ali"],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first ruler of Koch Hajo (Eastern part)? / কোঁচ হাজোৰ (পূব অংশ) প্ৰথম শাসক কোন আছিল?",
+    "options": ["Lakshmi Narayan", "Parikshit Narayan", "Raghu Dev", "Naranarayan"],
+    "answer": 2
+  },
+  {
+    "question": "Which river served as the boundary between Koch Bihar and Koch Hajo? / কোনখন নদীয়ে কোঁচ বিহাৰ আৰু কোঁচ হাজোৰ সীমা নিৰ্ধাৰণ কৰিছিল?",
+    "options": ["Brahmaputra", "Manas", "Karatoya", "Sankosh"],
+    "answer": 3
+  },
+  {
+    "question": "Who was the ruler of Koch Bihar during the division in 1581? / ১৫৮১ চনৰ বিভাজনৰ সময়ত কোঁচ বিহাৰৰ শাসক কোন আছিল?",
+    "options": ["Lakshmi Narayan", "Raghu Dev", "Parikshit Narayan", "Balinarayan"],
+    "answer": 0
+  },
+  {
+    "question": "The 'Narayani Coin' was introduced by? / 'নাৰায়ণী মুদ্ৰা' কোনে প্ৰচলন কৰিছিল?",
+    "options": ["Biswa Singha", "Chilarai", "Naranarayan", "Raghu Dev"],
+    "answer": 2
+  },
+  {
+    "question": "Who was the court poet of Naranarayan who wrote 'Bakul Kayastha'? / নৰনাৰায়ণৰ ৰাজসভাৰ কবি কোন আছিল?",
+    "options": ["Sankardeva", "Ananta Kandali", "Madhav Kandali", "Bakul Kayastha"],
+    "answer": 1
+  },
+  {
+    "question": "Which great Vaishnavite saint was patronized by Naranarayan? / নৰনাৰায়ণৰ পৃষ্ঠপোষকতা লাভ কৰা মহান বৈষ্ণৱ সন্তগৰাকী কোন আছিল?",
+    "options": ["Madhavdeva", "Srimanta Sankardeva", "Damodardeva", "Harideva"],
+    "answer": 1
+  },
+  {
+    "question": "Chilarai died of which disease during an expedition to Bengal? / বংগ অভিযানৰ সময়ত চিলাৰায়ৰ কোনটো ৰোগত মৃত্যু হৈছিল?",
+    "options": ["Smallpox", "Malaria", "Cholera", "Plague"],
+    "answer": 0
+  },
+  {
+    "question": "The Koch-Ahom conflict in 1562 resulted in which treaty? / ১৫৬২ চনৰ কোঁচ-আহোম সংৰ্ষৰ ফলত কোনখন সন্ধি হৈছিল?",
+    "options": ["Treaty of Ghilajharighat", "Treaty of Yandabo", "Treaty of Majuli", "Treaty of Asurar Ali"],
+    "answer": 2
+  },
+  {
+    "question": "Who was the father of Biswa Singha? / বিশ্ব সিংহৰ পিতৃৰ নাম কি আছিল?",
+    "options": ["Hariya Mandal", "Chilarai", "Naranarayan", "Raghu Dev"],
+    "answer": 0
+  },
+  {
+    "question": "Which Mughal Emperor was a contemporary of Naranarayan? / কোনজন মোগল সম্ৰাট নৰনাৰায়ণৰ সমসাময়িক আছিল?",
+    "options": ["Babur", "Humayun", "Akbar", "Aurangzeb"],
+    "answer": 2
+  },
+  {
+    "question": "What was the capital of the undivided Koch kingdom? / অবিভক্ত কোঁচ ৰাজ্যৰ ৰাজধানী ক’ত আছিল?",
+    "options": ["Hajo", "Khaspur", "Koch Bihar", "Maibang"],
+    "answer": 2
+  },
+  {
+    "question": "Who was the last independent king of the undivided Koch kingdom? / অবিভক্ত কোঁচ ৰাজ্যৰ অন্তিমজন স্বতন্ত্ৰ ৰজা কোন আছিল?",
+    "options": ["Biswa Singha", "Naranarayan", "Chilarai", "Lakshmi Narayan"],
+    "answer": 1
+  }
+]
