@@ -1,102 +1,102 @@
 [
   {
-    "question": "What was the name of the book written by Hiuen Tsang? / হিউৱেন চাঙে লিখা কিতাপখনৰ নাম কি আছিল?",
-    "options": ["Si-Yu-Ki", "Indica", "Rajatarangini", "Arthashastra"],
-    "answer": 0
-  },
-  {
-    "question": "Bhaskaravarman was an ally of which North Indian King? / ভাস্কৰবৰ্মন উত্তৰ ভাৰতৰ কোনজন ৰজাৰ মিত্ৰ আছিল?",
-    "options": ["Ashoka", "Harshavardhana", "Chandragupta", "Kanishka"],
+    "question": "After the death of Bhaskarvarman, which dynasty came to power? / ভাস্কৰবৰ্মনৰ মৃত্যুৰ পিছত কোনটো বংশই ক্ষমতা দখল কৰিছিল?",
+    "options": ["Pala Dynasty", "Salastambha Dynasty", "Khen Dynasty", "Koch Dynasty"],
     "answer": 1
   },
   {
-    "question": "The Nidhanpur Copperplate Grant was issued by? / নিধানপুৰ তাম্ৰফলি কোনে জাৰি কৰিছিল?",
-    "options": ["Bhaskaravarman", "Bhutivarman", "Vanamala", "Ratnapala"],
-    "answer": 0
-  },
-  {
-    "question": "The Dubi Copperplate Grant is associated with? / ডুবি তাম্ৰফলি কাৰ সৈতে জড়িত?",
-    "options": ["Bhaskaravarman", "Indrapala", "Dharmapala", "Harjjaravarman"],
-    "answer": 0
-  },
-  {
-    "question": "Who was the last ruler of the Varman Dynasty? / বৰ্মন বংশৰ শেষৰজন শাসক কোন আছিল?",
-    "options": ["Bhaskaravarman", "Susthitavarman", "Supratisthitavarman", "Bhutivarman"],
-    "answer": 0
-  },
-  {
-    "question": "After the Varman Dynasty, which dynasty ruled Kamrupa? / বৰ্মন বংশৰ পিছত কোনে কামৰূপত শাসন কৰিছিল?",
-    "options": ["Pala", "Salastambha", "Khen", "Koch"],
-    "answer": 1
-  },
-  {
-    "question": "The Salastambha Dynasty is also known as? / শালস্তম্ভ বংশক আন কি বুলি জনা যায়?",
-    "options": ["Varman", "Mlechchha", "Bhauma", "Ahom"],
-    "answer": 1
-  },
-  {
-    "question": "Who was the founder of the Salastambha Dynasty? / শালস্তম্ভ বংশৰ প্ৰতিষ্ঠাপক কোন আছিল?",
-    "options": ["Harjjaravarman", "Vanamala", "Salastambha", "Tyagasimha"],
+    "question": "Who was the founder of the Salastambha dynasty? / শালস্তম্ভ বংশৰ প্ৰতিষ্ঠাপক কোন আছিল?",
+    "options": ["Tyagasimha", "Harjjaravarman", "Salastambha", "Vanamala"],
     "answer": 2
   },
   {
-    "question": "During which dynasty was the Hayungthal Copperplate issued? / হায়ুংথল তাম্ৰফলি কোনটো বংশৰ দিনত জাৰি কৰা হৈছিল?",
-    "options": ["Salastambha", "Pala", "Varman", "Koch"],
-    "answer": 0
+    "question": "Salastambha kings are also known as? / শালস্তম্ভ ৰজাসকলক আন কি নামেৰে জনা যায়?",
+    "options": ["Danavas", "Mlechchhas", "Ahoms", "Kacharis"],
+    "answer": 1
   },
   {
-    "question": "Who was the last king of the Salastambha Dynasty? / শালস্তম্ভ বংশৰ শেষৰজন ৰজা কোন আছিল?",
-    "options": ["Salastambha", "Brahmapala", "Tyagasimha", "Ratnapala"],
+    "question": "Where was the capital of the Salastambha dynasty? / শালস্তম্ভ বংশৰ ৰাজধানী ক’ত আছিল?",
+    "options": ["Pragjyotishpur", "Haroppeswar", "Kamrup-nagar", "Gargaon"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the last ruler of the Salastambha dynasty? / শালস্তম্ভ বংশৰ শেষৰ জন শাসক কোন আছিল?",
+    "options": ["Salastambha", "Harjjaravarman", "Tyagasimha", "Banamalavarman"],
     "answer": 2
   },
   {
-    "question": "Who established the Pala Dynasty in Kamrupa? / কামৰূপত পাল বংশ কোনে প্ৰতিষ্ঠা কৰিছিল?",
-    "options": ["Gopala", "Brahmapala", "Dharmapala", "Indrapala"],
+    "question": "The Pala dynasty of Kamarupa was founded by? / কামৰূপৰ পাল বংশ কোনে প্ৰতিষ্ঠা কৰিছিল?",
+    "options": ["Gopala", "Brahmapala", "Ratnapala", "Indrapala"],
     "answer": 1
   },
   {
-    "question": "Which Pala King built the capital city 'Sri-Durjaya'? / কোনজন পাল ৰজাই 'শ্ৰী-দুৰ্জয়' ৰাজধানী চহৰ নিৰ্মাণ কৰিছিল?",
-    "options": ["Brahmapala", "Ratnapala", "Indrapala", "Harjjaravarman"],
+    "question": "Which Pala king of Kamarupa was contemporary to Dharmapala of Bengal? / কামৰূপৰ কোনজন পাল ৰজা বংগৰ ধৰ্মপালৰ সমসাময়িক আছিল?",
+    "options": ["Brahmapala", "Ratnapala", "Dharmapala of Kamarupa", "Harshapala"],
+    "answer": 2
+  },
+  {
+    "question": "The Tezpur Rock Inscription belongs to which king? / তেজপুৰ শিলালিপি কোনজন ৰজাৰ দিনৰ?",
+    "options": ["Bhaskarvarman", "Harjjaravarman", "Vanamala", "Brahmapala"],
     "answer": 1
   },
   {
-    "question": "Who was the last ruler of the Pala Dynasty? / পাল বংশৰ শেষৰজন শাসক কোন আছিল?",
-    "options": ["Jayapala", "Dharmapala", "Brahmapala", "Indrapala"],
+    "question": "Who was the famous king of the Mlechchha dynasty who built a temple of Lord Shiva? / শালস্তম্ভ/ম্লেছ বংশৰ কোনজন বিখ্যাত ৰজাই শিৱ মন্দিৰ নিৰ্মাণ কৰিছিল?",
+    "options": ["Salastambha", "Vanamalavarman", "Harjjaravarman", "Tyagasimha"],
+    "answer": 1
+  },
+  {
+    "question": "Ancient Kamarupa was divided into how many divisions? / প্ৰাচীন কামৰূপক কেইটা ভাগত বিভক্ত কৰা হৈছিল?",
+    "options": ["Two", "Three", "Four", "Five"],
+    "answer": 2
+  },
+  {
+    "question": "Name the four divisions of ancient Kamarupa. / প্ৰাচীন কামৰূপৰ চাৰিটা ভাগৰ নাম কি কি?",
+    "options": ["Kamapith, Ratnapith, Swarnapith, Saumarpith", "Upper, Middle, Lower, Central", "North, South, East, West", "Prag, Jyotish, Kam, Rupa"],
     "answer": 0
   },
   {
-    "question": "In ancient times, Assam was known by what name? / প্ৰাচীন কালত অসম কি নামেৰে জনাজাত আছিল?",
-    "options": ["Kamrup", "Pragjyotisha", "Asama", "Kamata"],
-    "answer": 1
-  },
-  {
-    "question": "The ancient name of Guwahati was? / গুৱাহাটীৰ প্ৰাচীন নাম কি আছিল?",
-    "options": ["Kamrup", "Pragjyotishpur", "Sonitpur", "Kundil"],
-    "answer": 1
-  },
-  {
-    "question": "What is the earliest literary source mentioning ancient Assam? / প্ৰাচীন অসমৰ উল্লেখ থকা আটাইতকৈ পুৰণি সাহিত্যৰ উৎস কি?",
-    "options": ["Ramayana", "Mahabharata", "Kalika Purana", "Rigveda"],
-    "answer": 1
-  },
-  {
-    "question": "Who was the king of Kundil (Vidarbha)? / কুণ্ডিলৰ ৰজা কোন আছিল?",
-    "options": ["Bhismaka", "Bana", "Naraka", "Bhagadatta"],
+    "question": "The region between the river Karatoya and the Sankosh was known as? / কৰতোয়া আৰু সংকোষ নদীৰ মাজৰ অঞ্চলটোক কি বুলি জনা গৈছিল?",
+    "options": ["Ratnapith", "Kamapith", "Swarnapith", "Saumarpith"],
     "answer": 0
   },
   {
-    "question": "According to legends, Krishna fought with whom in Sonitpur? / জনশ্ৰুতিমতে কৃষ্ণাৰ কাৰ সৈতে তেজপুৰত যুদ্ধ হৈছিল?",
-    "options": ["Naraka", "Bana Raja", "Bhismaka", "Bhagadatta"],
+    "question": "Which epic gives a detailed description of Pragjyotisha? / কোনখন মহাকাব্যত প্ৰাগজ্যোতিষপুৰৰ বিতং বৰ্ণনা পোৱা যায়?",
+    "options": ["Ramayana", "Mahabharata", "Puranas", "All of these"],
+    "answer": 3
+  },
+  {
+    "question": "The name 'Kamarupa' first appeared in which inscription? / 'কামৰূপ' নামটো প্ৰথমবাৰৰ বাবে কোনখন শিলালিপিত দেখা গৈছিল?",
+    "options": ["Allahabad Pillar Inscription", "Nidhanpur Inscription", "Dubi Inscription", "Ulukanda Inscription"],
+    "answer": 0
+  },
+  {
+    "question": "Who was the daughter of King Bhismaka? / ৰজা ভীষ্মকৰ জীয়ৰীৰ নাম কি আছিল?",
+    "options": ["Usha", "Rukmini", "Chitralekha", "Bhanumati"],
     "answer": 1
   },
   {
-    "question": "The Allahabad Pillar Inscription mentions Kamrupa as a? / এলাহাবাদ স্তম্ভলিপিত কামৰূপক কি হিচাপে উল্লেখ কৰা হৈছে?",
-    "options": ["Vassal State", "Pratyanta Rajya", "Independent Kingdom", "Gupta Province"],
+    "question": "The city 'Kundil' (Sadiya) was the capital of which king? / 'কুণ্ডিল' নগৰ (শদিয়া) কোনজন ৰজাৰ ৰাজধানী আছিল?",
+    "options": ["Bhismaka", "Bana Raja", "Narakasura", "Bhagadatta"],
+    "answer": 0
+  },
+  {
+    "question": "Who was the grandfather of Usha (daughter of Bana Raja)? / ঊষাৰ (বাণ ৰজাৰ জীয়ৰী) ককাক কোন আছিল?",
+    "options": ["Hiranyakashipu", "Prahlad", "Bali Raja", "Virochana"],
+    "answer": 2
+  },
+  {
+    "question": "The 'Battle of Hari-Hara' took place at? / 'হৰি-হৰৰ যুদ্ধ' ক’ত হৈছিল?",
+    "options": ["Pragjyotishpur", "Sonitpur (Tezpur)", "Gargaon", "Charaideo"],
     "answer": 1
   },
   {
-    "question": "Who was the second king of the Varman Dynasty? / বৰ্মন বংশৰ দ্বিতীয়জন ৰজা কোন আছিল?",
-    "options": ["Samudravarman", "Bhutivarman", "Kalyanavarman", "Ganapativarman"],
+    "question": "The ancient name of Tezpur was? / তেজপুৰৰ প্ৰাচীন নাম কি আছিল?",
+    "options": ["Pragjyotishpur", "Sonitpur", "Kundilnagar", "Haidiyapur"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first historical ruler of the Varman dynasty to take the title 'Maharajadhiraja'? / বৰ্মন বংশৰ কোনজন শাসকে প্ৰথমবাৰৰ বাবে 'মহাৰাজাধিৰাজ' উপাধি লৈছিল?",
+    "options": ["Pushyavarman", "Samudravarman", "Mahendravarman", "Bhaskarvarman"],
     "answer": 0
   }
 ]
