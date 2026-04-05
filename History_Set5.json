@@ -1,0 +1,100 @@
+[
+  {
+    "question": "Who was the founder of the Ahom Kingdom? / আহোম সাম্ৰাজ্যৰ প্ৰতিষ্ঠাপক কোন আছিল?",
+    "options": ["Suhungmung", "Sukaphaa", "Supangmung", "Sukhranpha"],
+    "answer": 1
+  },
+  {
+    "question": "In which year did Sukaphaa enter the Brahmaputra Valley? / চ্যুকাফাই কোন চনত ব্ৰহ্মপুত্ৰ উপত্যকাত প্ৰৱেশ কৰিছিল?",
+    "options": ["1215 AD", "1228 AD", "1253 AD", "1539 AD"],
+    "answer": 1
+  },
+  {
+    "question": "What was the first permanent capital of the Ahom Kingdom? / আহোম ৰাজ্যৰ প্ৰথম স্থায়ী ৰাজধানী কি আছিল?",
+    "options": ["Gargaon", "Rangpur", "Charaideo", "Jorhat"],
+    "answer": 2
+  },
+  {
+    "question": "From which place did Sukaphaa migrate to Assam? / চ্যুকাফাই ক’ৰ পৰা অসমলৈ প্ৰব্ৰজন কৰিছিল?",
+    "options": ["Mogaung (Mong Mao)", "Thailand", "Vietnam", "Tibet"],
+    "answer": 0
+  },
+  {
+    "question": "Which two ethnic groups were defeated by Sukaphaa in the early phase? / চ্যুকাফাই প্ৰথম অৱস্থাত কোন দুটা জনগোষ্ঠীক পৰাস্ত কৰিছিল?",
+    "options": ["Kachari and Chutiya", "Moran and Borahi", "Koch and Jaintia", "Mising and Dafla"],
+    "answer": 1
+  },
+  {
+    "question": "The Ahom kings claimed to be descendants of which deity? / আহোম ৰজাসকলে নিজকে কোনজন দেৱতাৰ বংশধৰ বুলি দাবী কৰিছিল?",
+    "options": ["Lord Shiva", "Lengdon", "Lord Vishnu", "Indra"],
+    "answer": 1
+  },
+  {
+    "question": "Which Ahom king assumed the Hindu title 'Swarganarayan' for the first time? / কোনজন আহোম ৰজাই প্ৰথমবাৰৰ বাবে হিন্দু উপাধি 'স্বৰ্গনাৰায়ণ' গ্ৰহণ কৰিছিল?",
+    "options": ["Sukaphaa", "Suhungmung", "Pratap Singha", "Gadavar Singha"],
+    "answer": 1
+  },
+  {
+    "question": "During whose reign was the first census (Paik survey) conducted in Assam? / কাৰ শাসনকালত অসমত প্ৰথমবাৰৰ বাবে পিয়ল (পাইক জৰীপ) কৰা হৈছিল?",
+    "options": ["Suhungmung", "Chakradhwaj Singha", "Rudra Singha", "Pramatta Singha"],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first Borbarua and Borphukan appointed by Pratap Singha? / প্ৰতাপ সিংহই নিযুক্তি দিয়া প্ৰথম বৰবৰুৱা আৰু বৰফুকন কোন আছিল?",
+    "options": ["Lachit and Momai Tamuli", "Momai Tamuli and Langi Panisiya", "Badan Chandra and Purnananda", "Atan Burhagohain and Lachit"],
+    "answer": 1
+  },
+  {
+    "question": "What was the traditional religion of the Ahoms? / আহোমসকলৰ পৰম্পৰাগত ধৰ্ম কি আছিল?",
+    "options": ["Saktism", "Shaivism", "Phung-Lung (Tai-Ahom religion)", "Vaishnavism"],
+    "answer": 2
+  },
+  {
+    "question": "The Chutiya kingdom was annexed to the Ahom kingdom during the reign of? / কাৰ শাসনকালত চুতীয়া ৰাজ্য আহোম ৰাজ্যৰ অন্তৰ্ভুক্ত কৰা হৈছিল?",
+    "options": ["Suhungmung", "Sudangpha", "Pratap Singha", "Sutamla"],
+    "answer": 0
+  },
+  {
+    "question": "The 'Paik System' was a unique administrative feature of which kingdom? / 'পাইক প্ৰথা' কোনখন ৰাজ্যৰ এক অনন্য প্ৰশাসনিক বৈশিষ্ট্য আছিল?",
+    "options": ["Koch", "Kachari", "Ahom", "Jaintia"],
+    "answer": 2
+  },
+  {
+    "question": "Who was the Ahom king during the first major Mughal-Ahom conflict? / প্ৰথম ডাঙৰ মোগল-আহোম সংৰ্ষৰ সময়ত আহোম ৰজা কোন আছিল?",
+    "options": ["Pratap Singha", "Jayadhwaj Singha", "Chakradhwaj Singha", "Udayaditya Singha"],
+    "answer": 0
+  },
+  {
+    "question": "Which post was created by Suhungmung to manage newly conquered territories? / নৱ-বিজিত অঞ্চলসমূহ পৰিচালনাৰ বাবে চ্যুহুংমুঙে কোনটো পদ সৃষ্টি কৰিছিল?",
+    "options": ["Borgohain", "Burhagohain", "Borpatrogohain", "Borphukan"],
+    "answer": 2
+  },
+  {
+    "question": "The post of 'Borphukan' governed the region west of which river? / 'বৰফুকন'ৰ পদটোৱে কোনখন নদীৰ পশ্চিমৰ অঞ্চলটো শাসন কৰিছিল?",
+    "options": ["Brahmaputra", "Kalia-Bhomora (Koliabor)", "Sankosh", "Manas"],
+    "answer": 1
+  },
+  {
+    "question": "The Mughal general Mir Jumla invaded Assam during the reign of? / মোগল সেনাপতি মীৰ জুমলাই কাৰ ৰাজত্বকালত অসম আক্ৰমণ কৰিছিল?",
+    "options": ["Jayadhwaj Singha", "Chakradhwaj Singha", "Gadadhar Singha", "Rudra Singha"],
+    "answer": 0
+  },
+  {
+    "question": "The 'Treaty of Ghilajharighat' (1663) was signed between? / 'ঘিলাধাৰীঘাটৰ সন্ধি' কাৰ কাৰ মাজত স্বাক্ষৰিত হৈছিল?",
+    "options": ["Ahoms and Koch", "Ahoms and Mughals", "Ahoms and Burmese", "Ahoms and Kacharis"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the Ahom king during the historic Battle of Saraighat? / ঐতিহাসিক শৰাইঘাটৰ যুদ্ধৰ সময়ত আহোম ৰজা কোন আছিল?",
+    "options": ["Chakradhwaj Singha", "Udayaditya Singha", "Gadadhar Singha", "Jayadhwaj Singha"],
+    "answer": 0
+  },
+  {
+    "question": "In which year did the Battle of Saraighat take place? / শৰাইঘাটৰ যুদ্ধ কোন চনত হৈছিল?",
+    "options": ["1667 AD", "1671 AD", "1681 AD", "1662 AD"],
+    "answer": 1
+  },
+  {
+    "question": "The Battle of Itakhuli (1682) resulted in the defeat of? / ইটাখুলীৰ যুদ্ধত (১৬৮২) কোণ পৰাজিত হৈছিল?",
+    "options": ["Ahoms", "Mughals", "Burmese", "Koch"],
+    "answer": 1
