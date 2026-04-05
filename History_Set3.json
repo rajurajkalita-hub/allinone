@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Who was the founder of the Mlechchha (Salastambha) dynasty? / ম্লেছ (শালস্তম্ভ) বংশৰ প্ৰতিষ্ঠাপক কোন আছিল?",
+    "options": ["Salastambha", "Vanamalavarman", "Tyagasimha", "Harjjaravarman"],
+    "answer": 0
+  },
+  {
+    "question": "The Salastambha dynasty ruled Kamarupa after which dynasty? / কোনটো বংশৰ পিছত শালস্তম্ভ বংশই কামৰূপত শাসন কৰিছিল?",
+    "options": ["Pala Dynasty", "Varman Dynasty", "Koch Dynasty", "Ahom Dynasty"],
+    "answer": 1
+  },
+  {
+    "question": "What was the capital of the Salastambha dynasty? / শালস্তম্ভ বংশৰ ৰাজধানী ক’ত আছিল?",
+    "options": ["Pragjyotishpur", "Haroppeswar (Tezpur)", "Gargaon", "Kamrupnagar"],
+    "answer": 1
+  },
+  {
+    "question": "The kings of the Salastambha dynasty claimed descent from? / শালস্তম্ভ বংশৰ ৰজাসকলে নিজকে কাৰ বংশধৰ বুলি দাবী কৰিছিল?",
+    "options": ["Lord Shiva", "Narakasura", "Lord Vishnu", "Lord Brahma"],
+    "answer": 1
+  },
+  {
+    "question": "Which inscription is the primary source of information for the Mlechchha dynasty? / ম্লেছ বংশৰ বিষয়ে তথ্যৰ প্ৰধান উৎস কোনখন শিলালিপি?",
+    "options": ["Nidhanpur grant", "Hayunthal copper plate", "Allahabad Pillar", "Dubi grant"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first ruler of this dynasty to take the title 'Maharajadhiraja'? / এই বংশৰ কোনজন শাসকে প্ৰথমবাৰৰ বাবে 'মহাৰাজাধিৰাজ' উপাধি লৈছিল?",
+    "options": ["Salastambha", "Sri Harsha (Harshadeva)", "Vanamala", "Tyagasimha"],
+    "answer": 1
+  },
+  {
+    "question": "King Harshadeva of the Mlechchha dynasty was also known as? / ম্লেছ বংশৰ ৰজা হৰ্ষদেৱক আন কি নামেৰে জনা গৈছিল?",
+    "options": ["Sri Harsha", "Harjjaravarman", "Kumara Raja", "Vikramaditya"],
+    "answer": 0
+  },
+  {
+    "question": "Which ruler of this dynasty is mentioned in the 'Pasupati Inscription' of Nepal? / নেপালৰ 'পশুপতি শিলালিপি'ত এই বংশৰ কোনজন শাসকৰ কথা উল্লেখ আছে?",
+    "options": ["Salastambha", "Harshadeva", "Banamala", "Tyagasimha"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the daughter of Harshadeva married to the King of Nepal? / নেপালৰ ৰজাৰ সৈতে বিবাহ হোৱা হৰ্ষদেৱৰ জীয়ৰীৰ নাম কি আছিল?",
+    "options": ["Amritaprabha", "Rajyamati", "Bhanumati", "Kuranganayani"],
+    "answer": 1
+  },
+  {
+    "question": "The 'Tezpur Rock Inscription' was issued by which king? / 'তেজপুৰ শিলালিপি' কোনজন ৰজাই জাৰি কৰিছিল?",
+    "options": ["Harjjaravarman", "Vanamalavarman", "Tyagasimha", "Salastambha"],
+    "answer": 0
+  },
+  {
+    "question": "Which king shifted the capital to Haroppeswar? / কোনজন ৰজাই ৰাজধানী হৰোপেশ্বৰলৈ স্থানান্তৰ কৰিছিল?",
+    "options": ["Salastambha", "Harjjaravarman", "Vanamalavarman", "Brahmapala"],
+    "answer": 0
+  },
+  {
+    "question": "The ancient city 'Haroppeswar' is modern-day? / প্ৰাচীন নগৰ 'হৰোপেশ্বৰ' বৰ্তমানৰ কি ঠাই?",
+    "options": ["Guwahati", "Tezpur", "Sivaagar", "Goalpara"],
+    "answer": 1
+  },
+  {
+    "question": "Who rebuilt the temple of Lord Hatakasulin (Shiva)? / ভগৱান হাটকশূলিন (শিৱ)ৰ মন্দিৰ কোনে পুনৰ নিৰ্মাণ কৰিছিল?",
+    "options": ["Harjjaravarman", "Vanamalavarman", "Tyagasimha", "Salastambha"],
+    "answer": 1
+  },
+  {
+    "question": "The 'Parbatiya copper plate' belongs to which king? / 'পৰ্বতীয়া তাম্ৰ শাসন' কোনজন ৰজাৰ দিনৰ?",
+    "options": ["Vanamalavarman", "Harjjaravarman", "Brahmapala", "Ratnapala"],
+    "answer": 0
+  },
+  {
+    "question": "Who was the last ruler of the Mlechchha dynasty? / ম্লেছ বংশৰ শেষৰ জন শাসক কোন আছিল?",
+    "options": ["Tyagasimha", "Salastambha", "Banamala", "Harjjaravarman"],
+    "answer": 0
+  },
+  {
+    "question": "Tyagasimha died without an heir in which century? / কোন শতিকাত ত্যাগসিংহই কোনো উত্তৰাধিকাৰী নোহোৱাকৈ মৃত্যুবৰণ কৰিছিল?",
+    "options": ["8th Century", "9th Century", "10th Century", "11th Century"],
+    "answer": 2
+  },
+  {
+    "question": "The term 'Mlechchha' was used to denote? / 'ম্লেছ' শব্দটো কি বুজাবলৈ ব্যৱহাৰ কৰা হৈছিল?",
+    "options": ["High Caste", "Non-Aryan or Outsiders", "Royal Blood", "Priests"],
+    "answer": 1
+  },
+  {
+    "question": "Which animal was common in the seals of the Mlechchha dynasty? / ম্লেছ বংশৰ মোহৰত কোনটো প্ৰাণীৰ চিহ্ন আছিল?",
+    "options": ["Rhino", "Elephant", "Tiger", "Lion"],
+    "answer": 1
+  },
+  {
+    "question": "Who succeeded Harjjaravarman to the throne? / হৰ্জ্জৰবৰ্মনৰ পিছত কোনে সিংহাসনত বহিছিল?",
+    "options": ["Vanamalavarman", "Tyagasimha", "Brahmapala", "Salastambha"],
+    "answer": 0
+  },
+  {
+    "question": "What was the religious inclination of most Salastambha kings? / বেছিভাগ শালস্তম্ভ ৰজাৰ ধৰ্মীয় বিশ্বাস কি আছিল?",
+    "options": ["Buddhism", "Shaivism", "Jainism", "Vaishnavism"],
+    "answer": 1
+  }
+]
