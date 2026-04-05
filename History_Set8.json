@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Who was the founder of the Chutiya kingdom? / চুতীয়া ৰাজ্যৰ প্ৰতিষ্ঠাপক কোন আছিল?",
+    "options": ["Ratnapal", "Birpal", "Dharmapal", "Satyanarayan"],
+    "answer": 1
+  },
+  {
+    "question": "What was the capital of the Chutiya kingdom? / চুতীয়া ৰাজ্যৰ ৰাজধানী ক’ত আছিল?",
+    "options": ["Sadiya", "Dimapur", "Ratnapur", "Maibang"],
+    "answer": 2
+  },
+  {
+    "question": "Who was the last king of the Chutiya dynasty? / চুতীয়া বংশৰ অন্তিমজন ৰজা কোন আছিল?",
+    "options": ["Birpal", "Satyanarayan", "Dharmadhwajpal", "Nitipal"],
+    "answer": 3
+  },
+  {
+    "question": "Who was the brave queen of the Chutiya kingdom who chose death over surrender? / চুতীয়া ৰাজ্যৰ সাহসী ৰাণীগৰাকী কোন আছিল?",
+    "options": ["Sati Sadhani", "Mula Gabharu", "Joymati", "Kuranganayani"],
+    "answer": 0
+  },
+  {
+    "question": "In which year was the Chutiya kingdom annexed by the Ahoms? / কিমান চনত আহোমে চুতীয়া ৰাজ্য দখল কৰিছিল?",
+    "options": ["1228 AD", "1523 AD", "1562 AD", "1681 AD"],
+    "answer": 1
+  },
+  {
+    "question": "Which of these kingdoms was the first to use firearms in Assam? / অসমত আগ্নেয়ান্ত্ৰ প্ৰথমতে কোনে ব্যৱহাৰ কৰিছিল?",
+    "options": ["Ahoms", "Koch", "Chutiyas", "Kacharis"],
+    "answer": 2
+  },
+  {
+    "question": "The Kachari kings identified themselves as descendants of? / কছাৰী ৰজাসকলে নিজকে কাৰ বংশধৰ বুলি পৰিচয় দিছিল?",
+    "options": ["Herambeswar", "Kamrupeswar", "Chao-pha", "Maharaja"],
+    "answer": 0
+  },
+  {
+    "question": "What was the first capital of the Kachari kingdom? / কছাৰী ৰাজ্যৰ প্ৰথম ৰাজধানী কি আছিল?",
+    "options": ["Maibang", "Dimapur", "Khaspur", "Guwahati"],
+    "answer": 1
+  },
+  {
+    "question": "Which Ahom king defeated the Kacharis and forced them to move to Maibang? / কোনজন আহোম ৰজাই কছাৰীসকলক পৰাস্ত কৰি মাইবঙলৈ যাবলৈ বাধ্য কৰিছিল?",
+    "options": ["Sukaphaa", "Pratap Singha", "Suhungmung", "Rudra Singha"],
+    "answer": 2
+  },
+  {
+    "question": "The Kachari capital was shifted from Maibang to Khaspur in which century? / কোন শতিকাত কছাৰী ৰাজধানী মাইবঙৰ পৰা খাচপুৰলৈ স্থানান্তৰ কৰা হৈছিল?",
+    "options": ["16th Century", "18th Century", "17th Century", "19th Century"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the last king of the Kachari kingdom? / কছাৰী ৰাজ্যৰ অন্তিম ৰজা কোন আছিল?",
+    "options": ["Krishna Chandra", "Tamradhwaj", "Govinda Chandra", "Nirbhaya Narayan"],
+    "answer": 2
+  },
+  {
+    "question": "In which year was the Kachari kingdom annexed by the British? / কিমান চনত ইংৰাজে কছাৰী ৰাজ্য দখল কৰিছিল?",
+    "options": ["1832 AD", "1826 AD", "1857 AD", "1820 AD"],
+    "answer": 0
+  },
+  {
+    "question": "The Jaintia kingdom was situated in which present-day state? / জয়ন্তীয়া ৰাজ্য বৰ্তমানৰ কোনখন ৰাজ্যত অৱস্থিত আছিল?",
+    "options": ["Assam", "Manipur", "Mizoram", "Meghalaya"],
+    "answer": 3
+  },
+  {
+    "question": "What was the capital of the Jaintia kingdom? / জয়ন্তীয়া ৰাজ্যৰ ৰাজধানী ক’ত আছিল?",
+    "options": ["Nartiang", "Jaintiapur", "Shillong", "Cherrapunji"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the Jaintia king contemporary to Ahom king Rudra Singha? / আহোম ৰজা ৰুদ্ৰ সিংহৰ সমসাময়িক জয়ন্তীয়া ৰজা কোন আছিল?",
+    "options": ["Ram Singha", "Parikshit Narayan", "Jasapala", "Boro Gosain"],
+    "answer": 0
+  },
+  {
+    "question": "The Jaintia kingdom followed which type of succession? / জয়ন্তীয়া ৰাজ্যত কেনে ধৰণৰ উত্তৰাধিকাৰী প্ৰথা আছিল?",
+    "options": ["Patrilineal", "Election", "Matrilineal", "None of these"],
+    "answer": 2
+  },
+  {
+    "question": "Which river formed the boundary between the Ahom and Kachari kingdoms for a long period? / বহু সময় ধৰি আহোম আৰু কছাৰী ৰাজ্যৰ সীমা কোনখন নদীয়ে নিৰ্ধাৰণ কৰিছিল?",
+    "options": ["Dhansiri", "Kopili", "Brahmaputra", "Bharali"],
+    "answer": 0
+  },
+  {
+    "question": "The famous monolithic stone structures at Dimapur were built by? / ডিমাপুৰৰ বিখ্যাত পাথৰৰ ভাস্কৰ্যসমূহ কোনে নিৰ্মাণ কৰিছিল?",
+    "options": ["Ahoms", "Kacharis", "Chutiyas", "Koch"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the Manipuri princess married to Kachari king Krishna Chandra? / কছাৰী ৰজা কৃষ্ণ চন্দ্ৰৰ সৈতে বিবাহ হোৱা মণিপুৰী ৰাজকুমাৰীগৰাকী কোন আছিল?",
+    "options": ["Induprabha", "Kuranganayani", "Chitrangada", "Rukmini"],
+    "answer": 0
+  },
+  {
+    "question": "The Chutiya kings claimed descent from which mythological lineage? / চুতীয়া ৰজাসকলে কোনটো পৌৰাণিক বংশৰ বুলি দাবী কৰিছিল?",
+    "options": ["Lunar Dynasty", "Pal Dynasty", "Bhauma (Naraka) Dynasty", "Narayana Dynasty"],
+    "answer": 2
+  }
+]
