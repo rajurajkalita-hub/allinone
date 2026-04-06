@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Which region was officially ceded to the British by the Treaty of Yandabo? / ইয়াণ্ডাবু সন্ধিৰ জৰিয়তে কোনটো অঞ্চল আনুষ্ঠানিকভাৱে ব্ৰিটিছক এৰি দিয়া হৈছিল?",
+    "options": ["Assam", "Manipur", "Arakan", "All of the above"],
+    "answer": 3
+  },
+  {
+    "question": "Who was the first Agent to the Governor-General in the North-East? / উত্তৰ-পূৰ্বাঞ্চলত গৱৰ্ণৰ জেনেৰেলৰ প্ৰথমজন এজেণ্ট কোন আছিল?",
+    "options": ["David Scott", "Francis Jenkins", "Captain Neufville", "T.C. Robertson"],
+    "answer": 0
+  },
+  {
+    "question": "The Burmese had to pay how much indemnity to the British? / মানে ব্ৰিটিছক ক্ষতিপূৰণ হিচাপে কিমান টকা দিব লগা হৈছিল?",
+    "options": ["50 Lakhs", "1 Crore", "2 Crores", "10 Lakhs"],
+    "answer": 1
+  },
+  {
+    "question": "Which Ahom king was briefly restored to Upper Assam as a tributary ruler in 1833? / ১৮৩৩ চনত কোনজন আহোম ৰজাক উজনি অসমত সাময়িকভাৱে কৰতলীয়া ৰজা হিচাপে বহুওৱা হৈছিল?",
+    "options": ["Chandrakanta Singha", "Jogeswar Singha", "Purandar Singha", "Kamaleswar Singha"],
+    "answer": 2
+  },
+  {
+    "question": "In which year did the British formally annex Upper Assam? / ব্ৰিটিছে কিমান চনত আনুষ্ঠানিকভাৱে উজনি অসম দখল কৰিছিল?",
+    "options": ["1826 AD", "1832 AD", "1835 AD", "1838 AD"],
+    "answer": 3
+  },
+  {
+    "question": "Who was the first British Commissioner of Assam? / অসমৰ প্ৰথমজন ব্ৰিটিছ কমিছনাৰ কোন আছিল?",
+    "options": ["David Scott", "Captain Welsh", "Lord Amherst", "Francis Jenkins"],
+    "answer": 0
+  },
+  {
+    "question": "The 'Moamaria' rebels belonged to which religious sect? / 'মোৱামৰীয়া' বিদ্ৰোহীসকল কোনটো ধৰ্মীয় পন্থাৰ আছিল?",
+    "options": ["Saktism", "Mayamara Sattra (Vaishnavism)", "Shaivism", "Buddhism"],
+    "answer": 1
+  },
+  {
+    "question": "The prime cause of the Burmese invasion was? / মানৰ আক্ৰমণৰ মূল কাৰণ কি আছিল?",
+    "options": ["Economic gain", "Expansion policy", "Internal conspiracy by Badan Chandra", "Mughal influence"],
+    "answer": 2
+  },
+  {
+    "question": "After the death of Purnananda Burhagohain, who became the Burhagohain? / পূৰ্ণানন্দ বুঢ়াগোহাঁইৰ মৃত্যুৰ পিছত কোন বুঢ়াগোহাঁই হৈছিল?",
+    "options": ["Atan", "Lachit", "Badan Chandra", "Ruchinath Burhagohain"],
+    "answer": 3
+  },
+  {
+    "question": "Who was the British representative at the signing of the Treaty of Yandabo? / ইয়াণ্ডাবু সন্ধিৰ সময়ত ব্ৰিটিছৰ প্ৰতিনিধি কোন আছিল?",
+    "options": ["Sir Archibald Campbell", "David Scott", "Lord William Bentinck", "Robert Clive"],
+    "answer": 0
+  },
+  {
+    "question": "The Treaty of Yandabo ended which war? / ইয়াণ্ডাবু সন্ধিয়ে কোনখন যুদ্ধৰ সমাপ্তি ঘটাইছিল?",
+    "options": ["Battle of Saraighat", "First Anglo-Burmese War", "Battle of Itakhuli", "Anglo-Ahom War"],
+    "answer": 1
+  },
+  {
+    "question": "Which Ahom king died of smallpox during the Moamaria rebellion? / মোৱামৰীয়া বিদ্ৰোহৰ সময়ত কোনজন আহোম ৰজাৰ বসন্ত ৰোগত মৃত্যু হৈছিল?",
+    "options": ["Lakshmi Singha", "Siba Singha", "Gaurinath Singha", "Kamaleswar Singha"],
+    "answer": 2
+  },
+  {
+    "question": "Purandar Singha was removed from the throne by the British because of? / ব্ৰিটিছে পুৰন্দৰ সিংহক কিহৰ বাবে সিংহাসনৰ পৰা আঁতৰাইছিল?",
+    "options": ["Rebellion", "Maladministration", "Sickness", "Failure to pay tribute"],
+    "answer": 3
+  },
+  {
+    "question": "The Burmese general who is still remembered for his cruelty in Assam was? / অসমত তেওঁৰ নিষ্ঠুৰতাৰ বাবে এতিয়াও কুখ্যাত মান সেনাপতিজন কোন আছিল?",
+    "options": ["Mingimaha Bandula", "Bodawpaya", "Magi Mingi", "Mingimaha Tilwa"],
+    "answer": 0
+  },
+  {
+    "question": "Which administrative system ended with the British occupation of Assam? / অসমত ব্ৰিটিছৰ দখলৰ লগে লগে কোনটো প্ৰশাসনিক ব্যৱস্থাৰ অন্ত পৰিল?",
+    "options": ["Zamindari", "Paik System", "Mansabdari", "Ryotwari"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the Ahom king who requested the Burmese for the third time in 1821? / ১৮২১ চনত তৃতীয়বাৰৰ বাবে মানক অনুৰোধ কৰা আহোম ৰজাজন কোন আছিল?",
+    "options": ["Purandar Singha", "Kamaleswar Singha", "Chandrakanta Singha", "Jogeswar Singha"],
+    "answer": 2
+  },
+  {
+    "question": "The 'Grouping' of peasant forces during Moamaria rebellion was called? / মোৱামৰীয়া বিদ্ৰোহৰ সময়ত কৃষক শক্তিসমূহৰ গোটক কি বুলি কোৱা হৈছিল?",
+    "options": ["Sena", "Dal", "Mel", "Raij-Mel"],
+    "answer": 3
+  },
+  {
+    "question": "How much was the annual tribute fixed for Purandar Singha in 1833? / ১৮৩৩ চনত পুৰন্দৰ সিংহৰ বাবে বাৰ্ষিক কৰ কিমান ধাৰ্য কৰা হৈছিল?",
+    "options": ["50,000 Rupees", "1 Lakh Rupees", "25,000 Rupees", "5,000 Rupees"],
+    "answer": 0
+  },
+  {
+    "question": "In which village was the Treaty of Yandabo signed? / ইয়াণ্ডাবু সন্ধি কোনখন গাঁৱত স্বাক্ষৰিত হৈছিল?",
+    "options": ["Rangoon", "Yandabo", "Mandalay", "Sadiya"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the Ahom princess offered to the Burmese king by Badan Chandra? / বদন চন্দ্ৰই মান ৰজাক উপহাৰ দিয়া আহোম ৰাজকুমাৰীগৰাকী কোন আছিল?",
+    "options": ["Joymati", "Mula Gabharu", "Hemo Aideo", "Kuranganayani"],
+    "answer": 2
+  }
+]
