@@ -1,0 +1,102 @@
+[
+  {
+    "question": "The Phulaguri Dhawa, the first peasant uprising in Assam, occurred in which year? / অসমৰ প্ৰথম কৃষক বিদ্ৰোহ 'ফুলগুৰি ধাৱা' কোন চনত হৈছিল?",
+    "options": ["1861 AD", "1893 AD", "1857 AD", "1894 AD"],
+    "answer": 0
+  },
+  {
+    "question": "Which British officer was killed during the Phulaguri Dhawa? / ফুলগুৰি ধাৱাৰ সময়ত কোনজন ব্ৰিটিছ বিষয়া নিহত হৈছিল?",
+    "options": ["Captain Holroyd", "Lieutenant Singer", "David Scott", "Major White"],
+    "answer": 1
+  },
+  {
+    "question": "The Phulaguri Dhawa was caused by a ban on the cultivation of? / ফুলগুৰি ধাৱা কিহৰ খেতিৰ ওপৰত নিষেধাজ্ঞা আৰোপ কৰাৰ বাবে হৈছিল?",
+    "options": ["Indigo", "Tea", "Opium (Poppy)", "Tobacco"],
+    "answer": 2
+  },
+  {
+    "question": "The 'Patharughat' peasant uprising took place in which district? / 'পথৰুঘাট'ৰ কৃষক বিদ্ৰোহ কোনখন জিলাত হৈছিল?",
+    "options": ["Nagaon", "Kamrup", "Lakhimpur", "Darrang"],
+    "answer": 3
+  },
+  {
+    "question": "In which year did the Patharughat uprising occur? / পথৰুঘাটৰ বিদ্ৰোহ কোন চনত হৈছিল?",
+    "options": ["1894 AD", "1861 AD", "1893 AD", "1905 AD"],
+    "answer": 0
+  },
+  {
+    "question": "The Patharughat massacre is also known as? / পথৰুঘাটৰ হত্যাকাণ্ডক আন কি বুলি জনা যায়?",
+    "options": ["The Sepoy Mutiny of Assam", "Assam's Jallianwala Bagh", "The Great Revolt", "The Peasant War"],
+    "answer": 1
+  },
+  {
+    "question": "The peasant uprising at 'Rangiya' took place in? / ৰঙিয়াত কৃষক বিদ্ৰোহ কেতিয়া হৈছিল?",
+    "options": ["1861 AD", "1894 AD", "1893 AD", "1905 AD"],
+    "answer": 2
+  },
+  {
+    "question": "What was the main reason for the agrarian revolts in Assam in the late 19th century? / ১৯ শতিকাৰ শেষৰ ফালে অসমত হোৱা কৃষক বিদ্ৰোহসমূহৰ মূল কাৰণ কি আছিল?",
+    "options": ["Religious freedom", "Language dispute", "Education policy", "High rate of Land Revenue/Tax"],
+    "answer": 3
+  },
+  {
+    "question": "The first session of the 'Assam Association' was held at? / 'অসম এছ’চিয়েচন'ৰ প্ৰথমখন অধিবেশন ক’ত অনুষ্ঠিত হৈছিল?",
+    "options": ["Dibrugarh", "Jorhat", "Guwahati", "Sivasagar"],
+    "answer": 0
+  },
+  {
+    "question": "Who was the prominent leader of the Rangiya revolt in 1893? / ১৮৯৩ চনৰ ৰঙিয়া বিদ্ৰোহৰ এজন বিশিষ্ট নেতা কোন আছিল?",
+    "options": ["Gomdhar Konwar", "Kartik Chandra Baruah", "Piyoli Phukan", "Maniram Dewan"],
+    "answer": 1
+  },
+  {
+    "question": "The 'Tezpur Ryot Sabha' was established in which year? / 'তেজপুৰ ৰায়ত সভা' কোন চনত প্ৰতিষ্ঠা কৰা হৈছিল?",
+    "options": ["1880 AD", "1890 AD", "1884 AD", "1903 AD"],
+    "answer": 2
+  },
+  {
+    "question": "The Partition of Bengal, which affected Assam's status, occurred in? / অসমৰ মৰ্যাদাক প্ৰভাৱিত কৰা বংগ বিভাজন কেতিয়া হৈছিল?",
+    "options": ["1901 AD", "1903 AD", "1894 AD", "1905 AD"],
+    "answer": 3
+  },
+  {
+    "question": "Who was the Viceroy of India during the Partition of Bengal in 1905? / ১৯০৫ চনৰ বংগ বিভাজনৰ সময়ত ভাৰতৰ ভাইচৰয় কোন আছিল?",
+    "options": ["Lord Curzon", "Lord Amherst", "Lord Dalhousie", "Lord Ripon"],
+    "answer": 0
+  },
+  {
+    "question": "Following the 1905 partition, Assam was tagged with which province? / ১৯০৫ চনৰ বিভাজনৰ পিছত অসমক কোনখন প্ৰদেশৰ সৈতে সংযোগ কৰা হৈছিল?",
+    "options": ["Bihar", "East Bengal", "Odisha", "Burma"],
+    "answer": 1
+  },
+  {
+    "question": "The capital of the newly formed province 'Eastern Bengal and Assam' was? / নতুনকৈ গঠিত প্ৰদেশ 'পূব বংগ আৰু অসম'ৰ ৰাজধানী কি আছিল?",
+    "options": ["Shillong", "Guwahati", "Dacca (Dhaka)", "Calcutta"],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first Lieutenant Governor of 'Eastern Bengal and Assam'? / 'পূব বংগ আৰু অসম'ৰ প্ৰথমজন লেফটেনেণ্ট গৱৰ্ণৰ কোন আছিল?",
+    "options": ["David Scott", "Francis Jenkins", "Bampfylde Fuller", "Bamfylde Scott"],
+    "answer": 2
+  },
+  {
+    "question": "The 'Assam Association' sent its first memorandum to the British against? / 'অসম এছ’চিয়েচন'এ কাৰ বিৰুদ্ধে ব্ৰিটিছক প্ৰথম স্মাৰকপত্ৰ দিছিল?",
+    "options": ["Language policy", "Taxation", "The Partition of Bengal", "Opening of Tea Gardens"],
+    "answer": 2
+  },
+  {
+    "question": "In which year did Assam become a Chief Commissioner's province for the first time? / অসম কেতিয়া প্ৰথমবাৰৰ বাবে মুখ্য আয়ুক্তৰ প্ৰদেশ হৈছিল?",
+    "options": ["1826 AD", "1857 AD", "1905 AD", "1874 AD"],
+    "answer": 3
+  },
+  {
+    "question": "The first session of 'Asamiya Bhasha Unnati Sadhini Sabha' was held at? / 'অসমীয়া ভাষা উন্নতি সাধিনী সভা'ৰ প্ৰথমখন বৈঠক ক’ত অনুষ্ঠিত হৈছিল?",
+    "options": ["Calcutta (67, Mirzapur Street)", "Guwahati", "Sivasagar", "London"],
+    "answer": 0
+  },
+  {
+    "question": "Who was the primary force behind the 'Asamiya Bhasha Unnati Sadhini Sabha'? / 'অসমীয়া ভাষা উন্নতি সাধিনী সভা'ৰ আঁৰৰ মূল ব্যক্তি কোন আছিল?",
+    "options": ["Lakshminath Bezbaroa", "Hemchandra Goswami", "Anandaram Dhekial Phukan", "All of the above (The Calcutta students)"],
+    "answer": 3
+  }
+]
