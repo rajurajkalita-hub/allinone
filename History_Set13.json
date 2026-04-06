@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Who was the first person to lead a formal rebellion against British rule in Assam in 1828? / ১৮২৮ চনত অসমত ব্ৰিটিছ শাসনৰ বিৰুদ্ধে আনুষ্ঠানিকভাৱে বিদ্ৰোহৰ নেতৃত্ব দিয়া প্ৰথমজন ব্যক্তি কোন আছিল?",
+    "options": ["Gomdhar Konwar", "Piyoli Phukan", "Maniram Dewan", "Peali Barua"],
+    "answer": 0
+  },
+  {
+    "question": "Who was the accomplice of Gomdhar Konwar who was hanged by the British? / গোমধৰ কোঁৱৰৰ সহযোগী কোন আছিল যাক ব্ৰিটিছে ফাঁচী দিছিল?",
+    "options": ["Jeuram Duliya Baruah", "Piyoli Phukan", "Dutiram Baruah", "Jiuram Medhi"],
+    "answer": 1
+  },
+  {
+    "question": "In which year did the Khasi rebellion led by U Tirot Sing start? / ইউ তিৰোত সিঙৰ নেতৃত্বত খাচী বিদ্ৰোহ কিমান চনত আৰম্ভ হৈছিল?",
+    "options": ["1826 AD", "1830 AD", "1829 AD", "1833 AD"],
+    "answer": 2
+  },
+  {
+    "question": "Who was the Singpho chief who led a rebellion against the British in 1830? / ১৮৩০ চনত ব্ৰিটিছৰ বিৰুদ্ধে বিদ্ৰোহ কৰা চিংফৌ নেতাগৰাকী কোন আছিল?",
+    "options": ["Tirot Sing", "Gomdhar Konwar", "Nirang Phidu", "Beesa Gaum"],
+    "answer": 3
+  },
+  {
+    "question": "The historical 'Treaty of Yandabo' took place in which year? / ঐতিহাসিক 'ইয়াণ্ডাবু সন্ধি' কোন চনত হৈছিল?",
+    "options": ["1826 AD", "1828 AD", "1830 AD", "1857 AD"],
+    "answer": 0
+  },
+  {
+    "question": "Who discovered tea in Assam in 1823? / ১৮২৩ চনত অসমত কোনে চাহ আৱিষ্কাৰ কৰিছিল?",
+    "options": ["David Scott", "Robert Bruce", "Captain Jenkins", "Maniram Dewan"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first tea planter of Assam? / অসমৰ প্ৰথমজন চাহ খেতিয়ক কোন আছিল?",
+    "options": ["Robert Bruce", "Charles Bruce", "Maniram Dewan", "Jannath Baruah"],
+    "answer": 2
+  },
+  {
+    "question": "The first tea company established in Assam in 1839 was? / ১৮৩৯ চনত অসমত প্ৰতিষ্ঠা হোৱা প্ৰথমখন চাহ কোম্পানী কি আছিল?",
+    "options": ["Jorehaut Tea Co.", "Andrew Yule", "Tata Tea", "Assam Tea Company"],
+    "answer": 3
+  },
+  {
+    "question": "In which year was Assamese language replaced by Bengali in Assam courts? / অসমৰ আদালতত অসমীয়া ভাষাৰ সলনি বঙালী ভাষা কেতিয়া প্ৰচলন কৰা হৈছিল?",
+    "options": ["1836 AD", "1873 AD", "1857 AD", "1826 AD"],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first British Commissioner of Assam? / অসমৰ প্ৰথমজন ব্ৰিটিছ কমিছনাৰ কোন আছিল?",
+    "options": ["Francis Jenkins", "David Scott", "Captain Neufville", "T.C. Robertson"],
+    "answer": 1
+  },
+  {
+    "question": "The 'Annexation of Cachar' by the British took place in which year? / ব্ৰিটিছে কিমান চনত কাছাৰ দখল কৰিছিল?",
+    "options": ["1830 AD", "1826 AD", "1832 AD", "1854 AD"],
+    "answer": 2
+  },
+  {
+    "question": "Which Ahom prince led a rebellion in 1830 along with Piyoli Phukan? / ১৮৩০ চনত পিয়লি ফুকনৰ সৈতে কোনজন আহোম কোঁৱৰে বিদ্ৰোহৰ নেতৃত্ব দিছিল?",
+    "options": ["Gomdhar Konwar", "Purandar Singha", "Chandrakanta Singha", "Gadadhar Konwar"],
+    "answer": 3
+  },
+  {
+    "question": "Who was the British officer who was killed during the Khasi rebellion? / খাচী বিদ্ৰোহৰ সময়ত নিহত হোৱা ব্ৰিটিছ বিষয়াজন কোন আছিল?",
+    "options": ["Lieutenant Bedingfield", "David Scott", "Captain Welsh", "Lord Amherst"],
+    "answer": 0
+  },
+  {
+    "question": "The Matak kingdom was finally annexed by the British in? / ব্ৰিটিছে মতক ৰাজ্য কেতিয়া সম্পূৰ্ণৰূপে দখল কৰিছিল?",
+    "options": ["1838 AD", "1842 AD", "1826 AD", "1857 AD"],
+    "answer": 1
+  },
+  {
+    "question": "In 1833, which Ahom king was restored to the throne of Upper Assam? / ১৮৩৩ চনত উজনি অসমৰ সিংহাসনত কোনজন আহোম ৰজাক বহুওৱা হৈছিল?",
+    "options": ["Chandrakanta Singha", "Jogeswar Singha", "Purandar Singha", "Kamaleswar Singha"],
+    "answer": 2
+  },
+  {
+    "question": "Purandar Singha was finally deposed by the British in which year? / ব্ৰিটিছে পুৰন্দৰ সিংহক কেতিয়া সিংহাসনৰ পৰা আঁতৰাইছিল?",
+    "options": ["1833 AD", "1826 AD", "1836 AD", "1838 AD"],
+    "answer": 3
+  },
+  {
+    "question": "Who was the Khamti leader who led the Sadiya uprising in 1839? / ১৮৩৯ চনত শদিয়া বিদ্ৰোহৰ নেতৃত্ব দিয়া খামটি নেতাগৰাকী কোন আছিল?",
+    "options": ["Ranua Gohain", "Beesa Gaum", "Tirot Sing", "Nirang Phidu"],
+    "answer": 0
+  },
+  {
+    "question": "The post of 'Agent to the Governor General' was first held by? / 'এজেণ্ট টু দ্য গৱৰ্ণৰ জেনেৰেল' পদটো প্ৰথমে কোনে অলংকৃত কৰিছিল?",
+    "options": ["Francis Jenkins", "David Scott", "Captain Butler", "Major White"],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following was a major cause of discontent among Assamese nobility? / অসমীয়া অভিজাত শ্ৰেণীৰ মাজত অসন্তুষ্টিৰ অন্যতম কাৰণ কি আছিল?",
+    "options": ["Promotion of Tea", "New Land Revenue System", "Abolition of Slavery/Paik System", "All of the above"],
+    "answer": 2
+  },
+  {
+    "question": "The British administrative headquarters was shifted from Cherrapunji to Shillong in? / ব্ৰিটিছ প্ৰশাসনিক সদৰ কেতিয়া চেৰাপুঞ্জীৰ পৰা শ্বিলঙলৈ স্থানান্তৰ কৰা হৈছিল?",
+    "options": ["1864 AD", "1833 AD", "1857 AD", "1874 AD"],
+    "answer": 3
+  }
+]
