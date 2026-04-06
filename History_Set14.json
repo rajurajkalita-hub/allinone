@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Who was the main architect of the 1857 Revolt in Assam? / অসমত ১৮৫৭ চনৰ বিদ্ৰোহৰ মূল স্থপতি কোন আছিল?",
+    "options": ["Maniram Dewan", "Piyoli Phukan", "Gomdhar Konwar", "Kandarpeswar Singha"],
+    "answer": 0
+  },
+  {
+    "question": "Who was the Ahom prince whom Maniram Dewan wanted to reinstate? / মণিৰাম দেৱানে কোনজন আহোম কোঁৱৰক পুনৰ সিংহাসনত বহুৱাব বিচাৰিছিল?",
+    "options": ["Purandar Singha", "Kandarpeswar Singha", "Chandrakanta Singha", "Jogeswar Singha"],
+    "answer": 1
+  },
+  {
+    "question": "Along with Maniram Dewan, who else was hanged in February 1858? / ১৮৫৮ চনৰ ফেব্ৰুৱাৰীত মণিৰাম দেৱানৰ সৈতে কাৰ ফাঁচী হৈছিল?",
+    "options": ["Dutiram Baruah", "Madhu Mallik", "Peali Barua", "Farmud Ali"],
+    "answer": 2
+  },
+  {
+    "question": "Maniram Dewan was executed at which place? / মণিৰাম দেৱানক কোনখন ঠাইত ফাঁচী দিয়া হৈছিল?",
+    "options": ["Guwahati", "Tezpur", "Dibrugarh", "Jorhat"],
+    "answer": 3
+  },
+  {
+    "question": "Where was Maniram Dewan when the 1857 revolt broke out in Northern India? / উত্তৰ ভাৰতত ১৮৫৭ চনৰ বিদ্ৰোহ আৰম্ভ হওঁতে মণিৰাম দেৱান ক’ত আছিল?",
+    "options": ["Calcutta", "Jorhat", "London", "Lucknow"],
+    "answer": 0
+  },
+  {
+    "question": "Who was the Bengali friend and accomplice of Maniram Dewan in the revolt? / বিদ্ৰোহত মণিৰাম দেৱানৰ বঙালী বন্ধু আৰু সহযোগী কোন আছিল?",
+    "options": ["Dutiram Baruah", "Madhu Mallik", "Farmud Ali", "Bahadur Gaonburha"],
+    "answer": 1
+  },
+  {
+    "question": "Which British officer arrested Kandarpeswar Singha and Maniram Dewan? / কোনজন ব্ৰিটিছ বিষয়াই কন্দৰ্পেশ্বৰ সিংহ আৰু মণিৰাম দেৱানক গ্ৰেপ্তাৰ কৰিছিল?",
+    "options": ["David Scott", "Captain Jenkins", "Captain Holroyd", "Major Hannay"],
+    "answer": 2
+  },
+  {
+    "question": "Kandarpeswar Singha was sent to which jail after his arrest? / গ্ৰেপ্তাৰৰ পিছত কন্দৰ্পেশ্বৰ সিংহক কোনখন জেললৈ পঠোৱা হৈছিল?",
+    "options": ["Andaman", "Jorhat", "Tezpur", "Alipur (Calcutta)"],
+    "answer": 3
+  },
+  {
+    "question": "Who were the leaders of the 1857 revolt in the Brahmaputra Valley? / ব্ৰহ্মপুত্ৰ উপত্যকাত ১৮৫৭ চনৰ বিদ্ৰোহৰ নেতা কোন আছিল?",
+    "options": ["Maniram and Peali", "Gomdhar and Piyoli", "Maniram and Tirot Sing", "Peali and Tirot Sing"],
+    "answer": 0
+  },
+  {
+    "question": "Who were the two leaders from Jorhat sent to the Andamans for participating in the revolt? / বিদ্ৰোহত অংশ লোৱাৰ বাবে যোৰহাটৰ কোন দুজন নেতাক আন্দামানলৈ পঠোৱা হৈছিল?",
+    "options": ["Maniram and Peali", "Bahadur Gaonburha and Farmud Ali", "Dutiram and Madhu Mallik", "Mayaram and Jeuram"],
+    "answer": 1
+  },
+  {
+    "question": "In which month and year were Maniram Dewan and Peali Barua hanged? / কোনটো মাহ আৰু বছৰত মণিৰাম দেৱান আৰু পিয়লি বৰুৱাক ফাঁচী দিয়া হৈছিল?",
+    "options": ["January 1858", "June 1857", "February 1858", "August 1858"],
+    "answer": 2
+  },
+  {
+    "question": "Who was the local judge who sentenced Maniram Dewan to death? / মণিৰাম দেৱানক মৃত্যুৰ দণ্ড বিহা স্থানীয় বিচাৰকজন কোন আছিল?",
+    "options": ["David Scott", "Captain Jenkins", "Major Hannay", "Captain Holroyd"],
+    "answer": 3
+  },
+  {
+    "question": "Maniram Dewan initially served as a Dewan (manager) for which tea company? / মণিৰাম দেৱানে প্ৰথমতে কোনখন চাহ কোম্পানীৰ দেৱান হিচাপে কাম কৰিছিল?",
+    "options": ["Assam Tea Company", "Jorehaut Tea Co.", "Andrew Yule", "Tocklai Tea Co."],
+    "answer": 0
+  },
+  {
+    "question": "What was the main demand of the rebels in Assam in 1857? / ১৮৫৭ চনত অসমৰ বিদ্ৰোহীসকলৰ মূল দাবী কি আছিল?",
+    "options": ["Abolition of Tax", "Restoration of Ahom Rule", "Removal of David Scott", "Opening of Schools"],
+    "answer": 1
+  },
+  {
+    "question": "The revolt of 1857 in Assam failed primarily due to? / অসমত ১৮৫৭ চনৰ বিদ্ৰোহ বিফল হোৱাৰ মূল কাৰণ কি আছিল?",
+    "options": ["Lack of weapons", "Poor leadership", "Interception of letters by British", "Lack of public support"],
+    "answer": 2
+  },
+  {
+    "question": "The 1st Assam Light Infantry was stationed at which place during the revolt? / বিদ্ৰোহৰ সময়ত ফাৰ্ষ্ট অসম লাইট ইনফেন্ট্ৰী ক’ত আছিল?",
+    "options": ["Guwahati", "Jorhat", "Tezpur", "Dibrugarh"],
+    "answer": 3
+  },
+  {
+    "question": "Maniram Dewan's tea gardens were located at? / মণিৰাম দেৱানৰ চাহ বাগিচাসমূহ ক’ত আছিল?",
+    "options": ["Cinnamara and Senglung", "Cinnamara and Sonari", "Dibrugarh and Moran", "Jorhat and Titabor"],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first Assamese to produce tea commercially? / ব্যৱসায়িকভাৱে চাহ উৎপাদন কৰা প্ৰথমজন অসমীয়া কোন আছিল?",
+    "options": ["Jannath Baruah", "Maniram Dewan", "Anandaram Dhekial Phukan", "Dutiram Baruah"],
+    "answer": 1
+  },
+  {
+    "question": "The 'Hazarika' title of Peali Barua's family indicated they were in charge of? / পিয়লি বৰুৱাৰ পৰিয়ালৰ 'হাজৰিকা' উপাধিটোৱে কি সূচাইছিল?",
+    "options": ["100 Paiks", "500 Paiks", "1000 Paiks", "5000 Paiks"],
+    "answer": 2
+  },
+  {
+    "question": "Following the 1857 revolt, the administration of India passed from Company to? / ১৮৫৭ চনৰ বিদ্ৰোহৰ পিছত ভাৰতৰ শাসনভাৰ কোম্পানীৰ পৰা কাৰ হাতলৈ গ’ল?",
+    "options": ["Mughals", "Local Kings", "The Parliament", "The British Crown"],
+    "answer": 3
+  }
+]
