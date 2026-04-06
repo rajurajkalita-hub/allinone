@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Which institution served as the nerve center for the spread of Neo-Vaishnavism? / নৱ-বৈষ্ণৱ ধৰ্ম প্ৰসাৰৰ কেন্দ্ৰবিন্দু হিচাপে কোনটো অনুষ্ঠানে কাম কৰিছিল?",
+    "options": ["Temple", "Pathshala", "Sattra", "Math"],
+    "answer": 2
+  },
+  {
+    "question": "The religious head of a Sattra is known as? / সত্ৰৰ ধৰ্মীয় মুৰব্বীজনক কি বুলি জনা যায়?",
+    "options": ["Panda", "Sattradhikar", "Mahanta", "Bhakata"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the founder of the Barpeta Sattra? / বৰপেটা সত্ৰৰ প্ৰতিষ্ঠাপক কোন আছিল?",
+    "options": ["Sankardeva", "Damodardeva", "Madhavdeva", "Harideva"],
+    "answer": 2
+  },
+  {
+    "question": "The Neo-Vaishnavite movement was primarily based on which Sanskrit scripture? / নৱ-বৈষ্ণৱ আন্দোলনটো মূলতঃ কোনখন সংস্কৃত ধৰ্মগ্ৰন্থৰ ওপৰত আধাৰিত আছিল?",
+    "options": ["Bhagavad Gita", "Bhagavata Purana", "Ramayana", "Rig Veda"],
+    "answer": 1
+  },
+  {
+    "question": "The unique dance form developed by Sankardeva is? / শংকৰদেৱে বিকাশ কৰা অনন্য নৃত্য শৈলীটো কি?",
+    "options": ["Bihu", "Sattriya", "Jhumur", "Ojapali"],
+    "answer": 1
+  },
+  {
+    "question": "In which year did Sangeet Natak Akademi recognize Sattriya as a classical dance? / সংগীত নাটক একাডেমীয়ে কেতিয়া সত্ৰীয়া নৃত্যক শাস্ত্ৰীয় নৃত্যৰ মৰ্যাদা দিছিল?",
+    "options": ["1995", "2000", "2005", "1990"],
+    "answer": 1
+  },
+  {
+    "question": "The mask-making tradition of the Sattras is primarily found in? / সত্ৰৰ মুখা নিৰ্মাণৰ পৰম্পৰা মূলতঃ ক’ত পোৱা যায়?",
+    "options": ["Barpeta Sattra", "Samaguri Sattra", "Auniati Sattra", "Dakshinpat Sattra"],
+    "answer": 1
+  },
+  {
+    "question": "What is a female disciple in Vaishnavite tradition called? / বৈষ্ণৱ পৰম্পৰাত এগৰাকী মহিলা শিষ্যক কি বোলা হয়?",
+    "options": ["Bhakata", "Aai", "Sadhika", "Gopini"],
+    "answer": 1
+  },
+  {
+    "question": "The 'Bhakti Ratnavali' was originally written by? / 'ভক্তি ৰত্নাৱলী' মূলতঃ কোনে লিখিছিল?",
+    "options": ["Sankardeva", "Madhavdeva", "Vishnupuri Sanyasi", "Madhav Kandali"],
+    "answer": 2
+  },
+  {
+    "question": "Who translated the 'Bhakti Ratnavali' into Assamese? / 'ভক্তি ৰত্নাৱলী' কোনে অসমীয়ালৈ অনুবাদ কৰিছিল?",
+    "options": ["Madhavdeva", "Sankardeva", "Ananta Kandali", "Ram Saraswati"],
+    "answer": 0
+  },
+  {
+    "question": "The resident monks of a Sattra are called? / সত্ৰত স্থায়ীভাৱে বসবাস কৰা ভক্তসকলক কি কোৱা হয়?",
+    "options": ["Adhikar", "Kewaliya Bhakata", "Sravani", "Gayak"],
+    "answer": 1
+  },
+  {
+    "question": "Which Sattra was established by Madhavdeva in Majuli? / মাজুলীত মাধৱদেৱে কোনটো সত্ৰ প্ৰতিষ্ঠা কৰিছিল?",
+    "options": ["Auniati", "Dhekiakhowa Bornamghar", "Kamalabari Sattra", "Dakshinpat"],
+    "answer": 2
+  },
+  {
+    "question": "The drama performance associated with the Neo-Vaishnavite movement is? / নৱ-বৈষ্ণৱ আন্দোলনৰ সৈতে জড়িত নাটক পৰিবেশনক কি বোলে?",
+    "options": ["Bhaona", "Ankiya Naat", "Chhor", "Dulyari"],
+    "answer": 0
+  },
+  {
+    "question": "What is the term for the introductory music/dance of a Bhaona? / ভাওনাৰ আৰম্ভণিতে পৰিবেশন কৰা সংগীত বা নৃত্যক কি বোলে?",
+    "options": ["Gayan-Bayan", "Sutradhar", "Nandi", "Bhatima"],
+    "answer": 0
+  },
+  {
+    "question": "The 'Gunamala' was written by Sankardeva at the request of which king? / কাৰ অনুৰোধত শংকৰদেৱে 'গুণমালা' ৰচনা কৰিছিল?",
+    "options": ["Chilarai", "Naranarayan", "Biswa Singha", "Udayaditya Singha"],
+    "answer": 1
+  },
+  {
+    "question": "Sankardeva passed away at which place? / শংকৰদেৱৰ মৃত্যু ক’ত হৈছিল?",
+    "options": ["Borduwa", "Patbausi", "Bheladonga (Koch Bihar)", "Barpeta"],
+    "answer": 2
+  },
+  {
+    "question": "The 'Bhakti Movement' in Assam was a part of which larger Indian movement? / অসমৰ 'ভক্তি আন্দোলন' ভাৰতৰ কোনটো ব্যাপক আন্দোলনৰ অংশ আছিল?",
+    "options": ["Bhakti Movement", "Sufi Movement", "Renaissance", "Brahmo Samaj"],
+    "answer": 0
+  },
+  {
+    "question": "Who was the author of 'Nam-Malika'? / 'নাম-মালিকা'ৰ লেখক কোন আছিল?",
+    "options": ["Sankardeva", "Madhavdeva", "Bhavananda", "Gopal Ata"],
+    "answer": 1
+  },
+  {
+    "question": "Which tree is traditionally associated with the writing of Borgeet and scriptures? / ধৰ্মগ্ৰন্থ আৰু বৰগীত লিখাৰ কামত পৰম্পৰাগতভাৱে কোনটো গছৰ ছাল ব্যৱহাৰ কৰা হৈছিল?",
+    "options": ["Sanchi (Agaru)", "Tulsi", "Bot", "Bakul"],
+    "answer": 0
+  },
+  {
+    "question": "The 'Vrindavani Vastra' was woven under the supervision of? / কাৰ তত্ত্বাৱধানত 'বৃন্দাৱনী বস্ত্ৰ' বোৱা হৈছিল?",
+    "options": ["Madhavdeva", "Chilarai", "Sankardeva", "Naranarayan"],
+    "answer": 2
+  }
+]
