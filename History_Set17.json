@@ -1,0 +1,102 @@
+[
+  {
+    "question": "In which year did Mahatma Gandhi first visit Assam to promote the Non-Cooperation Movement? / মহাত্মা গান্ধীয়ে অসহযোগ আন্দোলনৰ প্ৰচাৰৰ বাবে কেতিয়া প্ৰথমবাৰৰ বাবে অসম ভ্ৰমণ কৰিছিল?",
+    "options": ["1921 AD", "1920 AD", "1926 AD", "1930 AD"],
+    "answer": 0
+  },
+  {
+    "question": "The Assam Provincial Congress Committee (APCC) was formed in which year? / অসম প্ৰাদেশিক কংগ্ৰেছ কমিটি (APCC) কোন চনত গঠন কৰা হৈছিল?",
+    "options": ["1903 AD", "1921 AD", "1917 AD", "1926 AD"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first elected President of the Assam Provincial Congress Committee? / অসম প্ৰাদেশিক কংগ্ৰেছ কমিটিৰ প্ৰথম নিৰ্বাচিত সভাপতি কোন আছিল?",
+    "options": ["Gopinath Bordoloi", "Tarun Ram Phukan", "Kuladhar Chaliha", "Bishnuram Medhi"],
+    "answer": 2
+  },
+  {
+    "question": "The 41st session of the Indian National Congress (1926) was held at which place in Assam? / ভাৰতীয় ৰাষ্ট্ৰীয় কংগ্ৰেছৰ ৪১তম অধিবেশন (১৯২৬) অসমৰ ক’ত অনুষ্ঠিত হৈছিল?",
+    "options": ["Guwahati", "Jorhat", "Tezpur", "Pandu"],
+    "answer": 3
+  },
+  {
+    "question": "Who was the President of the Pandu session of INC in 1926? / ১৯২৬ চনৰ পাণ্ডু অধিবেশনৰ সভাপতি কোন আছিল?",
+    "options": ["S. Srinivasa Iyengar", "Motilal Nehru", "Lala Lajpat Rai", "Sarojini Naidu"],
+    "answer": 0
+  },
+  {
+    "question": "Who is popularly known as 'Deshbhakta' in Assam? / অসমত কাক 'দেশভক্ত' বুলি জনা যায়?",
+    "options": ["Nabin Chandra Bordoloi", "Tarun Ram Phukan", "Gopinath Bordoloi", "Maniram Dewan"],
+    "answer": 1
+  },
+  {
+    "question": "The 'Cunningham Circular' (1930) was issued to prevent students from participating in? / ছাত্ৰ-ছাত্ৰীসকলক কিহৰ পৰা বিৰত ৰাখিবলৈ 'কানিংহাম চাৰ্কুলাৰ' (১৯৩০) জাৰি কৰা হৈছিল?",
+    "options": ["Exams", "Tea labor", "Civil Disobedience Movement", "Non-Cooperation Movement"],
+    "answer": 2
+  },
+  {
+    "question": "As a protest against the Cunningham Circular, which student organization was formed? / কানিংহাম চাৰ্কুলাৰৰ প্ৰতিবাদত কোনটো ছাত্ৰ সংগঠন গঠন কৰা হৈছিল?",
+    "options": ["Asom Chatra Sanmilani", "All Assam Students Union", "Student Congress", "Assam Provincial Student Association"],
+    "answer": 3
+  },
+  {
+    "question": "Who led the Civil Disobedience Movement in the Surma Valley? / সুৰমা উপত্যকাত আইন অমান্য আন্দোলনৰ নেতৃত্ব কোনে দিছিল?",
+    "options": ["Arun Kumar Chanda", "Liladhar Baruah", "Gopinath Bordoloi", "Tarun Ram Phukan"],
+    "answer": 0
+  },
+  {
+    "question": "Who is known as 'Karmabir' in Assam? / অসমত কাক 'কৰ্মবীৰ' বুলি কোৱা হয়?",
+    "options": ["Tarun Ram Phukan", "Nabin Chandra Bordoloi", "Hemchandra Baruah", "Kuladhar Chaliha"],
+    "answer": 1
+  },
+  {
+    "question": "Which Assamese leader was a member of the Swarajya Party? / কোনজন অসমীয়া নেতা স্বৰাজ্য দলৰ সদস্য আছিল?",
+    "options": ["Gopinath Bordoloi", "Bishnuram Medhi", "Tarun Ram Phukan", "Maulana Bhashani"],
+    "answer": 2
+  },
+  {
+    "question": "The 'Yuvak Sangha' at Sibsagar was established during which movement? / শিৱসাগৰত 'যুৱক সংঘ' কোনটো আন্দোলনৰ সময়ত প্ৰতিষ্ঠা কৰা হৈছিল?",
+    "options": ["Quit India", "Swadeshi", "Khilafat", "Non-Cooperation"],
+    "answer": 3
+  },
+  {
+    "question": "In 1921, Gandhi visited Assam and stayed at whose residence in Guwahati? / ১৯২১ চনত গান্ধীয়ে অসম ভ্ৰমণ কৰি গুৱাহাটীৰ কাৰ ঘৰত বাহৰ পাতিছিল?",
+    "options": ["Tarun Ram Phukan", "Nabin Chandra Bordoloi", "Gopinath Bordoloi", "Hemchandra Baruah"],
+    "answer": 0
+  },
+  {
+    "question": "Who represented Assam in the Round Table Conference? / ঘূৰণীয়া মেজমেলত অসমক কোনে প্ৰতিনিধিত্ব কৰিছিল?",
+    "options": ["Gopinath Bordoloi", "Chandradhar Baruah", "Tarun Ram Phukan", "Bishnuram Medhi"],
+    "answer": 1
+  },
+  {
+    "question": "The 'Line System' in Assam (1916) was related to? / অসমত 'লাইন চিষ্টেম' (১৯১৬) কিহৰ সৈতে জড়িত আছিল?",
+    "options": ["Railways", "Tea garden boundaries", "Immigrants and Land settlement", "Revenue collection"],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first Premier (Chief Minister) of Assam under the Government of India Act 1935? / ১৯৩৫ চনৰ ভাৰত চৰকাৰ আইনৰ অধীনত অসমৰ প্ৰথমগৰাকী প্ৰধানমন্ত্ৰী (মুখ্যমন্ত্ৰী) কোন আছিল?",
+    "options": ["Gopinath Bordoloi", "Saadulla", "Tarun Ram Phukan", "Sir Syed Muhammad Saadulla"],
+    "answer": 3
+  },
+  {
+    "question": "The 'Bordoloi Ministry' was first formed in which year? / 'বৰদলৈ মন্ত্ৰীসভা' প্ৰথমবাৰৰ বাবে কোন চনত গঠন কৰা হৈছিল?",
+    "options": ["1938 AD", "1937 AD", "1942 AD", "1946 AD"],
+    "answer": 0
+  },
+  {
+    "question": "Who is known as 'Tyagbir' in Assam? / অসমত কাক 'ত্যাগবীৰ' বুলি কোৱা হয়?",
+    "options": ["Kuladhar Chaliha", "Hemchandra Baruah", "Nabin Chandra Bordoloi", "Tarun Ram Phukan"],
+    "answer": 1
+  },
+  {
+    "question": "The first Assamese woman to be imprisoned during the freedom struggle was? / স্বাধীনতা আন্দোলনৰ সময়ত কাৰাগাৰলৈ যোৱা প্ৰথমগৰাকী অসমীয়া মহিলা কোন আছিল?",
+    "options": ["Kanaklata Baruah", "Pushpalata Das", "Guneswari Devi", "Chandraprabha Saikiani"],
+    "answer": 2
+  },
+  {
+    "question": "The 'Assam Mahila Samiti' was formed in 1926 under the leadership of? / ১৯২৬ চনত কাৰ নেতৃত্বত 'অসম মহিলা সমিতি' গঠন কৰা হৈছিল?",
+    "options": ["Pushpalata Das", "Amalprava Das", "Kanaklata Baruah", "Chandraprabha Saikiani"],
+    "answer": 3
+  }
+]
