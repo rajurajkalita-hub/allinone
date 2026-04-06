@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Who is known as the 'Father of Assamese Prose'? / 'অসমীয়া গদ্য সাহিত্যৰ জনক' বুলি কাক জনা যায়?",
+    "options": ["Bhattadeva", "Lakshminath Bezbaroa", "Srimanta Sankardeva", "Hemchandra Barua"],
+    "answer": 0
+  },
+  {
+    "question": "The 'Ambubachi Mela' is celebrated in which temple? / 'অম্বুবাচী মেলা' কোনটো মন্দিৰত উদযাপন কৰা হয়?",
+    "options": ["Umananda Temple", "Kamakhya Temple", "Hayagriva Madhava Temple", "Navagraha Temple"],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is the classical dance of Assam? / তলৰ কোনটো অসমৰ শাস্ত্ৰীয় নৃত্য?",
+    "options": ["Bihu", "Bagurumba", "Sattriya", "Ojapali"],
+    "answer": 2
+  },
+  {
+    "question": "The historical 'Rang Ghar' was built during the reign of which king? / ঐতিহাসিক 'ৰংঘৰ' কাৰ ৰাজত্বকালত নিৰ্মাণ কৰা হৈছিল?",
+    "options": ["Rudra Singha", "Siva Singha", "Gadhar Singha", "Pramatta Singha"],
+    "answer": 3
+  },
+  {
+    "question": "In which year was Sattriya recognized as a classical dance by Sangeet Natak Akademi? / কোন চনত সংগীত নাটক অকাডেমিয়ে সত্ৰীয়া নৃত্যক শাস্ত্ৰীয় নৃত্য হিচাপে স্বীকৃতি দিছিল?",
+    "options": ["2000", "1999", "2005", "1995"],
+    "answer": 0
+  },
+  {
+    "question": "The 'Jonbeel Mela' is famous for which unique tradition? / 'জোনবিল মেলা' কোনটো অনন্য পৰম্পৰাৰ বাবে বিখ্যাত?",
+    "options": ["Buffalo fight", "Barter System", "Boat race", "Mask dance"],
+    "answer": 1
+  },
+  {
+    "question": "Who directed the first Assamese film 'Joymoti'? / প্ৰথম অসমীয়া কথাছবি 'জয়মতী' কোনে পৰিচালনা কৰিছিল?",
+    "options": ["Phani Sarma", "Bishnu Prasad Rabha", "Jyotiprasad Agarwala", "Bhaben Saikia"],
+    "answer": 2
+  },
+  {
+    "question": "The 'Baishagu' festival is celebrated by which community? / 'বৈশাগু' উৎসৱ কোনটো জনগোষ্ঠীয়ে উদযাপন কৰে?",
+    "options": ["Mising", "Karbi", "Rabha", "Bodo"],
+    "answer": 3
+  },
+  {
+    "question": "Which site in Assam is recently included in the UNESCO World Heritage list in cultural category? / সাংস্কৃতিক শ্ৰেণীত শেহতীয়াকৈ ইউনেস্কোৰ বিশ্ব ঐতিহ্য তালিকাত অসমৰ কোনটো স্থান অন্তৰ্ভুক্ত কৰা হৈছে?",
+    "options": ["Charaideo Moidams", "Majuli", "Kaziranga", "Manas"],
+    "answer": 0
+  },
+  {
+    "question": "The 'Ali-Aye-Ligang' is the spring festival of which tribe? / 'আলি-আয়ে-লিগাং' কোনটো জনজাতিৰ বসন্ত উৎসৱ?",
+    "options": ["Dimasa", "Mising", "Tiwa", "Deori"],
+    "answer": 1
+  },
+  {
+    "question": "Which Assamese poet is known as 'Bakulonir Kobi'? / কোনগৰাকী অসমীয়া কবিক 'বকুলনিৰ কবি' বুলি জনা যায়?",
+    "options": ["Nirmalprabha Bordoloi", "Hiren Bhattacharya", "Ananda Chandra Agarwala", "Nilmani Phukan"],
+    "answer": 2
+  },
+  {
+    "question": "The 'Dehing Patkai' festival is primarily celebrated in which month? / 'দেহিং পাটকাই' উৎসৱ মূলত কোনটো মাহত উদযাপন কৰা হয়?",
+    "options": ["April", "October", "December", "January"],
+    "answer": 3
+  },
+  {
+    "question": "Who wrote the play 'Karengar Ligiri'? / 'কাৰেঙৰ লিগিৰী' নাটকখন কোনে লিখিছিল?",
+    "options": ["Jyotiprasad Agarwala", "Lakshminath Bezbaroa", "Padmanath Gohain Baruah", "Bishnu Prasad Rabha"],
+    "answer": 0
+  },
+  {
+    "question": "Which dance form is related to the worship of Snake Goddess Manasa? / কোনটো নৃত্যৰূপ সাপৰ দেৱী মনসাৰ পূজাৰ সৈতে জড়িত?",
+    "options": ["Sattriya", "Deodhani", "Jhumur", "Bagurumba"],
+    "answer": 1
+  },
+  {
+    "question": "The 'Hasti-Vidyarnava' is a famous treatise on which animal? / 'হস্তী-বিদ্যৰ্ণৱ' কোনটো প্ৰাণীৰ ওপৰত লিখা এক বিখ্যাত গ্ৰন্থ?",
+    "options": ["Tiger", "Rhino", "Elephant", "Horse"],
+    "answer": 2
+  },
+  {
+    "question": "Which Ahom king introduced the 'Paik System' in Assam? / কোনজন আহোম ৰজাই অসমত 'পাইক প্ৰথা'ৰ প্ৰচলন কৰিছিল?",
+    "options": ["Sukapha", "Suhungmung", "Pratap Singha", "Momai Tamuli Barbarua (Official)"],
+    "answer": 3
+  },
+  {
+    "question": "Which district is famous for the 'Brass metal' (Pital) industry in Assam? / অসমৰ কোনখন জিলা 'পিতল' শিল্পৰ বাবে বিখ্যাত?",
+    "options": ["Barpeta (Sarthebari)", "Kamrup", "Nalbari", "Darrang"],
+    "answer": 0
+  },
+  {
+    "question": "The 'Bohag Bihu' is also known as? / 'ব'হাগ বিহু'ক আৰু কি নামেৰে জনা যায়?",
+    "options": ["Kati Bihu", "Rongali Bihu", "Magh Bihu", "Bhogali Bihu"],
+    "answer": 1
+  },
+  {
+    "question": "Who is known as the 'Luit Konwar' of Assam? / অসমৰ 'লুইত কোঁৱৰ' বুলি কাক জনা যায়?",
+    "options": ["Jyotiprasad Agarwala", "Bishnu Prasad Rabha", "Rudra Baruah", "Parvati Prasad Baruah"],
+    "answer": 2
+  },
+  {
+    "question": "The 'Me-Dam-Me-Phi' festival is celebrated on which date? / 'মে-ডাম-মে-ফি' উৎসৱ কোনটো তাৰিখে উদযাপন কৰা হয়?",
+    "options": ["1st January", "14th January", "15th August", "31st January"],
+    "answer": 3
+  }
+]
