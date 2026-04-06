@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Who was the primary architect of the Neo-Vaishnavite movement in Assam? / অসমত নৱ-বৈষ্ণৱ আন্দোলনৰ মুখ্য স্থপতি কোন আছিল?",
+    "options": ["Madhavdeva", "Srimanta Sankardeva", "Damodardeva", "Harideva"],
+    "answer": 1
+  },
+  {
+    "question": "In which year was Srimanta Sankardeva born? / মহাপুৰুষ শ্ৰীমন্ত শংকৰদেৱৰ জন্ম কোন চনত হৈছিল?",
+    "options": ["1449 AD", "1497 AD", "1349 AD", "1568 AD"],
+    "answer": 0
+  },
+  {
+    "question": "What was the name of the birthplace of Sankardeva? / শংকৰদেৱৰ জন্মস্থানৰ নাম কি আছিল?",
+    "options": ["Patbausi", "Borduwa (Alipukhuri)", "Koch Bihar", "Madhupur"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the chief disciple of Srimanta Sankardeva? / শ্ৰীমন্ত শংকৰদেৱৰ প্ৰধান শিষ্য কোন আছিল?",
+    "options": ["Bhavananda", "Madhavdeva", "Damodardeva", "Harideva"],
+    "answer": 1
+  },
+  {
+    "question": "The meeting between Sankardeva and Madhavdeva is known as? / শংকৰদেৱ আৰু মাধৱদেৱৰ মিলনক কি বুলি জনা যায়?",
+    "options": ["Milan Tirtha", "Manikanchan Sanjog", "Gurushisya Sanjog", "Dharma Sanjog"],
+    "answer": 1
+  },
+  {
+    "question": "Where did the famous 'Manikanchan Sanjog' take place? / বিখ্যাত 'মণিকঞ্চন সংযোগ' ক’ত হৈছিল?",
+    "options": ["Borduwa", "Belaguri", "Patbausi", "Majuli"],
+    "answer": 1
+  },
+  {
+    "question": "The religious philosophy of Sankardeva is known as? / শংকৰদেৱৰ ধৰ্মীয় দৰ্শনক কি বুলি জনা যায়?",
+    "options": ["Eka Sarana Nama Dharma", "Advaita Vedanta", "Vishishtadvaita", "Suddha Bhakti"],
+    "answer": 0
+  },
+  {
+    "question": "What are the four pillars (Chari-Vastu) of Eka Sarana Nama Dharma? / এক শৰণ নাম ধৰ্মৰ চাৰি বস্তু কি কি?",
+    "options": ["Deva, Nama, Bhakata, Guru", "Satya, Dharma, Shanti, Prema", "Veda, Purana, Gita, Shastra", "Atma, Paramatma, Bhakti, Mukti"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is considered the 'Magnum Opus' (Greatest work) of Sankardeva? / শংকৰদেৱৰ সৰ্বশ্ৰেষ্ঠ কৃতি কাক বুলি ধৰা হয়?",
+    "options": ["Kirtan Ghosa", "Bhakti Ratnavali", "Namghosa", "Gunamala"],
+    "answer": 0
+  },
+  {
+    "question": "The 'Namghosa' was composed by which saint? / 'নামঘোষা' কোনে ৰচনা কৰিছিল?",
+    "options": ["Sankardeva", "Madhav Kandali", "Madhavdeva", "Ananta Kandali"],
+    "answer": 2
+  },
+  {
+    "question": "Sankardeva used which language to write his plays and Borgeets? / শংকৰদেৱে তেওঁৰ নাট আৰু বৰগীতসমূহ লিখিবলৈ কোনটো ভাষা ব্যৱহাৰ কৰিছিল?",
+    "options": ["Assamese", "Sanskrit", "Brajavali", "Pali"],
+    "answer": 2
+  },
+  {
+    "question": "The one-act plays introduced by Sankardeva are called? / শংকৰদেৱে প্ৰৱৰ্তন কৰা একাংক নাটসমূহক কি বুলি কোৱা হয়?",
+    "options": ["Jatra", "Ankiya Naat", "Bhaona", "Ojhapali"],
+    "answer": 1
+  },
+  {
+    "question": "What was the first play written by Sankardeva? / শংকৰদেৱে লিখা প্ৰথম নাটখন কি আছিল?",
+    "options": ["Cihna Yatra", "Kaliya Daman", "Patni Prasada", "Rukmini Haran"],
+    "answer": 0
+  },
+  {
+    "question": "Which Ahom king sent Sankardeva to a long period of exile/conflict? / কোনজন আহোম ৰজাৰ দিনত শংকৰদেৱৰ সৈতে সংৰ্ষ হৈছিল?",
+    "options": ["Suhungmung", "Pratap Singha", "Gadadhar Singha", "Rudra Singha"],
+    "answer": 0
+  },
+  {
+    "question": "Who was the Koch King who patronized Sankardeva during his later years? / শংকৰদেৱক শেষ বয়সত পৃষ্ঠপোষকতা কৰা কোঁচ ৰজা গৰাকী কোন আছিল?",
+    "options": ["Biswa Singha", "Chilarai", "Naranarayan", "Raghu Dev"],
+    "answer": 2
+  },
+  {
+    "question": "The lyrical songs composed by Sankardeva and Madhavdeva are known as? / শংকৰদেৱ আৰু মাধৱদেৱে ৰচনা কৰা ভক্তিমূলক গীতসমূহক কি বুলি কোৱা হয়?",
+    "options": ["Borgeet", "Zikir", "Biyanam", "Lokageet"],
+    "answer": 0
+  },
+  {
+    "question": "How many Borgeets are traditionally believed to have been composed by Sankardeva? / পৰম্পৰাগতভাৱে শংকৰদেৱে কিমানটা বৰগীত ৰচনা কৰিছিল বুলি ধৰা হয়?",
+    "options": ["240", "12", "191", "34"],
+    "answer": 0
+  },
+  {
+    "question": "The first Sattra was established by Sankardeva at? / শংকৰদেৱে প্ৰথমটো সত্ৰ ক’ত প্ৰতিষ্ঠা কৰিছিল?",
+    "options": ["Borduwa", "Barpeta", "Majuli", "Patbausi"],
+    "answer": 0
+  },
+  {
+    "question": "What is the central prayer hall of a Sattra called? / সত্ৰৰ কেন্দ্ৰীয় প্ৰাৰ্থনা গৃহটোক কি বুলি কোৱা হয়?",
+    "options": ["Namghar", "Monikut", "Batshora", "Khatola"],
+    "answer": 0
+  },
+  {
+    "question": "The place where the idols or sacred scriptures are kept in a Namghar is? / নামঘৰৰ যিটো অংশত মূৰ্তি বা পবিত্ৰ ধৰ্মগ্ৰন্থ ৰখা হয়, তাক কি বোলে?",
+    "options": ["Sora", "Monikut", "Namghar", "Rang-ghar"],
+    "answer": 1
+  }
+]
