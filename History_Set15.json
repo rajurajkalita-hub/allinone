@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Which was the first socio-political organization of Assam formed in 1852? / ১৮৫২ চনত গঠিত অসমৰ প্ৰথমটো সামাজিক-ৰাজনৈতিক সংগঠন কোনটো আছিল?",
+    "options": ["Jorhat Sarbajanik Sabha", "Gyan Pradayini Sabha", "Assam Association", "Raichu Sabha"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the founder of the 'Gyan Pradayini Sabha' in Mariani/Jorhat? / যোৰহাটত 'জ্ঞান প্ৰদায়িনী সভা' কোনে প্ৰতিষ্ঠা কৰিছিল?",
+    "options": ["Anandaram Dhekial Phukan", "Maniram Dewan", "Gunabhiram Baruah", "Jagannath Baruah"],
+    "answer": 0
+  },
+  {
+    "question": "The book 'Asamiya Bhashar Byakaran' (1839) was written by? / 'অসমীয়া ভাষাৰ ব্যাকৰণ' (১৮৩৯) কোনে লিখিছিল?",
+    "options": ["Nathan Brown", "William Robinson", "Miles Bronson", "Hemchandra Baruah"],
+    "answer": 1
+  },
+  {
+    "question": "Who is known as the 'Father of Modern Assamese Literature'? / আধুনিক অসমীয়া সাহিত্যৰ পিতৃ বুলি কাক জনা যায়?",
+    "options": ["Hemchandra Baruah", "Gunabhiram Baruah", "Anandaram Dhekial Phukan", "Lakshminath Bezbaroa"],
+    "answer": 2
+  },
+  {
+    "question": "The literary organization 'Asamiya Bhasha Unnati Sadhini Sabha' was formed in which year? / 'অসমীয়া ভাষা উন্নতি সাধিনী সভা' কোন চনত গঠিত হৈছিল?",
+    "options": ["1885 AD", "1903 AD", "1857 AD", "1888 AD"],
+    "answer": 3
+  },
+  {
+    "question": "Who was the first president of the 'Jorhat Sarbajanik Sabha' formed in 1884? / ১৮৮৪ চনত গঠিত 'যোৰহাট সাৰ্বজনিক সভা'ৰ প্ৰথম সভাপতি কোন আছিল?",
+    "options": ["Raja Naranarayan Singh", "Jagannath Baruah", "Maniram Dewan", "Nabin Chandra Bordoloi"],
+    "answer": 0
+  },
+  {
+    "question": "The 'Jorhat Sarbajanik Sabha' was founded by? / 'যোৰহাট সাৰ্বজনিক সভা' কোনে প্ৰতিষ্ঠা কৰিছিল?",
+    "options": ["Gunabhiram Baruah", "Jagannath Baruah", "Anandaram Dhekial Phukan", "Manik Chandra Baruah"],
+    "answer": 1
+  },
+  {
+    "question": "In which year did the Assamese language regain its official status in Assam? / অসমত অসমীয়া ভাষাই কেতিয়া পুনৰ চৰকাৰী মৰ্যাদা লাভ কৰিছিল?",
+    "options": ["1836 AD", "1857 AD", "1873 AD", "1888 AD"],
+    "answer": 2
+  },
+  {
+    "question": "Who published the first Assamese dictionary 'Hemkosh'? / প্ৰথমখন অসমীয়া অভিধান 'হেমকোষ' কোনে প্ৰকাশ কৰিছিল?",
+    "options": ["Miles Bronson", "Nathan Brown", "Gunabhiram Baruah", "Hemchandra Baruah"],
+    "answer": 3
+  },
+  {
+    "question": "The first Assamese magazine 'Orunodoi' was published from? / প্ৰথম অসমীয়া আলোচনী 'অৰুণোদই' ক’ৰ পৰা প্ৰকাশ পাইছিল?",
+    "options": ["Sivasagar", "Jorhat", "Guwahati", "Dibrugarh"],
+    "answer": 0
+  },
+  {
+    "question": "The American Baptist Missionaries started publishing 'Orunodoi' in which year? / আমেৰিকান বেপ্টিষ্ট মিছনেৰীসকলে কিমান চনত 'অৰুণোদই' প্ৰকাশ আৰম্ভ কৰিছিল?",
+    "options": ["1836 AD", "1846 AD", "1850 AD", "1873 AD"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first editor of 'Orunodoi'? / 'অৰুণোদই'ৰ প্ৰথম সম্পাদক কোন আছিল?",
+    "options": ["Miles Bronson", "O.T. Cutter", "Nathan Brown", "William Robinson"],
+    "answer": 2
+  },
+  {
+    "question": "The 'Assam Association' was formally formed in which year? / 'অসম এছ’চিয়েচন' আনুষ্ঠানিকভাৱে কোন চনত গঠিত হৈছিল?",
+    "options": ["1888 AD", "1905 AD", "1867 AD", "1903 AD"],
+    "answer": 3
+  },
+  {
+    "question": "Who was the first president of the 'Assam Association'? / 'অসম এছ’চিয়েচন'ৰ প্ৰথম সভাপতি কোন আছিল?",
+    "options": ["Raja Prabhat Chandra Baruah", "Jagannath Baruah", "Manik Chandra Baruah", "Nabin Chandra Bordoloi"],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first secretary of the 'Assam Association'? / 'অসম এছ’চিয়েচন'ৰ প্ৰথম সম্পাদক কোন আছিল?",
+    "options": ["Jagannath Baruah", "Manik Chandra Baruah", "Gopinath Bordoloi", "Tarun Ram Phukan"],
+    "answer": 1
+  },
+  {
+    "question": "Which organization is considered the precursor to the Assam Provincial Congress Committee? / কোনটো সংগঠনক অসম প্ৰাদেশিক কংগ্ৰেছ কমিটিৰ পূৰ্বসূৰী বুলি ধৰা হয়?",
+    "options": ["Jorhat Sarbajanik Sabha", "A.B.U.S. Sabha", "Assam Association", "Rayat Sabha"],
+    "answer": 2
+  },
+  {
+    "question": "The primary objective of the 'Assam Association' was? / 'অসম এছ’চিয়েচন'ৰ মূল উদ্দেশ্য কি আছিল?",
+    "options": ["Armed rebellion", "Social reform only", "Religious conversion", "To serve as a mouthpiece for the people's grievances to the British"],
+    "answer": 3
+  },
+  {
+    "question": "Who was the first Assamese to attend a session of the Indian National Congress (1886)? / ভাৰতীয় ৰাষ্ট্ৰীয় কংগ্ৰেছৰ অধিবেশনত (১৮৮৬) অংশ লোৱা প্ৰথমজন অসমীয়া কোন আছিল?",
+    "options": ["Debicharan Baruah", "Bholanath Baruah", "Gunabhiram Baruah", "Jagannath Baruah"],
+    "answer": 0
+  },
+  {
+    "question": "The 'Upper Assam Association' was formed in 1867 at which place? / ১৮৬৭ চনত 'আপাৰ আছাম এছ’চিয়েচন' ক’ত গঠিত হৈছিল?",
+    "options": ["Sivasagar", "Dibrugarh", "Jorhat", "Golaghat"],
+    "answer": 1
+  },
+  {
+    "question": "The 'Ryot Sabhas' were formed in Assam to highlight the problems of? / অসমত 'ৰায়ত সভা'সমূহ কাৰ সমস্যা তুলি ধৰিবলৈ গঠিত হৈছিল?",
+    "options": ["Tea planters", "Students", "Peasants (Farmers)", "Government employees"],
+    "answer": 2
+  }
+]
