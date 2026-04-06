@@ -1,102 +1,202 @@
 [
   {
-    "question": "Who is known as the 'Father of Assamese Prose'? / 'অসমীয়া গদ্য সাহিত্যৰ জনক' বুলি কাক জনা যায়?",
-    "options": ["Bhattadeva", "Lakshminath Bezbaroa", "Srimanta Sankardeva", "Hemchandra Barua"],
+    "question": "Which site from Assam was added to the UNESCO World Heritage list in July 2024? / ২০২৪ চনৰ জুলাই মাহত অসমৰ কোনটো স্থানক ইউনেস্কো বিশ্ব ঐতিহ্য তালিকাত অন্তৰ্ভুক্ত কৰা হৈছে?",
+    "options": [
+      "Charaideo Moidams",
+      "Majuli Island",
+      "Kamakhya Temple",
+      "Rang Ghar"
+    ],
     "answer": 0
   },
   {
-    "question": "The 'Ambubachi Mela' is celebrated in which temple? / 'অম্বুবাচী মেলা' কোনটো মন্দিৰত উদযাপন কৰা হয়?",
-    "options": ["Umananda Temple", "Kamakhya Temple", "Hayagriva Madhava Temple", "Navagraha Temple"],
+    "question": "In 2024, which traditional craft of Majuli received the Geographical Indication (GI) tag? / ২০২৪ চনত মাজুলীৰ কোনটো পৰম্পৰাগত শিল্পই ভৌগোলিক সংকেত (GI) টেগ লাভ কৰিছে?",
+    "options": [
+      "Muga Silk",
+      "Majuli Mask Making (Mukha)",
+      "Terracotta work",
+      "Traditional Pottery"
+    ],
     "answer": 1
   },
   {
-    "question": "Which of the following is the classical dance of Assam? / তলৰ কোনটো অসমৰ শাস্ত্ৰীয় নৃত্য?",
-    "options": ["Bihu", "Bagurumba", "Sattriya", "Ojapali"],
+    "question": "The 'Bihu' dance created a Guinness World Record in 2023-24. In which stadium was this event held? / ২০২৩-২৪ চনত বিহু নৃত্যই গিনিজ ৱৰ্ল্ড ৰেকৰ্ড গঢ়িছিল। এই অনুষ্ঠানটো কোনখন ষ্টেডিয়ামত অনুষ্ঠিত হৈছিল?",
+    "options": [
+      "Nehru Stadium",
+      "Jalan Stadium",
+      "Sarusajai Stadium",
+      "Kalinga Stadium"
+    ],
     "answer": 2
   },
   {
-    "question": "The historical 'Rang Ghar' was built during the reign of which king? / ঐতিহাসিক 'ৰংঘৰ' কাৰ ৰাজত্বকালত নিৰ্মাণ কৰা হৈছিল?",
-    "options": ["Rudra Singha", "Siva Singha", "Gadhar Singha", "Pramatta Singha"],
+    "question": "Who was conferred with the 'Assam Baibhav' award 2023-24 for his contribution to Art and Culture? / কলা আৰু সংস্কৃতিৰ ক্ষেত্ৰত আগবঢ়োৱা অৱদানৰ বাবে কাক ২০২৩-২৪ চনৰ 'অসম বৈভৱ' বঁটা প্ৰদান কৰা হৈছে?",
+    "options": [
+      "Ratan Tata",
+      "Tapan Saikia",
+      "Hiren Bhattacharya",
+      "Ranjan Gogoi"
+    ],
     "answer": 3
   },
   {
-    "question": "In which year was Sattriya recognized as a classical dance by Sangeet Natak Akademi? / কোন চনত সংগীত নাটক অকাডেমিয়ে সত্ৰীয়া নৃত্যক শাস্ত্ৰীয় নৃত্য হিচাপে স্বীকৃতি দিছিল?",
-    "options": ["2000", "1999", "2005", "1995"],
+    "question": "The historical 'Moidams' added to UNESCO list are associated with which dynasty? / ইউনেস্কোৰ তালিকাত অন্তৰ্ভুক্ত হোৱা ঐতিহাসিক 'মৈদাম'সমূহ কোনটো ৰাজবংশৰ সৈতে জড়িত?",
+    "options": [
+      "Ahom Dynasty",
+      "Koch Dynasty",
+      "Chutia Dynasty",
+      "Kachari Dynasty"
+    ],
     "answer": 0
   },
   {
-    "question": "The 'Jonbeel Mela' is famous for which unique tradition? / 'জোনবিল মেলা' কোনটো অনন্য পৰম্পৰাৰ বাবে বিখ্যাত?",
-    "options": ["Buffalo fight", "Barter System", "Boat race", "Mask dance"],
+    "question": "Which Assamese manuscript painting from Majuli received the GI tag in 2024? / ২০২৪ চনত মাজুলীৰ কোনখন অসমীয়া সাঁচিপাতৰ চিত্ৰই GI টেগ লাভ কৰিছে?",
+    "options": [
+      "Pata Chitra",
+      "Majuli Manuscript Painting",
+      "Phad Painting",
+      "Madhubani Art"
+    ],
     "answer": 1
   },
   {
-    "question": "Who directed the first Assamese film 'Joymoti'? / প্ৰথম অসমীয়া কথাছবি 'জয়মতী' কোনে পৰিচালনা কৰিছিল?",
-    "options": ["Phani Sarma", "Bishnu Prasad Rabha", "Jyotiprasad Agarwala", "Bhaben Saikia"],
+    "question": "What is the name of the new cultural complex proposed in Delhi to showcase Assam's heritage? / অসমৰ ঐতিহ্য প্ৰদৰ্শনৰ বাবে দিল্লীত নিৰ্মাণ কৰিবলৈ প্ৰস্তাৱ কৰা নতুন সাংস্কৃতিক কমপ্লেক্সটোৰ নাম কি?",
+    "options": [
+      "Assam House",
+      "Shrimanta Sankardeva Kalakshetra",
+      "Assam Bhawan Delhi",
+      "Rang Ghar Delhi"
+    ],
     "answer": 2
   },
   {
-    "question": "The 'Baishagu' festival is celebrated by which community? / 'বৈশাগু' উৎসৱ কোনটো জনগোষ্ঠীয়ে উদযাপন কৰে?",
-    "options": ["Mising", "Karbi", "Rabha", "Bodo"],
+    "question": "In 2024, the Assam government announced a theme park based on whose life in Guwahati? / ২০২৪ চনত অসম চৰকাৰে কাৰ জীৱনৰ আধাৰত গুৱাহাটীত এখন থিম পাৰ্ক নিৰ্মাণৰ কথা ঘোষণা কৰিছে?",
+    "options": [
+      "Jyotiprasad Agarwala",
+      "Bishnu Prasad Rabha",
+      "Bhupen Hazarika",
+      "Lachit Barphukan"
+    ],
     "answer": 3
   },
   {
-    "question": "Which site in Assam is recently included in the UNESCO World Heritage list in cultural category? / সাংস্কৃতিক শ্ৰেণীত শেহতীয়াকৈ ইউনেস্কোৰ বিশ্ব ঐতিহ্য তালিকাত অসমৰ কোনটো স্থান অন্তৰ্ভুক্ত কৰা হৈছে?",
-    "options": ["Charaideo Moidams", "Majuli", "Kaziranga", "Manas"],
+    "question": "Which ethnic group's 'Bihu' is also known as 'Ali-Aye-Ligang'? / কোনটো জনগোষ্ঠীৰ বিহুক 'আলি-আয়ে-লিগাং' বুলিও জনা যায়?",
+    "options": [
+      "Mising",
+      "Bodo",
+      "Rabha",
+      "Karbi"
+    ],
     "answer": 0
   },
   {
-    "question": "The 'Ali-Aye-Ligang' is the spring festival of which tribe? / 'আলি-আয়ে-লিগাং' কোনটো জনজাতিৰ বসন্ত উৎসৱ?",
-    "options": ["Dimasa", "Mising", "Tiwa", "Deori"],
+    "question": "The 'Kherai' dance is a religious folk dance of which community in Assam? / 'খেৰাই' নৃত্য অসমৰ কোনটো সম্প্ৰদায়ৰ ধৰ্মীয় লোকনৃত্য?",
+    "options": [
+      "Mising",
+      "Bodo",
+      "Deori",
+      "Tiwa"
+    ],
     "answer": 1
   },
   {
-    "question": "Which Assamese poet is known as 'Bakulonir Kobi'? / কোনগৰাকী অসমীয়া কবিক 'বকুলনিৰ কবি' বুলি জনা যায়?",
-    "options": ["Nirmalprabha Bordoloi", "Hiren Bhattacharya", "Ananda Chandra Agarwala", "Nilmani Phukan"],
+    "question": "Which district of Assam is famous for 'Sarthebari Bell Metal' industry? / অসমৰ কোনখন জিলা 'সৰ্থেবাৰীৰ কাঁহ' শিল্পৰ বাবে বিখ্যাত?",
+    "options": [
+      "Nalbari",
+      "Kamrup (M)",
+      "Barpeta",
+      "Darrang"
+    ],
     "answer": 2
   },
   {
-    "question": "The 'Dehing Patkai' festival is primarily celebrated in which month? / 'দেহিং পাটকাই' উৎসৱ মূলত কোনটো মাহত উদযাপন কৰা হয়?",
-    "options": ["April", "October", "December", "January"],
+    "question": "Which Assamese film won the National Film Award for Best Feature Film in 2023-24? / কোনখন অসমীয়া চিনেমাৰ ২০২৩-২৪ চনত শ্ৰেষ্ঠ ফিচাৰ ফিল্মৰ ৰাষ্ট্ৰীয় চলচ্চিত্ৰ বঁটা লাভ কৰিছে?",
+    "options": [
+      "Village Rockstars",
+      "Bulbul Can Sing",
+      "Fire on the Edge",
+      "Anur"
+    ],
     "answer": 3
   },
   {
-    "question": "Who wrote the play 'Karengar Ligiri'? / 'কাৰেঙৰ লিগিৰী' নাটকখন কোনে লিখিছিল?",
-    "options": ["Jyotiprasad Agarwala", "Lakshminath Bezbaroa", "Padmanath Gohain Baruah", "Bishnu Prasad Rabha"],
+    "question": "The 'Junbeel Mela' 2024, famous for barter system, was held in which place? / বিনিময় প্ৰথাৰ বাবে বিখ্যাত ২০২৪ চনৰ 'জোনবিল মেলা' ক’ত অনুষ্ঠিত হৈছিল?",
+    "options": [
+      "Jagiroad",
+      "Morigaon Town",
+      "Guwahati",
+      "Tezpur"
+    ],
     "answer": 0
   },
   {
-    "question": "Which dance form is related to the worship of Snake Goddess Manasa? / কোনটো নৃত্যৰূপ সাপৰ দেৱী মনসাৰ পূজাৰ সৈতে জড়িত?",
-    "options": ["Sattriya", "Deodhani", "Jhumur", "Bagurumba"],
+    "question": "Who is the composer of the state anthem of Assam 'O Mur Apunar Desh'? / অসমৰ জাতীয় সংগীত 'অ’ মোৰ আপোণাৰ দেশ'ৰ ৰচক কোন?",
+    "options": [
+      "Jyotiprasad Agarwala",
+      "Lakshminath Bezbaroa",
+      "Bhupen Hazarika",
+      "Ambikagiri Raichoudhury"
+    ],
     "answer": 1
   },
   {
-    "question": "The 'Hasti-Vidyarnava' is a famous treatise on which animal? / 'হস্তী-বিদ্যৰ্ণৱ' কোনটো প্ৰাণীৰ ওপৰত লিখা এক বিখ্যাত গ্ৰন্থ?",
-    "options": ["Tiger", "Rhino", "Elephant", "Horse"],
+    "question": "The 'Ambubachi Mela' 2024 was celebrated in Kamakhya during which month? / ২০২৪ চনৰ 'অম্বুবাচী মেলা' কামাখ্যাত কোন মাহত উদযাপন কৰা হৈছিল?",
+    "options": [
+      "May",
+      "April",
+      "June",
+      "July"
+    ],
     "answer": 2
   },
   {
-    "question": "Which Ahom king introduced the 'Paik System' in Assam? / কোনজন আহোম ৰজাই অসমত 'পাইক প্ৰথা'ৰ প্ৰচলন কৰিছিল?",
-    "options": ["Sukapha", "Suhungmung", "Pratap Singha", "Momai Tamuli Barbarua (Official)"],
+    "question": "Which legendary Assamese artist is known as 'Rupkonwar'? / কোনজন কিংবদন্তি অসমীয়া শিল্পীক 'ৰূপকোঁৱৰ' বুলি জনা যায়?",
+    "options": [
+      "Bishnu Prasad Rabha",
+      "Bhupen Hazarika",
+      "Phani Sarma",
+      "Jyotiprasad Agarwala"
+    ],
     "answer": 3
   },
   {
-    "question": "Which district is famous for the 'Brass metal' (Pital) industry in Assam? / অসমৰ কোনখন জিলা 'পিতল' শিল্পৰ বাবে বিখ্যাত?",
-    "options": ["Barpeta (Sarthebari)", "Kamrup", "Nalbari", "Darrang"],
+    "question": "Which town is known as the 'Manchester of Assam' for its silk weaving? / পাট-মুগা বস্ত্ৰ শিল্পৰ বাবে কোনখন চহৰক 'অসমৰ মানচেষ্টাৰ' বুলি জনা যায়?",
+    "options": [
+      "Sualkuchi",
+      "Palasbari",
+      "Bijoynagar",
+      "Rangia"
+    ],
     "answer": 0
   },
   {
-    "question": "The 'Bohag Bihu' is also known as? / 'ব'হাগ বিহু'ক আৰু কি নামেৰে জনা যায়?",
-    "options": ["Kati Bihu", "Rongali Bihu", "Magh Bihu", "Bhogali Bihu"],
+    "question": "In which place is the 'Sati Joymoti' archaeological park located? / 'সতী জয়মতী' প্ৰত্নতাত্ত্বিক উদ্যান ক’ত অৱস্থিত?",
+    "options": [
+      "Guwahati",
+      "Sivasagar",
+      "Jorhat",
+      "Dibrugarh"
+    ],
     "answer": 1
   },
   {
-    "question": "Who is known as the 'Luit Konwar' of Assam? / অসমৰ 'লুইত কোঁৱৰ' বুলি কাক জনা যায়?",
-    "options": ["Jyotiprasad Agarwala", "Bishnu Prasad Rabha", "Rudra Baruah", "Parvati Prasad Baruah"],
+    "question": "The 'Dehing Patkai' festival is celebrated to promote which aspect? / 'দেহিং পাটকাই' উৎসৱ কিহৰ উৎকৰ্ষ সাধনৰ বাবে উদযাপন কৰা হয়?",
+    "options": [
+      "Tea Culture",
+      "River Tourism",
+      "Wildlife and Rainforest Heritage",
+      "Silk Industry"
+    ],
     "answer": 2
   },
   {
-    "question": "The 'Me-Dam-Me-Phi' festival is celebrated on which date? / 'মে-ডাম-মে-ফি' উৎসৱ কোনটো তাৰিখে উদযাপন কৰা হয়?",
-    "options": ["1st January", "14th January", "15th August", "31st January"],
+    "question": "Who is recognized as the pioneer of the Assamese mobile theatre? / অসমীয়া ভ্ৰাম্যমাণ থিয়েটাৰৰ অগ্ৰদূত হিচাপে কাক গণ্য কৰা হয়?",
+    "options": [
+      "Phani Sarma",
+      "Jyotiprasad Agarwala",
+      "Bishnu Prasad Rabha",
+      "Achyut Lahkar"
+    ],
     "answer": 3
   }
 ]
