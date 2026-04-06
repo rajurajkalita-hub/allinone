@@ -1,12 +1,102 @@
 [
   {
-    "question": "The first Ahom King was?",
-    "options": ["Sukapha", "Suhungmung", "Supimpha", "Sukhrangpha"],
+    "question": "What is the primary objective of the 'Orunodoi 3.0' scheme? / 'অৰুণোদয় ৩.০' আঁচনিৰ মুখ্য লক্ষ্য কি?",
+    "options": ["Direct Benefit Transfer to women for financial security", "Free electricity for all households", "Distribution of free textbooks", "Providing monthly pension to all senior citizens"],
     "answer": 0
   },
   {
-    "question": "In which year did the Burmese first invade Assam?",
-    "options": ["1817", "1819", "1821", "1826"],
+    "question": "Which mission was launched to provide land rights to indigenous people in Assam? / খিলঞ্জীয়া লোকক ভূমিৰ অধিকাৰ প্ৰদান কৰিবলৈ অসমত কোনটো মিছন আৰম্ভ কৰা হৈছে?",
+    "options": ["Mission Samarth", "Mission Basundhara", "Mission Bhumiputra", "Mission Sadbhavana"],
+    "answer": 1
+  },
+  {
+    "question": "The 'Nijut Moina' scheme is specifically designed to support? / 'নিজুত মইনা' আঁচনিখন বিশেষকৈ কাক সহায় কৰিবলৈ তৈয়াৰ কৰা হৈছে?",
+    "options": ["Small scale tea growers", "Youths starting new startups", "Female students for higher education", "Widows in rural areas"],
+    "answer": 2
+  },
+  {
+    "question": "Under 'Atmanirbhar Asom Abhijan', what is the maximum assistance for professional category? / 'আত্মনিৰ্ভৰ অসম অভিযান'ৰ অধীনত পেছাদাৰী শাখাৰ বাবে সৰ্বাধিক কিমান সাহায্য আগবঢ়োৱা হয়?",
+    "options": ["₹1 Lakh", "₹50,000", "₹10 Lakh", "₹5 Lakh"],
+    "answer": 3
+  },
+  {
+    "question": "In which town is the mega Semiconductor plant by Tata Group being established? / টাটা গোটৰ দ্বাৰা বৃহৎ ছেমিকণ্ডাক্টৰ প্লাণ্টখন কোনখন ঠাইত স্থাপন কৰা হৈছে?",
+    "options": ["Jagiroad", "Numaligarh", "Nazira", "Bongaigaon"],
     "answer": 0
+  },
+  {
+    "question": "What is the goal of the 'Amrit Brikshya Andolan 2025'? / 'অমৃত বৃক্ষ আন্দোলন ২০২৫'ৰ লক্ষ্য কি?",
+    "options": ["Cleaning of urban drainage", "Planting 3 crore saplings", "Protection of rhinos", "Building of village community halls"],
+    "answer": 1
+  },
+  {
+    "question": "The 'Mukhya Mantri Lok Sevak Arogya Yojana' provides medical benefits to? / 'মুখ্যমন্ত্ৰী লোক সেৱক আৰোগ্য যোজনা'ই কাক চিকিৎসা সাহায্য দিয়ে?",
+    "options": ["Handloom weavers", "Tea garden laborers", "State Govt employees and pensioners", "BPL card holders only"],
+    "answer": 2
+  },
+  {
+    "question": "Which portal is used for various G2C (Government to Citizen) services in Assam? / অসমত বিভিন্ন নাগৰিক সেৱাৰ বাবে কোনটো পৰ্টেল ব্যৱহাৰ কৰা হয়?",
+    "options": ["Assam Darpan", "Kritagyata", "E-Khazana", "Sewa Setu"],
+    "answer": 3
+  },
+  {
+    "question": "The 'Svanirbhar Naari' scheme empowers indigenous weavers by? / 'স্বনিৰ্ভৰ নাৰী' আঁচনিয়ে থলুৱা শিপিনীসকলক কেনেকৈ সৱল কৰে?",
+    "options": ["Direct purchase of handloom items from weavers", "Providing free powerlooms", "Giving interest-free business loans", "Organizing international fashion shows"],
+    "answer": 0
+  },
+  {
+    "question": "Which site from Assam was added to the UNESCO World Heritage list in 2024-25? / ২০২৪-২৫ চনত অসমৰ কোনটো স্থানক ইউনেস্কো বিশ্ব ঐতিহ্য তালিকাত অন্তৰ্ভুক্ত কৰা হৈছে?",
+    "options": ["Kamakhya Temple", "Charaideo Moidams", "Rang Ghar", "Majuli Island"],
+    "answer": 1
+  },
+  {
+    "question": "Which scheme provides financial assistance for the marriage of girls from BPL families? / BPL পৰিয়ালৰ ছোৱালীৰ বিবাহৰ বাবে কোনখন আঁচনিয়ে আৰ্থিক সাহায্য প্ৰদান কৰে?",
+    "options": ["Pragyan Bharti", "Abhinandan Scheme", "Arundhati Gold Scheme", "Nijut Moina"],
+    "answer": 2
+  },
+  {
+    "question": "The 'Vikas Yatra' initiative focuses on? / 'বিকাশ যাত্ৰা'ৰ মূল লক্ষ্য কি?",
+    "options": ["Promoting spiritual tourism", "Conducting a livestock census", "Digital literacy in schools", "Inauguration and foundation laying of projects"],
+    "answer": 3
+  },
+  {
+    "question": "Which district was recently proposed for a 'Police Commissionerate' after Guwahati? / গুৱাহাটীৰ পিছত শেহতীয়াকৈ ক'ত 'আৰক্ষী আযুক্তালয়'ৰ প্ৰস্তাৱ কৰা হৈছে?",
+    "options": ["Silchar", "Jorhat", "Dibrugarh", "Tezpur"],
+    "answer": 0
+  },
+  {
+    "question": "The 'Mission Sadbhavana' was launched for the purpose of? / 'মিছন সদভাৱনা' কিহৰ উদ্দেশ্যে আৰম্ভ কৰা হৈছিল?",
+    "options": ["Religious harmony workshops", "Disposal of old pending files at Secretariat", "Border conflict resolution", "Youth cultural exchange"],
+    "answer": 1
+  },
+  {
+    "question": "Which Majuli product received the GI Tag recently in 2024-25? / ২০২৪-২৫ চনত শেহতীয়াকৈ মাজুলীৰ কোনটো সামগ্ৰীয়ে GI টেগ লাভ কৰিছে?",
+    "options": ["Boka Saul", "Muga Silk", "Majuli Mask (Mukha)", "Gamosa"],
+    "answer": 2
+  },
+  {
+    "question": "The 'Ayushman Asom' card provides a health cover up to? / 'আয়ুষ্মান অসম' কাৰ্ডে কিমান টকা পৰ্যন্ত স্বাস্থ্য বীমা প্ৰদান কৰে?",
+    "options": ["₹1 Lakh", "₹2 Lakh", "₹3 Lakh", "₹5 Lakh"],
+    "answer": 3
+  },
+  {
+    "question": "What is the function of the 'Kritagyata' portal? / 'কৃতজ্ঞতা' পৰ্টেলৰ কাম কি?",
+    "options": ["Online pension processing", "Student scholarship application", "Land revenue payment", "Trade license issuance"],
+    "answer": 0
+  },
+  {
+    "question": "Which scheme provides monthly stipend to girl students to encourage higher education? / উচ্চ শিক্ষাৰ বাবে উদগনি যোগাবলৈ ছাত্ৰীসকলক মাহিলি বৃত্তি প্ৰদান কৰা আঁচনিখন কি?",
+    "options": ["Anundoram Borooah Scheme", "Mukhya Mantri Nijut Moina Scheme", "Pragyan Bharti", "Beti Bachao"],
+    "answer": 1
+  },
+  {
+    "question": "The 'Project Sadbhavana' primarily clears files at? / 'প্ৰকল্প সদভাৱনা'ই মূলত ক'ৰ ফাইল নিষ্পত্তি কৰে?",
+    "options": ["High Court of Assam", "District Commissioner offices", "Janata Bhawan (Secretariat)", "Police Headquarters"],
+    "answer": 2
+  },
+  {
+    "question": "Which agency handles the implementation of 'Mega-Projects' in Assam? / অসমত 'মেগা-প্ৰকল্প' ৰূপায়ণৰ কাম কোনটো সংস্থাই পৰিচালনা কৰে?",
+    "options": ["ATDC", "NEDFi", "NABARD", "Assam Infrastructure Financing Authority (AIFA)"],
+    "answer": 3
   }
 ]
