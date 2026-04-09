@@ -1,52 +1,52 @@
 [
   {
-    "question": "As of April 2026, which of the following refers to the newly operational administrative layer in Assam designed to provide 'district-level' services at the sub-division level? / ২০২৬ চনৰ এপ্ৰিল মাহলৈকে, মহকুমা পৰ্যায়ত 'জিলা-পৰ্যায়ৰ' সেৱা প্ৰদান কৰিবলৈ ডিজাইন কৰা অসমৰ নতুনকৈ কাৰ্যকৰী হোৱা প্ৰশাসনিক স্তৰটো কোনটো?",
-    "options": ["Autonomous Sub-Districts", "Co-Districts (Xama-Zilla)", "Model Development Blocks", "Panchayat Secretariats"],
+    "question": "Which administrative unit was introduced in late 2025 to provide district-level services at the sub-division level? / মহকুমা পৰ্যায়ত জিলা-পৰ্যায়ৰ সেৱা আগবঢ়াবলৈ ২০২৫ চনৰ শেষৰ ফালে অসমত কোনটো প্ৰশাসনিক গোট প্ৰৱৰ্তন কৰা হৈছিল?",
+    "options": ["Sub-Districts", "Co-Districts (Xama-Zilla)", "Model Blocks", "District Annexes"],
     "answer": 1
   },
   {
-    "question": "In the 2026 Assam Assembly session, which region was primarily discussed regarding the 'Assam Reorganisation (Karbi Dimanchal) Bill, 2025'? / ২০২৬ চনৰ অসম বিধানসভাৰ অধিৱেশনত 'অসম পুনৰ্গঠন (কাৰ্বি ডিমাঞ্চল) বিধেয়ক, ২০২৫' সন্দৰ্ভত মূলতঃ কোনটো অঞ্চলৰ বিষয়ে আলোচনা কৰা হৈছিল?",
-    "options": ["Bodoland Territorial Region", "Dima Hasao and Karbi Anglong", "Mishing Autonomous Council areas", "Barak Valley Districts"],
-    "answer": 1
-  },
-  {
-    "question": "According to current 2026 demographic projections, what is the estimated population of Assam ahead of the 2027 Census? / ২০২৭ চনৰ লোকপিয়লৰ পূৰ্বে ২০২৬ চনৰ বৰ্তমানৰ জনগাঁথনিগত প্ৰক্ষেপণ অনুসৰি অসমৰ আনুমানিক জনসংখ্যা কিমান?",
-    "options": ["3.12 Crores", "3.45 Crores", "3.75 Crores", "4.05 Crores"],
+    "question": "As of April 2026, which district in Assam continues to report the highest cumulative tree cover loss? / ২০২৬ চনৰ এপ্ৰিল মাহলৈকে অসমৰ কোনখন জিলাত সৰ্বাধিক গছৰ আৱৰণ হ্ৰাস হোৱাৰ খবৰ পোৱা গৈছে?",
+    "options": ["Sonitpur", "Tinsukia", "Karbi Anglong", "Dima Hasao"],
     "answer": 2
   },
   {
-    "question": "Which wildlife sanctuary was in the news in early 2026 due to extensive eviction drives to restore forest land? / বনভূমি পুনৰুদ্ধাৰৰ বাবে বৃহৎ পৰিসৰত উচ্ছেদ অভিযান চলোৱাৰ বাবে ২০২৬ চনৰ আৰম্ভণিতে কোনটো বন্যপ্ৰাণী অভয়াৰণ্য বাতৰিৰ শিৰোনামত আছিল?",
-    "options": ["Pobitora Wildlife Sanctuary", "Amchang Wildlife Sanctuary", "Burha Chapori Wildlife Sanctuary", "Kajiranga National Park"],
-    "answer": 2
-  },
-  {
-    "question": "The second phase of 'Co-District' inaugurations completed in late 2025 brought the total number of such functional units in Assam to: / ২০২৫ চনৰ শেষৰ ফালে 'সহ-জিলা' (Co-District) উদ্বোধনৰ দ্বিতীয় পৰ্যায় সম্পূৰ্ণ হোৱাৰ পিছত অসমত এনে কাৰ্যকৰী গোটৰ মুঠ সংখ্যা কিমান হ’ল?",
+    "question": "What is the total number of Co-Districts (Xama-Zilla) operational in Assam following the second phase? / দ্বিতীয় পৰ্যায়ৰ পিছত অসমত বৰ্তমান মুঠ কিমানখন সহ-জিলা (Co-District) কাৰ্যকৰী হৈ আছে?",
     "options": ["35", "39", "49", "52"],
     "answer": 2
   },
   {
-    "question": "Which Assam district reported the highest tree cover loss according to the 2025-26 environmental monitoring reports? / ২০২৫-২৬ চনৰ পৰিৱেশ নিৰীক্ষণ প্ৰতিবেদন অনুসৰি অসমৰ কোনখন জিলাত সৰ্বাধিক গছৰ আৱৰণ হ্ৰাস হোৱাৰ খবৰ পোৱা গৈছে?",
-    "options": ["Tinsukia", "Sonitpur", "Karbi Anglong", "Dhemaji"],
-    "answer": 2
+    "question": "According to 2026 demographic projections, what is the estimated literacy rate of Assam? / ২০২৬ চনৰ জনগাঁথনিগত প্ৰক্ষেপণ অনুসৰি অসমৰ আনুমানিক সাক্ষৰতাৰ হাৰ কিমান?",
+    "options": ["72.19%", "75.50%", "82.10%", "85.20%"],
+    "answer": 0
   },
   {
-    "question": "In April 2026, the 'Boko-Chhaygaon' administrative unit was highlighted as a model for which new governance initiative? / ২০২৬ চনৰ এপ্ৰিল মাহত 'বকো-ছয়গাঁও' প্ৰশাসনিক গোটটোক কোনটো নতুন প্ৰশাসনীয় পদক্ষেপৰ আৰ্হি হিচাপে আলোকপাত কৰা হৈছিল?",
-    "options": ["Digital Revenue Circle", "Co-District under Kamrup", "Special Economic Zone", "Tribal Belt Protection Zone"],
+    "question": "Which phase of Census 2027 operations began in Assam in April 2026? / ২০২৭ চনৰ লোকপিয়লৰ কোনটো পৰ্যায় ২০২৬ চনৰ এপ্ৰিল মাহত অসমত আৰম্ভ হৈছে?",
+    "options": ["Population Enumeration", "Houselisting and Housing Census", "Digital Mapping Survey", "NRC Verification"],
     "answer": 1
   },
   {
-    "question": "What is the primary target of the 'Amrit Brikshya Andolan 3.0' scheduled for the 2026 monsoon season? / ২০২৬ চনৰ মৌচুমী ঋতুৰ বাবে নিৰ্ধাৰিত 'অমৃত বৃক্ষ আন্দোলন ৩.০'-ৰ মুখ্য লক্ষ্য কি?",
-    "options": ["Planting 3 Crore saplings in a single day", "Creating 100 urban forests (Nagar Vans)", "Distributing fruit-bearing commercial trees to Orunodoi beneficiaries", "Mandatory plantation for all Class X students"],
-    "answer": 2
-  },
-  {
-    "question": "Which geographical feature in Guwahati is being legally protected as a 'Natural Flood Buffer' in the 2026 Urban Master Plan? / ২০২৬ চনৰ নগৰীয়া মাষ্টাৰ প্লেনত গুৱাহাটীৰ কোনটো ভৌগোলিক বৈশিষ্ট্যক 'প্ৰাকৃতিক বান বাফাৰ' হিচাপে আইনী সুৰক্ষা প্ৰদান কৰা হৈছে?",
-    "options": ["Sarania Hills", "Deepor Beel and other wetlands", "Brahmaputra Riverfront", "Jalukbari flyover zone"],
+    "question": "Which forest area was the focus of major legal protection as a 'Natural Flood Buffer' in early 2026? / ২০২৬ চনৰ আৰম্ভণিতে কোনটো বনাঞ্চলক 'প্ৰাকৃতিক বান বাফাৰ' হিচাপে আইনী সুৰক্ষাৰ বাবে গুৰুত্ব দিয়া হৈছিল?",
+    "options": ["Amchang Wildlife Sanctuary", "Deepor Beel and its surroundings", "Barnadi Wildlife Sanctuary", "Raimona National Park"],
     "answer": 1
   },
   {
-    "question": "Following the 2025 notifications, how many districts in Assam are currently categorized as 'Muslim-majority' as per CM's 2026 Assembly statements? / ২০২৫ চনৰ অধিসূচনাৰ পাছত, ২০২৬ চনৰ মুখ্যমন্ত্ৰীৰ বিধানসভাৰ বক্তব্য অনুসৰি বৰ্তমান অসমৰ কিমানখন জিলা 'মুছলমান সংখ্যাগৰিষ্ঠ' হিচাপে শ্ৰেণীভুক্ত কৰা হৈছে?",
-    "options": ["9", "11", "13", "15"],
+    "question": "Under the 2025-26 budget, which mission is dedicated to providing land rights to indigenous people? / ২০২৫-২৬ বৰ্ষৰ বাজেট অনুসৰি, খিলঞ্জীয়া লোকক ভূমিৰ অধিকাৰ প্ৰদানৰ বাবে কোনটো মিছন উৎসৰ্গিত?",
+    "options": ["Mission Samarth", "Mission Basundhara 3.0", "Mission Bhumiputra", "Mission Sadbhavana"],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary theme of 'Amrit Brikshya Andolan 3.0' scheduled for mid-2026? / ২০২৬ চনৰ মাজভাগৰ বাবে নিৰ্ধাৰিত 'অমৃত বৃক্ষ আন্দোলন ৩.০'-ৰ মুখ্য বিষয়বস্তু কি?",
+    "options": ["One Student One Tree", "Commercial Tree Plantation", "Urban Nagar Vans", "Village Forest Grids"],
+    "answer": 1
+  },
+  {
+    "question": "Which district is newly recognized for the 'Boko-Chhaygaon' Co-District model in April 2026? / ২০২৬ চনৰ এপ্ৰিল মাহত 'বকো-ছয়গাঁও' সহ-জিলা মডেলৰ বাবে নতুনকৈ স্বীকৃতি পোৱা জিলাখন কোনখন?",
+    "options": ["Goalpara", "Barpeta", "Kamrup", "South Salmara"],
+    "answer": 2
+  },
+  {
+    "question": "According to the 2026 update, how many districts in Assam have been identified as Muslim-majority? / ২০২৬ চনৰ তথ্য অনুসৰি, অসমৰ কিমানখন জিলাক মুছলমান সংখ্যাগৰিষ্ঠ হিচাপে চিনাক্ত কৰা হৈছে?",
+    "options": ["9", "11", "13", "14"],
     "answer": 1
   }
 ]
