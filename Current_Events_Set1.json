@@ -1,102 +1,52 @@
 [
   {
-    "question": "Which specific administrative unit was inaugurated in two phases (2024 and 2025) to bring governance closer to the grassroots in Assam? / তৃণমূল পৰ্যায়ত প্ৰশাসনক অধিক ওচৰ চপাই আনিবলৈ অসমত দুটা পৰ্যায়ত (২০২৪ আৰু ২০২৫) কোনটো বিশেষ প্ৰশাসনিক গোট উদ্বোধন কৰা হৈছে?",
-    "options": ["Sub-Divisions", "Co-Districts", "Development Blocks", "Autonomous Councils"],
+    "question": "As of April 2026, which of the following refers to the newly operational administrative layer in Assam designed to provide 'district-level' services at the sub-division level? / ২০২৬ চনৰ এপ্ৰিল মাহলৈকে, মহকুমা পৰ্যায়ত 'জিলা-পৰ্যায়ৰ' সেৱা প্ৰদান কৰিবলৈ ডিজাইন কৰা অসমৰ নতুনকৈ কাৰ্যকৰী হোৱা প্ৰশাসনিক স্তৰটো কোনটো?",
+    "options": ["Autonomous Sub-Districts", "Co-Districts (Xama-Zilla)", "Model Development Blocks", "Panchayat Secretariats"],
     "answer": 1
   },
   {
-    "question": "In February 2026, the Supreme Court issued a landmark judgment regarding which reserved forest in Assam? / ২০২৬ চনৰ ফেব্ৰুৱাৰী মাহত উচ্চতম ন্যায়ালয়ে অসমৰ কোনটো সংৰক্ষিত বনাঞ্চলৰ সন্দৰ্ভত এক ঐতিহাসিক ৰায়দান কৰিছিল?",
-    "options": ["Pobitora Wildlife Sanctuary", "Doyang Reserved Forest", "Dibru-Saikhowa National Park", "Raimona National Park"],
+    "question": "In the 2026 Assam Assembly session, which region was primarily discussed regarding the 'Assam Reorganisation (Karbi Dimanchal) Bill, 2025'? / ২০২৬ চনৰ অসম বিধানসভাৰ অধিৱেশনত 'অসম পুনৰ্গঠন (কাৰ্বি ডিমাঞ্চল) বিধেয়ক, ২০২৫' সন্দৰ্ভত মূলতঃ কোনটো অঞ্চলৰ বিষয়ে আলোচনা কৰা হৈছিল?",
+    "options": ["Bodoland Territorial Region", "Dima Hasao and Karbi Anglong", "Mishing Autonomous Council areas", "Barak Valley Districts"],
     "answer": 1
   },
   {
-    "question": "According to the 2025 forest reports, how many 'Co-districts' were inaugurated in the second phase in August 2025? / ২০২৫ চনৰ বন প্ৰতিবেদন অনুসৰি, ২০২৫ চনৰ আগষ্ট মাহত দ্বিতীয় পৰ্যায়ত কিমানটা 'সহ-জিলা' (Co-districts) উদ্বোধন কৰা হৈছিল?",
-    "options": ["39", "10", "49", "25"],
-    "answer": 1
-  },
-  {
-    "question": "What is the projected population of Assam for the year 2026? / ২০২৬ বৰ্ষৰ বাবে অসমৰ আনুমানিক জনসংখ্যা কিমান?",
-    "options": ["3.12 Crores", "3.58 Crores", "3.75 Crores", "4.10 Crores"],
+    "question": "According to current 2026 demographic projections, what is the estimated population of Assam ahead of the 2027 Census? / ২০২৭ চনৰ লোকপিয়লৰ পূৰ্বে ২০২৬ চনৰ বৰ্তমানৰ জনগাঁথনিগত প্ৰক্ষেপণ অনুসৰি অসমৰ আনুমানিক জনসংখ্যা কিমান?",
+    "options": ["3.12 Crores", "3.45 Crores", "3.75 Crores", "4.05 Crores"],
     "answer": 2
   },
   {
-    "question": "Which district is newly included in the list of co-districts with 'Boko-Chhaygaon' as an administrative bloc? / 'বকো-ছয়গাঁও' প্ৰশাসনিক গোটৰ সৈতে সহ-জিলাৰ তালিকাত নতুনকৈ কোনখন জিলা অন্তৰ্ভুক্ত কৰা হৈছে?",
-    "options": ["Kamrup", "Goalpara", "Barpeta", "Nalbari"],
-    "answer": 0
-  },
-  {
-    "question": "The 'Assam Reorganisation (Karbi Dimanchal) Bill, 2025' relates to the formation of an autonomous state within Assam comprising which areas? / 'অসম পুনৰ্গঠন (কাৰ্বি ডিমাঞ্চল) বিধেয়ক, ২০২৫' অসমৰ ভিতৰত কোনটো অঞ্চল সামৰি এখন স্বায়ত্তশাসিত ৰাজ্য গঠনৰ সৈতে জড়িত?",
-    "options": ["BTAD areas", "Dima Hasao and Karbi Anglong", "Mishing Autonomous Council", "Tiwa Autonomous Council"],
-    "answer": 1
-  },
-  {
-    "question": "As per the latest 2026 demographic projections, what is the estimated literacy rate of Assam? / শেহতীয়া ২০২৬ চনৰ জনগাঁথনিগত প্ৰক্ষেপণ অনুসৰি অসমৰ আনুমানিক সাক্ষৰতাৰ হাৰ কিমান?",
-    "options": ["72.19%", "75.50%", "82.10%", "68.45%"],
-    "answer": 0
-  },
-  {
-    "question": "What is the name of the massive afforestation drive launched in 2025 that led to record sapling planting in Assam? / ২০২৫ চনত আৰম্ভ হোৱা বৃহৎ বৃক্ষৰোপণ অভিযানটোৰ নাম কি যিয়ে অসমত অভিলেখ সংখ্যক পুলি ৰোপণ কৰিছিল?",
-    "options": ["Green Assam Mission", "Amrit Brikshya Andolan 2.0", "Ek Ped Maa Ke Naam", "Assam Forest Grid"],
+    "question": "Which wildlife sanctuary was in the news in early 2026 due to extensive eviction drives to restore forest land? / বনভূমি পুনৰুদ্ধাৰৰ বাবে বৃহৎ পৰিসৰত উচ্ছেদ অভিযান চলোৱাৰ বাবে ২০২৬ চনৰ আৰম্ভণিতে কোনটো বন্যপ্ৰাণী অভয়াৰণ্য বাতৰিৰ শিৰোনামত আছিল?",
+    "options": ["Pobitora Wildlife Sanctuary", "Amchang Wildlife Sanctuary", "Burha Chapori Wildlife Sanctuary", "Kajiranga National Park"],
     "answer": 2
   },
   {
-    "question": "According to Government data in early 2026, how many bighas of forest land have been cleared of encroachment so far? / ২০২৬ চনৰ আৰম্ভণিতে চৰকাৰী তথ্য অনুসৰি এতিয়ালৈকে কিমান বিঘা বনভূমি বেদখলমুক্ত কৰা হৈছে?",
-    "options": ["50,000 bighas", "1,25,326 bighas", "2,00,000 bighas", "10,500 bighas"],
-    "answer": 1
-  },
-  {
-    "question": "Which wildlife corridor in Assam was significantly expanded/strengthened in the 2025 environmental updates? / ২০২৫ চনৰ পৰিৱেশ উন্নীতকৰণত অসমৰ কোনটো বন্যপ্ৰাণী কৰিডৰ উল্লেখনীয়ভাৱে সম্প্ৰসাৰিত/শক্তিশালী কৰা হৈছিল?",
-    "options": ["Kaziranga-Karbi Anglong Corridor", "Manas-Buxa Corridor", "Pobitora-Orang Corridor", "Deepor Beel Corridor"],
-    "answer": 0
-  },
-  {
-    "question": "In which district are the new co-districts 'Mariani' and 'Teok' located? / নতুন সহ-জিলা 'মৰিয়নি' আৰু 'টিয়ক' কোনখন জিলাত অৱস্থিত?",
-    "options": ["Sivasagar", "Jorhat", "Golaghat", "Majuli"],
-    "answer": 1
-  },
-  {
-    "question": "What is the projected Sex Ratio of Assam for 2026 as per census projections? / লোকপিয়লৰ প্ৰক্ষেপণ অনুসৰি ২০২৬ চনৰ বাবে অসমৰ আনুমানিক লিংগ অনুপাত কিমান?",
-    "options": ["940", "958", "935", "962"],
-    "answer": 1
-  },
-  {
-    "question": "Which of these pairs of co-districts belongs to Tinsukia district? / এই সহ-জিলাসমূহৰ কোনটো যোৰ তিনিচুকীয়া জিলাৰ অন্তৰ্গত?",
-    "options": ["Borsola and Rangapara", "Makum and Digboi", "Dholai and Sonai", "Boko and Chhaygaon"],
-    "answer": 1
-  },
-  {
-    "question": "As per the 2025 Forest Accounting reports, which canopy density category defines 'Very Dense Forest'? / ২০২৫ চনৰ বন হিচাপ প্ৰতিবেদন অনুসৰি, 'অতি ঘন অৰণ্য' বুলিলে কিমান কেনোপি ঘনত্বক বুজায়?",
-    "options": ["> 40%", "> 50%", "> 70%", "10-40%"],
-    "answer": 2
-  },
-  {
-    "question": "The new co-district 'Dudhnoi' is located under which parent district? / নতুন সহ-জিলা 'দুধনৈ' কোনখন মূল জিলাৰ অধীনত অৱস্থিত?",
-    "options": ["Dhubri", "Bongaigaon", "Goalpara", "South Salmara"],
-    "answer": 2
-  },
-  {
-    "question": "What percentage of Assam's population is estimated to live in urban regions by 2026? / ২০২৬ চনৰ ভিতৰত অসমৰ জনসংখ্যাৰ কিমান শতাংশ নগৰীয়া অঞ্চলত বাস কৰিব বুলি অনুমান কৰা হৈছে?",
-    "options": ["14.10%", "20.50%", "25.00%", "10.00%"],
-    "answer": 0
-  },
-  {
-    "question": "Which district's administrative bloc includes 'Dholai' as a new co-district in 2025? / ২০২৫ চনত কোনখন জিলাৰ প্ৰশাসনিক গোটত 'ধলাই'ক নতুন সহ-জিলা হিচাপে অন্তৰ্ভুক্ত কৰা হৈছে?",
-    "options": ["Karimganj", "Cachar", "Hailakandi", "Dima Hasao"],
-    "answer": 1
-  },
-  {
-    "question": "The first assessment of which animal in late 2025/2026 became a major conservation milestone for North East India? / ২০২৫/২০২৬ চনৰ শেষৰ ফালে কোনটো প্ৰাণীৰ প্ৰথম মূল্যায়ন উত্তৰ-পূব ভাৰতৰ বাবে এক প্ৰধান সংৰক্ষণ মাইলৰ খুঁটি হিচাপে পৰিগণিত হৈছিল?",
-    "options": ["One-horned Rhino", "Snow Leopard", "Clouded Leopard", "Hoolock Gibbon"],
-    "answer": 1
-  },
-  {
-    "question": "How many total co-districts exist in Assam after the completion of the second phase in August 2025? / ২০২৫ চনৰ আগষ্ট মাহত দ্বিতীয় পৰ্যায় সম্পূৰ্ণ হোৱাৰ পিছত অসমত মুঠ কিমানখন সহ-জিলা আছে?",
+    "question": "The second phase of 'Co-District' inaugurations completed in late 2025 brought the total number of such functional units in Assam to: / ২০২৫ চনৰ শেষৰ ফালে 'সহ-জিলা' (Co-District) উদ্বোধনৰ দ্বিতীয় পৰ্যায় সম্পূৰ্ণ হোৱাৰ পিছত অসমত এনে কাৰ্যকৰী গোটৰ মুঠ সংখ্যা কিমান হ’ল?",
     "options": ["35", "39", "49", "52"],
     "answer": 2
   },
   {
-    "question": "Which of the following is NOT a driver of tree cover loss in Assam as per 2024-26 trends? / ২০২৪-২৬ চনৰ ধাৰা অনুসৰি তলৰ কোনটো অসমত গছৰ আৱৰণ হ্ৰাস হোৱাৰ কাৰক নহয়?",
-    "options": ["Deforestation", "Urbanization", "Forest Fires", "Mass Afforestation Drive"],
-    "answer": 3
+    "question": "Which Assam district reported the highest tree cover loss according to the 2025-26 environmental monitoring reports? / ২০২৫-২৬ চনৰ পৰিৱেশ নিৰীক্ষণ প্ৰতিবেদন অনুসৰি অসমৰ কোনখন জিলাত সৰ্বাধিক গছৰ আৱৰণ হ্ৰাস হোৱাৰ খবৰ পোৱা গৈছে?",
+    "options": ["Tinsukia", "Sonitpur", "Karbi Anglong", "Dhemaji"],
+    "answer": 2
+  },
+  {
+    "question": "In April 2026, the 'Boko-Chhaygaon' administrative unit was highlighted as a model for which new governance initiative? / ২০২৬ চনৰ এপ্ৰিল মাহত 'বকো-ছয়গাঁও' প্ৰশাসনিক গোটটোক কোনটো নতুন প্ৰশাসনীয় পদক্ষেপৰ আৰ্হি হিচাপে আলোকপাত কৰা হৈছিল?",
+    "options": ["Digital Revenue Circle", "Co-District under Kamrup", "Special Economic Zone", "Tribal Belt Protection Zone"],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary target of the 'Amrit Brikshya Andolan 3.0' scheduled for the 2026 monsoon season? / ২০২৬ চনৰ মৌচুমী ঋতুৰ বাবে নিৰ্ধাৰিত 'অমৃত বৃক্ষ আন্দোলন ৩.০'-ৰ মুখ্য লক্ষ্য কি?",
+    "options": ["Planting 3 Crore saplings in a single day", "Creating 100 urban forests (Nagar Vans)", "Distributing fruit-bearing commercial trees to Orunodoi beneficiaries", "Mandatory plantation for all Class X students"],
+    "answer": 2
+  },
+  {
+    "question": "Which geographical feature in Guwahati is being legally protected as a 'Natural Flood Buffer' in the 2026 Urban Master Plan? / ২০২৬ চনৰ নগৰীয়া মাষ্টাৰ প্লেনত গুৱাহাটীৰ কোনটো ভৌগোলিক বৈশিষ্ট্যক 'প্ৰাকৃতিক বান বাফাৰ' হিচাপে আইনী সুৰক্ষা প্ৰদান কৰা হৈছে?",
+    "options": ["Sarania Hills", "Deepor Beel and other wetlands", "Brahmaputra Riverfront", "Jalukbari flyover zone"],
+    "answer": 1
+  },
+  {
+    "question": "Following the 2025 notifications, how many districts in Assam are currently categorized as 'Muslim-majority' as per CM's 2026 Assembly statements? / ২০২৫ চনৰ অধিসূচনাৰ পাছত, ২০২৬ চনৰ মুখ্যমন্ত্ৰীৰ বিধানসভাৰ বক্তব্য অনুসৰি বৰ্তমান অসমৰ কিমানখন জিলা 'মুছলমান সংখ্যাগৰিষ্ঠ' হিচাপে শ্ৰেণীভুক্ত কৰা হৈছে?",
+    "options": ["9", "11", "13", "15"],
+    "answer": 1
   }
 ]
