@@ -1,202 +1,52 @@
 [
   {
-    "question": "Which site from Assam was added to the UNESCO World Heritage list in July 2024? / ২০২৪ চনৰ জুলাই মাহত অসমৰ কোনটো স্থানক ইউনেস্কো বিশ্ব ঐতিহ্য তালিকাত অন্তৰ্ভুক্ত কৰা হৈছে?",
-    "options": [
-      "Charaideo Moidams",
-      "Majuli Island",
-      "Kamakhya Temple",
-      "Rang Ghar"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "In 2024, which traditional craft of Majuli received the Geographical Indication (GI) tag? / ২০২৪ চনত মাজুলীৰ কোনটো পৰম্পৰাগত শিল্পই ভৌগোলিক সংকেত (GI) টেগ লাভ কৰিছে?",
-    "options": [
-      "Muga Silk",
-      "Majuli Mask Making (Mukha)",
-      "Terracotta work",
-      "Traditional Pottery"
-    ],
+    "question": "Which mega semiconductor plant is being established in Jagiroad, Morigaon in 2025-26? / ২০২৫-২৬ বৰ্ষত মৰিগাঁৱৰ জাগীৰোডত কোনটো বৃহৎ ছেমিকণ্ডাক্টৰ প্লাণ্ট স্থাপন কৰা হৈছে?",
+    "options": ["Intel Assam Hub", "Tata Electronics (TSMC Partnership)", "Samsung Semiconductor Unit", "Micron Technology Plant"],
     "answer": 1
   },
   {
-    "question": "The 'Bihu' dance created a Guinness World Record in 2023-24. In which stadium was this event held? / ২০২৩-২৪ চনত বিহু নৃত্যই গিনিজ ৱৰ্ল্ড ৰেকৰ্ড গঢ়িছিল। এই অনুষ্ঠানটো কোনখন ষ্টেডিয়ামত অনুষ্ঠিত হৈছিল?",
-    "options": [
-      "Nehru Stadium",
-      "Jalan Stadium",
-      "Sarusajai Stadium",
-      "Kalinga Stadium"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Who was conferred with the 'Assam Baibhav' award 2023-24 for his contribution to Art and Culture? / কলা আৰু সংস্কৃতিৰ ক্ষেত্ৰত আগবঢ়োৱা অৱদানৰ বাবে কাক ২০২৩-২৪ চনৰ 'অসম বৈভৱ' বঁটা প্ৰদান কৰা হৈছে?",
-    "options": [
-      "Ratan Tata",
-      "Tapan Saikia",
-      "Hiren Bhattacharya",
-      "Ranjan Gogoi"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The historical 'Moidams' added to UNESCO list are associated with which dynasty? / ইউনেস্কোৰ তালিকাত অন্তৰ্ভুক্ত হোৱা ঐতিহাসিক 'মৈদাম'সমূহ কোনটো ৰাজবংশৰ সৈতে জড়িত?",
-    "options": [
-      "Ahom Dynasty",
-      "Koch Dynasty",
-      "Chutia Dynasty",
-      "Kachari Dynasty"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Which Assamese manuscript painting from Majuli received the GI tag in 2024? / ২০২৪ চনত মাজুলীৰ কোনখন অসমীয়া সাঁচিপাতৰ চিত্ৰই GI টেগ লাভ কৰিছে?",
-    "options": [
-      "Pata Chitra",
-      "Majuli Manuscript Painting",
-      "Phad Painting",
-      "Madhubani Art"
-    ],
+    "question": "The historic 'Palasbari-Sualkuchi' bridge project over the Brahmaputra is designed to connect which two regions? / ব্ৰহ্মপুত্ৰৰ ওপৰত নিৰ্মাণাধীন ঐতিহাসিক 'পলাশবাৰী-শুৱালকুছি' দলঙে কোন দুটা অঞ্চলক সংযোগ কৰিব?",
+    "options": ["Guwahati and North Guwahati", "South Kamrup and the Silk Town of Sualkuchi", "Dibrugarh and Dhemaji", "Jorhat and Majuli"],
     "answer": 1
   },
   {
-    "question": "What is the name of the new cultural complex proposed in Delhi to showcase Assam's heritage? / অসমৰ ঐতিহ্য প্ৰদৰ্শনৰ বাবে দিল্লীত নিৰ্মাণ কৰিবলৈ প্ৰস্তাৱ কৰা নতুন সাংস্কৃতিক কমপ্লেক্সটোৰ নাম কি?",
-    "options": [
-      "Assam House",
-      "Shrimanta Sankardeva Kalakshetra",
-      "Assam Bhawan Delhi",
-      "Rang Ghar Delhi"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "In 2024, the Assam government announced a theme park based on whose life in Guwahati? / ২০২৪ চনত অসম চৰকাৰে কাৰ জীৱনৰ আধাৰত গুৱাহাটীত এখন থিম পাৰ্ক নিৰ্মাণৰ কথা ঘোষণা কৰিছে?",
-    "options": [
-      "Jyotiprasad Agarwala",
-      "Bishnu Prasad Rabha",
-      "Bhupen Hazarika",
-      "Lachit Barphukan"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Which ethnic group's 'Bihu' is also known as 'Ali-Aye-Ligang'? / কোনটো জনগোষ্ঠীৰ বিহুক 'আলি-আয়ে-লিগাং' বুলিও জনা যায়?",
-    "options": [
-      "Mising",
-      "Bodo",
-      "Rabha",
-      "Karbi"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The 'Kherai' dance is a religious folk dance of which community in Assam? / 'খেৰাই' নৃত্য অসমৰ কোনটো সম্প্ৰদায়ৰ ধৰ্মীয় লোকনৃত্য?",
-    "options": [
-      "Mising",
-      "Bodo",
-      "Deori",
-      "Tiwa"
-    ],
+    "question": "Which medical college was the latest to receive NMC approval in early 2026, boosting Assam's healthcare sector? / ২০২৬ চনৰ আৰম্ভণিতে অসমৰ স্বাস্থ্য খণ্ডক অধিক শক্তিশালী কৰি কোনখন চিকিৎসা মহাবিদ্যালয়ে NMC-ৰ স্বীকৃতি লাভ কৰিছে?",
+    "options": ["Biswanath Medical College", "Charaideo Medical College", "Tamulpur Medical College", "Golaghat Medical College"],
     "answer": 1
   },
   {
-    "question": "Which district of Assam is famous for 'Sarthebari Bell Metal' industry? / অসমৰ কোনখন জিলা 'সৰ্থেবাৰীৰ কাঁহ' শিল্পৰ বাবে বিখ্যাত?",
-    "options": [
-      "Nalbari",
-      "Kamrup (M)",
-      "Barpeta",
-      "Darrang"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Which Assamese film won the National Film Award for Best Feature Film in 2023-24? / কোনখন অসমীয়া চিনেমাৰ ২০২৩-২৪ চনত শ্ৰেষ্ঠ ফিচাৰ ফিল্মৰ ৰাষ্ট্ৰীয় চলচ্চিত্ৰ বঁটা লাভ কৰিছে?",
-    "options": [
-      "Village Rockstars",
-      "Bulbul Can Sing",
-      "Fire on the Edge",
-      "Anur"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The 'Junbeel Mela' 2024, famous for barter system, was held in which place? / বিনিময় প্ৰথাৰ বাবে বিখ্যাত ২০২৪ চনৰ 'জোনবিল মেলা' ক’ত অনুষ্ঠিত হৈছিল?",
-    "options": [
-      "Jagiroad",
-      "Morigaon Town",
-      "Guwahati",
-      "Tezpur"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Who is the composer of the state anthem of Assam 'O Mur Apunar Desh'? / অসমৰ জাতীয় সংগীত 'অ’ মোৰ আপোণাৰ দেশ'ৰ ৰচক কোন?",
-    "options": [
-      "Jyotiprasad Agarwala",
-      "Lakshminath Bezbaroa",
-      "Bhupen Hazarika",
-      "Ambikagiri Raichoudhury"
-    ],
+    "question": "The proposed 'Underwater Tunnel' across the Brahmaputra is planned to connect which two locations? / ব্ৰহ্মপুত্ৰৰ তলেৰে নিৰ্মাণ কৰিবলৈ পৰিকল্পনা কৰা 'পানীৰ তলৰ সুৰংগ'টোৱে কোন দুখন ঠাইক সংযোগ কৰিব?",
+    "options": ["Tezpur and Silghat", "Gohpur and Numaligarh", "Dhubri and Phulbari", "Guwahati and Mangaldoi"],
     "answer": 1
   },
   {
-    "question": "The 'Ambubachi Mela' 2024 was celebrated in Kamakhya during which month? / ২০২৪ চনৰ 'অম্বুবাচী মেলা' কামাখ্যাত কোন মাহত উদযাপন কৰা হৈছিল?",
-    "options": [
-      "May",
-      "April",
-      "June",
-      "July"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Which legendary Assamese artist is known as 'Rupkonwar'? / কোনজন কিংবদন্তি অসমীয়া শিল্পীক 'ৰূপকোঁৱৰ' বুলি জনা যায়?",
-    "options": [
-      "Bishnu Prasad Rabha",
-      "Bhupen Hazarika",
-      "Phani Sarma",
-      "Jyotiprasad Agarwala"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Which town is known as the 'Manchester of Assam' for its silk weaving? / পাট-মুগা বস্ত্ৰ শিল্পৰ বাবে কোনখন চহৰক 'অসমৰ মানচেষ্টাৰ' বুলি জনা যায়?",
-    "options": [
-      "Sualkuchi",
-      "Palasbari",
-      "Bijoynagar",
-      "Rangia"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "In which place is the 'Sati Joymoti' archaeological park located? / 'সতী জয়মতী' প্ৰত্নতাত্ত্বিক উদ্যান ক’ত অৱস্থিত?",
-    "options": [
-      "Guwahati",
-      "Sivasagar",
-      "Jorhat",
-      "Dibrugarh"
-    ],
+    "question": "In 2025-26, which district became a major healthcare hub after the inauguration of the Tata-Assam Cancer Care unit? / ২০২৫-২৬ বৰ্ষত টাটা-অসম কেন্সাৰ কেয়াৰ ইউনিট মুকলি কৰাৰ পিছত কোনখন জিলা এক প্ৰধান স্বাস্থ্য কেন্দ্ৰ হৈ পৰিছে?",
+    "options": ["Kamrup (M)", "Dibrugarh", "Silchar", "Kokrajhar"],
     "answer": 1
   },
   {
-    "question": "The 'Dehing Patkai' festival is celebrated to promote which aspect? / 'দেহিং পাটকাই' উৎসৱ কিহৰ উৎকৰ্ষ সাধনৰ বাবে উদযাপন কৰা হয়?",
-    "options": [
-      "Tea Culture",
-      "River Tourism",
-      "Wildlife and Rainforest Heritage",
-      "Silk Industry"
-    ],
-    "answer": 2
+    "question": "The 'Dhubri-Phulbari' bridge, currently under construction in 2026, will be India's longest bridge over water. What is its approximate length? / ২০২৬ চনত নিৰ্মাণাধীন অৱস্থাত থকা 'ধুবুৰী-ফুলবাৰী' দলংখন পানীৰ ওপৰত ভাৰতৰ দীৰ্ঘতম দলং হ’ব। ইয়াৰ আনুমানিক দৈৰ্ঘ্য কিমান?",
+    "options": ["9.15 km", "19.28 km", "12.5 km", "15.4 km"],
+    "answer": 1
   },
   {
-    "question": "Who is recognized as the pioneer of the Assamese mobile theatre? / অসমীয়া ভ্ৰাম্যমাণ থিয়েটাৰৰ অগ্ৰদূত হিচাপে কাক গণ্য কৰা হয়?",
-    "options": [
-      "Phani Sarma",
-      "Jyotiprasad Agarwala",
-      "Bishnu Prasad Rabha",
-      "Achyut Lahkar"
-    ],
-    "answer": 3
+    "question": "What is the primary focus of the 'Assam Advanced Healthcare Innovation Institute' (AAHII) established at IIT Guwahati? / IIT গুৱাহাটীত স্থাপন কৰা 'অসম এডভান্সড হেল্থকেয়াৰ ইনোভেচন ইনষ্টিটিউট' (AAHII) ৰ প্ৰাথমিক লক্ষ্য কি?",
+    "options": ["Only traditional medicine", "High-end medical technology and research-driven healthcare", "Managing village dispensaries", "Training auxiliary nurses"],
+    "answer": 1
+  },
+  {
+    "question": "The new bridge project connecting Jorhat and Majuli is being constructed over which river? / যোৰহাট আৰু মাজুলীক সংযোগ কৰা নতুন দলংখন কোনখন নদীৰ ওপৰত নিৰ্মাণ কৰা হৈছে?",
+    "options": ["Lohit", "Brahmaputra", "Subansiri", "Dhansiri"],
+    "answer": 1
+  },
+  {
+    "question": "Which semiconductor skill development center was launched in 2026 to train Assamese youth for the Jagiroad plant? / জাগীৰোড প্লাণ্টৰ বাবে অসমীয়া যুৱক-যুৱতীক প্ৰশিক্ষণ দিবলৈ ২০২৬ চনত কোনটো ছেমিকণ্ডাক্টৰ দক্ষতা বিকাশ কেন্দ্ৰ মুকলি কৰা হৈছে?",
+    "options": ["Assam Semiconductor Skill Centre (ASSC)", "ISRO-Tata Training Hub", "Guwahati Tech Park", "North East Skill City"],
+    "answer": 0
+  },
+  {
+    "question": "The 'Narengi-Amingaon' bridge project is part of which larger urban infrastructure plan in 2026? / 'নৰেংগী-আমিংগাঁও' দলং প্ৰকল্পটো ২০২৬ চনৰ কোনটো বৃহৎ নগৰীয়া আন্তঃগাঁথনি পৰিকল্পনাৰ অংশ?",
+    "options": ["Digital Assam Mission", "Guwahati Ring Road and Expansion Project", "East-West Corridor", "Smart City Dibrugarh"],
+    "answer": 1
   }
 ]
