@@ -1,1 +1,52 @@
-
+[
+  {
+    "question": "What is the targeted Fiscal Deficit for the financial year 2026-27 as per the Union Budget? / কেন্দ্ৰীয় বাজেট অনুসৰি ২০২৬-২৭ বিত্তীয় বৰ্ষৰ বাবে লক্ষ্য নিৰ্ধাৰণ কৰা ৰাজকোষীয় ঘাটি (Fiscal Deficit) কিমান?",
+    "options": ["5.1%", "4.5%", "3.9%", "5.9%"],
+    "answer": 1
+  },
+  {
+    "question": "The Economic Survey 2025-26 projected India's GDP growth for the upcoming year in which range? / অৰ্থনৈতিক জৰীপ ২০২৫-২৬ ত আগন্তুক বৰ্ষৰ বাবে ভাৰতৰ GDP বৃদ্ধিৰ হাৰ কিমান শতাংশৰ ভিতৰত থাকিব বুলি پێৰ্বানুমান কৰা হৈছে?",
+    "options": ["6.0% - 6.5%", "7.0% - 7.5%", "6.5% - 7.0%", "8.0% - 8.5%"],
+    "answer": 2
+  },
+  {
+    "question": "In the 2026-27 Budget, the 'Capital Expenditure' (Capex) outlay was increased by what percentage to boost infrastructure? / আন্তঃগাঁথনিৰ সৱলীকৰণৰ বাবে ২০২৬-২৭ বৰ্ষৰ বাজেটত 'মূলধনী ব্যয়' (Capex) কিমান শতাংশ বৃদ্ধি কৰা হৈছে?",
+    "options": ["11.1%", "15.5%", "20.0%", "25.0%"],
+    "answer": 0
+  },
+  {
+    "question": "Which new tax regime update was announced in 2026 to provide relief to middle-class taxpayers? / মধ্যবিত্ত কৰদাতাসকলক সকাহ দিবলৈ ২০২৬ চনত কোনটো নতুন কৰ ব্যৱস্থাৰ আপডেট ঘোষণা কৰা হৈছে?",
+    "options": ["Increase in Standard Deduction", "Abolition of GST on all food items", "Reduction of Corporate Tax to 10%", "Introduction of a Wealth Tax"],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary theme of the Assam State Budget 2026-27? / অসম ৰাজ্যিক বাজেট ২০২৬-২৭ ৰ মূল বিষয়বস্তু (Theme) কি?",
+    "options": ["Industrial Revolution", "Viksit Asom: Focus on Infrastructure and Youth Empowerment", "Digital Forestry", "Complete Privatization of Power Sector"],
+    "answer": 1
+  },
+  {
+    "question": "How much total outlay has been allocated for the 'Mukhya Mantri Nijut Moina' scheme in the 2026-27 Assam Budget? / ২০২৬-২৭ বৰ্ষৰ অসম বাজেটত 'মুখ্যমন্ত্ৰী নিজুত মইনা' আঁচনিৰ বাবে মুঠ কিমান ধন ধাৰ্য কৰা হৈছে?",
+    "options": ["₹500 Crore", "₹1,500 Crore", "₹1,000 Crore", "₹2,500 Crore"],
+    "answer": 1
+  },
+  {
+    "question": "The 2026 Union Budget announced the establishment of how many new 'Mega Integrated Textile Regions and Parks' (MITRA)? / ২০২৬ চনৰ কেন্দ্ৰীয় বাজেটত কিমানখন নতুন 'মেগা ইনটিগ্ৰেটেড টেক্সটাইল ৰিজিয়ন এণ্ড পাৰ্ক' (MITRA) স্থাপনৰ কথা ঘোষণা কৰা হৈছে?",
+    "options": ["5 Parks", "7 Parks", "10 Parks", "12 Parks"],
+    "answer": 1
+  },
+  {
+    "question": "Which sector received the highest percentage increase in allocation in the 2026-27 Union Budget to combat climate change? / জলবায়ু পৰিৱৰ্তনৰ মোকাবিলা কৰিবলৈ ২০২৬-২৭ বৰ্ষৰ কেন্দ্ৰীয় বাজেটত কোনটো খণ্ডত সৰ্বাধিক শতাংশ ধন বৃদ্ধি কৰা হৈছে?",
+    "options": ["Renewable Energy and Green Hydrogen", "Coal Mining", "Petroleum Refining", "Textile Industry"],
+    "answer": 0
+  },
+  {
+    "question": "According to the Economic Survey 2025-26, what is India's rank in terms of the global startup ecosystem? / অৰ্থনৈতিক জৰীপ ২০২৫-২৬ অনুসৰি গোলকীয় ষ্টাৰ্টআপ পৰিৱেশ তন্ত্ৰৰ ক্ষেত্ৰত ভাৰতৰ স্থান কিমান?",
+    "options": ["1st", "2nd", "3rd", "5th"],
+    "answer": 2
+  },
+  {
+    "question": "What new provision was made for 'Anganwadi' and 'ASHA' workers in the 2026 Budget? / ২০২৬ বৰ্ষৰ বাজেটত 'অংগনবাড়ী' আৰু 'আশা' কৰ্মীসকলৰ বাবে কোনটো নতুন ব্যৱস্থা কৰা হৈছে?",
+    "options": ["Expansion of Ayushman Bharat coverage to all workers", "Free international trips", "Provision of luxury cars", "100% pension without service years"],
+    "answer": 0
+  }
+]
