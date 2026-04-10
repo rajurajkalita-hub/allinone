@@ -1,52 +1,52 @@
 [
   {
-    "question": "Which administrative unit was introduced in late 2025 to provide district-level services at the sub-division level? / মহকুমা পৰ্যায়ত জিলা-পৰ্যায়ৰ সেৱা আগবঢ়াবলৈ ২০২৫ চনৰ শেষৰ ফালে অসমত কোনটো প্ৰশাসনিক গোট প্ৰৱৰ্তন কৰা হৈছিল?",
-    "options": ["Sub-Districts", "Co-Districts (Xama-Zilla)", "Model Blocks", "District Annexes"],
+    "question": "Which district was officially reorganized/restored as the 35th district of Assam in the recent 2025-26 administrative update? / শেহতীয়া ২০২৫-২৬ বৰ্ষৰ প্ৰশাসনিক আপডেটত কোনখন জিলাক আনুষ্ঠানিকভাৱে অসমৰ ৩৫ সংখ্যক জিলা হিচাপে পুনৰ গঠন কৰা হৈছে?",
+    "options": ["Tamulpur", "Hojai", "Biswanath", "Bajali"],
+    "answer": 3
+  },
+  {
+    "question": "According to the latest 2026 forest data, which national park in Assam saw a significant expansion in its buffer zone? / ২০২৬ চনৰ শেহতীয়া বন তথ্য অনুসৰি, অসমৰ কোনখন ৰাষ্ট্ৰীয় উদ্যানৰ বাফাৰ জন (buffer zone) বুজন পৰিমাণে বৃদ্ধি কৰা হৈছে?",
+    "options": ["Nameri National Park", "Kaziranga National Park", "Raimona National Park", "Orang National Park"],
     "answer": 1
   },
   {
-    "question": "As of April 2026, which district in Assam continues to report the highest cumulative tree cover loss? / ২০২৬ চনৰ এপ্ৰিল মাহলৈকে অসমৰ কোনখন জিলাত সৰ্বাধিক গছৰ আৱৰণ হ্ৰাস হোৱাৰ খবৰ পোৱা গৈছে?",
-    "options": ["Sonitpur", "Tinsukia", "Karbi Anglong", "Dima Hasao"],
-    "answer": 2
-  },
-  {
-    "question": "What is the total number of Co-Districts (Xama-Zilla) operational in Assam following the second phase? / দ্বিতীয় পৰ্যায়ৰ পিছত অসমত বৰ্তমান মুঠ কিমানখন সহ-জিলা (Co-District) কাৰ্যকৰী হৈ আছে?",
-    "options": ["35", "39", "49", "52"],
-    "answer": 2
-  },
-  {
-    "question": "According to 2026 demographic projections, what is the estimated literacy rate of Assam? / ২০২৬ চনৰ জনগাঁথনিগত প্ৰক্ষেপণ অনুসৰি অসমৰ আনুমানিক সাক্ষৰতাৰ হাৰ কিমান?",
-    "options": ["72.19%", "75.50%", "82.10%", "85.20%"],
+    "question": "Which forest division in Assam recorded the highest increase in 'Very Dense Forest' (VDF) cover in the 2025-26 survey? / ২০২৫-২৬ বৰ্ষৰ জৰীপত অসমৰ কোনটো বন সংমণ্ডলত 'অতি ঘন অৰণ্য' (VDF) সৰ্বাধিক বৃদ্ধি পাইছে?",
+    "options": ["Karbi Anglong East", "Dhubri", "Lakhimpur", "Dima Hasao"],
     "answer": 0
   },
   {
-    "question": "Which phase of Census 2027 operations began in Assam in April 2026? / ২০২৭ চনৰ লোকপিয়লৰ কোনটো পৰ্যায় ২০২৬ চনৰ এপ্ৰিল মাহত অসমত আৰম্ভ হৈছে?",
-    "options": ["Population Enumeration", "Houselisting and Housing Census", "Digital Mapping Survey", "NRC Verification"],
-    "answer": 1
-  },
-  {
-    "question": "Which forest area was the focus of major legal protection as a 'Natural Flood Buffer' in early 2026? / ২০২৬ চনৰ আৰম্ভণিতে কোনটো বনাঞ্চলক 'প্ৰাকৃতিক বান বাফাৰ' হিচাপে আইনী সুৰক্ষাৰ বাবে গুৰুত্ব দিয়া হৈছিল?",
-    "options": ["Amchang Wildlife Sanctuary", "Deepor Beel and its surroundings", "Barnadi Wildlife Sanctuary", "Raimona National Park"],
-    "answer": 1
-  },
-  {
-    "question": "Under the 2025-26 budget, which mission is dedicated to providing land rights to indigenous people? / ২০২৫-২৬ বৰ্ষৰ বাজেট অনুসৰি, খিলঞ্জীয়া লোকক ভূমিৰ অধিকাৰ প্ৰদানৰ বাবে কোনটো মিছন উৎসৰ্গিত?",
-    "options": ["Mission Samarth", "Mission Basundhara 3.0", "Mission Bhumiputra", "Mission Sadbhavana"],
-    "answer": 1
-  },
-  {
-    "question": "What is the primary theme of 'Amrit Brikshya Andolan 3.0' scheduled for mid-2026? / ২০২৬ চনৰ মাজভাগৰ বাবে নিৰ্ধাৰিত 'অমৃত বৃক্ষ আন্দোলন ৩.০'-ৰ মুখ্য বিষয়বস্তু কি?",
-    "options": ["One Student One Tree", "Commercial Tree Plantation", "Urban Nagar Vans", "Village Forest Grids"],
-    "answer": 1
-  },
-  {
-    "question": "Which district is newly recognized for the 'Boko-Chhaygaon' Co-District model in April 2026? / ২০২৬ চনৰ এপ্ৰিল মাহত 'বকো-ছয়গাঁও' সহ-জিলা মডেলৰ বাবে নতুনকৈ স্বীকৃতি পোৱা জিলাখন কোনখন?",
-    "options": ["Goalpara", "Barpeta", "Kamrup", "South Salmara"],
+    "question": "As of April 2026, how many administrative districts are there in Assam following the post-delimitation cabinet decisions? / সমষ্টি নিৰ্ধাৰণৰ পৰৱৰ্তী কেবিনেট সিদ্ধান্তৰ পিছত ২০২৬ চনৰ এপ্ৰিল মাহলৈকে অসমত কিমানখন প্ৰশাসনিক জিলা আছে?",
+    "options": ["31 Districts", "34 Districts", "35 Districts", "33 Districts"],
     "answer": 2
   },
   {
-    "question": "According to the 2026 update, how many districts in Assam have been identified as Muslim-majority? / ২০২৬ চনৰ তথ্য অনুসৰি, অসমৰ কিমানখন জিলাক মুছলমান সংখ্যাগৰিষ্ঠ হিচাপে চিনাক্ত কৰা হৈছে?",
-    "options": ["9", "11", "13", "14"],
+    "question": "The 'Amrit Brikshya Andolan 2025-26' primarily focused on increasing forest cover in which specific geographic areas? / 'অমৃত বৃক্ষ আন্দোলন ২০২৫-২৬'এ মূলত কোনটো ভৌগোলিক অঞ্চলত বনভূমি বৃদ্ধিৰ ওপৰত গুৰুত্ব দিছিল?",
+    "options": ["Reserved Forests", "Degraded forest lands and Community lands", "Riverine islands (Chars)", "Tea garden buffer strips"],
     "answer": 1
+  },
+  {
+    "question": "Which district of Assam was identified in the 2026 demographic survey as having the highest urban population growth rate? / ২০২৬ চনৰ জনসংখ্যাৰ জৰীপত অসমৰ কোনখন জিলাত চহৰীয়া জনসংখ্যাৰ বৃদ্ধিৰ হাৰ সৰ্বাধিক বুলি চিনাক্ত কৰা হৈছে?",
+    "options": ["Dibrugarh", "Kamrup Metropolitan", "Nagaon", "Cachar"],
+    "answer": 1
+  },
+  {
+    "question": "In the recent 2026 update, which wetland (Beel) of Assam was proposed for new eco-sensitive zone notification? / ২০২৬ চনৰ শেহতীয়া আপডেটত অসমৰ কোনটো জলাশয়ক (বিল) নতুন ইক'-চেন্সিটিভ জ'নৰ বাবে প্ৰস্তাৱ কৰা হৈছে?",
+    "options": ["Deepor Beel", "Maguri Motapung Beel", "Son Beel", "Chandubi Beel"],
+    "answer": 0
+  },
+  {
+    "question": "Which autonomous council's boundary was recently readjusted in early 2026 to include new villages? / ২০২৬ চনৰ আৰম্ভণিতে নতুন গাঁও অন্তৰ্ভুক্ত কৰিবলৈ কোনটো স্বায়ত্বশাসিত পৰিষদৰ সীমা পুনৰ নিৰ্ধাৰণ কৰা হৈছে?",
+    "options": ["Tiwa Autonomous Council", "Bodoland Territorial Region (BTR)", "Rabha Hasong Autonomous Council", "Mising Autonomous Council"],
+    "answer": 1
+  },
+  {
+    "question": "The 2025-26 'State of Forest Report' (Assam Chapter) highlights a decrease in forest cover in which district due to infrastructure projects? / ২০২৫-২৬ বৰ্ষৰ 'ষ্টেট অফ ফৰেষ্ট ৰিপৰ্ট'ত আন্তঃগাঁথনি প্ৰকল্পৰ বাবে কোনখন জিলাত বনভূমি হ্ৰাস পোৱাৰ কথা উল্লেখ কৰা হৈছে?",
+    "options": ["Sonitpur", "Dima Hasao", "Tinsukia", "Kokrajhar"],
+    "answer": 1
+  },
+  {
+    "question": "What is the new total number of Sub-Districts (Sub-divisions) created for better administrative reach in 2025-26? / ২০২৫-২৬ বৰ্ষত উন্নত প্ৰশাসনৰ বাবে সৃষ্টি কৰা মুঠ উপ-জিলাৰ (Sub-Districts) সংখ্যা কিমান?",
+    "options": ["78 Sub-districts", "81 Sub-districts", "92 Sub-districts", "126 Sub-districts (as circles/sub-units)"],
+    "answer": 3
   }
 ]
