@@ -1,1 +1,52 @@
-
+[
+  {
+    "question": "Which neighboring country did India sign a landmark MoU with in early 2026 to develop a new cross-border electricity transmission line under the 'Act East Policy'? / 'এক্ট ইষ্ট পলিচি'ৰ অধীনত এখন নতুন আন্তঃসীমান্ত বিদ্যুৎ পৰিবাহী লাইন স্থাপনৰ বাবে ২০২৬ চনৰ আৰম্ভণিতে ভাৰতে কোনখন চুবুৰীয়া দেশৰ সৈতে এক ঐতিহাসিক বুজাবুজি চুক্তি স্বাক্ষৰ কৰিছে?",
+    "options": ["Bangladesh", "Bhutan", "Myanmar", "Nepal"],
+    "answer": 0
+  },
+  {
+    "question": "Which significant bill was passed in the Parliament in late 2025 to regulate the use of Artificial Intelligence and protect data privacy? / কৃত্ৰিম বুদ্ধিমত্তাৰ (AI) ব্যৱহাৰ নিয়ন্ত্ৰণ কৰিবলৈ আৰু তথ্যৰ গোপনীয়তা সুৰক্ষিত কৰিবলৈ ২০২৫ চনৰ শেষৰ ফালে সংসদত কোনখন গুৰুত্বপূৰ্ণ বিধেয়ক গৃহীত হৈছিল?",
+    "options": ["Digital India Act 2025", "AI Regulation & Safety Bill", "Personal Data Protection Amendment Act", "Cyber Security Framework Bill"],
+    "answer": 0
+  },
+  {
+    "question": "In 2025-26, India intensified diplomatic ties with which Southeast Asian nation by signing a strategic MoU on 'Semiconductor Supply Chain' cooperation? / ২০২৫-২৬ বৰ্ষত 'ছেমিকণ্ডাক্টৰ যোগান শৃংখল'ৰ সহযোগিতাৰ ওপৰত এক কৌশলগত বুজাবুজি চুক্তি স্বাক্ষৰ কৰি ভাৰতে কোনখন দক্ষিণ-পূব এছীয় দেশৰ সৈতে কূটনৈতিক সম্পৰ্ক গভীৰ কৰিছে?",
+    "options": ["Vietnam", "Singapore", "Malaysia", "Thailand"],
+    "answer": 1
+  },
+  {
+    "question": "The 'Bhartiya Nyaya Sanhita' and other new criminal laws became fully operational with new amendments in which year/month? / কোন বছৰ বা মাহত নতুন সংশোধনীৰ সৈতে 'ভাৰতীয় ন্যায় সংহিতা' আৰু অন্যান্য নতুন ফৌজদাৰী আইনসমূহ সম্পূৰ্ণৰূপে কাৰ্যক্ষম হৈ উঠিছে?",
+    "options": ["January 2025", "July 2024", "January 2026", "April 2026"],
+    "answer": 2
+  },
+  {
+    "question": "Which Act was passed in 2026 to streamline the process of 'Green Energy Open Access' and promote hybrid power projects? / 'গ্ৰীণ এনাৰ্জি অপেন এক্সেছ' প্ৰক্ৰিয়াটো সৰল কৰিবলৈ আৰু হাইব্ৰিড শক্তি প্ৰকল্পসমূহক উৎসাহিত কৰিবলৈ ২০২৬ চনত কোনটো আইন গৃহীত কৰা হৈছে?",
+    "options": ["Electricity (Amendment) Act 2026", "Renewable Energy Promotion Act", "Green Grid Mission Act", "Energy Conservation Update Bill"],
+    "answer": 0
+  },
+  {
+    "question": "During the 2026 diplomatic visit, India and Thailand agreed to accelerate which major connectivity project? / ২০২৬ চনৰ কূটনৈতিক ভ্ৰমণৰ সময়ত ভাৰত আৰু থাইলেণ্ডে কোনটো প্ৰধান সংযোগ প্ৰকল্পৰ কাম ত্বৰান্বিত কৰিবলৈ সন্মত হৈছিল?",
+    "options": ["India-Myanmar-Thailand Trilateral Highway", "Kaladan Multi-Modal Project", "BBIN Motor Vehicle Agreement", "Mekong-Ganga Economic Corridor"],
+    "answer": 0
+  },
+  {
+    "question": "The 'National Cooperative Policy 2025', passed in the winter session, primarily aims to empower which sector? / শীতকালীন অধিৱেশনত গৃহীত হোৱা 'ৰাষ্ট্ৰীয় সমবায় নীতি ২০২৫'ৰ প্ৰাথমিক লক্ষ্য কোনটো খণ্ডক সৱলীকৰণ কৰা?",
+    "options": ["Heavy Industries", "Rural Economy and Self-Help Groups", "Space Technology", "Foreign Direct Investment"],
+    "answer": 1
+  },
+  {
+    "question": "In early 2026, India signed an MoU with Bhutan for the development of which special administrative and economic zone? / ২০২৬ চনৰ আৰম্ভণিতে ভূটানৰ কোনটো বিশেষ প্ৰশাসনিক আৰু অৰ্থনৈতিক অঞ্চলৰ উন্নয়নৰ বাবে ভাৰতে এখন বুজাবুজি চুক্তি স্বাক্ষৰ কৰিছে?",
+    "options": ["Thimphu IT Park", "Gelephu Mindfulness City", "Phuentsholing Trade Hub", "Paro Green Zone"],
+    "answer": 1
+  },
+  {
+    "question": "Which new legislation was passed in 2026 to tackle the issue of 'Paper Leaks' and unfair means in National Recruitment Exams? / ৰাষ্ট্ৰীয় নিযুক্তি পৰীক্ষাসমূহত 'প্ৰশ্নকাকত ফাদিল' আৰু অসৎ উপায় অৱলম্বন কৰা সমস্যাটো সমাধান কৰিবলৈ ২০২৬ চনত কোনটো নতুন আইন গৃহীত কৰা হৈছে?",
+    "options": ["National Testing Agency Reform Act", "Public Examinations (Prevention of Unfair Means) Update Act", "Students Integrity Bill", "Exam Transparency & Safety Act"],
+    "answer": 1
+  },
+  {
+    "question": "India's 'Act East Policy' in 2026 saw a major diplomatic milestone with the opening of a new Integrated Check Post (ICP) on the border of which state? / ২০২৬ চনত ভাৰতৰ 'এক্ট ইষ্ট পলিচি'ৰ এক বৃহৎ কূটনৈতিক মাইলৰ খুঁটি হিচাপে কোনখন ৰাজ্যৰ সীমান্তত এখন নতুন সংহত তালাচী চকী (ICP) মুকলি কৰা হৈছে?",
+    "options": ["Tripura (Srimantapur)", "Mizoram (Zokhawthar)", "Manipur (Moreh)", "Assam (Sutarkandi)"],
+    "answer": 1
+  }
+]
