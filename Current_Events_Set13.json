@@ -1,1 +1,52 @@
-
+[
+  {
+    "question": "What was the standing Repo Rate maintained by the RBI's Monetary Policy Committee as of the April 2026 review? / ২০২৬ চনৰ এপ্ৰিল মাহৰ পৰ্যালোচনা অনুসৰি RBI-ৰ মুদ্ৰা নীতি কমিটিয়ে ৰখা ৰেপ' ৰেট (Repo Rate) কিমান?",
+    "options": ["6.50%", "6.25%", "6.75%", "6.00%"],
+    "answer": 0
+  },
+  {
+    "question": "In early 2026, which new feature was integrated into the 'e-Rupee' (Central Bank Digital Currency) to increase its adoption? / ২০২৬ চনৰ আৰম্ভণিতে 'ই-টকা'ৰ (CBDC) ব্যৱহাৰ বৃদ্ধি কৰিবলৈ কোনটো নতুন বৈশিষ্ট্য একত্ৰিত কৰা হৈছে?",
+    "options": ["Offline transaction capability", "Integration with Credit Cards only", "Mandatory use for all salaries", "Abolition of physical cash"],
+    "answer": 0
+  },
+  {
+    "question": "The average monthly GST collection trend in the last quarter of FY 2025-26 crossed which significant milestone? / ২০২৫-২৬ বিত্তীয় বৰ্ষৰ অন্তিমটো ত্ৰৈমাসিকত গড় মাহেকীয়া GST সংগ্ৰহৰ ধাৰাই কোনটো গুৰুত্বপূৰ্ণ মাইলৰ খুঁটি অতিক্ৰম কৰিছে?",
+    "options": ["₹1.5 Lakh Crore", "₹1.8 Lakh Crore", "₹2.0 Lakh Crore", "₹2.5 Lakh Crore"],
+    "answer": 2
+  },
+  {
+    "question": "Which platform was updated in 2026 to allow seamless cross-border payments using UPI and e-Rupee with multiple countries? / বহুকেইখন দেশৰ সৈতে UPI আৰু ই-টকা ব্যৱহাৰ কৰি নিৰৱচ্ছিন্ন আন্তঃৰাষ্ট্ৰীয় পৰিশোধৰ অনুমতি দিবলৈ ২০২৬ চনত কোনটো প্লেটফৰ্ম আপডেট কৰা হৈছে?",
+    "options": ["UPI Global Connect", "Pay-World India", "NPCI International (NIPL) Gateway", "Swift-India"],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary target of the 'Financial Inclusion Index 2026' released by the RBI? / RBI-য়ে প্ৰকাশ কৰা 'বিত্তীয় অন্তৰ্ভুক্তিকৰণ সূচকাংক ২০২৬'-ৰ প্ৰাথমিক লক্ষ্য কি?",
+    "options": ["Measuring the growth of stock markets", "Assessing the reach of banking services to the last mile", "Monitoring gold imports", "Evaluating corporate tax returns"],
+    "answer": 1
+  },
+  {
+    "question": "Which type of banking license did the RBI focus on expanding in 2025-26 to support small businesses in rural areas? / গ্ৰামাঞ্চলৰ সৰু ব্যৱসায়িক প্ৰতিষ্ঠানক সহায় কৰিবলৈ ২০২৫-২৬ চনত RBI-য়ে কোনটো বেংকিং লাইচেঞ্চ সম্প্ৰসাৰণৰ ওপৰত গুৰুত্ব দিছে?",
+    "options": ["Universal Banking License", "Small Finance Banks (SFB) and Payments Banks", "Foreign Bank Subsidies", "Co-operative Credit Society"],
+    "answer": 1
+  },
+  {
+    "question": "The 'T+0' settlement cycle, introduced for the stock market, became fully operational for all retail investors in which month? / শ্বেয়াৰ বজাৰৰ বাবে আৰম্ভ কৰা 'T+0' ছেটেলমেণ্ট চাইকেল কোনটো মাহৰ পৰা সকলো খুচুৰা বিনিয়োগকাৰীৰ বাবে সম্পূৰ্ণৰূপে কাৰ্যক্ষম হৈ উঠিছে?",
+    "options": ["January 2025", "April 2025", "January 2026", "March 2026"],
+    "answer": 2
+  },
+  {
+    "question": "As per the 2026 updates, what is the maximum limit for 'UPI Lite' transactions per day to promote small digital payments? / ক্ষুদ্ৰ ডিজিটেল লেনদেনক উৎসাহিত কৰিবলৈ ২০২৬ চনৰ আপডেট অনুসৰি প্ৰতিদিনে 'UPI Lite' লেনদেনৰ সৰ্বোচ্চ সীমা কিমান?",
+    "options": ["₹2,000", "₹5,000", "₹1,000", "₹10,000"],
+    "answer": 1
+  },
+  {
+    "question": "Which regulatory body launched the 'Saa₹thi 2.0' app in early 2026 to educate investors about the risks of unregulated financial schemes? / অনিয়ন্ত্ৰিত বিত্তীয় আঁচনিৰ বিপদৰ বিষয়ে বিনিয়োগকাৰীক শিক্ষিত কৰিবলৈ ২০২৬ চনৰ আৰম্ভণিতে কোনটো নিয়ন্ত্ৰক সংস্থাই 'Saa₹thi 2.0' এপ মুকলি কৰিছে?",
+    "options": ["RBI", "SEBI", "IRDAI", "PFRDA"],
+    "answer": 1
+  },
+  {
+    "question": "The 'Unified Lending Interface' (ULI) launched in late 2025 aims to provide what service to borrowers in 2026? / ২০২৫ চনৰ শেষৰ ফালে মুকলি কৰা 'ইউনিফাইড লেণ্ডিং ইণ্টাৰফেচ'ৰ (ULI) লক্ষ্য ২০২৬ চনত ঋণগ্ৰহিতাসকলক কি সেৱা প্ৰদান কৰা?",
+    "options": ["Free credit cards", "Frictionless, end-to-end digital credit/loans", "Stock market tips", "Insurance premium discounts"],
+    "answer": 1
+  }
+]
