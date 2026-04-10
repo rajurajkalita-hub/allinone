@@ -1,102 +1,52 @@
 [
   {
-    "question": "Which city hosted the landmark COP30 UN Climate Change Conference in 2025-26? / ২০২৫-২৬ বৰ্ষৰ ঐতিহাসিক COP30 ৰাষ্ট্ৰসংঘৰ জলবায়ু পৰিৱৰ্তন সন্মিলন কোনখন চহৰত অনুষ্ঠিত হৈছিল?",
-    "options": ["Baku", "Belém", "Dubai", "Rio de Janeiro"],
-    "answer": 1
-  },
-  {
-    "question": "What was the primary focus of the 'Mission LiFE' update presented by India at COP30? / COP30 ত ভাৰতে উপস্থাপন কৰা 'মিছন লাইফ' (Mission LiFE) আপডেটৰ মূল লক্ষ্য কি আছিল?",
-    "options": ["Pro-Planet People (P3) and Sustainable Consumption", "Space Waste Management", "Deep Sea Mining", "Forest Fire Insurance"],
+    "question": "Which state is the host of the 38th National Games of India in 2025-26? / ২০২৫-২৬ বৰ্ষত ভাৰতৰ ৩৮ সংখ্যক ৰাষ্ট্ৰীয় ক্ৰীড়া কোনখন ৰাজ্যত অনুষ্ঠিত হৈছে?",
+    "options": ["Uttarakhand", "Goa", "Assam", "Gujarat"],
     "answer": 0
   },
   {
-    "question": "The 'Global Biofuel Alliance' (GBA), led by India, set a new target in 2026 for? / ভাৰতৰ নেতৃত্বত থকা 'গোলকীয় জৈৱ ইন্ধন মিত্ৰজোঁট' (GBA) এ ২০২৬ চনত কিহৰ বাবে এক নতুন লক্ষ্য নিৰ্ধাৰণ কৰিছে?",
-    "options": ["10% Ethanol blending globally", "Tripling global biofuel production by 2030", "Banning coal by 2028", "Zero-emission shipping"],
+    "question": "Which sport was officially included in the 2028 Los Angeles Olympic program as a legacy of recent global expansion in 2025? / ২০২৫ চনৰ গোলকীয় সম্প্ৰসাৰণৰ পৰিপ্ৰেক্ষিতত ২০২৮ চনৰ লছ এঞ্জেলছ অলিম্পিকত কোনটো খেলক আনুষ্ঠানিকভাৱে অন্তৰ্ভুক্ত কৰা হৈছে?",
+    "options": ["Kabaddi", "T20 Cricket", "Football", "Polo"],
     "answer": 1
   },
   {
-    "question": "Which country officially rejoined the Paris Agreement with a new NDC target in early 2026? / ২০২৬ চনৰ আৰম্ভণিতে কোনখন দেশে নতুন NDC লক্ষ্যৰে চৰকাৰীভাৱে পেৰিছ চুক্তিত পুনৰ যোগদান কৰিছে?",
-    "options": ["Argentina", "Iran", "Turkey", "None of these (Trick: Already joined)"],
+    "question": "Who emerged as the winner of the ICC Champions Trophy held in early 2025? / ২০২৫ চনৰ আৰম্ভণিতে অনুষ্ঠিত ICC চেম্পিয়নছ ট্ৰফী কোনে জয় কৰিছিল?",
+    "options": ["Pakistan", "Australia", "South Africa", "India"],
     "answer": 3
   },
   {
-    "question": "The 'Green Credit Programme' (GCP) of India received international recognition at COP30 for? / ভাৰতৰ 'গ্ৰীন ক্ৰডিট প্ৰগ্ৰেম' (GCP) এ COP30 ত কিহৰ বাবে আন্তঃৰাষ্ট্ৰীয় স্বীকৃতি লাভ কৰিছিল?",
-    "options": ["Plastic waste recycling only", "Incentivizing environmental actions beyond carbon credits", "Free solar panel distribution", "Cleaning the Ganga river"],
+    "question": "Which football club won the UEFA Champions League 2025-26 title? / ২০২৫-২৬ বৰ্ষৰ UEFA চেম্পিয়নছ লীগৰ খিতাপ কোনটো ফুটবল ক্লাবে জয় কৰিছে?",
+    "options": ["Manchester City", "Real Madrid", "Bayern Munich", "Liverpool"],
     "answer": 1
   },
   {
-    "question": "Which state in India was declared the first 'Net Zero State' in terms of electricity consumption in 2026? / ২০২৬ চনত বিদ্যুৎ ব্যৱহাৰৰ ক্ষেত্ৰত ভাৰতৰ কোনখন ৰাজ্যক প্ৰথম 'নেট জিৰ' ৰাজ্য' হিচাপে ঘোষণা কৰা হৈছে?",
-    "options": ["Gujarat", "Sikkim", "Himachal Pradesh", "Kerala"],
-    "answer": 1
-  },
-  {
-    "question": "The 'Loss and Damage Fund' operationalized in COP28-29 saw a major capital boost in 2026 from? / COP28-29 ত কাৰ্যকৰী হোৱা 'ক্ষতি আৰু দুৰ্যোগ পুঁজি' (Loss and Damage Fund) টোৱে ২০২৬ চনত কাৰ পৰা বৃহৎ মূলধন লাভ কৰিছে?",
-    "options": ["World Bank", "IMF", "Developed Nations Solidarity Group", "New Development Bank"],
+    "question": "India's Sumit Antil defended his gold medal in which event at the 2024 Paralympics and 2025 Para-Athletics? / ২০২৪ চনৰ পেৰালিম্পিক আৰু ২০২৫ চনৰ পেৰা-এথলেটিক্সত ভাৰতৰ সুমিত আন্তিলে কোনটো ইভেণ্টত নিজৰ সোণৰ পদক অক্ষুণ্ণ ৰাখিছে?",
+    "options": ["Shot Put", "Discus Throw", "Javelin Throw (F64)", "High Jump"],
     "answer": 2
   },
   {
-    "question": "Which species was the focus of the 'International Big Cat Alliance' (IBCA) summit hosted by India in 2026? / ২০২৬ চনত ভাৰতে আয়োজন কৰা 'আন্তঃৰাষ্ট্ৰীয় বিগ কেট এলায়েন্স' (IBCA) সন্মিলনৰ কেন্দ্ৰবিন্দু কোনটো প্ৰজাতি আছিল?",
-    "options": ["Only Tigers", "Seven major Big Cats (Lion, Tiger, Leopard, etc.)", "Cheetahs only", "Snow Leopards of Himalayas"],
-    "answer": 1
-  },
-  {
-    "question": "The 'Global Goal on Adaptation' (GGA) framework discussed in 2026 primarily helps? / ২০২৬ চনত আলোচনা কৰা 'গোলকীয় অভিযোজন লক্ষ্য' (GGA) গাঁথনিটোৱে মূলত কাক সহায় কৰে?",
-    "options": ["Oil exporting countries", "Developing and Climate-vulnerable nations", "Space research agencies", "Automobile industries"],
-    "answer": 1
-  },
-  {
-    "question": "What is the name of the satellite launched by ISRO-NASA (NISAR) in 2025-26 to monitor climate change? / জলবায়ু পৰিৱৰ্তন নিৰীক্ষণৰ বাবে ২০২৫-২৬ বৰ্ষত ISRO-NASA (NISAR) এ উৎক্ষেপণ কৰা উপগ্ৰহটোৰ নাম কি?",
-    "options": ["Earth Care", "NISAR (NASA-ISRO SAR)", "Climate-Sat 1", "Ocean-View"],
-    "answer": 1
-  },
-  {
-    "question": "India's target of achieving 500 GW non-fossil energy capacity was updated in 2026 to be achieved by? / ভাৰতৰ ৫০০ গিগৱাট অ-জীৱাশ্ম শক্তি ক্ষমতা লাভৰ লক্ষ্য ২০২৬ চনত সংশোধন কৰি কেতিয়ালৈকে নিৰ্ধাৰণ কৰা হৈছে?",
-    "options": ["2030 (Original target remains)", "2028", "2035", "2040"],
+    "question": "Which three countries are the joint hosts for the FIFA World Cup 2026? / ২০২৬ চনৰ ফিফা বিশ্বকাপৰ যৌথ আয়োজক দেশ তিনিখন কি কি?",
+    "options": ["USA, Canada, Mexico", "Spain, Portugal, Morocco", "Saudi Arabia, Qatar, UAE", "Argentina, Uruguay, Chile"],
     "answer": 0
   },
   {
-    "question": "Which Indian district became the first to implement 'District-level Climate Action Plan' in 2026? / ২০২৬ চনত 'জিলা পৰ্যায়ৰ জলবায়ু কাৰ্যপৰিকল্পনা' ৰূপায়ণ কৰা ভাৰতৰ প্ৰথমখন জিলা কোনখন?",
-    "options": ["Indore", "Wayanad", "Majuli", "Leh"],
+    "question": "Who was awarded the 'Major Dhyan Chand Khel Ratna' in 2025 following their multi-medal success at the 2024 Olympics? / ২০২৪ চনৰ অলিম্পিকত একাধিক পদক জয়ৰ পাছত ২০২৫ চনত কাক 'মেজৰ ধ্যানচান্দ খেলৰত্ন' বঁটা প্ৰদান কৰা হৈছে?",
+    "options": ["Neeraj Chopra", "Manu Bhaker", "P.R. Sreejesh", "Vinesh Phogat"],
     "answer": 1
   },
   {
-    "question": "The 'Great Wall of India' (Green Wall) project in 2026 involves planting trees across? / ২০২৬ চনত 'গ্ৰেট ৱাল অফ ইণ্ডিয়া' (গ্ৰীন ৱাল) প্ৰকল্পৰ অধীনত ক'ত গছপুলি ৰোপণ কৰা হৈছে?",
-    "options": ["Himalayan range", "Aravalli range from Gujarat to Delhi", "Western Ghats", "Sunderbans Delta"],
-    "answer": 1
-  },
-  {
-    "question": "What is the 'Blue Carbon' initiative discussed at COP30? / COP30 ত আলোচনা কৰা 'ব্লু কাৰ্বন' (Blue Carbon) উদ্যোগটো কি?",
-    "options": ["Carbon stored in coastal and marine ecosystems", "Carbon emission from ships", "Use of blue hydrogen", "Industrial carbon capture in oceans"],
-    "answer": 0
-  },
-  {
-    "question": "Which international agreement was amended in 2026 to further phase out HFCs? / HFC সমূহ অধিক হ্ৰাস কৰিবলৈ ২০২৬ চনত কোনটো আন্তঃৰাষ্ট্ৰীয় চুক্তি সংশোধন কৰা হৈছে?",
-    "options": ["Montreal Protocol (Kigali Amendment context)", "Kyoto Protocol", "Paris Agreement", "Ramsar Convention"],
-    "answer": 0
-  },
-  {
-    "question": "The 'Amrit Brikshya Andolan 2.0' in Assam (2025-26) set a record for? / অসমত 'অমৃত বৃক্ষ আন্দোলন ২.০' (২০২৫-২৬) এ কিহৰ অভিলেখ গঢ়িছিল?",
-    "options": ["Protecting Rhinos", "Planting 3 crore saplings in a single day", "Building bamboo bridges", "Cleaning urban ponds"],
-    "answer": 1
-  },
-  {
-    "question": "Which country won the 'Champion of the Earth' award 2026 for its plastic-free policy? / প্লাষ্টিক মুক্ত নীতিৰ বাবে কোনখন দেশে ২০২৬ চনৰ 'চেম্পিয়ন অফ দ্য আৰ্থ' বঁটা লাভ কৰিছে?",
-    "options": ["India", "Rwanda", "Norway", "Bhutan"],
-    "answer": 3
-  },
-  {
-    "question": "The 'Global Stocktake' (GST) process concluded in COP30 highlights? / COP30 ত সমাপ্ত হোৱা 'গোলকীয় ষ্টকটেক' (GST) প্ৰক্ৰিয়াটোৱে কিহৰ ওপৰত আলোকপাত কৰে?",
-    "options": ["World's collective progress towards Paris Agreement goals", "Global stock market fluctuations", "Food security stocks", "Military budget of nations"],
-    "answer": 0
-  },
-  {
-    "question": "India's first 'Green Hydrogen Plant' in the public sector became fully operational in 2026 at? / ২০২৬ চনত ৰাজহুৱা খণ্ডত ভাৰতৰ প্ৰথমটো 'গ্ৰীন হাইড্ৰজেন প্লাণ্ট' ক'ত সম্পূৰ্ণৰূপে কাৰ্যক্ষম হৈ উঠিছে?",
-    "options": ["Digboi", "Jorhat", "Numaligarh", "Mathura"],
-    "answer": 1
-  },
-  {
-    "question": "What was the theme of the 'World Environment Day' 2026? / ২০২৬ চনৰ 'বিশ্ব পৰিৱেশ দিৱস'ৰ মূল বিষয়বস্তু (Theme) কি আছিল?",
-    "options": ["Only One Earth", "Beat Plastic Pollution", "Restore our Land: Circular Economy focus", "Air Pollution Control"],
+    "question": "Which team won the 2026 Women's Premier League (WPL) title? / ২০২৬ চনৰ মহিলা প্ৰিমিয়াৰ লীগ (WPL) ৰ খিতাপ কোনটো দলে জয় কৰিছে?",
+    "options": ["Mumbai Indians", "Delhi Capitals", "Royal Challengers Bangalore (RCB)", "UP Warriorz"],
     "answer": 2
+  },
+  {
+    "question": "The 2026 Asian Games will be hosted by which city/country? / ২০২৬ চনৰ এছিয়ান গেমছ কোনখন চহৰ বা দেশত অনুষ্ঠিত হ’ব?",
+    "options": ["Doha, Qatar", "Nagoya, Japan", "Bangkok, Thailand", "Riyadh, Saudi Arabia"],
+    "answer": 1
+  },
+  {
+    "question": "Which historic football tournament, the 'Durand Cup 2025', was won by which club? / ২০২৫ চনৰ ঐতিহাসিক ফুটবল প্ৰতিযোগিতা 'ডুৰাণ্ড কাপ' কোনে জয় কৰিছিল?",
+    "options": ["Mohun Bagan SG", "East Bengal FC", "NorthEast United FC", "Mumbai City FC"],
+    "answer": 1
   }
 ]
