@@ -1,1 +1,52 @@
-
+[
+  {
+    "question": "Which landmark mission is scheduled for its first crewed flight in 2025-26 as part of India's human spaceflight programme? / ভাৰতৰ মানৱ মহাকাশ যাত্ৰা কাৰ্যসূচীৰ অংশ হিচাপে ২০২৫-২৬ বৰ্ষত কোনটো ঐতিহাসিক অভিযানৰ প্ৰথম মানৱবাহী উৰণৰ পৰিকল্পনা কৰা হৈছে?",
+    "options": ["Chandrayaan-4", "Gaganyaan-1 (H1)", "Shukrayaan-1", "Aditya-L2"],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary objective of the 'Mangalyaan-2' (MOM-2) mission planned for 2025-26? / ২০২৫-২৬ বৰ্ষৰ বাবে পৰিকল্পিত 'মঙলযান-২' (MOM-2) অভিযানৰ প্ৰাথমিক লক্ষ্য কি?",
+    "options": ["Soft landing on Mars", "Orbital study with hyperspectral camera and radar", "Sample return from Mars surface", "Human landing on Mars"],
+    "answer": 1
+  },
+  {
+    "question": "Which space agency launched the 'Artemis II' mission in 2025 to send astronauts around the Moon? / চন্দ্ৰৰ চাৰিওফালে মহাকাশচাৰী প্ৰেৰণ কৰিবলৈ ২০২৫ চনত কোনটো মহাকাশ সংস্থাই 'আৰ্টেমিছ ২' অভিযান মুকলি কৰিছে?",
+    "options": ["ISRO", "ESA", "NASA", "Roscosmos"],
+    "answer": 2
+  },
+  {
+    "question": "What is the name of the humanoid robot developed by ISRO to fly on uncrewed Gaganyaan missions in 2025? / ২০২৫ চনত মানৱবিহীন গগনযান অভিযানত উৰিবলৈ ISRO-ই বিকশিত কৰা হিউমেনইড ৰবটটোৰ নাম কি?",
+    "options": ["Vyommitra", "Gagan-Bot", "Akash-Mitra", "Sancharika"],
+    "answer": 0
+  },
+  {
+    "question": "The 'Nisar' satellite, a joint project between ISRO and NASA, is designed to study? / ISRO আৰু NASA-ৰ যৌথ প্ৰকল্প 'নিছাৰ' (NISAR) উপগ্ৰহটো কিহৰ অধ্যয়নৰ বাবে নিৰ্মাণ কৰা হৈছে?",
+    "options": ["Solar flares", "Earth's changing ecosystems and ice masses", "Deep space black holes", "Lunar south pole water"],
+    "answer": 1
+  },
+  {
+    "question": "In early 2026, which private Indian space firm launched its first orbital rocket 'Vikram-1'? / ২০২৬ চনৰ আৰম্ভণিতে কোনটো ব্যক্তিগত ভাৰতীয় মহাকাশ প্ৰতিষ্ঠানে নিজৰ প্ৰথমটো কক্ষপথীয় ৰকেট 'বিক্ৰম-১' উৎক্ষেপণ কৰিছে?",
+    "options": ["Skyroot Aerospace", "Agnikul Cosmos", "Pixxel", "Bellatrix Aerospace"],
+    "answer": 0
+  },
+  {
+    "question": "The 'Bharatiya Antariksha Station' (BAS), India's own space station, aims to launch its first module by which year? / ভাৰতৰ নিজা মহাকাশ কেন্দ্ৰ 'ভাৰতীয় আন্তৰীক্ষ ষ্টেচন'ৰ (BAS) প্ৰথমটো মডিউল কোন বছৰৰ ভিতৰত উৎক্ষেপণ কৰাৰ লক্ষ্য ৰখা হৈছে?",
+    "options": ["2026", "2028", "2030", "2035"],
+    "answer": 1
+  },
+  {
+    "question": "Which mission is planned by ISRO in 2026 to study the atmosphere of Venus? / শুক্ৰ গ্ৰহৰ বায়ুমণ্ডল অধ্যয়নৰ বাবে ২০২৬ চনত ISRO-ই কোনটো অভিযানৰ পৰিকল্পনা কৰিছে?",
+    "options": ["Shukrayaan-1", "Varun-1", "Akashganga", "Aditya-L1 Upgrade"],
+    "answer": 0
+  },
+  {
+    "question": "Which reusable launch vehicle (RLV) successfully completed its landing experiment (LEX) update in late 2025? / ২০২৫ চনৰ শেষৰ ফালে কোনটো পুনৰ ব্যৱহাৰযোগ্য উৎক্ষেপণ যানৰ (RLV) অৱতৰণ পৰীক্ষা (LEX) আপডেট সফলতাৰে সম্পন্ন হৈছে?",
+    "options": ["Pushpak", "Gagan", "Pawan", "Garuda"],
+    "answer": 0
+  },
+  {
+    "question": "As of April 2026, which country has successfully operationalized the 'Tiangong' space station with regular crew rotations? / ২০২৬ চনৰ এপ্ৰিল মাহলৈকে কোনখন দেশে নিয়মিত মহাকাশচাৰীৰ আদান-প্ৰদানেৰে 'তিয়ানগং' মহাকাশ কেন্দ্ৰ সফলতাৰে পৰিচালনা কৰি আছে?",
+    "options": ["USA", "Russia", "China", "Japan"],
+    "answer": 2
+  }
+]
