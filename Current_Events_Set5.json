@@ -1,102 +1,52 @@
 [
   {
-    "question": "Which country hosted the 52nd G7 Summit in 2026? / ২০২৬ চনত ৫২ সংখ্যক G7 সন্মিলন কোনখন দেশে আয়োজন কৰিছিল?",
-    "options": ["Germany", "USA", "France", "Italy"],
-    "answer": 1
-  },
-  {
-    "question": "The 2026 G20 Summit is being hosted by which South African nation? / ২০২৬ বৰ্ষৰ G20 সন্মিলন কোনখন দক্ষিণ আফ্ৰিকান দেশে আয়োজন কৰিছে?",
-    "options": ["Nigeria", "Egypt", "South Africa", "Kenya"],
-    "answer": 2
-  },
-  {
-    "question": "India signed the 'Comprehensive Strategic Partnership' with which European nation in early 2026? / ২০২৬ চনৰ আৰম্ভণিতে ভাৰতে কোনখন ইউৰোপীয় দেশৰ সৈতে 'ব্যাপক কৌশলগত অংশীদাৰিত্ব' স্বাক্ষৰ কৰিছে?",
-    "options": ["Spain", "Poland", "Greece", "Norway"],
-    "answer": 1
-  },
-  {
-    "question": "Who assumed the office of the UN Secretary-General in January 2027 (process started in 2026)? / ২০২৬ চনত নিৰ্বাচন প্ৰক্ৰিয়া আৰম্ভ হোৱা ৰাষ্ট্ৰসংঘৰ পৰৱৰ্তী সচিবপ্ৰধানগৰাকী কোন? (Current context of 2026)",
-    "options": ["António Guterres", "Amina J. Mohammed", "Rebeca Grynspan", "Michelle Bachelet"],
-    "answer": 1
-  },
-  {
-    "question": "The 'I2U2' Grouping (India, Israel, UAE, USA) held its 2026 summit in which city? / 'I2U2' গোটৰ ২০২৬ চনৰ সন্মিলন কোনখন চহৰত অনুষ্ঠিত হৈছিল?",
-    "options": ["Tel Aviv", "New Delhi", "Dubai", "Washington D.C."],
-    "answer": 2
-  },
-  {
-    "question": "Which country joined as the newest member of the BRICS+ alliance in 2025-26? / ২০২৫-২৬ বৰ্ষত BRICS+ মিত্ৰজোঁটৰ শেহতীয়া সদস্য হিচাপে কোনখন দেশে যোগদান কৰিছে?",
-    "options": ["Thailand", "Argentina", "Indonesia", "Vietnam"],
+    "question": "Which state is the host of the 38th National Games of India in 2025-26? / ২০২৫-২৬ বৰ্ষত ভাৰতৰ ৩৮ সংখ্যক ৰাষ্ট্ৰীয় ক্ৰীড়া কোনখন ৰাজ্যত অনুষ্ঠিত হৈছে?",
+    "options": ["Uttarakhand", "Goa", "Assam", "Gujarat"],
     "answer": 0
   },
   {
-    "question": "The 2026 QUAD Leaders' Summit was hosted by which country? / ২০২৬ বৰ্ষৰ QUAD নেতাৰ সন্মিলন কোনখন দেশে আয়োজন কৰিছিল?",
-    "options": ["Japan", "Australia", "India", "USA"],
-    "answer": 2
-  },
-  {
-    "question": "What is the primary focus of the 'Indo-Pacific Economic Framework' (IPEF) 2026 ministerial meeting? / 'ইণ্ডো-পেচিফিক ইকনমিক ফ্ৰেমৱৰ্ক' (IPEF) ২০২৬ মন্ত্ৰী পৰ্যায়ৰ বৈঠকৰ মূল লক্ষ্য কি?",
-    "options": ["Military Alliance", "Supply Chain Resilience and Clean Economy", "Visa-free travel", "Space Exploration"],
+    "question": "Which sport was officially included in the 2028 Los Angeles Olympic program as a legacy of recent global expansion in 2025? / ২০২৫ চনৰ গোলকীয় সম্প্ৰসাৰণৰ পৰিপ্ৰেক্ষিতত ২০২৮ চনৰ লছ এঞ্জেলছ অলিম্পিকত কোনটো খেলক আনুষ্ঠানিকভাৱে অন্তৰ্ভুক্ত কৰা হৈছে?",
+    "options": ["Kabaddi", "T20 Cricket", "Football", "Polo"],
     "answer": 1
   },
   {
-    "question": "India and which country launched the 'Initiative on Critical and Emerging Technology' (iCET) 2.0 in 2026? / ভাৰত আৰু কোনখন দেশে ২০২৬ চনত 'ইনিচিয়েটিভ অন ক্ৰিটিকেল এণ্ড ইমাৰ্জিং টেকন'লজি' (iCET) ২.০ মুকলি কৰিছে?",
-    "options": ["Russia", "Israel", "USA", "France"],
-    "answer": 2
-  },
-  {
-    "question": "The 2026 Commonwealth Heads of Government Meeting (CHOGM) is scheduled to be held in? / ২০২৬ বৰ্ষৰ কমনৱেলথ চৰকাৰী মুৰব্বীসকলৰ বৈঠক (CHOGM) ক'ত অনুষ্ঠিত হোৱাৰ কথা?",
-    "options": ["Antigua and Barbuda", "India", "United Kingdom", "Canada"],
-    "answer": 0
-  },
-  {
-    "question": "Which international organization declared 2026 as the 'International Year of Rangelands and Pastoralists'? / কোনটো আন্তঃৰাষ্ট্ৰীয় সংস্থাই ২০২৬ বৰ্ষটো 'তৃণভূমি আৰু পশুপালকৰ আন্তঃৰাষ্ট্ৰীয় বৰ্ষ' হিচাপে ঘোষণা কৰিছে?",
-    "options": ["UNESCO", "United Nations (UN)", "World Bank", "WTO"],
-    "answer": 1
-  },
-  {
-    "question": "The 'COP31' UN Climate Change Conference in 2026 is significantly bid for by which country? / ২০২৬ চনৰ 'COP31' ৰাষ্ট্ৰসংঘৰ জলবায়ু পৰিৱৰ্তন সন্মিলনৰ বাবে কোনখন দেশে বিশেষভাৱে নিবিদা আগবঢ়াইছে?",
-    "options": ["Brazil", "India", "Australia", "UAE"],
-    "answer": 1
-  },
-  {
-    "question": "In 2026, which country officially took over the presidency of the Shanghai Cooperation Organization (SCO)? / ২০২৬ চনত কোনখন দেশে চৰকাৰীভাৱে চাংহাই সহযোগিতা সংস্থাৰ (SCO) অধ্যক্ষতা গ্ৰহণ কৰিছে?",
-    "options": ["Pakistan", "Russia", "China", "India"],
-    "answer": 2
-  },
-  {
-    "question": "The 'Global South Summit 4.0' hosted by India in 2026 focused on? / ২০২৬ চনত ভাৰতে আয়োজন কৰা 'গোলকীয় দক্ষিণ সন্মিলন ৪.০'এ কিহৰ ওপৰত গুৰুত্ব দিছিল?",
-    "options": ["Digital Public Infrastructure (DPI) and Debt Sustainability", "Military expansion", "Oil production increase", "Cyber warfare"],
-    "answer": 0
-  },
-  {
-    "question": "Which nation became the 33rd member of NATO in early 2026? / ২০২৬ চনৰ আৰম্ভণিতে কোনখন দেশ NATO-ৰ ৩৩ সংখ্যক সদস্য হিচাপে পৰিগণিত হয়?",
-    "options": ["Sweden", "Finland", "Ukraine", "No new member was added (Trick option)"],
+    "question": "Who emerged as the winner of the ICC Champions Trophy held in early 2025? / ২০২৫ চনৰ আৰম্ভণিতে অনুষ্ঠিত ICC চেম্পিয়নছ ট্ৰফী কোনে জয় কৰিছিল?",
+    "options": ["Pakistan", "Australia", "South Africa", "India"],
     "answer": 3
   },
   {
-    "question": "The 2026 World Economic Forum (WEF) Annual Meeting was held in which city? / ২০২৬ বৰ্ষৰ বিশ্ব অৰ্থনৈতিক মঞ্চৰ (WEF) বাৰ্ষিক বৈঠক কোনখন চহৰত অনুষ্ঠিত হৈছিল?",
-    "options": ["Geneva", "Davos", "Zurich", "Paris"],
+    "question": "Which football club won the UEFA Champions League 2025-26 title? / ২০২৫-২৬ বৰ্ষৰ UEFA চেম্পিয়নছ লীগৰ খিতাপ কোনটো ফুটবল ক্লাবে জয় কৰিছে?",
+    "options": ["Manchester City", "Real Madrid", "Bayern Munich", "Liverpool"],
     "answer": 1
   },
   {
-    "question": "India's 'Act East Policy' in 2026 saw a major boost with the completion of the Trilateral Highway connecting India, Myanmar and? / ২০২৬ চনত ভাৰতৰ 'এক্ট ইষ্ট পলিচী'ৰ অধীনত ভাৰত, ম্যানমাৰ আৰু আন কোনখন দেশক সংযোগ কৰা ত্ৰিপাক্ষিক ঘাইপথৰ কাম সম্পূৰ্ণ হয়?",
-    "options": ["Vietnam", "Laos", "Thailand", "Cambodia"],
+    "question": "India's Sumit Antil defended his gold medal in which event at the 2024 Paralympics and 2025 Para-Athletics? / ২০২৪ চনৰ পেৰালিম্পিক আৰু ২০২৫ চনৰ পেৰা-এথলেটিক্সত ভাৰতৰ সুমিত আন্তিলে কোনটো ইভেণ্টত নিজৰ সোণৰ পদক অক্ষুণ্ণ ৰাখিছে?",
+    "options": ["Shot Put", "Discus Throw", "Javelin Throw (F64)", "High Jump"],
     "answer": 2
   },
   {
-    "question": "Which Middle Eastern country signed a historic Free Trade Agreement (FTA) with India in 2025-26? / ২০২৫-২৬ চনত কোনখন মধ্যপ্ৰাচ্যৰ দেশে ভাৰতৰ সৈতে এক ঐতিহাসিক মুক্ত বাণিজ্য চুক্তি (FTA) স্বাক্ষৰ কৰিছে?",
-    "options": ["Saudi Arabia", "Oman", "Qatar", "Kuwait"],
-    "answer": 1
-  },
-  {
-    "question": "The 2026 BIMSTEC Summit is hosted by which member nation? / ২০২৬ বৰ্ষৰ BIMSTEC সন্মিলন কোনখন সদস্য দেশে আয়োজন কৰিছে?",
-    "options": ["Sri Lanka", "Bangladesh", "Thailand", "India"],
-    "answer": 1
-  },
-  {
-    "question": "In 2026, which country held the presidency of the UN Security Council (UNSC) for the month of January? / ২০২৬ চনৰ জানুৱাৰী মাহত ৰাষ্ট্ৰসংঘৰ নিৰাপত্তা পৰিষদৰ (UNSC) অধ্যক্ষতা কোনখন দেশে কৰিছিল?",
-    "options": ["France", "India", "USA", "China"],
+    "question": "Which three countries are the joint hosts for the FIFA World Cup 2026? / ২০২৬ চনৰ ফিফা বিশ্বকাপৰ যৌথ আয়োজক দেশ তিনিখন কি কি?",
+    "options": ["USA, Canada, Mexico", "Spain, Portugal, Morocco", "Saudi Arabia, Qatar, UAE", "Argentina, Uruguay, Chile"],
     "answer": 0
+  },
+  {
+    "question": "Who was awarded the 'Major Dhyan Chand Khel Ratna' in 2025 following their multi-medal success at the 2024 Olympics? / ২০২৪ চনৰ অলিম্পিকত একাধিক পদক জয়ৰ পাছত ২০২৫ চনত কাক 'মেজৰ ধ্যানচান্দ খেলৰত্ন' বঁটা প্ৰদান কৰা হৈছে?",
+    "options": ["Neeraj Chopra", "Manu Bhaker", "P.R. Sreejesh", "Vinesh Phogat"],
+    "answer": 1
+  },
+  {
+    "question": "Which team won the 2026 Women's Premier League (WPL) title? / ২০২৬ চনৰ মহিলা প্ৰিমিয়াৰ লীগ (WPL) ৰ খিতাপ কোনটো দলে জয় কৰিছে?",
+    "options": ["Mumbai Indians", "Delhi Capitals", "Royal Challengers Bangalore (RCB)", "UP Warriorz"],
+    "answer": 2
+  },
+  {
+    "question": "The 2026 Asian Games will be hosted by which city/country? / ২০২৬ চনৰ এছিয়ান গেমছ কোনখন চহৰ বা দেশত অনুষ্ঠিত হ’ব?",
+    "options": ["Doha, Qatar", "Nagoya, Japan", "Bangkok, Thailand", "Riyadh, Saudi Arabia"],
+    "answer": 1
+  },
+  {
+    "question": "Which historic football tournament, the 'Durand Cup 2025', was won by which club? / ২০২৫ চনৰ ঐতিহাসিক ফুটবল প্ৰতিযোগিতা 'ডুৰাণ্ড কাপ' কোনে জয় কৰিছিল?",
+    "options": ["Mohun Bagan SG", "East Bengal FC", "NorthEast United FC", "Mumbai City FC"],
+    "answer": 1
   }
 ]
