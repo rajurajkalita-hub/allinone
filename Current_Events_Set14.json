@@ -1,1 +1,52 @@
-
+[
+  {
+    "question": "What is the primary target group of the 'Mukhya Mantri Nijut Moina' (MMNM) scheme launched in 2024-25 and active in 2026? / ২০২৪-২৫ বৰ্ষত আৰম্ভ হোৱা আৰু ২০২৬ চনত সক্ৰিয় হৈ থকা 'মুখ্যমন্ত্ৰী নিজুত মইনা' (MMNM) আঁচনিৰ প্ৰাথমিক লক্ষ্য গোট কোন?",
+    "options": ["Unemployed youth", "Girl students for higher education", "Small tea growers", "Senior citizens"],
+    "answer": 1
+  },
+  {
+    "question": "Under 'Orunodoi 3.0', what is the updated monthly financial assistance provided to eligible female beneficiaries as of April 2026? / ২০২৬ চনৰ এপ্ৰিল মাহলৈকে 'অৰুণোদয় ৩.০'ৰ অধীনত যোগ্য মহিলা হিতাধিকাৰীক প্ৰদান কৰা মাহেকীয়া বিত্তীয় সাহায্যৰ পৰিমাণ কিমান?",
+    "options": ["₹1000", "₹1250", "₹1500", "₹1850"],
+    "answer": 1
+  },
+  {
+    "question": "Which scheme was introduced to provide financial support to Assamese youth for starting micro-enterprises in 2025-26? / ২০২৫-২৬ চনত অসমৰ যুৱক-যুৱতীক ক্ষুদ্ৰ উদ্যোগ আৰম্ভ কৰিবলৈ বিত্তীয় সাহায্য প্ৰদান কৰাৰ বাবে কোনখন আঁচনি প্ৰৱৰ্তন কৰা হৈছিল?",
+    "options": ["Mukhya Mantri Atmanirbhar Asom Abhijan (CMAAA)", "Mission Saubhagya", "Asom Mala Project", "Swanirbhar Naari"],
+    "answer": 0
+  },
+  {
+    "question": "The 'Abhinandan 2.0' scheme of the Assam Government is specifically related to which sector? / অসম চৰকাৰৰ 'অভিনন্দন ২.০' আঁচনিখন বিশেষভাৱে কোনটো খণ্ডৰ সৈতে জড়িত?",
+    "options": ["Health Insurance", "Education Loan Subsidy", "Rural Electrification", "Agricultural Export"],
+    "answer": 1
+  },
+  {
+    "question": "Which mission aims to digitize land records and provide 'Land Pattas' to indigenous families, with its 3.0 phase active in 2025-26? / কোনটো মিছনৰ লক্ষ্য হৈছে ভূমিৰ অভিলেখ ডিজিটাইজ কৰা আৰু খিলঞ্জীয়া পৰিয়ালক 'ভূমি পত্তা' প্ৰদান কৰা, যাৰ ৩.০ পৰ্যায় ২০২৫-২৬ চনত সক্ৰিয় হৈ আছে?",
+    "options": ["Mission Bhumiputra", "Mission Basundhara", "Mission Sadbhavana", "Mission Sahay"],
+    "answer": 1
+  },
+  {
+    "question": "What is the main objective of the 'Mukhya Mantri Lok Sevak Arogya Yojana' updated in 2025-26? / ২০২৫-২৬ বৰ্ষত আপডেট কৰা 'মুখ্যমন্ত্ৰী লোক সেৱক আৰোগ্য যোজনা'ৰ মুখ্য উদ্দেশ্য কি?",
+    "options": ["Free health checkup for students", "Medical reimbursement for state government employees and pensioners", "Maternity benefit for tea garden workers", "Building new rural dispensaries"],
+    "answer": 1
+  },
+  {
+    "question": "Under the 'Pragyan Bharati' scheme in 2026, which of the following is provided to meritorious girl students passing the Class 12 exam? / ২০২৬ চনত 'প্ৰজ্ঞান ভাৰতী' আঁচনিৰ অধীনত দ্বাদশ শ্ৰেণীৰ পৰীক্ষাত উত্তীৰ্ণ হোৱা মেধাৱী ছাত্ৰীক তলৰ কোনটো প্ৰদান কৰা হয়?",
+    "options": ["Electric Scooters", "Free Laptops", "Bicycles", "Fixed Deposit Certificates"],
+    "answer": 0
+  },
+  {
+    "question": "The 'Aai Asomi' scheme, which is part of the 2025-26 welfare agenda, focuses on which group? / ২০২৫-২৬ চনৰ কল্যাণমূলক এজেণ্ডাৰ অংশ হিচাপে থকা 'আই অসমী' আঁচনিয়ে কোনটো গোটৰ ওপৰত গুৰুত্ব দিয়ে?",
+    "options": ["Orphaned children", "Self-Help Group (SHG) members for livelihood", "Retired teachers", "Traditional artisans"],
+    "answer": 1
+  },
+  {
+    "question": "Which platform was updated in 2026 for the 'Mukhya Mantri Nijut Moina' scheme to track monthly attendance and incentive disbursement? / 'মুখ্যমন্ত্ৰী নিজুত মইনা' আঁচনিৰ মাহেকীয়া উপস্থিতি আৰু উদগনিমূলক ধন বিতৰণৰ নিৰীক্ষণৰ বাবে ২০২৬ চনত কোনটো প্লেটফৰ্ম আপডেট কৰা হৈছে?",
+    "options": ["Diksha Portal", "Shiksha Setu Axom", "E-Granti Portal", "Arogya App"],
+    "answer": 1
+  },
+  {
+    "question": "The 'Mukhya Mantri Mahila Udyamita Abhiyan' (MMMUA) provides financial grants to rural women based on which specific condition in 2026? / 'মুখ্যমন্ত্ৰী মহিলা উদ্যমিতা অভিযান'ৰ (MMMUA) অধীনত ২০২৬ চনত কোনটো বিশেষ চৰ্তৰ ওপৰত ভিত্তি কৰি গ্ৰামীণ মহিলাক বিত্তীয় অনুদান প্ৰদান কৰা হয়?",
+    "options": ["Completion of 10th Standard", "Number of children (compliance with population norms)", "Ownership of land", "Knowledge of handloom weaving"],
+    "answer": 1
+  }
+]
