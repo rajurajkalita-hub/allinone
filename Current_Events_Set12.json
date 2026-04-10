@@ -1,1 +1,52 @@
-
+[
+  {
+    "question": "Which country is the host for the COP30 UN Climate Change Conference scheduled for late 2025? / ২০২৫ চনৰ শেষৰ ফালে অনুষ্ঠিত হবলগীয়া COP30 ৰাষ্ট্ৰসংঘৰ জলবায়ু পৰিৱৰ্তন সন্মিলনৰ আয়োজক দেশ কোনখন?",
+    "options": ["Azerbaijan", "Brazil", "United Arab Emirates", "Australia"],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary goal of the 'Mission LiFE' (Lifestyle for Environment) initiative active in 2026? / ২০২৬ চনত সক্ৰিয় হৈ থকা 'মিছন লাইফ' (পৰিৱেশৰ বাবে জীৱনশৈলী) উদ্যোগৰ প্ৰাথমিক লক্ষ্য কি?",
+    "options": ["Large scale industrialization", "Promotion of individual and community action for environmental protection", "Increasing oil production", "Building new nuclear power plants"],
+    "answer": 1
+  },
+  {
+    "question": "India's target to achieve 500 GW of non-fossil fuel energy capacity is set for which year? / অ-পৰম্পৰাগত উৎসৰ পৰা ৫০০ গিগাট মেগাৱাট শক্তি উৎপাদনৰ ভাৰতৰ লক্ষ্য কোনটো বছৰৰ বাবে নিৰ্ধাৰণ কৰা হৈছে?",
+    "options": ["2025", "2030", "2047", "2070"],
+    "answer": 1
+  },
+  {
+    "question": "Which state became the first in India to achieve its 2026 'Green Hydrogen' production sub-target? / ২০২৬ চনৰ 'গ্ৰীণ হাইড্ৰজেন' উৎপাদনৰ উপ-লক্ষ্যত উপনীত হোৱা ভাৰতৰ প্ৰথমখন ৰাজ্য কোনখন?",
+    "options": ["Gujarat", "Assam", "Maharashtra", "Tamil Nadu"],
+    "answer": 0
+  },
+  {
+    "question": "The 'Global Biofuels Alliance' (GBA) focused on which key achievement in early 2026? / 'গোলকীয় জৈৱ ইন্ধন মিত্ৰজোঁটে' (GBA) ২০২৬ চনৰ আৰম্ভণিতে কোনটো গুৰুত্বপূৰ্ণ সাফল্যৰ ওপৰত গুৰুত্ব দিছে?",
+    "options": ["Phasing out all biofuels", "Standardizing 20% ethanol blending (E20) internationally", "Reducing solar panel prices", "Building coal corridors"],
+    "answer": 1
+  },
+  {
+    "question": "What is the name of the portal launched by India in 2025-26 to track individual carbon footprint reductions under Mission LiFE? / মিছন লাইফৰ অধীনত ব্যক্তিগত কাৰ্বন ফুটপ্ৰিণ্ট হ্ৰাসৰ নিৰীক্ষণ কৰিবলৈ ২০২৫-২৬ বৰ্ষত ভাৰতত মুকলি কৰা পৰ্টেলটোৰ নাম কি?",
+    "options": ["Green Credit Portal", "LiFE-Tracker", "Meri LiFE App (Updated)", "Eco-Monitor"],
+    "answer": 2
+  },
+  {
+    "question": "The 'Panchamrit' strategy of India, updated in 2025, aims for 'Net Zero' emissions by which year? / ২০২৫ চনত আপডেট কৰা ভাৰতৰ 'পঞ্চামৃত' কৌশলৰ লক্ষ্য কোন বছৰৰ ভিতৰত 'নেট জিৰো' নিৰ্গমন লাভ কৰা?",
+    "options": ["2030", "2050", "2070", "2100"],
+    "answer": 2
+  },
+  {
+    "question": "Which international agreement was the focus of the 'Plastic Treaty' negotiations concluded in 2025-26? / ২০২৫-২৬ বৰ্ষত সমাপ্ত হোৱা 'প্লাষ্টিক চুক্তি' আলোচনাৰ কেন্দ্ৰবিন্দু কোনটো আন্তঃৰাষ্ট্ৰীয় চুক্তি আছিল?",
+    "options": ["Kyoto Protocol", "Global Treaty to End Plastic Pollution", "Montreal Protocol", "Paris Agreement"],
+    "answer": 1
+  },
+  {
+    "question": "In April 2026, which Indian island territory was declared a '100% Renewable Energy' zone? / ২০২৬ চনৰ এপ্ৰিল মাহত ভাৰতৰ কোনটো দ্বীপপুঞ্জক '১০০% নবীকৰণযোগ্য শক্তি' অঞ্চল হিচাপে ঘোষণা কৰা হৈছে?",
+    "options": ["Andaman and Nicobar", "Lakshadweep (Diweep project)", "Majuli", "Diu"],
+    "answer": 1
+  },
+  {
+    "question": "The 'International Solar Alliance' (ISA) launched which new initiative in 2026 to help developing nations? / উন্নয়নশীল দেশসমূহক সহায় কৰিবলৈ 'আন্তঃৰাষ্ট্ৰীয় সৌৰ মিত্ৰজোঁটে' (ISA) ২০২৬ চনত কোনটো নতুন উদ্যোগ মুকলি কৰিছে?",
+    "options": ["Global Solar Stocktake", "Solar Facility (Payment Guarantee Fund)", "Sun-Moon Mission", "Green Coal Initiative"],
+    "answer": 1
+  }
+]
