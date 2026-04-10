@@ -1,102 +1,52 @@
 [
   {
-    "question": "What is the projected GDP growth rate of India for the fiscal year 2026-27 according to the Economic Survey? / অৰ্থনৈতিক সমীক্ষা অনুসৰি ২০২৬-২৭ বিত্তীয় বৰ্ষৰ বাবে ভাৰতৰ আনুমানিক GDP বিকাশৰ হাৰ কিমান?",
-    "options": ["6.5% - 7.0%", "7.2% - 7.5%", "8.0% - 8.5%", "5.5% - 6.0%"],
+    "question": "Which Assamese author was honored with the prestigious 'Pen Pinter Prize' in early 2026 for lifetime literary contributions? / ২০২৬ চনৰ আৰম্ভণিতে সাহিত্যৰ জীৱনজোৰা অৱদানৰ বাবে কোনগৰাকী অসমীয়া সাহিত্যিকক সন্মানীয় 'পেন পিণ্টাৰ বঁটা'ৰে বিভূষিত কৰা হৈছে?",
+    "options": ["Rita Chowdhury", "Arup Kumar Dutta", "Anuradha Sharma Pujari", "Dhirendra Nath Bezbaruah"],
     "answer": 1
   },
   {
-    "question": "In 2026, which bank became the first to fully integrate 'Digital Rupee' (e₹) with UPI for all retail transactions? / ২০২৬ চনত সকলো খুচুৰা লেনদেনৰ বাবে UPI-ৰ সৈতে 'ডিজিটেল টকা' (e₹) সম্পূৰ্ণৰূপে একত্ৰিত কৰা প্ৰথমটো বেংক কোনটো?",
-    "options": ["HDFC Bank", "State Bank of India (SBI)", "ICICI Bank", "Punjab National Bank"],
+    "question": "Who was sworn in as the 47th President of the United States in January 2025-26? / ২০২৫-২৬ চনৰ জানুৱাৰী মাহত আমেৰিকা যুক্তৰাষ্ট্ৰৰ ৪৭ সংখ্যক ৰাষ্ট্ৰপতি হিচাপে কোনে শপত গ্ৰহণ কৰিছে?",
+    "options": ["Joe Biden", "Kamala Harris", "Donald Trump", "J.D. Vance"],
+    "answer": 2
+  },
+  {
+    "question": "Which technology leader took charge as the CEO of a major new Global AI Alliance in April 2026? / ২০২৬ চনৰ এপ্ৰিল মাহত কোনগৰাকী প্ৰযুক্তিবিদে এটা বৃহৎ নতুন গোলকীয় AI মিত্ৰজোঁটৰ CEO হিচাপে কাৰ্যভাৰ গ্ৰহণ কৰিছে?",
+    "options": ["Sundar Pichai", "Parag Agrawal", "Satya Nadella", "Sam Altman"],
     "answer": 1
   },
   {
-    "question": "The 'RBI Digital Payments Index' (RBI-DPI) for 2026 showed a significant rise due to? / ২০২৬ চনৰ 'RBI ডিজিটেল পেমেণ্ট ইণ্ডেক্স' (RBI-DPI) বৃদ্ধি পোৱাৰ মূল কাৰণ কি?",
-    "options": ["Increased cash circulation", "Offline digital payments in rural areas", "Reduction in bank branches", "High interest rates"],
-    "answer": 1
-  },
-  {
-    "question": "Which new category of 'Small Finance Banks' was proposed in 2026 to focus on Green Projects? / সেউজ প্ৰকল্পত গুৰুত্ব দিবলৈ ২০২৬ চনত 'ক্ষুদ্ৰ বিত্তীয় বেংক'ৰ কোনটো নতুন শ্ৰেণীৰ প্ৰস্তাৱ কৰা হৈছে?",
-    "options": ["Green Finance Banks (GFBs)", "Agri-Tech Banks", "Eco-Friendly Banks", "Sustainable Credit Banks"],
+    "question": "Which Assamese swimmer achieved global recognition in 2025-26 for crossing the 'North Channel' and English Channel? / ২০২৫-২৬ বৰ্ষত 'নৰ্থ চেনেল' আৰু ইংলিছ চেনেল সফলতাৰে পাৰ হৈ কোনগৰাকী অসমীয়া সন্তৰণবিদে গোলকীয় স্বীকৃতি লাভ কৰিছে?",
+    "options": ["Elvis Ali Hazarika", "Shivangi Sarma", "Astami Dutta", "Hima Das"],
     "answer": 0
   },
   {
-    "question": "As of 2026, India is currently the world's _____ largest economy in terms of nominal GDP. / ২০২৬ চনলৈকে নমিনেল GDP-ৰ ক্ষেত্ৰত ভাৰত বৰ্তমান বিশ্বৰ _____ বৃহত্তম অৰ্থনীতি।",
-    "options": ["5th", "3rd", "4th", "6th"],
-    "answer": 2
-  },
-  {
-    "question": "The 'Unified Lending Interface' (ULI) launched by RBI in late 2025-26 aims to provide? / ২০২৫-২৬ চনত RBI-য়ে মুকলি কৰা 'ইউনিফাইড লেণ্ডিং ইণ্টাৰফেচ' (ULI)-ৰ লক্ষ্য কি?",
-    "options": ["Instant stock trading", "Frictionless credit to rural and small borrowers", "International money transfer", "Cryptocurrency regulation"],
+    "question": "Who was appointed as the Chairperson of the 16th Finance Commission of India, active in 2026? / ২০২৬ চনত সক্ৰিয় হৈ থকা ভাৰতৰ ১৬ সংখ্যক বিত্ত আয়োগৰ অধ্যক্ষ হিচাপে কাক নিৰ্বাচিত কৰা হৈছে?",
+    "options": ["N.K. Singh", "Arvind Panagariya", "Shaktikanta Das", "Raghuram Rajan"],
     "answer": 1
   },
   {
-    "question": "In the 2026-27 Budget, the fiscal deficit target is set at? / ২০২৬-২৭ বৰ্ষৰ বাজেটত বিত্তীয় নাটনিৰ লক্ষ্য কিমান নিৰ্ধাৰণ কৰা হৈছে?",
-    "options": ["4.5% of GDP", "3.0% of GDP", "5.1% of GDP", "4.0% of GDP"],
-    "answer": 3
-  },
-  {
-    "question": "Which organization manages the 'Investor Education and Protection Fund' (IEPF) in India? / ভাৰতত 'বিনিয়োগকাৰী শিক্ষা আৰু সুৰক্ষা পুঁজি' (IEPF) কোনটো প্ৰতিষ্ঠানে পৰিচালনা কৰে?",
-    "options": ["SEBI", "RBI", "Ministry of Corporate Affairs", "NITI Aayog"],
-    "answer": 2
-  },
-  {
-    "question": "The 'T+0' settlement cycle for the Indian Stock Market became mandatory in? / ভাৰতীয় শ্বেয়াৰ বজাৰৰ বাবে 'T+0' ছেটেলমেণ্ট চাইকেল কেতিয়াৰ পৰা বাধ্যতামূলক হ’ল?",
-    "options": ["2024", "2025", "2026", "2023"],
+    "question": "In 2026, which Assamese scientist was selected for a key leadership role in NASA’s Mars Sample Return mission? / ২০২৬ চনত নাছাৰ 'মাৰ্চ ছেম্পল ৰিটাৰ্ণ' অভিযানৰ এক গুৰুত্বপূৰ্ণ নেতৃত্বৰ ভূমিকাৰ বাবে কোনগৰাকী অসমীয়া বিজ্ঞানীক নিৰ্বাচিত কৰা হৈছে?",
+    "options": ["Priyanka Das Rajkakati", "Dr. Manoj Kumar Mahanta", "Jitendra Nath Goswami", "Uddhab Bharali"],
     "answer": 1
   },
   {
-    "question": "Which committee recommended the framework for 'Neo-Banks' in India in 2025-26? / ২০২৫-২৬ বৰ্ষত ভাৰতত 'নিঅ'-বেংক'ৰ গাঁথনিৰ বাবে কোনখন সমিতিয়ে পৰামৰ্শ দিছিল?",
-    "options": ["Narasimham Committee", "Nachiket Mor Committee", "Digital Banking Framework Committee", "Urijit Patel Committee"],
-    "answer": 2
-  },
-  {
-    "question": "The 'PM-PRANAM' scheme discussed in 2026 budget is related to? / ২০২৬ চনৰ বাজেটত আলোচনা কৰা 'পিএম-প্ৰণাম' আঁচনিখন কিহৰ সৈতে জড়িত?",
-    "options": ["Religious Tourism", "Alternative Fertilizers and balanced use of chemical fertilizers", "Primary Education", "Railway Modernization"],
+    "question": "Which Indian-origin leader was re-elected as the Prime Minister of Mauritius in late 2024-25? / ২০২৪-২৫ বৰ্ষৰ শেষৰ ফালে কোনগৰাকী ভাৰতীয় মূলৰ নেতা মৰিচাছৰ প্ৰধানমন্ত্ৰী হিচাপে পুনৰ নিৰ্বাচিত হৈছে?",
+    "options": ["Pravind Jugnauth", "Navin Ramgoolam", "Prithvirajsing Roopun", "Rishi Sunak"],
     "answer": 1
   },
   {
-    "question": "Who is the current Governor of the Reserve Bank of India (RBI) in April 2026? / ২০২৬ চনৰ এপ্ৰিল মাহত ভাৰতীয় ৰিজাৰ্ভ বেংকৰ (RBI) বৰ্তমানৰ গভৰ্ণৰ কোন?",
-    "options": ["Urjit Patel", "Shaktikanta Das", "Raghuram Rajan", "Duvvuri Subbarao"],
+    "question": "Who was appointed as the new Global Goodwill Ambassador for UNICEF in 2025-26 to advocate for child rights? / শিশুৰ অধিকাৰৰ হকে মাত মাতিবলৈ ২০২৫-২৬ বৰ্ষত ইউনিচেফৰ (UNICEF) নতুন গোলকীয় শুভেচ্ছা দূত হিচাপে কাক নিযুক্ত কৰা হৈছে?",
+    "options": ["Amitabh Bachchan", "Ayushmann Khurrana", "Priyanka Chopra", "Ranveer Singh"],
     "answer": 1
   },
   {
-    "question": "The 'Mahila Samman Savings Certificate' interest rate was revised in 2026 to? / ২০২৬ চনত 'মহিলা সন্মান সঞ্চয় পত্ৰ'ৰ সুতৰ হাৰ কিমানলৈ সংশোধন কৰা হৈছে?",
-    "options": ["7.5%", "8.0%", "7.0%", "8.2%"],
-    "answer": 1
-  },
-  {
-    "question": "Which Indian city is being developed as the 'Global Financial Hub' under the IFSC framework? / IFSC গাঁথনিৰ অধীনত ভাৰতৰ কোনখন চহৰক 'গোলকীয় বিত্তীয় কেন্দ্ৰ' হিচাপে গঢ়ি তোলা হৈছে?",
-    "options": ["Mumbai", "GIFT City (Gandhinagar)", "Bengaluru", "Hyderabad"],
-    "answer": 1
-  },
-  {
-    "question": "The 'Capital Gains Tax' structure was simplified in the 2026 budget to a flat rate of? / ২০২৬ চনৰ বাজেটত 'মূলধনী লাভ কৰ' (Capital Gains Tax) গাঁথনি সৰল কৰি কিমান শতাংশ কৰা হৈছে?",
-    "options": ["10% for Long Term", "12.5% for Long Term", "15% for all", "20% for Short Term"],
-    "answer": 1
-  },
-  {
-    "question": "What is the primary purpose of the 'OMSS' (Open Market Sale Scheme) of FCI? / FCI-ৰ 'OMSS' (অফেন মাৰ্কেট চেল স্কিম) ৰ প্ৰাথমিক উদ্দেশ্য কি?",
-    "options": ["To export wheat", "To control inflation by selling surplus foodgrains", "To distribute free seeds", "To buy food from foreign countries"],
-    "answer": 1
-  },
-  {
-    "question": "The 'Bad Bank' in India, responsible for resolving NPAs, is officially known as? / NPA সমাধানৰ বাবে দায়বদ্ধ ভাৰতৰ 'বেড বেংক'টোক চৰকাৰীভাৱে কি বুলি জনা যায়?",
-    "options": ["CIBIL", "NARCL", "IDRCL", "Asset Reconstruction Company"],
-    "answer": 1
-  },
-  {
-    "question": "In 2026, India signed a major trade agreement (CEPA) with which country to boost exports? / ২০২৬ চনত ৰপ্তানি বৃদ্ধিৰ বাবে ভাৰতে কোনখন দেশৰ সৈতে এক বৃহৎ বাণিজ্য চুক্তিত (CEPA) স্বাক্ষৰ কৰিছে?",
-    "options": ["USA", "United Kingdom (UK)", "European Union", "Japan"],
-    "answer": 1
-  },
-  {
-    "question": "Which portal is the unified platform for all credit-linked government schemes? / সকলো ঋণ-সংলগ্ন চৰকাৰী আঁচনিৰ বাবে ইউনিফাইড প্লেটফৰ্ম কোনটো?",
-    "options": ["Jan Samarth Portal", "Udyam Portal", "E-Shram Portal", "PM-Kisan Portal"],
+    "question": "Which Assamese personality was appointed as the Brand Ambassador of the 'Assam Semiconductor Mission' in 2026? / ২০২৬ চনত 'অসম ছেমিকণ্ডাক্টৰ মিছন'ৰ ব্ৰেণ্ড এম্বেচেডৰ হিচাপে কোনগৰাকী অসমীয়া ব্যক্তিক নিযুক্ত কৰা হৈছে?",
+    "options": ["Ratan Tata (Honorary Posthumous)", "Nayanmoni Saikia", "Lovlina Borgohain", "Jahnu Barua"],
     "answer": 0
   },
   {
-    "question": "The 'Blue Economy 2.0' policy launched in 2026 focuses on? / ২০২৬ চনত মুকলি কৰা 'ব্লু ইকনমি ২.০' নীতিয়ে কিহৰ ওপৰত গুৰুত্ব দিয়ে?",
-    "options": ["Indigo farming", "Sustainable development of coastal and marine resources", "Aviation sector", "Sky-scrapers construction"],
+    "question": "Who took over as the Managing Director (MD) of the International Monetary Fund (IMF) for a second term in 2025-26? / ২০২৫-২৬ বৰ্ষত দ্বিতীয়বাৰৰ বাবে আন্তঃৰাষ্ট্ৰীয় মুদ্ৰা নিধিৰ (IMF) পৰিচালন সঞ্চালক (MD) হিচাপে কোনে দায়িত্ব গ্ৰহণ কৰিছে?",
+    "options": ["Gita Gopinath", "Kristalina Georgieva", "Christine Lagarde", "Indermit Gill"],
     "answer": 1
   }
 ]
