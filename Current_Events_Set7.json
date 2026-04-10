@@ -1,102 +1,52 @@
 [
   {
-    "question": "Which ISRO mission is scheduled for 2025-26 to study the moon's shadowed polar region in collaboration with JAXA? / JAXA-ৰ সৈতে সহযোগিতা কৰি চন্দ্ৰৰ ছাঁ পৰা মেৰু অঞ্চল অধ্যয়ন কৰিবলৈ ২০২৫-২৬ বৰ্ষত ISRO-ৰ কোনটো অভিযানৰ পৰিকল্পনা কৰা হৈছে?",
-    "options": ["Chandrayaan-4", "LUPEX (Lunar Polar Exploration)", "Aditya-L2", "Mangalyaan-2"],
+    "question": "Who was posthumously awarded the Bharat Ratna in early 2026 for contributions to science and public policy? / বিজ্ঞান আৰু ৰাজহুৱা নীতিৰ ক্ষেত্ৰত আগবঢ়োৱা অৱদানৰ বাবে ২০২৬ চনৰ আৰম্ভণিতে কাক মৰণোত্তৰভাৱে ভাৰত ৰত্ন প্ৰদান কৰা হৈছে?",
+    "options": ["M.S. Swaminathan", "Ratan Tata", "C.N.R. Rao", "S. Somanath"],
     "answer": 1
   },
   {
-    "question": "What is the primary objective of the 'Gaganyaan-H1' mission scheduled for late 2025? / ২০২৫ চনৰ শেষৰ ফালে হ’বলগীয়া 'গগনযান-H1' অভিযানৰ প্ৰাথমিক উদ্দেশ্য কি?",
-    "options": ["Uncrewed flight test", "First crewed orbital spaceflight of India", "Landing on the Moon", "Launching a private satellite"],
-    "answer": 1
-  },
-  {
-    "question": "NASA's 'Artemis III' mission, aimed at landing humans on the Moon again, is targeted for? / মানুহক পুনৰ চন্দ্ৰত নমাই অনাৰ লক্ষ্যৰে নাছাৰ 'আৰ্টেমিছ III' অভিযানৰ লক্ষ্য কেতিয়ালৈ নিৰ্ধাৰণ কৰা হৈছে?",
-    "options": ["Late 2025", "September 2026", "January 2025", "December 2027"],
-    "answer": 1
-  },
-  {
-    "question": "Which space agency launched the 'Europa Clipper' in late 2024 (reaching Jupiter's moon in 2026-30)? / ২০২৪ চনৰ শেষৰ ফালে কোনটো মহাকাশ সংস্থাই 'ইউৰোপ ক্লিপাৰ' (Europa Clipper) উৎক্ষেপণ কৰিছিল?",
-    "options": ["ISRO", "ESA", "NASA", "Roscosmos"],
-    "answer": 2
-  },
-  {
-    "question": "The 'Bharatiya Antariksha Station' (BAS) first module is expected to be launched by? / 'ভাৰতীয় অন্তৰীক্ষ ষ্টেচন' (BAS)ৰ প্ৰথমটো মডিউল কেতিয়া উৎক্ষেপণ কৰাৰ সম্ভাৱনা আছে?",
-    "options": ["2026", "2028", "2030", "2035"],
-    "answer": 1
-  },
-  {
-    "question": "Which private space company successfully tested the 'Starship' fully integrated system in 2025-26? / ২০২৫-২৬ বৰ্ষত কোনটো ব্যক্তিগত মহাকাশ কোম্পানীয়ে 'ষ্টাৰশ্বিপ' সম্পূৰ্ণৰূপে একত্ৰিত প্ৰণালী সফলতাৰে পৰীক্ষা কৰিছে?",
-    "options": ["Blue Origin", "SpaceX", "Boeing", "Virgin Galactic"],
-    "answer": 1
-  },
-  {
-    "question": "The 'NISAR' satellite, a joint venture between NASA and ISRO, focuses on? / নাছা আৰু ইছৰোৰ যুটীয় উদ্যোগ 'নিছাৰ' (NISAR) উপগ্ৰহটোৱে কিহৰ ওপৰত গুৰুত্ব দিয়ে?",
-    "options": ["Mapping the Mars surface", "High-resolution Earth observation and ecosystem change", "Studying the Sun's Corona", "Deep space communication"],
-    "answer": 1
-  },
-  {
-    "question": "Which planet is the focus of ISRO's 'Shukrayaan-1' mission, planned for future launch? / ভৱিষ্যতে উৎক্ষেপণৰ বাবে পৰিকল্পনা কৰা ইছৰোৰ 'শুক্ৰযান-১' অভিযানৰ কেন্দ্ৰবিন্দু কোনটো গ্ৰহ?",
-    "options": ["Mercury", "Mars", "Jupiter", "Venus"],
-    "answer": 3
-  },
-  {
-    "question": "What is 'Vyommitra', which was in news in 2025 regarding the Gaganyaan mission? / গগনযান অভিযানৰ সন্দৰ্ভত ২০২৫ চনত চৰ্চাত থকা 'ব্যোমমিত্ৰ' কি?",
-    "options": ["A new rocket engine", "A female humanoid robot", "A satellite for weather forecasting", "An astronaut training center"],
-    "answer": 1
-  },
-  {
-    "question": "Which country launched the 'Chang'e 7' mission in 2026 to explore the Lunar South Pole? / চন্দ্ৰৰ দক্ষিণ মেৰু অন্বেষণ কৰিবলৈ ২০২৬ চনত কোনখন দেশে 'চাং-ই ৭' (Chang'e 7) অভিযান আৰম্ভ কৰিছে?",
-    "options": ["India", "USA", "China", "Japan"],
-    "answer": 2
-  },
-  {
-    "question": "The 'Square Kilometre Array' (SKA), the world's largest radio telescope, will be operational from? / বিশ্বৰ সৰ্ববৃহৎ ৰেডিঅ' টেলিস্কোপ 'স্কোৱাৰ কিলোমিটাৰ এৰে' (SKA) কেতিয়াৰ পৰা কাৰ্যক্ষম হ'ব?",
-    "options": ["Late 2026", "2028-2030", "2025", "2024"],
-    "answer": 1
-  },
-  {
-    "question": "Which space agency successfully conducted the 'DART' follow-up mission named 'Hera' in 2026? / ২০২৬ চনত কোনটো মহাকাশ সংস্থাই 'DART'ৰ পৰৱৰ্তী অভিযান 'হেৰা' (Hera) সফলতাৰে পৰিচালনা কৰিছে?",
-    "options": ["NASA", "ESA (European Space Agency)", "JAXA", "ISRO"],
-    "answer": 1
-  },
-  {
-    "question": "What is the name of India's heavy-lift rocket, also known as 'Fat Boy', used for Gaganyaan? / গগনযানৰ বাবে ব্যৱহাৰ কৰা ভাৰতৰ হেভি-লিফ্ট ৰকেটটোৰ নাম কি, যাক 'ফ্যাট বয়' বুলিও জনা যায়?",
-    "options": ["PSLV-C58", "GSLV Mk III (LVM3)", "SSLV", "GSLV-F14"],
-    "answer": 1
-  },
-  {
-    "question": "The 'James Webb Space Telescope' (JWST) discovered 'Dark Stars' in 2025-26. These are powered by? / জেমছ ৱেব টেলিস্কোপে ২০২৫-২৬ চনত 'ডাৰ্ক ষ্টাৰ' আৱিষ্কাৰ কৰিছিল। এইবোৰ কিহৰ দ্বাৰা পৰিচালিত?",
-    "options": ["Nuclear Fusion", "Nuclear Fission", "Dark Matter Annihilation", "Gravitational Collapse"],
-    "answer": 2
-  },
-  {
-    "question": "Which country's mission 'HAKUTO-R' attempted a private moon landing in 2025-26? / ২০২৫-২৬ চনত কোনখন দেশৰ 'হাকুটো-আৰ' (HAKUTO-R) অভিযানে ব্যক্তিগতভাৱে চন্দ্ৰত অৱতৰণৰ চেষ্টা কৰিছিল?",
-    "options": ["South Korea", "Israel", "Japan", "United Arab Emirates"],
-    "answer": 2
-  },
-  {
-    "question": "What is the name of the new space-tech city being developed in India (Gujarat) in 2026? / ২০২৬ চনত ভাৰতত (গুজৰাটত) গঢ়ি তোলা নতুন স্পেচ-টেক চহৰখনৰ নাম কি?",
-    "options": ["Space City Ahmedabad", "ISRO Tech Hub", "NSIL City", "IN-SPACe Headquarters/Tech City"],
-    "answer": 3
-  },
-  {
-    "question": "The 'Psyche' mission by NASA, reaching its target in 2026-29, aims to study? / ২০২৬-২৯ চনত লক্ষ্যত উপনীত হ’বলগীয়া নাছাৰ 'চাইকী' (Psyche) অভিযানৰ লক্ষ্য কি অধ্যয়ন কৰা?",
-    "options": ["A metal-rich asteroid", "The rings of Saturn", "Icy moons of Jupiter", "Sun's North Pole"],
+    "question": "Which Assamese personality received the Padma Bhushan in 2026 for their contribution to Literature and Education? / সাহিত্য আৰু শিক্ষাৰ ক্ষেত্ৰত আগবঢ়োৱা অৱদানৰ বাবে ২০২৬ চনত কোনগৰাকী অসমীয়া ব্যক্তিয়ে পদ্ম ভূষণ লাভ কৰিছে?",
+    "options": ["Arup Kumar Dutta", "Rita Chowdhury", "Yyeshe Dorjee Thongchi", "Anuradha Sharma Pujari"],
     "answer": 0
   },
   {
-    "question": "Which rocket will be used for India's 'Chandrayaan-4' sample return mission? / ভাৰতৰ 'চন্দ্ৰযান-৪' নমুনা সংগ্ৰহ অভিযানৰ বাবে কোনটো ৰকেট ব্যৱহাৰ কৰা হ’ব?",
-    "options": ["LVM3", "PSLV", "GSLV", "A combination of LVM3 and an orbital transfer module"],
+    "question": "Which film won the 'Best Feature Film' at the 71st National Film Awards announced in 2025-26? / ২০২৫-২৬ বৰ্ষত ঘোষিত ৭১ সংখ্যক ৰাষ্ট্ৰীয় চলচ্চিত্ৰ বঁটাত কোনখন ছবিয়ে 'শ্ৰেষ্ঠ কাহিনী চিত্ৰ'ৰ বঁটা লাভ কৰিছে?",
+    "options": ["Kantara", "Brahmastra", "Gulmohar", "Aatmapamphlet"],
     "answer": 0
   },
   {
-    "question": "The 'Tianwen-2' mission by China, scheduled for 2025, aims to collect samples from? / ২০২৫ চনত চীনৰ 'তিয়ানৱেন-২' অভিযানৰ লক্ষ্য কিহৰ পৰা নমুনা সংগ্ৰহ কৰা?",
-    "options": ["Mars", "A Near-Earth Asteroid (2016 HO3)", "Venus", "The Sun"],
+    "question": "The Padma Vibhushan 2026 was awarded to which former head of a constitutional body for Public Affairs? / ২০২৬ চনৰ পদ্ম বিভূষণ বঁটা ৰাজহুৱা পৰিক্ৰমাৰ বাবে কোনগৰাকী সাংবিধানিক সংস্থাৰ প্ৰাক্তন মুৰব্বীক প্ৰদান কৰা হৈছে?",
+    "options": ["Venkaiah Naidu", "Arvind Panagariya", "Amitabh Kant", "S. Jaishankar"],
+    "answer": 0
+  },
+  {
+    "question": "Who won the Best Actor award at the 2025-26 National Film Awards for his performance in a period drama? / এখন পিৰিয়ড ড্ৰামাত কৰা অভিনয়ৰ বাবে ২০২৫-২৬ চনৰ ৰাষ্ট্ৰীয় চলচ্চিত্ৰ বঁটাত কোনে শ্ৰেষ্ঠ অভিনেতাৰ বঁটা লাভ কৰিছে?",
+    "options": ["Rishab Shetty", "Mammootty", "Ranbir Kapoor", "Vikrant Massey"],
+    "answer": 0
+  },
+  {
+    "question": "Which social worker from Assam was awarded the Padma Shri in 2026 for working towards wildlife conservation? / বন্যপ্ৰাণী সংৰক্ষণৰ বাবে কাম কৰাৰ বাবে ২০২৬ চনত অসমৰ কোনগৰাকী সমাজকৰ্মীক পদ্মশ্ৰী বঁটা প্ৰদান কৰা হৈছে?",
+    "options": ["Purnima Devi Barman", "Jadav Payeng", "Binita Devi", "Parbati Baruah"],
+    "answer": 0
+  },
+  {
+    "question": "Which film won the award for 'Best Film on Social Issues' at the National Film Awards 2025-26? / ২০২৫-২৬ চনৰ ৰাষ্ট্ৰীয় চলচ্চিত্ৰ বঁটাত 'সামাজিক বিষয়ৰ শ্ৰেষ্ঠ ছবি'ৰ বঁটা কোনখন ছবিয়ে লাভ কৰিছে?",
+    "options": ["12th Fail", "Aatmapamphlet", "The Vaccine War", "Sirf Ek Bandaa Kaafi Hai"],
     "answer": 1
   },
   {
-    "question": "Which mission was extended in 2026 due to its exceptional performance in studying solar winds? / সৌৰ বতাহ অধ্যয়নত ব্যতিক্ৰমী প্ৰদৰ্শনৰ বাবে ২০২৬ চনত কোনটো অভিযানৰ সময়সীমা বৃদ্ধি কৰা হৈছে?",
-    "options": ["Aditya-L1", "Voyager 1", "Parker Solar Probe", "Both A and C (Trick context)"],
+    "question": "Who was honored with the Dadasaheb Phalke Award in late 2025 for lifetime contribution to Indian Cinema? / ভাৰতীয় চিনেমাৰ জীৱনজোৰা অৱদানৰ বাবে ২০২৫ চনৰ শেষৰ ফালে কাক দাদাচাহেব ফাল্কে বঁটাৰে সন্মানিত কৰা হৈছে?",
+    "options": ["Mithun Chakraborty", "Waheeda Rehman", "Amitabh Bachchan", "Rekha"],
+    "answer": 0
+  },
+  {
+    "question": "How many Padma Vibhushan awards were conferred in the 2026 Republic Day honors list? / ২০২৬ চনৰ গণৰাজ্য দিৱসৰ সন্মানীয় তালিকাত কিমানটা পদ্ম বিভূষণ বঁটা প্ৰদান কৰা হৈছে?",
+    "options": ["5 Awards", "4 Awards", "6 Awards", "7 Awards"],
+    "answer": 0
+  },
+  {
+    "question": "Which language's film won the 'Best Regional Film (Assamese)' at the latest National Film Awards? / শেহতীয়া ৰাষ্ট্ৰীয় চলচ্চিত্ৰ বঁটাত কোনখন অসমীয়া ছবিয়ে 'শ্ৰেষ্ঠ আঞ্চলিক চলচ্চিত্ৰ (অসমীয়া)' বঁটা লাভ কৰিছে?",
+    "options": ["Anur", "Emuthi Puthi", "The Spark", "Boomba Ride"],
     "answer": 0
   }
 ]
