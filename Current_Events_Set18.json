@@ -1,1 +1,52 @@
-
+[
+  {
+    "question": "What was India's rank in the World Happiness Report 2026? / ২০২৬ চনৰ বিশ্ব সুখৰ প্ৰতিবেদনত (World Happiness Report) ভাৰতৰ স্থান কিমান?",
+    "options": ["126th", "136th", "121st", "110th"],
+    "answer": 2
+  },
+  {
+    "question": "According to the NITI Aayog's SDG India Index 2025-26, which state topped the list in overall performance? / নীতি আয়োগৰ SDG ইণ্ডিয়া ইণ্ডেক্স ২০২৫-২৬ অনুসৰি সামগ্ৰিক প্ৰদৰ্শনত কোনখন ৰাজ্যই শীৰ্ষস্থান দখল কৰিছে?",
+    "options": ["Tamil Nadu", "Kerala", "Himachal Pradesh", "Sikkim"],
+    "answer": 1
+  },
+  {
+    "question": "In the World Press Freedom Index 2025, published in late 2025-26, what was India's reported position? / ২০২৫-২৬ বৰ্ষৰ শেষৰ ফালে প্ৰকাশিত বিশ্ব প্ৰেছ ফ্ৰীডম ইণ্ডেক্স ২০২৫ ত ভাৰতৰ স্থান কিমান আছিল?",
+    "options": ["150th", "161st", "159th", "142nd"],
+    "answer": 2
+  },
+  {
+    "question": "Which state was ranked as the 'Top Achiever' in the NITI Aayog's Export Preparedness Index (EPI) 2025 among landlocked states? / নীতি আয়োগৰ ৰপ্তানি প্ৰস্তুতি সূচকাংক (EPI) ২০২৫ ত ভূ-আৱদ্ধ ৰাজ্যসমূহৰ ভিতৰত কোনখন ৰাজ্যক 'শীৰ্ষ অর্জনকাৰী' হিচাপে স্থান দিয়া হৈছে?",
+    "options": ["Assam", "Haryana", "Madhya Pradesh", "Telangana"],
+    "answer": 1
+  },
+  {
+    "question": "What was India's position in the Global Hunger Index (GHI) 2025, which remains relevant in April 2026? / ২০২৬ চনৰ এপ্ৰিল মাহলৈকে প্ৰাসংগিক হৈ থকা গোলকীয় ভোক সূচকাংক (Global Hunger Index) ২০২৫ ত ভাৰতৰ স্থান কি আছিল?",
+    "options": ["101st", "111th", "105th", "107th"],
+    "answer": 2
+  },
+  {
+    "question": "As per the NITI Aayog's Multidimensional Poverty Index (MPI) 2025-26 update, which state saw the largest decline in the number of poor people? / নীতি আয়োগৰ বহুমাত্রিক দৰিদ্ৰতা সূচকাংক (MPI) ২০২৫-২৬ ৰ আপডেট অনুসৰি কোনখন ৰাজ্যত দৰিদ্ৰ লোকৰ সংখ্যা আটাইতকৈ বেছি হ্ৰাস পাইছে?",
+    "options": ["Bihar", "Uttar Pradesh", "Madhya Pradesh", "Rajasthan"],
+    "answer": 1
+  },
+  {
+    "question": "India's rank in the Global Innovation Index (GII) 2025 was? / গোলকীয় উদ্ভাৱন সূচকাংক (Global Innovation Index) ২০২৫ ত ভাৰতৰ স্থান কি আছিল?",
+    "options": ["40th", "38th", "42nd", "46th"],
+    "answer": 1
+  },
+  {
+    "question": "Which city topped the NITI Aayog's City Climate Resilient Index 2026? / নীতি আয়োগৰ চিটি ক্লাইমেট রেজিলিয়েণ্ট ইণ্ডেক্স ২০২৬ ত কোনখন চহৰে শীৰ্ষস্থান দখল কৰিছে?",
+    "options": ["Surat", "Indore", "Shimla", "Bengaluru"],
+    "answer": 1
+  },
+  {
+    "question": "In the Henley Passport Index (early 2026 update), what is India's current ranking? / হেনলী পাছপোৰ্ট ইণ্ডেক্সৰ (২০২৬ চনৰ আৰম্ভণিৰ আপডেট) ভাৰতৰ বৰ্তমানৰ স্থান কিমান?",
+    "options": ["80th", "82nd", "85th", "87th"],
+    "answer": 1
+  },
+  {
+    "question": "According to the NITI Aayog's State Health Index 2025-26, which small state ranked first? / নীতি আয়োগৰ ৰাজ্যিক স্বাস্থ্য সূচকাংক ২০২৫-২৬ অনুসৰি কোনখন সৰু ৰাজ্যই প্ৰথম স্থান লাভ কৰিছে?",
+    "options": ["Goa", "Tripura", "Mizoram", "Manipur"],
+    "answer": 2
+  }
+]
