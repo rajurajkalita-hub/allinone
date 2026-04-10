@@ -1,1 +1,52 @@
-
+[
+  {
+    "question": "Which country hosted the G20 Summit in late 2025? / ২০২৫ চনৰ শেষৰ ফালে কোনখন দেশে G20 সন্মিলনৰ আয়োজন কৰিছিল?",
+    "options": ["India", "Brazil", "South Africa", "USA"],
+    "answer": 2
+  },
+  {
+    "question": "In 2026, which country took over the chair of ASEAN and hosted the 48th and 49th ASEAN Summits? / ২০২৬ চনত কোনখন দেশে আছিয়ানৰ (ASEAN) অধ্যক্ষতা গ্ৰহণ কৰি ৪৮ আৰু ৪৯ সংখ্যক আছিয়ান সন্মিলনৰ আয়োজন কৰিছে?",
+    "options": ["Vietnam", "Philippines", "Thailand", "Malaysia"],
+    "answer": 1
+  },
+  {
+    "question": "The BRICS Summit 2025, which saw further discussion on the expansion of the group, was held in? / ২০২৫ চনৰ ব্ৰিকছ (BRICS) সন্মিলনখন ক’ত অনুষ্ঠিত হৈছিল, য’ত গোটটোৰ সম্প্ৰসাৰণৰ ওপৰত অধিক আলোচনা কৰা হৈছিল?",
+    "options": ["Russia", "Brazil", "China", "South Africa"],
+    "answer": 1
+  },
+  {
+    "question": "Which country is the host for the G20 Summit scheduled for late 2026? / ২০২৬ চনৰ শেষৰ ফালে অনুষ্ঠিত হ’বলগীয়া G20 সন্মিলনৰ আয়োজক দেশ কোনখন?",
+    "options": ["USA", "Germany", "United Kingdom", "France"],
+    "answer": 0
+  },
+  {
+    "question": "The 'Summit of the Future' held under the UN in late 2025 primarily focused on which area? / ২০২৫ চনৰ শেষৰ ফালে ৰাষ্ট্ৰসংঘৰ অধীনত অনুষ্ঠিত 'ভৱিষ্যতৰ সন্মিলন' (Summit of the Future) প্ৰাথমিকভাৱে কোনটো ক্ষেত্ৰৰ ওপৰত কেন্দ্ৰিত আছিল?",
+    "options": ["Space Exploration only", "Global governance and digital cooperation", "Military alliances", "Free trade in oil"],
+    "answer": 1
+  },
+  {
+    "question": "Which new member was officially invited to participate in BRICS+ activities starting from early 2026? / ২০২৬ চনৰ আৰম্ভণিৰ পৰা ব্ৰিকছ+ (BRICS+) কাৰ্যকলাপত অংশগ্ৰহণ কৰিবলৈ কোনজন নতুন সদস্যক আনুষ্ঠানিকভাৱে আমন্ত্ৰণ জনোৱা হৈছে?",
+    "options": ["Indonesia", "Argentina", "Nigeria", "All of the above (as partner/full members)"],
+    "answer": 3
+  },
+  {
+    "question": "Where was the 2026 SCO (Shanghai Cooperation Organization) Summit held? / ২০২৬ চনৰ এছ চি অ’ (Shanghai Cooperation Organization) সন্মিলন ক’ত অনুষ্ঠিত হৈছিল?",
+    "options": ["New Delhi, India", "Astana, Kazakhstan", "Tashkent, Uzbekistan", "Bishkek, Kyrgyzstan"],
+    "answer": 2
+  },
+  {
+    "question": "The COP30 UN Climate Change Conference in late 2025 was hosted by which city? / ২০২৫ চনৰ শেষৰ ফালে অনুষ্ঠিত হোৱা COP30 ৰাষ্ট্ৰসংঘৰ জলবায়ু পৰিৱৰ্তন সন্মিলন কোনখন চহৰত অনুষ্ঠিত হৈছিল?",
+    "options": ["Baku", "Belém", "Dubai", "Glasgow"],
+    "answer": 1
+  },
+  {
+    "question": "Which international group held its 'First Digital Economy Summit' in early 2026 to discuss AI regulations across Global South? / ২০২৬ চনৰ আৰম্ভণিতে কোনটো আন্তঃৰাষ্ট্ৰীয় গোষ্ঠীয়ে গ্ল’বেল চাউথত AI নিয়ন্ত্ৰণৰ বিষয়ে আলোচনা কৰিবলৈ তেওঁলোকৰ 'প্ৰথম ডিজিটেল অৰ্থনীতি সন্মিলন' অনুষ্ঠিত কৰিছিল?",
+    "options": ["Quad", "G7", "G20 (under South African Presidency)", "Common Wealth"],
+    "answer": 2
+  },
+  {
+    "question": "In early 2026, which country hosted the BIMSTEC Summit to enhance regional cooperation in the Bay of Bengal? / ২০২৬ চনৰ আৰম্ভণিতে বংগোপসাগৰীয় অঞ্চলত আঞ্চলিক সহযোগিতা বৃদ্ধিৰ বাবে কোনখন দেশে বিমষ্টেক (BIMSTEC) সন্মিলনৰ আয়োজন কৰিছিল?",
+    "options": ["Sri Lanka", "Thailand", "India", "Bangladesh"],
+    "answer": 1
+  }
+]
