@@ -1,1 +1,52 @@
-
+[
+  {
+    "question": "As of April 2026, what is the increased annual financial benefit provided to eligible farmers under the 'PM-Kisan' scheme in specific states? / ২০২৬ চনৰ এপ্ৰিল মাহলৈকে নিৰ্দিষ্ট ৰাজ্যসমূহৰ যোগ্য কৃষকসকলক 'পিএম-কিষাণ' আঁচনিৰ অধীনত প্ৰদান কৰা বৰ্ধিত বাৰ্ষিক বিত্তীয় সাহায্যৰ পৰিমাণ কিমান?",
+    "options": ["₹6,000", "₹8,000", "₹10,000", "₹12,000"],
+    "answer": 1
+  },
+  {
+    "question": "Which age group was recently included under the 'Ayushman Bharat PM-JAY' scheme to provide free health insurance regardless of income in 2025-26? / ২০২৫-২৬ বৰ্ষত আয়ৰ সীমা নিৰ্বিশেষে বিনামূলীয়া স্বাস্থ্য বীমা প্ৰদান কৰিবলৈ 'আয়ুষ্মান ভাৰত PM-JAY' আঁচনিৰ অধীনত শেহতীয়াকৈ কোনটো বয়সৰ গোটক অন্তৰ্ভুক্ত কৰা হৈছে?",
+    "options": ["Children below 14 years", "Women above 45 years", "All senior citizens aged 70 and above", "Unemployed youth"],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary goal of the 'PM Gati Shakti' National Master Plan updated for 2026? / ২০২৬ চনৰ বাবে আপডেট কৰা 'পিএম গতি শক্তি' ৰাষ্ট্ৰীয় মাষ্টাৰ প্লেনৰ প্ৰাথমিক লক্ষ্য কি?",
+    "options": ["Increasing agricultural subsidies", "Multimodal connectivity and integrated infrastructure development", "Free broadband for all villages", "Privatization of all railways"],
+    "answer": 1
+  },
+  {
+    "question": "Which scheme was expanded in 2025-26 to provide 3 crore additional houses in rural and urban areas? / গ্ৰামাঞ্চল আৰু চহৰাঞ্চলত অতিৰিক্ত ৩ কোটি ঘৰ নিৰ্মাণৰ বাবে ২০২৫-২৬ চনত কোনখন আঁচনি সম্প্ৰসাৰণ কৰা হৈছে?",
+    "options": ["PM Awas Yojana (PMAY)", "PM Gram Sadak Yojana", "SVAMITVA Scheme", "PM-UDAY"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the new component added to 'PM Surya Ghar: Muft Bijli Yojana' in 2026 to promote solar energy in apartments? / এপাৰ্টমেণ্টসমূহত সৌৰ শক্তি বৃদ্ধি কৰিবলৈ ২০২৬ চনত 'পিএম সূৰ্য ঘৰ: মুফ্ট বিজলী যোজনা'ত সংযোগ কৰা নতুন অংশটোৰ নাম কি?",
+    "options": ["Solar Village Initiative", "Group Housing Solar Subsidy", "PM-KUSUM 2.0", "Sun-City Project"],
+    "answer": 1
+  },
+  {
+    "question": "The 'Lakhpati Didi' scheme, active in 2026, aims to empower women in which sector? / ২০২৬ চনত সক্ৰিয় হৈ থকা 'লখপতি দিদি' আঁচনিৰ লক্ষ্য কোনটো খণ্ডত মহিলাসকলক সৱলীকৰণ কৰা?",
+    "options": ["Government teaching jobs", "Self-Help Groups (SHGs) and micro-entrepreneurship", "Police and defense services", "Higher research in science"],
+    "answer": 1
+  },
+  {
+    "question": "Which flagship program's 'Phase II' focuses on sustainable 'Saturation' of tap water connections in every household in 2026? / ২০২৬ চনত প্ৰতিটো পৰিয়ালত টেপৰ পানীৰ সংযোগৰ বহনক্ষম 'সংপৃক্তকৰণৰ' (Saturation) ওপৰত কোনটো ফ্লেগশ্বিপ কাৰ্যসূচীৰ 'দ্বিতীয় পৰ্যায়'ত গুৰুত্ব দিয়া হৈছে?",
+    "options": ["Namami Gange", "Jal Jeevan Mission", "Atal Bhujal Yojana", "PM Krishi Sinchayee Yojana"],
+    "answer": 1
+  },
+  {
+    "question": "The 'PM-PRANAM' scheme, highlighted in 2025-26, is related to which of the following? / ২০২৫-২৬ বৰ্ষত চৰ্চিত হোৱা 'পিএম-প্ৰণাম' (PM-PRANAM) আঁচনিখন তলৰ কোনটোৰ সৈতে জড়িত?",
+    "options": ["Promoting organic farming and reducing chemical fertilizers", "Free coaching for IAS aspirants", "Upgrading primary schools", "Pension for small shopkeepers"],
+    "answer": 0
+  },
+  {
+    "question": "In April 2026, which portal was integrated with 'PM Vishwakarma' to provide better market access to traditional artisans? / পৰম্পৰাগত শিল্পীসকলক উন্নত বজাৰৰ সুবিধা দিবলৈ ২০২৬ চনৰ এপ্ৰিল মাহত কোনটো পৰ্টেল 'পিএম বিশ্বকৰ্মা'ৰ সৈতে একত্ৰিত কৰা হৈছে?",
+    "options": ["GeM (Government e-Marketplace)", "E-NAM", "Udyam Portal", "Skill India Digital"],
+    "answer": 0
+  },
+  {
+    "question": "What is the revised target year for the 'Sickle Cell Anemia Elimination Mission' as discussed in 2026? / ২০২৬ চনত আলোচনা কৰা অনুসৰি 'ছিকল চেল এনিমিয়া নিৰ্মূলকৰণ মিছন'ৰ সংশোধিত লক্ষ্য বৰ্ষ কিমান?",
+    "options": ["2030", "2040", "2047", "2050"],
+    "answer": 2
+  }
+]
