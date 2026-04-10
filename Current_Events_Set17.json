@@ -1,1 +1,52 @@
-
+[
+  {
+    "question": "Which edition of the joint military exercise 'Yudh Abhyas' between India and the USA was held in early 2026? / ২০২৬ চনৰ আৰম্ভণিতে ভাৰত আৰু আমেৰিকাৰ মাজত যৌথ সামৰিক কচৰৎ 'যুদ্ধ অভ্যাস'ৰ কোনটো সংস্কৰণ অনুষ্ঠিত হৈছিল?",
+    "options": ["20th Edition", "21st Edition", "22nd Edition", "18th Edition"],
+    "answer": 1
+  },
+  {
+    "question": "What is the name of the indigenous Light Combat Helicopter (LCH) that saw increased induction into the Indian Army and IAF in 2025-26? / ২০২৫-২৬ বৰ্ষত ভাৰতীয় সেনা আৰু বায়ুসেনাত অধিক হাৰত অন্তৰ্ভুক্ত হোৱা থলুৱাভাৱে নিৰ্মিত লঘু যুঁজাৰু হেলিকপ্টাৰখনৰ (LCH) নাম কি?",
+    "options": ["Prachand", "Rudra", "Dhruv", "Cheetal"],
+    "answer": 0
+  },
+  {
+    "question": "In 2026, which country participated with India in the 'MILAN' naval exercise held at Visakhapatnam? / ২০২৬ চনত বিশাখাপত্তনমত অনুষ্ঠিত 'মিলন' (MILAN) নৌসেনা কচৰৎত ভাৰতৰ সৈতে কোনখন দেশে অংশগ্ৰহণ কৰিছিল?",
+    "options": ["Only Quad Nations", "Over 50 friendly foreign navies", "Russia and China only", "Only ASEAN countries"],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary feature of the 'Zorawar' tank, which underwent high-altitude trials in 2025-26? / ২০২৫-২৬ বৰ্ষত উচ্চতাত পৰীক্ষণ সম্পন্ন কৰা 'জোৰাৱাৰ' টেংকৰ প্ৰাথমিক বৈশিষ্ট্য কি?",
+    "options": ["Heavy weight for desert warfare", "Lightweight design for mountain warfare", "Amphibious only", "Unmanned AI tank"],
+    "answer": 1
+  },
+  {
+    "question": "Which missile system's naval version was successfully tested from INS Vikrant in early 2026? / ২০২৬ চনৰ আৰম্ভণিতে আই এন এছ বিক্ৰান্তৰ পৰা কোনটো মিছাইল প্ৰণালীৰ নৌ সংস্কৰণ সফলতাৰে পৰীক্ষা কৰা হৈছিল?",
+    "options": ["Agni-V", "BrahMos-ER (Extended Range)", "Prithvi-II", "Astra-MK2"],
+    "answer": 1
+  },
+  {
+    "question": "The 'Vibrant Villages Programme' (VVP), focused on border security and development in 2026, primarily covers which areas? / ২০২৬ চনত সীমান্ত সুৰক্ষা আৰু উন্নয়নৰ ওপৰত গুৰুত্ব দিয়া 'ভাইব্ৰেণ্ট ভিলেজেছ প্ৰগ্ৰেম'ৰ (VVP) অধীনত প্ৰাথমিকভাৱে কোনবোৰ অঞ্চল সামৰি লোৱা হৈছে?",
+    "options": ["Coastal villages of South India", "Northern border villages along the LAC", "Indo-Bangladesh border only", "Central India forest villages"],
+    "answer": 1
+  },
+  {
+    "question": "Which advanced stealth frigate under 'Project 17A' was commissioned into the Indian Navy in late 2025? / ২০২৫ চনৰ শেষৰ ফালে 'প্ৰজেক্ট ১৭এ'ৰ অধীনত কোনখন উন্নত ষ্টেলথ ফ্ৰিগেট ভাৰতীয় নৌসেনাত অন্তৰ্ভুক্ত কৰা হৈছে?",
+    "options": ["INS Mahendragiri", "INS Vindhyagiri", "INS Nilgiri", "INS Taragiri"],
+    "answer": 0
+  },
+  {
+    "question": "What is 'Mission DefSpace', which gained momentum in 2025-26? / ২০২৫-২৬ বৰ্ষত গতি লাভ কৰা 'মিছন ডিফস্পেচ' (Mission DefSpace) কি?",
+    "options": ["A mission to colonize Mars", "Developing innovative space solutions for the Defense Forces", "Ocean floor mapping for submarines", "Cybersecurity for private banks"],
+    "answer": 1
+  },
+  {
+    "question": "Which country signed a major deal with India in 2026 to procure the 'LCA Tejas Mk1A' fighter jets? / ২০২৬ চনত ভাৰতৰ পৰা 'LCA Tejas Mk1A' যুঁজাৰু বিমান ক্ৰয় কৰিবলৈ কোনখন দেশে এক বৃহৎ চুক্তি স্বাক্ষৰ কৰিছে?",
+    "options": ["Philippines", "Nigeria", "Argentina", "Vietnam"],
+    "answer": 1
+  },
+  {
+    "question": "In April 2026, which wing of the Indian Armed Forces operationalized its first dedicated 'Cyber Command'? / ২০২৬ চনৰ এপ্ৰিল মাহত ভাৰতীয় সশস্ত্ৰ বাহিনীৰ কোনটো শাখাই ইয়াৰ প্ৰথমটো নিৰ্দিষ্ট 'চাইবাৰ কমাণ্ড' কাৰ্যক্ষম কৰি তুলিছে?",
+    "options": ["Indian Army", "Indian Navy", "Indian Air Force", "Integrated Defense Staff (Tri-services)"],
+    "answer": 3
+  }
+]
