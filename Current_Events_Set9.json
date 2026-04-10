@@ -1,102 +1,52 @@
 [
   {
-    "question": "Which indigenous Light Combat Helicopter (LCH) was inducted in large numbers into the Indian Army in 2025-26? / ২০২৫-২৬ বৰ্ষত ভাৰতীয় সেনাত বৃহৎ সংখ্যক কোনটো থলুৱা লঘু যুঁজাৰু হেলিকপ্টাৰ (LCH) অন্তৰ্ভুক্ত কৰা হৈছে?",
-    "options": ["(a) Dhruv", "(b) Prachand", "(c) Rudra", "(d) Cheetah"],
+    "question": "Which National Park in Assam officially recorded the highest increase in the Tiger population in the 2025-26 census? / ২০২৫-২৬ বৰ্ষৰ গণনা অনুসৰি অসমৰ কোনখন ৰাষ্ট্ৰীয় উদ্যানত বাঘৰ সংখ্যা সৰ্বাধিক বৃদ্ধি পাইছে?",
+    "options": ["Kaziranga National Park", "Manas National Park", "Orang National Park", "Nameri National Park"],
     "answer": 1
   },
   {
-    "question": "The 'Exercise MILAN 2026', a biennial multilateral naval exercise, was hosted by India in which city? / ২০২৬ চনত ভাৰতে দ্বিবৰ্ষীয় বহুপাক্ষিক নৌসেনা অনুশীলন 'MILAN 2026' কোনখন চহৰত আয়োজন কৰিছিল?",
-    "options": ["(a) Mumbai", "(b) Kochi", "(c) Visakhapatnam", "(d) Port Blair"],
+    "question": "What is the name of the new species of 'Ginger' discovered in the Karbi Anglong hills of Assam in late 2025? / ২০২৫ চনৰ শেষৰ ফালে অসমৰ কাৰ্বি আংলং পাহাৰত আৱিষ্কৃত আদাৰ (Ginger) নতুন প্ৰজাতিটোৰ নাম কি?",
+    "options": ["Amomum assamicum", "Zingiber murlen", "Zingiber karbianglongense", "Curcuma caesia"],
     "answer": 2
   },
   {
-    "question": "Which fifth-generation stealth fighter jet is being developed by DRDO under the AMCA project? / AMCA প্ৰকল্পৰ অধীনত DRDO-ৱে কোনটো পঞ্চম প্ৰজন্মৰ ষ্টিল্থ যুঁজাৰু বিমান নিৰ্মাণ কৰিছে?",
-    "options": ["(a) Tejas Mk2", "(b) Advanced Medium Combat Aircraft", "(c) Rafale-M", "(d) Sukhoi-30MKI"],
+    "question": "Which advanced technology was integrated into the 'Flood Early Warning System' (FLEWS) of Assam in 2026 for more accurate predictions? / অধিক সঠিক ভৱিষ্যদ্বাণীৰ বাবে ২০২৬ চনত অসমৰ 'বান আগতীয়া সতৰ্কবাণী প্ৰণালী'ত (FLEWS) কোনটো উন্নত প্ৰযুক্তি একত্ৰিত কৰা হৈছে?",
+    "options": ["Satellite Imagery only", "Artificial Intelligence (AI) and Machine Learning", "Manual River Gauging", "Radio Frequency Tags"],
     "answer": 1
   },
   {
-    "question": "What is the name of the third aircraft carrier for which the Indian Navy moved a proposal in 2025-26? / ২০২৫-২৬ বৰ্ষত ভাৰতীয় নৌসেনাই প্ৰস্তাৱ আগবঢ়োৱা তৃতীয়খন বিমানবাহী জাহাজৰ নাম কি?",
-    "options": ["(a) INS Vikrant", "(b) INS Vikramaditya", "(c) INS Vishal", "(d) INS Virat"],
-    "answer": 2
-  },
-  {
-    "question": "The 'Agni-VI' missile, discussed in 2026 for its MIRV technology, has an estimated range of? / MIRV প্ৰযুক্তিৰ বাবে ২০২৬ চনত চৰ্চাত থকা 'অগ্নি-VI' মিছাইলৰ আনুমানিক দূৰত্ব কিমান?",
-    "options": ["(a) 5000 km", "(b) 7000-9000 km", "(c) 3500 km", "(d) 12000 km"],
+    "question": "The 'Manas National Park' saw the successful translocation of which animal species from Kaziranga in early 2026? / ২০২৬ চনৰ আৰম্ভণিতে কাজিৰঙাৰ পৰা কোনটো প্ৰাণীৰ প্ৰজাতি 'মানাহ ৰাষ্ট্ৰীয় উদ্যান'লৈ সফলতাৰে স্থানান্তৰ কৰা হৈছিল?",
+    "options": ["Hoolock Gibbon", "Eastern Swamp Deer (Dol Horina)", "Golden Langur", "Greater One-horned Rhino"],
     "answer": 1
   },
   {
-    "question": "Which country signed a deal with India in 2026 for the export of 'Pinaka' Multi-Barrel Rocket Launcher systems? / ২০২৬ চনত কোনখন দেশে ভাৰতৰ সৈতে 'পিনাকা' মাল্টি-বেৰেল ৰকেট লঞ্চাৰ চিষ্টেম ৰপ্তানিৰ চুক্তি স্বাক্ষৰ কৰিছে?",
-    "options": ["(a) Armenia", "(b) France", "(c) Brazil", "(d) Philippines"],
+    "question": "Which district of Assam was identified in 2026 as a new hotspot for the rare 'Mandarin Duck'? / বিৰল 'মেণ্ডেৰিন হাঁহ'ৰ (Mandarin Duck) বাবে ২০২৬ চনত অসমৰ কোনখন জিলাক এক নতুন হটস্পট হিচাপে চিনাক্ত কৰা হৈছে?",
+    "options": ["Dhemaji", "Tinsukia (Maguri-Motapung Beel area)", "Cachar", "Dhubri"],
+    "answer": 1
+  },
+  {
+    "question": "The 2026 satellite survey revealed that which national park in Assam has the highest percentage of 'Wetland' area? / ২০২৬ চনৰ উপগ্ৰহ জৰীপত অসমৰ কোনখন ৰাষ্ট্ৰীয় উদ্যানত 'জলাশয়'ৰ (Wetland) পৰিমাণ সৰ্বাধিক বুলি ধৰা পৰিছে?",
+    "options": ["Kaziranga National Park", "Dibru-Saikhowa National Park", "Raimona National Park", "Dehing Patkai National Park"],
     "answer": 0
   },
   {
-    "question": "The 'Project Seabird', India's largest naval infrastructure project, is located at? / ভাৰতৰ সৰ্ববৃহৎ নৌ-আন্তঃগাঁথনি প্ৰকল্প 'প্ৰজেক্ট চীবৰ্ড' ক'ত অৱস্থিত?",
-    "options": ["(a) Karwar, Karnataka", "(b) Jamnagar, Gujarat", "(c) Chennai, Tamil Nadu", "(d) Balasore, Odisha"],
-    "answer": 0
-  },
-  {
-    "question": "In 2026, who holds the position of the Chief of Defence Staff (CDS) of India? / ২০২৬ চনত ভাৰতৰ চিফ অফ ডিফেন্স ষ্টাফ (CDS) পদত কোন অধিষ্ঠিত হৈ আছে?",
-    "options": ["(a) Gen. Manoj Pande", "(b) Gen. Anil Chauhan", "(c) Adm. R. Hari Kumar", "(d) Gen. Bipin Rawat (Late)"],
-    "answer": 1
-  },
-  {
-    "question": "The 'Zorawar' Light Tank, successfully tested in 2025, is primarily designed for? / ২০২৫ চনত সফলতাৰে পৰীক্ষা কৰা 'জোৰাৱাৰ' লাইট টেংকটো মূলত কিহৰ বাবে নিৰ্মাণ কৰা হৈছে?",
-    "options": ["(a) Desert warfare", "(b) High-altitude mountain warfare", "(c) Amphibious operations", "(d) Jungle combat"],
-    "answer": 1
-  },
-  {
-    "question": "Which drone system was recently inducted by the Indian Navy in 2026 for long-range maritime surveillance? / দীৰ্ঘ দূৰত্বৰ সামুদ্ৰিক নিৰীক্ষণৰ বাবে ২০২৬ চনত ভাৰতীয় নৌসেনাই কোনটো ড্ৰোন ব্যৱস্থা অন্তৰ্ভুক্ত কৰিছে?",
-    "options": ["(a) Rustom-II", "(b) MQ-9B SkyGuardian/SeaGuardian", "(c) Heron TP", "(d) Tapas BH-201"],
-    "answer": 1
-  },
-  {
-    "question": "The 'Akash-NG' (Next Generation) missile system is a? / 'আকাশ-এনজি' (নেক্সট জেনেৰেচন) মিছাইল ব্যৱস্থাটো এটা?",
-    "options": ["(a) Air-to-Air Missile", "(b) Surface-to-Air Missile", "(c) Anti-Tank Missile", "(d) Submarine Launched Missile"],
-    "answer": 1
-  },
-  {
-    "question": "Which Indian state hosted the 'DefExpo 2026'? / কোনখন ভাৰতীয় ৰাজ্যই 'ডেফএক্সপো ২০২৬' (DefExpo 2026) আয়োজন কৰিছিল?",
-    "options": ["(a) Gujarat", "(b) Uttar Pradesh", "(c) Goa", "(d) Maharashtra"],
-    "answer": 1
-  },
-  {
-    "question": "What is the name of the new Cybersecurity Command established in 2026 to counter digital threats? / ডিজিটেল ভাবুকি মোকাবিলা কৰিবলৈ ২০২৬ চনত স্থাপন কৰা নতুন চাইবাৰ সুৰক্ষা কমাণ্ডটোৰ নাম কি?",
-    "options": ["(a) National Cyber Force", "(b) Defence Cyber Agency (DCyA) Upgrade", "(c) Tri-Service Cyber Command", "(d) Bharat Cyber Guard"],
-    "answer": 2
-  },
-  {
-    "question": "The 'Project 75I' of the Indian Navy is related to the construction of? / ভাৰতীয় নৌসেনাৰ 'Project 75I' কিহৰ নিৰ্মাণৰ সৈতে জড়িত?",
-    "options": ["(a) Nuclear Submarines", "(b) Advanced Conventional Submarines", "(c) Stealth Frigates", "(d) Destroyers"],
-    "answer": 1
-  },
-  {
-    "question": "Which assault rifle is being manufactured in Korwa (UP) under an Indo-Russian joint venture? / ভাৰত-ৰাছিয়া যুটীয় উদ্যোগৰ অধীনত কোৰৱাত (উত্তৰ প্ৰদেশ) কোনটো আছল্ট ৰাইফেল নিৰ্মাণ কৰা হৈছে?",
-    "options": ["(a) INSAS", "(b) AK-203", "(c) SIG Sauer", "(d) Tavor"],
-    "answer": 1
-  },
-  {
-    "question": "The 'S-400 Triumf' air defense system was procured by India from which country? / ভাৰতে কোনখন দেশৰ পৰা 'S-400 ট্ৰায়াম্ফ' বায়ু প্ৰতিৰক্ষা ব্যৱস্থা সংগ্ৰহ কৰিছে?",
-    "options": ["(a) USA", "(b) Israel", "(c) Russia", "(d) S. Korea"],
-    "answer": 2
-  },
-  {
-    "question": "What is 'Viraat', which was in news regarding the 'Indus-X' summit in 2026? / ২০২৬ চনত 'Indus-X' সন্মিলনৰ সন্দৰ্ভত চৰ্চাত থকা 'বিৰাট' (Viraat) কি?",
-    "options": ["(a) A new aircraft carrier", "(b) An Indo-US Defense Innovation Accelerator", "(c) A hypersonic missile", "(d) A nuclear-powered submarine"],
-    "answer": 1
-  },
-  {
-    "question": "Which Indian company launched the first private spy satellite for the Indian Armed Forces in 2024-26? / ২০২৪-২৬ বৰ্ষত ভাৰতীয় সশস্ত্ৰ বাহিনীৰ বাবে কোনটো ভাৰতীয় কোম্পানীয়ে প্ৰথমটো ব্যক্তিগত চোৰাংচোৱা উপগ্ৰহ উৎক্ষেপণ কৰিছে?",
-    "options": ["(a) Skyroot Aerospace", "(b) TASL (Tata Advanced Systems Ltd)", "(c) Pixxel", "(d) Agnikul Cosmos"],
-    "answer": 1
-  },
-  {
-    "question": "The 'Exercise Surya Kiran 2026' is a joint military exercise between India and? / 'সূৰ্য কিৰণ ২০২৬' ভাৰত আৰু কোনখন দেশৰ মাজত অনুষ্ঠিত এক যুটীয় সামৰিক অনুশীলন?",
-    "options": ["(a) Sri Lanka", "(b) Nepal", "(c) Bangladesh", "(d) Bhutan"],
-    "answer": 1
-  },
-  {
-    "question": "Which ship was decommissioned in early 2026 after 35 years of service in the Indian Navy? / ৩৫ বছৰীয়া সেৱাৰ অন্তত ২০২৬ চনৰ আৰম্ভণিতে ভাৰতীয় নৌসেনাৰ কোনখন জাহাজক অব্যাহতি (Decommissioned) দিয়া হৈছে?",
-    "options": ["(a) INS Rajput", "(b) INS Kirpan", "(c) INS Sindhuvir", "(d) A leading Kilo-class submarine (e.g. INS Sindhuraj context)"],
+    "question": "What is the name of the project launched in 2025-26 to protect the 'Golden Langur' in the western Assam corridor? / পশ্চিম অসমৰ কৰিডৰত 'সোণালী বান্দৰ' (Golden Langur) সুৰক্ষাৰ বাবে ২০২৫-২৬ চনত আৰম্ভ কৰা প্ৰকল্পটোৰ নাম কি?",
+    "options": ["Project Swarna", "Mission Kanaklata", "Project Habitat Conservation", "Project Golden Langur 2.0"],
     "answer": 3
+  },
+  {
+    "question": "In 2026, the Assam government proposed to convert which wildlife sanctuary into the state's 8th National Park? / ২০২৬ চনত অসম চৰকাৰে কোনখন অভয়াৰণ্যক ৰাজ্যৰ ৮ম ৰাষ্ট্ৰীয় উদ্যানলৈ উন্নীত কৰাৰ প্ৰস্তাৱ দিছে?",
+    "options": ["Pobitora Wildlife Sanctuary", "Bura Chapori Wildlife Sanctuary", "Sonai Rupai Wildlife Sanctuary", "Deepor Beel Wildlife Sanctuary"],
+    "answer": 1
+  },
+  {
+    "question": "Which app was updated in 2026 by the Assam Forest Department for real-time tracking of human-elephant conflict? / মানুহ-হাতীৰ সংঘাতৰ ৰিয়েল-টাইম ট্ৰেকিং কৰিবলৈ ২০২৬ চনত অসম বন বিভাগে কোনটো এপ আপডেট কৰিছে?",
+    "options": ["Gaja App", "Elephant Alert", "Haati-Manush", "Sanchar Saathi"],
+    "answer": 0
+  },
+  {
+    "question": "The 'Deepor Beel' Ramsar site update of 2026 focuses on a total ban of which activity to preserve its ecosystem? / ২০২৬ চনৰ 'দীপৰ বিল' ৰামচাৰ ছাইটৰ আপডেটত ইয়াৰ পৰিৱেশ তন্ত্ৰ সুৰক্ষিত কৰিবলৈ কোনটো কাৰ্যকলাপ সম্পূৰ্ণৰূপে নিষিদ্ধ কৰাৰ ওপৰত গুৰুত্ব দিয়া হৈছে?",
+    "options": ["Traditional Fishing", "Railway track noise and waste dumping", "Bird watching", "Scientific research"],
+    "answer": 1
   }
 ]
