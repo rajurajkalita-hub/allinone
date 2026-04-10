@@ -1,102 +1,52 @@
 [
   {
-    "question": "Which bill was passed in early 2026 to regulate AI ethics and data privacy in India? / ২০২৬ চনৰ আৰম্ভণিতে ভাৰতত AI নীতি আৰু ডাটা গোপনীয়তা নিয়ন্ত্ৰণ কৰিবলৈ কোনখন বিধেয়ক পাছ কৰা হৈছে?",
-    "options": ["Artificial Intelligence (Regulation and Ethics) Bill, 2026", "Digital Personal Data Protection Act 2023", "Cyber Security Act 2026", "National AI Mission Bill"],
-    "answer": 0
-  },
-  {
-    "question": "The 'One Nation, One Election' implementation bill 2025-26 aims to synchronize which elections? / 'এক দেশ, এক নিৰ্বাচন' ৰূপায়ণ বিধেয়ক ২০২৫-২৬ ৰ লক্ষ্য কোনটো নিৰ্বাচন একত্ৰিত কৰা?",
-    "options": ["Panchayat and Municipal elections", "Lok Sabha and State Assemblies", "Rajya Sabha and Lok Sabha", "Presidential and Vice-Presidential elections"],
+    "question": "Which Ahom era site was officially inscribed as a UNESCO World Heritage Site in the 'Cultural' category in 2024-25? / ২০২৪-২৫ বৰ্ষত 'সাংস্কৃতিক' শ্ৰেণীত কোনটো আহোম যুগৰ স্থানক আনুষ্ঠানিকভাৱে UNESCO বিশ্ব ঐতিহ্য ক্ষেত্ৰ হিচাপে অন্তৰ্ভুক্ত কৰা হৈছে?",
+    "options": ["Rang Ghar", "Charaideo Moidams", "Talatal Ghar", "Garhgaon Palace"],
     "answer": 1
   },
   {
-    "question": "Under the Union Budget 2026-27, which new governance model is proposed for 'Viksit Bharat'? / কেন্দ্ৰীয় বাজেট ২০২৬-২৭ ৰ অধীনত 'বিকশিত ভাৰত'ৰ বাবে কোনটো নতুন প্ৰশাসন মডেলৰ প্ৰস্তাৱ কৰা হৈছে?",
-    "options": ["Digital India 2.0", "Jan Bhagidari 3.0", "Next-Gen Governance (NGG) Framework", "Smart City Mission Extension"],
-    "answer": 2
-  },
-  {
-    "question": "Which landmark bill was introduced to reform the Waqf Board administration in 2025-26? / ২০২৫-২৬ বৰ্ষত ৱাকফ বৰ্ডৰ প্ৰশাসন সংস্কাৰৰ বাবে কোনখন ঐতিহাসিক বিধেয়ক উত্থাপন কৰা হৈছিল?",
-    "options": ["Waqf (Amendment) Bill, 2024-25", "Minority Affairs Act 2026", "Religious Endowments Bill", "Central Waqf Council Act"],
-    "answer": 0
-  },
-  {
-    "question": "Who is the current Chief Election Commissioner (CEC) of India as of April 2026? / ২০২৬ চনৰ এপ্ৰিল মাহৰলৈকে ভাৰতৰ বৰ্তমানৰ মুখ্য নিৰ্বাচনী আয়ুক্ত (CEC) কোন?",
-    "options": ["Rajiv Kumar", "Gyanesh Kumar", "Sukhbir Singh Sandhu", "Anup Chandra Pandey"],
-    "answer": 0
-  },
-  {
-    "question": "The 'Green Hydrogen Governance Bill 2026' focuses on which sector? / 'গ্ৰীন হাইড্ৰজেন গভৰ্নেন্স বিল ২০২৬'এ কোনটো খণ্ডত গুৰুত্ব দিছে?",
-    "options": ["Agriculture", "Renewable Energy and Net Zero emissions", "Space Exploration", "Pharmaceuticals"],
+    "question": "The recent 2025 excavations near the Charaideo site led to the discovery of which structural feature belonging to the Ahom kings? / চৰাইদেউৰ ওচৰত শেহতীয়াকৈ হোৱা ২০২৫ চনৰ খননত আহোম ৰজাসকলৰ কোনটো গাঁথনিগত বৈশিষ্ট্য আৱিষ্কৃত হৈছে?",
+    "options": ["Stone inscriptions", "Underground brick tunnels and drainage systems", "Gold coins of Sukapha", "Iron smelting units"],
     "answer": 1
   },
   {
-    "question": "Which committee's recommendations were accepted in 2026 for the delimitation of Lok Sabha seats? / লোকসভাৰ আসনৰ সীমা নিৰ্ধাৰণৰ বাবে ২০২৬ চনত কোনখন সমিতিৰ পৰামৰ্শ গ্ৰহণ কৰা হৈছিল?",
-    "options": ["Kothari Commission", "16th Finance Commission", "Delimitation Commission of India", "Sarkaria Commission"],
-    "answer": 2
-  },
-  {
-    "question": "The 'PM-ASHRAY' scheme launched in 2026 is related to? / ২০২৬ চনত মুকলি কৰা 'পিএম-আশ্ৰয়' আঁচনিখন কিহৰ সৈতে জড়িত?",
-    "options": ["Old Age Homes", "Urban Slum Redevelopment and Affordable Housing", "Refugee Rehabilitation", "Animal Shelters"],
+    "question": "The 'Charaideo Moidams' are often referred to by which name due to their structural resemblance to Egyptian monuments? / চৰাইদেউ মৈদামসমূহক ইয়াৰ গাঁথনিগত সাদৃশ্যৰ বাবে প্ৰায়ে কি বুলি কোৱা হয়?",
+    "options": ["Ziggurats of Assam", "Pyramids of Assam", "Stupas of the East", "Hanging Gardens of Ahom"],
     "answer": 1
   },
   {
-    "question": "Which article of the Constitution was recently in discussion regarding the 'Special Status' of states in 2026? / ২০২৬ চনত ৰাজ্যসমূহৰ 'বিশেষ মৰ্যাদা' সন্দৰ্ভত সংবিধানৰ কোনটো অনুচ্ছেদ শেহতীয়াকৈ চৰ্চাত আছিল?",
-    "options": ["Article 371", "Article 370", "Article 356", "Article 280"],
-    "answer": 0
-  },
-  {
-    "question": "The 'National Space Policy Implementation Bill 2025-26' allows private participation in? / 'ৰাষ্ট্ৰীয় মহাকাশ নীতি ৰূপায়ণ বিধেয়ক ২০২৫-২৬'এ কিহৰ ক্ষেত্ৰত ব্যক্তিগত অংশগ্ৰহণৰ অনুমতি দিয়ে?",
-    "options": ["Telecommunications", "Satellite Launch and Space exploration", "Defense Production", "Railway Management"],
-    "answer": 1
-  },
-  {
-    "question": "Who became the Lokpal of India in early 2026? / ২০২৬ চনৰ আৰম্ভণিতে ভাৰতৰ লোকপাল কোন হৈছিল?",
-    "options": ["Pinaki Chandra Ghose", "Pradip Kumar Mohanty", "Ajay Manikrao Khanwilkar", "Ranjan Gogoi"],
-    "answer": 2
-  },
-  {
-    "question": "Which bill seeks to amend the 'Information Technology Act' to handle Deepfakes in 2026? / ২০২৬ চনত 'ডিপফেক' নিয়ন্ত্ৰণ কৰিবলৈ কোনখন বিধেয়কে 'তথ্য প্ৰযুক্তি আইন' সংশোধন কৰিব বিচাৰিছে?",
-    "options": ["Digital Safety Bill 2026", "Information Technology (Amendment) Bill 2026", "AI and Media Bill", "Cyber Fraud Control Act"],
-    "answer": 1
-  },
-  {
-    "question": "The 'Finance Commission of India' currently operational in 2026 is? / ২০২৬ চনত বৰ্তমান কাৰ্যক্ষম হৈ থকা ভাৰতৰ 'বিত্ত আয়োগ' খন কিমান সংখ্যক?",
-    "options": ["16th Finance Commission", "15th Finance Commission", "14th Finance Commission", "17th Finance Commission"],
-    "answer": 0
-  },
-  {
-    "question": "Which portal was integrated with 'Bhashini' in 2026 to provide governance in 22 languages? / ২২টা ভাষাত প্ৰশাসন প্ৰদান কৰিবলৈ ২০২৬ চনত কোনটো পৰ্টেলক 'ভাষিণী'ৰ সৈতে একত্ৰিত কৰা হৈছে?",
-    "options": ["MyGov Portal", "Digital India Portal", "Umang App", "Jan Samarth Portal"],
-    "answer": 2
-  },
-  {
-    "question": "The 'Land Records Digitization Bill 2026' aims to achieve? / 'ভূমি অভিলেখ ডিজিটেলাইজেচন বিধেয়ক ২০২৬'ৰ লক্ষ্য কি?",
-    "options": ["Bhu-Aadhaar for every land parcel", "Free land distribution", "Land tax exemption", "Urban gardening promotion"],
-    "answer": 0
-  },
-  {
-    "question": "Who is the Chairperson of the 16th Finance Commission? / ১৬ সংখ্যক বিত্ত আয়োগৰ অধ্যক্ষ কোন?",
-    "options": ["N. K. Singh", "Arvind Panagariya", "Shaktikanta Das", "Raghuram Rajan"],
-    "answer": 1
-  },
-  {
-    "question": "Which new category of 'Blue Visa' was discussed in Parliament in 2026? / ২০২৬ চনত সংসদত কোনটো নতুন 'ব্লু ভিছা' শ্ৰেণীৰ বিষয়ে আলোচনা কৰা হৈছিল?",
-    "options": ["For Tourists", "For Tech Professionals and Investors", "For Ocean exploration experts", "For Student exchange"],
-    "answer": 2
-  },
-  {
-    "question": "The 'National Health Stack' integration bill 2026 focuses on? / 'ৰাষ্ট্ৰীয় স্বাস্থ্য ষ্টেক' একত্ৰীকৰণ বিধেয়ক ২০২৬এ কিহৰ ওপৰত গুৰুত্ব দিছে?",
-    "options": ["Free Medicine Distribution", "Unified Digital Health Records", "Private Hospital Privatization", "Medical Tourism only"],
-    "answer": 1
-  },
-  {
-    "question": "The 'Bharatiya Sakshya Adhiniyam, 2023', which came into full effect, deals with? / পূৰ্ণ গতিত কাৰ্যকৰী হোৱা 'ভাৰতীয় সাক্ষ্য অধিনিয়ম, ২০২৩' কিহৰ সৈতে জড়িত?",
-    "options": ["Police reforms", "Evidence and its admissibility in courts", "Public sector jobs", "International Trade"],
-    "answer": 1
-  },
-  {
-    "question": "Which governance initiative won the 'Platinum Award' for Digital India in 2026? / ২০২৬ চনত ডিজিটেল ইণ্ডিয়াৰ 'প্লেটিনাম বঁটা' কোনটো প্ৰশাসনিক উদ্যোগে লাভ কৰিছে?",
-    "options": ["UPI Global", "E-Sanjeevani", "PM-Kisan Digital Interface", "National Smart Governance Gateway"],
+    "question": "Which historic Ahom era 'fort' (Garh) saw a major restoration project in early 2026 to boost heritage tourism? / ঐতিহ্যবাহী পৰ্যটনৰ প্ৰসাৰৰ বাবে ২০২৬ চনৰ আৰম্ভণিতে আহোম যুগৰ কোনটো ঐতিহাসিক 'গড়'ৰ সংৰক্ষণ প্ৰকল্প হাতত লোৱা হৈছে?",
+    "options": ["Mumai-tamuli Garh", "Ladaigarh", "Bibuddhi Garh", "All of the above (as part of Heritage Circuit)"],
     "answer": 3
+  },
+  {
+    "question": "Who was the first Ahom king to establish the capital at Charaideo in 1253? / ১২৫৩ চনত চৰাইদেউত প্ৰথম ৰাজধানী স্থাপন কৰা আহোম ৰজাজন কোন আছিল?",
+    "options": ["Suhenpha", "Suhungmung", "Chaolung Sukapha", "Suhumpha"],
+    "answer": 2
+  },
+  {
+    "question": "In 2026, the Archaeological Survey of India (ASI) identified a new burial site potentially belonging to which Ahom queen? / ২০২৬ চনত ভাৰতীয় পুৰাতত্ত্ব জৰীপ বিভাগে (ASI) সম্ভৱপৰ কোনগৰাকী আহোম কুঁৱৰীৰ এক নতুন মৈদামৰ স্থান চিনাক্ত কৰিছে?",
+    "options": ["Joymoti Konwari", "Mula Gabharu", "Ambika Kunwari", "Phuleswari Kunwari"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the digital archive launched in 2025 to preserve the 'Buranis' (Ahom chronicles)? / আহোম বুৰঞ্জীসমূহ সংৰক্ষণ কৰিবলৈ ২০২৫ চনত মুকলি কৰা ডিজিটেল আৰ্কাইভটোৰ নাম কি?",
+    "options": ["Asom Buranji Digital Mission", "Project Itihas", "Digital Ahom Heritage", "Buranji Kosha"],
+    "answer": 0
+  },
+  {
+    "question": "The 'Lachit Barphukan' statue and memorial at Hollongapar was updated in 2026 with a new museum focusing on? / হোলঙাপাৰৰ লাচিত বৰফুকনৰ প্ৰতিমূৰ্তি আৰু স্মাৰক ক্ষেত্ৰখনত ২০২৬ চনত কিহৰ ওপৰত কেন্দ্ৰিত এক নতুন সংগ্ৰহালয় মুকলি কৰা হৈছে?",
+    "options": ["Ancient weaponry and Naval tactics of Saraighat", "Ahom agriculture", "Silk weaving", "Buddhism in Assam"],
+    "answer": 0
+  },
+  {
+    "question": "The UNESCO recognition of Charaideo Moidams makes it the first World Heritage Site in Northeast India under which category? / চৰাইদেউ মৈদামৰ UNESCO স্বীকৃতিয়ে ইয়াক উত্তৰ-পূব ভাৰতৰ কোনটো শ্ৰেণীৰ প্ৰথমখন বিশ্ব ঐতিহ্য ক্ষেত্ৰ হিচাপে গঢ়ি তুলিছে?",
+    "options": ["Natural Category", "Cultural Category", "Mixed Category", "Endangered Category"],
+    "answer": 1
+  },
+  {
+    "question": "Which Ahom-era temple's renovation led to the discovery of hidden sculptures in early 2026? / ২০২৬ চনৰ আৰম্ভণিতে কোনটো আহোম যুগৰ মন্দিৰৰ সংস্কাৰ কাৰ্যৰ সময়ত লুকাই থকা ভাস্কৰ্য আৱিষ্কৃত হৈছে?",
+    "options": ["Kamakhya Temple", "Negheriting Shiva Doul", "Umananda Temple", "Sivasagar Sivadol"],
+    "answer": 1
   }
 ]
