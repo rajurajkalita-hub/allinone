@@ -1,102 +1,52 @@
 [
   {
-    "question": "Which mission was allocated ₹10,372 crore by the Indian government in 2024-25 to bolster the AI ecosystem? / ২০২৪-২৫ বৰ্ষত AI পৰিৱেশ তন্ত্ৰ শক্তিশালী কৰিবলৈ ভাৰত চৰকাৰে ১০,৩৭২ কোটি টকা কোনটো মিছনৰ বাবে আবণ্টন দিছে?",
-    "options": ["Digital India 2.0", "IndiaAI Mission", "AI for All Initiative", "National Cyber Mission"],
+    "question": "Which traditional Assamese product recently received a GI Tag update or expansion in late 2025 for its unique aromatic qualities? / সুগন্ধি গুণৰ বাবে ২০২৫ চনৰ শেষৰ ফালে অসমৰ কোনটো পৰম্পৰাগত সামগ্ৰীৰ জি.আই. টেগ (GI Tag) আপডেট বা সম্প্ৰসাৰণ কৰা হৈছে?",
+    "options": ["Boka Saul", "Joha Rice", "Kaji Nemu", "Chokuwa Rice"],
     "answer": 1
   },
   {
-    "question": "The 'Bhashini' platform, an AI-led language translation tool, currently supports how many Indian languages as of 2026? / ২০২৬ চনলৈকে AI চালিত ভাষা অনুবাদ সঁজুলি 'ভাষিণী'য়ে কিমানটা ভাৰতীয় ভাষা সমৰ্থন কৰে?",
-    "options": ["12 Languages", "18 Languages", "22 Languages", "15 Languages"],
+    "question": "Who won the Sahitya Akademi Award 2025 in the Assamese language category? / অসমীয়া ভাষাৰ শ্ৰেণীত ২০২৫ চনৰ সাহিত্য অকাডেমী বঁটা কোনে লাভ কৰিছে?",
+    "options": ["Pranay Phukan", "Rita Chowdhury", "Anuradha Sharma Pujari", "Dhurba Jyoti Borah"],
+    "answer": 0
+  },
+  {
+    "question": "In early 2026, which Satra of Majuli was in the news for its new cultural archive of 'Sanchi-pat' manuscripts? / ২০২৬ চনৰ আৰম্ভণিতে মাজুলীৰ কোনটো সত্ৰ 'সাঁচিপাত' পুথিৰ নতুন সাংস্কৃতিক আৰ্কাইভৰ বাবে চৰ্চাত আছিল?",
+    "options": ["Kamalabari Satra", "Auniati Satra", "Dakshinpat Satra", "Garmur Satra"],
+    "answer": 1
+  },
+  {
+    "question": "The 'Assamese Gamosa' GI Tag protection was strictly enforced in 2026 to prevent the sale of powerloom versions. In which year was the GI Tag originally granted to the Gamosa? / পাৱাৰলুমৰ গামোচাৰ বিক্ৰী ৰোধ কৰিবলৈ ২০২৬ চনত 'অসমীয়া গামোচা'ৰ জি.আই. টেগ সুৰক্ষা কঠোৰ কৰা হৈছে। গামোচাক মূলতঃ কোন বছৰত জি.আই. টেগ প্ৰদান কৰা হৈছিল?",
+    "options": ["2020", "2021", "2022", "2023"],
     "answer": 2
   },
   {
-    "question": "Which landmark bill was discussed in early 2026 to regulate AI ethics and safety in India? / ২০২৬ চনৰ আৰম্ভণিতে ভাৰতত AI নীতি আৰু সুৰক্ষা নিয়ন্ত্ৰণ কৰিবলৈ কোনখন ঐতিহাসিক বিধেয়ক আলোচনা কৰা হৈছে?",
-    "options": ["Digital India Act (DIA) - AI Framework", "Personal Data Bill", "AI Ethics Law", "Social Media Regulation Bill"],
-    "answer": 0
-  },
-  {
-    "question": "What is the primary goal of the 'GPU Cluster' being set up under the IndiaAI Mission? / 'ইণ্ডিয়া এআই মিছন'ৰ অধীনত স্থাপন কৰা 'GPU ক্লাষ্টাৰ'ৰ প্ৰাথমিক লক্ষ্য কি?",
-    "options": ["Increasing internet speed", "Providing AI computing power to startups and researchers", "Storing government data", "Manufacturing smartphones"],
+    "question": "Which young writer from Assam received the 'Sahitya Akademi Yuva Puraskar' in 2025 for a collection of short stories? / চুটিগল্পৰ সংকলনৰ বাবে ২০২৫ চনত অসমৰ কোনগৰাকী যুৱ লেখকে 'সাহিত্য অকাডেমী যুৱ পুৰস্কাৰ' লাভ কৰিছে?",
+    "options": ["Nayanjyoti Sarma", "Jintu Gitartha", "Pratiba Sarkar", "Maini Mahanta"],
     "answer": 1
   },
   {
-    "question": "The 'Sanchar Saathi' portal uses AI for which primary purpose? / 'সঞ্চাৰ সাথী' পৰ্টেলত কি প্ৰাথমিক উদ্দেশ্যত AI ব্যৱহাৰ কৰা হয়?",
-    "options": ["Weather forecasting", "Identifying and blocking fraudulent mobile connections", "Online education", "Agricultural advice"],
-    "answer": 1
-  },
-  {
-    "question": "In 2025-26, which Indian city is being promoted as the 'AI Capital of India' with a dedicated AI park? / ২০২৫-২৬ বৰ্ষত কোনখন ভাৰতীয় চহৰক এখন উৎসৰ্গিত AI পাৰ্কৰ সৈতে 'ভাৰতৰ AI ৰাজধানী' হিচাপে প্ৰচাৰ কৰা হৈছে?",
-    "options": ["Bengaluru", "Hyderabad", "Noida", "Thiruvananthapuram (AI City project)"],
-    "answer": 3
-  },
-  {
-    "question": "The 'Digital Agriculture Mission' 2025-26 uses AI primarily for? / 'ডিজিটেল কৃষি মিছন' ২০২৫-২৬ ত AI মূলত কিহৰ বাবে ব্যৱহাৰ কৰা হয়?",
-    "options": ["Tractor manufacturing", "Crop yield prediction and soil health analysis", "Food processing", "Exporting grains"],
-    "answer": 1
-  },
-  {
-    "question": "Which AI model was integrated into the 'UMANG' app in 2026 to assist citizens in accessing government services? / চৰকাৰী সেৱা লাভত নাগৰিকক সহায় কৰিবলৈ ২০২৬ চনত 'UMANG' এপত কোনটো AI মডেল একত্ৰিত কৰা হৈছে?",
-    "options": ["Bhasha-AI", "Jan-Sahayak AI Chatbot", "Gita-GPT", "Bharat-GPT"],
-    "answer": 1
-  },
-  {
-    "question": "The 'Chips to Startup' (C2S) programme focuses on which technology essential for AI? / 'চিপছ টু ষ্টাৰ্টআপ' (C2S) কাৰ্যসূচীয়ে AI-ৰ বাবে প্ৰয়োজনীয় কোনটো প্ৰযুক্তিত গুৰুত্ব দিয়ে?",
-    "options": ["Software development", "Semiconductor Design and Manufacturing", "5G Expansion", "Blockchain"],
-    "answer": 1
-  },
-  {
-    "question": "What is the full form of 'AIRAWAT', India's AI supercomputer? / ভাৰতৰ AI ছুপাৰ কম্পিউটাৰ 'AIRAWAT'ৰ সম্পূৰ্ণ নাম কি?",
-    "options": ["AI Research, Analytics and Knowledge Assimilation Platform", "Artificial Intelligence Research, Analytics and Word Analysis Tool", "Advanced India Research and Web Analysis Technology", "None of the above"],
-    "answer": 0
-  },
-  {
-    "question": "In 2026, which government department launched an AI-based 'Grievance Redressal' system? / ২০২৬ চনত কোনটো চৰকাৰী বিভাগে AI ভিত্তিক 'অভিযোগ নিৰাময়' ব্যৱস্থা আৰম্ভ কৰিছে?",
-    "options": ["Department of Post", "DARPG (Dept of Administrative Reforms and Public Grievances)", "Ministry of Defense", "ISRO"],
-    "answer": 1
-  },
-  {
-    "question": "The 'India Stack' which is being exported globally, now includes which AI-based component? / গোলকীয়ভাৱে ৰপ্তানি কৰা 'ইণ্ডিয়া ষ্টেক'ত এতিয়া কোনটো AI ভিত্তিক উপাদান অন্তৰ্ভুক্ত কৰা হৈছে?",
-    "options": ["Aadhaar 2.0", "Bhashini Translation API", "UPI Lite", "DigiLocker Plus"],
-    "answer": 1
-  },
-  {
-    "question": "Which initiative was launched in 2026 to train 10 million students in AI and Coding? / ১ কোটি শিক্ষাৰ্থীক AI আৰু ক'ডিংত প্ৰশিক্ষণ দিবলৈ ২০২৬ চনত কোনটো পদক্ষেপ আৰম্ভ কৰা হৈছে?",
-    "options": ["AI for Youth 2.0", "FutureSkills Prime Next", "National AI Literacy Mission", "Code India Mission"],
+    "question": "The 'Sattriya Dance' research center, established in 2025-26 to promote Vaishnavite culture globally, is located in? / বৈষ্ণৱী সংস্কৃতিক বিশ্বজুৰি প্ৰচাৰ কৰিবলৈ ২০২৫-২৬ চনত স্থাপন কৰা 'সত্ৰীয়া নৃত্য' গৱেষণা কেন্দ্ৰটো ক’ত অৱস্থিত?",
+    "options": ["Majuli", "Guwahati", "Nagaon (Batadrava)", "Jorhat"],
     "answer": 2
   },
   {
-    "question": "The 'Deepfake' regulation framework updated in 2026 mandates platforms to remove non-consensual content within? / ২০২৬ চনত আপডেট কৰা 'ডিপফেক' নিয়ন্ত্ৰণ গাঁথনিয়ে প্লেটফৰ্মসমূহক সন্মতিহীন সমল কিমান সময়ৰ ভিতৰত আঁতৰাবলৈ নিৰ্দেশ দিছে?",
-    "options": ["24 hours", "48 hours", "12 hours", "72 hours"],
-    "answer": 0
-  },
-  {
-    "question": "Which Indian state launched the first 'AI-powered Health ATM' in rural areas in 2025-26? / ২০২৫-২৬ বৰ্ষত কোনখন ভাৰতীয় ৰাজ্যই গ্ৰামাঞ্চলত প্ৰথম 'AI চালিত হেল্থ এটিএম' মুকলি কৰিছে?",
-    "options": ["Maharashtra", "Uttar Pradesh", "Odisha", "Tamil Nadu"],
+    "question": "Which ethnic group's traditional attire/textile from Assam is the latest to apply for a GI Tag in early 2026? / ২০২৬ চনৰ আৰম্ভণিতে অসমৰ কোনটো জনগোষ্ঠীৰ পৰম্পৰাগত সাজ-পাৰ বা বস্ত্ৰই জি.আই. টেগৰ বাবে শেহতীয়াকৈ আবেদন জনাইছে?",
+    "options": ["Bodo Dokhona", "Mising Miri Agal", "Dimasa Risha", "Karbi Pini"],
     "answer": 1
   },
   {
-    "question": "The 'Responsible AI for Social Empowerment' (RAISE) is a global summit hosted by? / 'ৰেস্পন্সিবল এআই ফৰ ছচিয়েল এম্পাৱাৰমেণ্ট' (RAISE) কোনখন দেশে আয়োজন কৰা এক বিশ্বব্যাপী সন্মিলন?",
-    "options": ["USA", "India", "China", "UK"],
+    "question": "The Sahitya Akademi Translation Prize 2025 in Assamese was awarded for translating a famous work from which language? / ২০২৫ চনৰ অসমীয়া ভাষাৰ সাহিত্য অকাডেমী অনুবাদ বঁটা কোনটো ভাষাৰ বিখ্যাত গ্ৰন্থ অনুবাদৰ বাবে প্ৰদান কৰা হৈছে?",
+    "options": ["Bengali", "Sanskrit", "English", "Odia"],
     "answer": 1
   },
   {
-    "question": "Which technology is combined with AI in 'DigiYatra 2.0' for seamless airport entry in 2026? / ২০২৬ চনত বিমান বন্দৰত বিৰামহীন প্ৰৱেশৰ বাবে 'ডিজি যাত্ৰা ২.০'ত AI-ৰ সৈতে কোনটো প্ৰযুক্তি সংযুক্ত কৰা হৈছে?",
-    "options": ["Fingerprint Scanning", "Facial Recognition Technology (FRT)", "Iris Scan", "Voice Authentication"],
-    "answer": 1
+    "question": "Which historic Satra was declared a 'Protected Heritage Site' by the Assam government in 2026 to preserve its 17th-century architecture? / ১৭ শতিকাৰ স্থাপত্য সংৰক্ষণৰ বাবে ২০২৬ চনত অসম চৰকাৰে কোনটো ঐতিহাসিক সত্ৰক 'সংৰক্ষিত ঐতিহ্য ক্ষেত্ৰ' হিচাপে ঘোষণা কৰিছে?",
+    "options": ["Barpeta Satra", "Patbausi Satra", "Kuruabahi Satra", "Dakhinpat Satra"],
+    "answer": 2
   },
   {
-    "question": "What is the focus of the 'Karmayogi AI' platform for civil servants? / অসামৰিক বিষয়াৰ বাবে 'কৰ্মযোগী এআই' প্লেটফৰ্মৰ মূল লক্ষ্য কি?",
-    "options": ["Monitoring attendance", "Personalized learning and decision support", "Transfer management", "Salary processing"],
-    "answer": 1
-  },
-  {
-    "question": "Which PSU (Public Sector Undertaking) launched an AI-based 'Miner's Safety' system in 2026? / ২০২৬ চনত কোনটো ৰাজহুৱা খণ্ডৰ প্ৰতিষ্ঠানে AI ভিত্তিক 'খনি শ্ৰমিকৰ সুৰক্ষা' ব্যৱস্থা মুকলি কৰিছে?",
-    "options": ["ONGC", "Coal India Limited", "SAIL", "GAIL"],
-    "answer": 1
-  },
-  {
-    "question": "The 'Global Partnership on Artificial Intelligence' (GPAI) 2025-26 presidency was held by? / 'গ্ল’বেল পাৰ্টনাৰশ্বিপ অন আৰ্টিফিচিয়েল ইণ্টেলিজেন্স' (GPAI) ২০২৫-২৬ ৰ অধ্যক্ষতা কোনে কৰিছিল?",
-    "options": ["Japan", "India", "France", "Canada"],
+    "question": "Who was conferred with the 'Asom Baibhav' award in 2026 for their contribution to the promotion of Assamese Folk Culture? / অসমীয়া লোকসংস্কৃতিৰ প্ৰসাৰত আগবঢ়োৱা অৱদানৰ বাবে ২০২৬ চনত কাক 'অসম বৈভৱ' বঁটা প্ৰদান কৰা হৈছে?",
+    "options": ["Prabin Phukan", "Hemoprova Chutia", "Dharmeswar Sonowal", "Ratan Tata (Honorary context)"],
     "answer": 1
   }
 ]
