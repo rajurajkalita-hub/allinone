@@ -1,0 +1,12 @@
+[
+  {
+    "question": "Which district was officially reorganized/restored as the 35th district of Assam in the recent 2025-26 administrative update? / শেহতীয়া ২০২৫-২৬ বৰ্ষৰ প্ৰশাসনিক আপডেটত কোনখন জিলাক আনুষ্ঠানিকভাৱে অসমৰ ৩৫ সংখ্যক জিলা হিচাপে পুনৰ গঠন কৰা হৈছে?",
+    "options": ["Tamulpur", "Hojai", "Biswanath", "Bajali"],
+    "answer": 3
+  },
+  {
+    "question": "According to the latest 2026 forest data, which national park in Assam saw a significant expansion in its buffer zone? / ২০২৬ চনৰ শেহতীয়া বন তথ্য অনুসৰি, অসমৰ কোনখন ৰাষ্ট্ৰীয় উদ্যানৰ বাফাৰ জন (buffer zone) বুজন পৰিমাণে বৃদ্ধি কৰা হৈছে?",
+    "options": ["Nameri National Park", "Kaziranga National Park", "Raimona National Park", "Orang National Park"],
+    "answer": 1
+  }
+]
