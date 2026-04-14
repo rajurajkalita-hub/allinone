@@ -1,7 +1,7 @@
 [
   {
-    "question": "Which Assamese author was honored with the prestigious 'Pen Pinter Prize' in early 2026 for lifetime literary contributions? / ২০২৬ চনৰ আৰম্ভণিতে সাহিত্যৰ জীৱনজোৰা অৱদানৰ বাবে কোনগৰাকী অসমীয়া সাহিত্যিকক সন্মানীয় 'পেন পিণ্টাৰ বঁটা'ৰে বিভূষিত কৰা হৈছে?",
-    "options": ["Rita Chowdhury", "Arup Kumar Dutta", "Anuradha Sharma Pujari", "Dhirendra Nath Bezbaruah"],
+    "question": "Which Assamese author was honored with the prestigious 'Pen Pinter Prize' in early 2025 ? / ২০২৬ চনৰ আৰম্ভণিতে সাহিত্যৰ জীৱনজোৰা অৱদানৰ বাবে কোনগৰাকী অসমীয়া সাহিত্যিকক সন্মানীয় 'পেন পিণ্টাৰ বঁটা'ৰে বিভূষিত কৰা হৈছে?",
+    "options": ["Rita Chowdhury", " Leila Aboulela", "Arundhati Roy", "Dhirendra Nath Bezbaruah"],
     "answer": 1
   },
   {
@@ -25,17 +25,18 @@
     "answer": 1
   },
   {
-    "question": "In 2026, which Assamese scientist was selected for a key leadership role in NASA’s Mars Sample Return mission? / ২০২৬ চনত নাছাৰ 'মাৰ্চ ছেম্পল ৰিটাৰ্ণ' অভিযানৰ এক গুৰুত্বপূৰ্ণ নেতৃত্বৰ ভূমিকাৰ বাবে কোনগৰাকী অসমীয়া বিজ্ঞানীক নিৰ্বাচিত কৰা হৈছে?",
-    "options": ["Priyanka Das Rajkakati", "Dr. Manoj Kumar Mahanta", "Jitendra Nath Goswami", "Uddhab Bharali"],
+    "question": "Which international space agency is collaborating with NASA on the Mars Sample Return (MSR) mission?
+নাছাৰ মংগল গ্ৰহৰ পৰা নমুনা ঘূৰাই অনা (MSR) অভিযানত কোনখন আন্তঃৰাষ্ট্ৰীয় মহাকাশ সংস্থাই সহযোগিতা কৰিছে?",
+    "options": ["ESA", "ISRO", "JAXA", "CNSA"],
     "answer": 1
   },
   {
     "question": "Which Indian-origin leader was re-elected as the Prime Minister of Mauritius in late 2024-25? / ২০২৪-২৫ বৰ্ষৰ শেষৰ ফালে কোনগৰাকী ভাৰতীয় মূলৰ নেতা মৰিচাছৰ প্ৰধানমন্ত্ৰী হিচাপে পুনৰ নিৰ্বাচিত হৈছে?",
-    "options": ["Pravind Jugnauth", "Navin Ramgoolam", "Prithvirajsing Roopun", "Rishi Sunak"],
+    "options": ["Pravind Jugnauth", "Dr. Navinchandra Ramgoolam", "Prithvirajsing Roopun", "Rishi Sunak"],
     "answer": 1
   },
   {
-    "question": "Who was appointed as the new Global Goodwill Ambassador for UNICEF in 2025-26 to advocate for child rights? / শিশুৰ অধিকাৰৰ হকে মাত মাতিবলৈ ২০২৫-২৬ বৰ্ষত ইউনিচেফৰ (UNICEF) নতুন গোলকীয় শুভেচ্ছা দূত হিচাপে কাক নিযুক্ত কৰা হৈছে?",
+    "question": "Who was appointed as the new National Ambassador for UNICEF India in 2025-26 to advocate for child rights? / শিশুৰ অধিকাৰৰ হকে মাত মাতিবলৈ ২০২৫-২৬ বৰ্ষত ইউনিচেফৰ (UNICEF) নতুন গোলকীয় শুভেচ্ছা দূত হিচাপে কাক নিযুক্ত কৰা হৈছে?",
     "options": ["Amitabh Bachchan", "Ayushmann Khurrana", "Priyanka Chopra", "Ranveer Singh"],
     "answer": 1
   },
