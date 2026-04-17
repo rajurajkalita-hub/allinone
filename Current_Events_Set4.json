@@ -1,8 +1,8 @@
 [
   {
-    "question": "Which Assamese author was honored with the prestigious 'Pen Pinter Prize' in early 2025 ? / ২০২৬ চনৰ আৰম্ভণিতে সাহিত্যৰ জীৱনজোৰা অৱদানৰ বাবে কোনগৰাকী অসমীয়া সাহিত্যিকক সন্মানীয় 'পেন পিণ্টাৰ বঁটা'ৰে বিভূষিত কৰা হৈছে?",
-    "options": ["Rita Chowdhury", " Leila Aboulela", "Arundhati Roy", "Dhirendra Nath Bezbaruah"],
-    "answer": 1
+    "question": "Which author was honored with the prestigious 'Pen Pinter Prize' in early 2025 ? / ২০২৬ চনৰ আৰম্ভণিতে সাহিত্যৰ জীৱনজোৰা অৱদানৰ বাবে কোনগৰাকী অসমীয়া সাহিত্যিকক সন্মানীয় 'পেন পিণ্টাৰ বঁটা'ৰে বিভূষিত কৰা হৈছে?",
+    "options": ["Arundhati Roy", "Chimamanda Ngozi Adichie", " Margaret Atwood", " Leila Aboulela"],
+    "answer": 3
   },
   {
     "question": "Who was sworn in as the 47th President of the United States in January 2025-26? / ২০২৫-২৬ চনৰ জানুৱাৰী মাহত আমেৰিকা যুক্তৰাষ্ট্ৰৰ ৪৭ সংখ্যক ৰাষ্ট্ৰপতি হিচাপে কোনে শপত গ্ৰহণ কৰিছে?",
@@ -10,8 +10,9 @@
     "answer": 2
   },
   {
-    "question": "Which technology leader took charge as the CEO of a major new Global AI Alliance in April 2026? / ২০২৬ চনৰ এপ্ৰিল মাহত কোনগৰাকী প্ৰযুক্তিবিদে এটা বৃহৎ নতুন গোলকীয় AI মিত্ৰজোঁটৰ CEO হিচাপে কাৰ্যভাৰ গ্ৰহণ কৰিছে?",
-    "options": ["Sundar Pichai", "Parag Agrawal", "Satya Nadella", "Sam Altman"],
+    "question": "What is Dillenia nagalim that was recently seen in news?/ শেহতীয়াকৈ বাতৰিত দেখা পোৱা Dillenia nagalim কি?",
+    "options": ["A type of virus", "Newly discovered plant species", "Newly discovered species of Fish", "Traditional medicine
+"],
     "answer": 1
   },
   {
@@ -21,14 +22,14 @@
   },
   {
     "question": "Who was appointed as the Chairperson of the 16th Finance Commission of India, active in 2026? / ২০২৬ চনত সক্ৰিয় হৈ থকা ভাৰতৰ ১৬ সংখ্যক বিত্ত আয়োগৰ অধ্যক্ষ হিচাপে কাক নিৰ্বাচিত কৰা হৈছে?",
-    "options": ["N.K. Singh", "Arvind Panagariya", "Shaktikanta Das", "Raghuram Rajan"],
+    "options": ["N.K. Singh", "Dr. Arvind Panagariya", "Shaktikanta Das", "Raghuram Rajan"],
     "answer": 1
   },
   {
     "question": "Which international space agency is collaborating with NASA on the Mars Sample Return (MSR) mission?
 নাছাৰ মংগল গ্ৰহৰ পৰা নমুনা ঘূৰাই অনা (MSR) অভিযানত কোনখন আন্তঃৰাষ্ট্ৰীয় মহাকাশ সংস্থাই সহযোগিতা কৰিছে?",
     "options": ["ESA", "ISRO", "JAXA", "CNSA"],
-    "answer": 1
+    "answer": o
   },
   {
     "question": "Which Indian-origin leader was re-elected as the Prime Minister of Mauritius in late 2024-25? / ২০২৪-২৫ বৰ্ষৰ শেষৰ ফালে কোনগৰাকী ভাৰতীয় মূলৰ নেতা মৰিচাছৰ প্ৰধানমন্ত্ৰী হিচাপে পুনৰ নিৰ্বাচিত হৈছে?",
@@ -36,14 +37,14 @@
     "answer": 1
   },
   {
-    "question": "Who was appointed as the new National Ambassador for UNICEF India in 2025-26 to advocate for child rights? / শিশুৰ অধিকাৰৰ হকে মাত মাতিবলৈ ২০২৫-২৬ বৰ্ষত ইউনিচেফৰ (UNICEF) নতুন গোলকীয় শুভেচ্ছা দূত হিচাপে কাক নিযুক্ত কৰা হৈছে?",
-    "options": ["Amitabh Bachchan", "Ayushmann Khurrana", "Priyanka Chopra", "Ranveer Singh"],
-    "answer": 1
+    "question": "Kendu leaf, also known as Tendu leaf is referred to as the Green Gold of which Indian state? / কেন্দু পাত, যাক টেণ্ডু পাত বুলিও জনা যায়, ভাৰতৰ কোনখন ৰাজ্যৰ "সেউজ সোণ" (Green Gold) বুলি কোৱা হয়?",
+    "options": ["Jharkhand", "Bihar", "Gujarat", "Odisha"],
+    "answer": 3
   },
   {
-    "question": "Which Assamese personality was appointed as the Brand Ambassador of the 'Assam Semiconductor Mission' in 2026? / ২০২৬ চনত 'অসম ছেমিকণ্ডাক্টৰ মিছন'ৰ ব্ৰেণ্ড এম্বেচেডৰ হিচাপে কোনগৰাকী অসমীয়া ব্যক্তিক নিযুক্ত কৰা হৈছে?",
-    "options": ["Ratan Tata (Honorary Posthumous)", "Nayanmoni Saikia", "Lovlina Borgohain", "Jahnu Barua"],
-    "answer": 0
+    "question": "Telangana Formation Day, also called Telangana Statehood Day, is celebrated every year on which day?/তেলেংগানা গঠন দিৱস, যাক তেলেংগানা ৰাজ্যত্ব দিৱস বুলিও কোৱা হয়, প্ৰতি বছৰে কোনটো দিনত পালন কৰা হয়?",
+    "options": ["June 1", "June 2", "June 3", "June 4"],
+    "answer": 1
   },
   {
     "question": "Who took over as the Managing Director (MD) of the International Monetary Fund (IMF) for a second term in 2025-26? / ২০২৫-২৬ বৰ্ষত দ্বিতীয়বাৰৰ বাবে আন্তঃৰাষ্ট্ৰীয় মুদ্ৰা নিধিৰ (IMF) পৰিচালন সঞ্চালক (MD) হিচাপে কোনে দায়িত্ব গ্ৰহণ কৰিছে?",
