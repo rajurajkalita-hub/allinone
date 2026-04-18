@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Which specific historical site in Assam was designated as the 'Base Camp' for the 2025-26 Archaeological Survey of India (ASI) underwater exploration of the Brahmaputra? / ২০২৫-২৬ বৰ্ষত ভাৰতীয় পুৰাতত্ত্ব জৰীপ বিভাগে (ASI) ব্ৰহ্মপুত্ৰৰ পানীৰ তলত চলাবলগীয়া অন্বেষণৰ বাবে কোনটো ঐতিহাসিক স্থানক 'বেচ কেম্প' হিচাপে নিৰ্ধাৰণ কৰিছে?",
+    "options": ["Umananda Island", "Biswanath Ghat", "Sukreswar Ghat", "Pandu Port"],
+    "answer": 1
+  },
+  {
+    "question": "The 'Mulaghabharu Park', inaugurated in early 2026, commemorates the heroine who died fighting against which invader? / ২০২৬ চনৰ আৰম্ভণিতে মুকলি কৰা 'মূলাগাভৰু উদ্যান'খন কোনগৰাকী আক্ৰমণকাৰীৰ বিৰুদ্ধে যুঁজ দি মৃত্যুবৰণ কৰা বীৰাংগনাগৰাকীৰ স্মৃতিত নিৰ্মাণ কৰা হৈছে?",
+    "options": ["Mir Jumla", "Turbak Khan", "Ram Singh", "Bakhtiyar Khalji"],
+    "answer": 1
+  },
+  {
+    "question": "Under the 2025 'Assam Village Defense Organisation (VDO)' amendment, which new electronic surveillance system is being integrated into village policing? / ২০২৫ চনৰ 'অসম ভিলেজ ডিফেন্স অৰ্গেনাইজেশ্যন' (VDO) সংশোধনীৰ অধীনত গ্ৰাম্য আৰক্ষীৰ সৈতে কোনটো নতুন ইলেকট্ৰনিক নিৰীক্ষণ ব্যৱস্থা সংযোজিত কৰা হৈছে?",
+    "options": ["Project Drishti", "Village Eye Portal", "V-Shield Connect", "E-Pratishurti"],
+    "answer": 0
+  },
+  {
+    "question": "The 'Vandya' festival, gaining prominence in 2025-26, is a cultural celebration primarily associated with which ethnic group of Assam? / ২০২৫-২৬ বৰ্ষত বিশেষভাৱে চৰ্চিত হোৱা 'বন্দ্য' উৎসৱটো মূলতঃ অসমৰ কোনটো জনগোষ্ঠীৰ সৈতে জড়িত এক সাংস্কৃতিক উদযাপন?",
+    "options": ["Sonowal Kacharis", "Tiwas", "The Deoris", "The Misings"],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first British Commissioner of Assam who introduced the 'Stamp Duties' in 1828 to increase colonial revenue? / ১৮২৮ চনত ঔপনিৱেশিক ৰাজহ বৃদ্ধিৰ বাবে 'ষ্টাম্প ডিউটি' প্ৰৱৰ্তন কৰা অসমৰ প্ৰথমজন ব্ৰিটিছ কমিছনাৰ কোন আছিল?",
+    "options": ["Francis Jenkins", "David Scott", "Major White", "Captain Matthews"],
+    "answer": 1
+  }
+]
