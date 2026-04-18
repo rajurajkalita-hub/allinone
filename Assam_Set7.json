@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Which specific administrative 'Circle' in Assam was the first to achieve 100% digitization of land records under the 'Mission Basundhara 4.0' project in early 2026? / ২০২৬ চনৰ আৰম্ভণিতে 'মিছন বসুন্ধৰা ৪.০' প্ৰকল্পৰ অধীনত ভূমি অভিলেখৰ ১০০% ডিজিটেলকৰণ সম্পন্ন কৰা অসমৰ প্ৰথমটো বিশেষ প্ৰশাসনিক 'চক্ৰ' কোনটো?",
+    "options": ["Dispur", "Dhekiajuli", "Sualkuchi", "Nazira"],
+    "answer": 1
+  },
+  {
+    "question": "The 'Treaty of Majuli' (1563) was signed between the Koch King Naranarayan and which Ahom monarch? / ১৫৬৩ চনৰ 'মাজুলীৰ সন্ধি' কোচ ৰজা নৰনাৰায়ণ আৰু কোনজন আহোম ৰজাৰ মাজত স্বাক্ষৰিত হৈছিল?",
+    "options": ["Suhungmung", "Suklenmung", "Sukhamphaa", "Pratap Singha"],
+    "answer": 2
+  },
+  {
+    "question": "Which forest reserve in Assam was proposed in 2025 to be upgraded as the state's 8th National Park to protect the endemic 'White-Winged Wood Duck' habitat? / আপুৰুগীয়া 'দেউহাঁহ'ৰ (White-Winged Wood Duck) বাসস্থান সুৰক্ষিত কৰিবলৈ ২০২৫ চনত অসমৰ কোনটো সংৰক্ষিত বনাঞ্চলক ৰাজ্যৰ অষ্টমখন ৰাষ্ট্ৰীয় উদ্যানলৈ উন্নীত কৰাৰ প্ৰস্তাৱ দিয়া হৈছে?",
+    "options": ["Pani Dihing", "Bordoibum-Beelmukh", "Amchang", "Pobitora"],
+    "answer": 1
+  },
+  {
+    "question": "During the 1857 Uprising, who was the 'Ahom Prince' that the conspirators intended to reinstall on the throne, leading to the arrest of Maniram Dewan? / ১৮৫৭ চনৰ বিদ্ৰোহৰ সময়ত ষড়যন্ত্ৰকাৰীসকলে কোনজন 'আহোম ৰাজকুমাৰ'ক পুনৰ সিংহাসনত বহুৱাবলৈ পৰিকল্পনা কৰিছিল, যাৰ ফলত মণিৰাম দেৱানক গ্ৰেপ্তাৰ কৰা হৈছিল?",
+    "options": ["Purandar Singha", "Chandrakanta Singha", "Kandarpeswar Singha", "Jogeswar Singha"],
+    "answer": 2
+  },
+  {
+    "question": "The first ever 'Assam State Climate Action Plan 2.0' (2025-2030) identifies which district as the most vulnerable to 'Urban Heat Island' (UHI) effects? / ২০২৫-২০৩০ বৰ্ষৰ বাবে প্ৰথমবাৰৰ বাবে প্ৰস্তুত কৰা 'অসম ৰাজ্যিক জলবায়ু কাৰ্য পৰিকল্পনা ২.০'ত কোনখন জিলাক 'আৰ্বান হিট আইলেণ্ড' (UHI) প্ৰভাৱৰ দ্বাৰা আটাইতকৈ বেছি ক্ষতিগ্ৰস্ত হ'ব পাৰে বুলি চিনাক্ত কৰা হৈছে?",
+    "options": ["Dibrugarh", "Cachar", "Kamrup Metropolitan", "Jorhat"],
+    "answer": 2
+  }
+]
