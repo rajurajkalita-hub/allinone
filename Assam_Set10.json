@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Which specific 'Heritage Hub' was inaugurated in early 2026 to promote the preservation of the unique mask-making tradition (Mukha Shilpa) of Majuli? / মাজুলীৰ অনন্য মুখাশিল্পৰ সংৰক্ষণৰ বাবে ২০২৬ চনৰ আৰম্ভণিতে কোনটো বিশেষ 'ঐতিহ্য কেন্দ্ৰ' উদ্বোধন কৰা হৈছে?",
+    "options": ["Samaguri Sanskriti Kendra", "Majuli Mask Museum", "Auniati Cultural Hub", "Kamalabari Shilpagram"],
+    "answer": 0
+  },
+  {
+    "question": "The 'Assam Maintenance of Public Order Act', which significantly impacted the state's internal administration during the late colonial period, was first enacted in which year? / শেষ ঔপনিৱেশিক কালত ৰাজ্যৰ আভ্যন্তৰীণ প্ৰশাসনক বিশেষভাৱে প্ৰভাৱিত কৰা 'অসম জনশৃংখলা ৰক্ষা আইন' পোনপ্ৰথমবাৰৰ বাবে কোন বছৰত প্ৰণয়ন কৰা হৈছিল?",
+    "options": ["1947", "1950", "1935", "1942"],
+    "answer": 0
+  },
+  {
+    "question": "According to the 2025-26 'State Green Growth Report', which district in Assam was recognized for achieving the highest efficiency in 'Miyawaki Forest' urban plantation? / ২০২৫-২৬ বৰ্ষৰ 'ষ্টেট গ্ৰীণ গ্ৰোথ ৰিপৰ্ট' অনুসৰি অসমৰ কোনখন জিলাক নগৰীয়া বৃক্ষৰোপণৰ ক্ষেত্ৰত 'মিয়াৱাকি বন' পদ্ধতিৰ সৰ্বাধিক কাৰ্যক্ষমতা লাভৰ বাবে স্বীকৃতি দিয়া হৈছে?",
+    "options": ["Kamrup Metropolitan", "Nagaon", "Dibrugarh", "Bongaigaon"],
+    "answer": 3
+  },
+  {
+    "question": "The historic 'Battle of Alaboi' (1669) is unique in Ahom military history because it involved a direct and tragic confrontation with the Mughal cavalry led by whom? / ১৬৬৯ চনৰ ঐতিহাসিক 'আলাবৈৰ ৰণ' আহোম সামৰিক ইতিহাসত অনন্য কাৰণ ইয়াত কাৰ নেতৃত্বত অহা মোগল অশ্বাৰোহী বাহিনীৰ সৈতে পোনপটীয়া আৰু শোকাৱহ সংঘৰ্ষ হৈছিল?",
+    "options": ["Mir Jumla", "Ram Singh", "Rashid Khan", "Shaista Khan"],
+    "answer": 1
+  },
+  {
+    "question": "Which ancient Assamese text, translated into English for a special global edition in 2025, provides the most detailed medieval account of 'Elephant Management'? / ২০২৫ চনত এক বিশেষ গোলকীয় সংস্কৰণৰ বাবে ইংৰাজীলৈ অনুবাদ কৰা কোনখন প্ৰাচীন অসমীয়া গ্ৰন্থত 'হাতী পৰিচালনা'ৰ আটাইতকৈ বিতং মধ্যযুগীয় বিৱৰণ পোৱা যায়?",
+    "options": ["Ghora Pakshi", "Ananda Ramayana", "Hastividyarnava", "Dharma Purana"],
+    "answer": 2
+  }
+]
