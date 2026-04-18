@@ -1,1 +1,27 @@
-
+[
+  {
+    "question": "Which historic administrative unit, established by the British in 1839 to manage the Upper Assam territories, was a precursor to the modern district administration system? / ১৮৩৯ চনত ব্ৰিটিছে উজনি অসমৰ ভূখণ্ড পৰিচালনাৰ বাবে প্ৰতিষ্ঠা কৰা কোনটো ঐতিহাসিক প্ৰশাসনিক গোট আধুনিক জিলা প্ৰশাসন ব্যৱস্থাৰ অগ্ৰদূত আছিল?",
+    "options": ["Assam Chutiya Division", "The North East Frontier Agency", "Purandar Singha's Territory", "Upper Assam Agency"],
+    "answer": 3
+  },
+  {
+    "question": "The 'Assam Agro-Forestry Policy 2025-26' specifically incentivizes the commercial cultivation of which high-value tree species to boost the state's plywood industry? / অসমৰ প্লাইউড উদ্যোগক উদগনি দিবলৈ 'অসম কৃষি-বন নীতি ২০২৫-২৬'ত কোনটো উচ্চ মূল্যৰ গছৰ বাণিজ্যিক খেতিৰ বাবে বিশেষ উৎসাহিত কৰা হৈছে?",
+    "options": ["Som Tree", "Nahar Tree", "Melia dubia (Malabar Neem)", "Hollong Tree"],
+    "answer": 2
+  },
+  {
+    "question": "The 'Treaty of Majuli' (1563) forced the Ahom kingdom to cede territories and pay a heavy war indemnity to which contemporary power? / ১৫৬৩ চনৰ 'মাজুলীৰ সন্ধি'য়ে আহোম ৰাজ্যক ভূখণ্ড এৰি দিবলৈ আৰু কোনটো সমসাময়িক শক্তিক বৃহৎ যুদ্ধৰ ক্ষতিপূৰ্ণ দিবলৈ বাধ্য কৰিছিল?",
+    "options": ["The Mughals", "The Koch Kingdom", "The Kachari Kingdom", "The Chutiya Kingdom"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the only female freedom fighter from Assam to be awarded the 'Tamra Patra' in 2025 for her contributions to the underground resistance during the Quit India Movement? / ভাৰত ত্যাগ আন্দোলনৰ সময়ত গোপন প্ৰতিৰোধত আগবঢ়োৱা অৱদানৰ বাবে ২০২৫ চনত 'তাম্ৰ পাত্ৰ' লাভ কৰা অসমৰ একমাত্ৰ মহিলা স্বাধীনতা সংগ্ৰামীগৰাকী কোন?",
+    "options": ["Kanaklata Barua", "Bhogeswari Phukanani", "Pushpalata Das (Posthumous)", "Amalendu Guha"],
+    "answer": 2
+  },
+  {
+    "question": "The 'Nongkhyllem' forest area, which became a focal point for 2026 cross-border environmental talks, is primarily associated with the traditional land-use rights of which community? / ২০২৬ চনৰ আন্তঃৰাজ্যিক পৰিৱেশ আলোচনাৰ কেন্দ্ৰবিন্দু হৈ পৰা 'নংখিলেম' বনঞ্চলটো মূলতঃ কোনটো সম্প্ৰদায়ৰ পৰম্পৰাগত ভূমি ব্যৱহাৰৰ অধিকাৰৰ সৈতে জড়িত?",
+    "options": ["The Karbis", "The Tiwas", "The Khasi-Pnar (Northeast border)", "The Misings"],
+    "answer": 2
+  }
+]
