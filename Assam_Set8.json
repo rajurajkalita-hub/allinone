@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Which specific 'Heritage Corridor' project was inaugurated in early 2026 to connect the historic sites of Sibsagar with the newly recognized UNESCO site of Charaideo? / শিৱসাগৰৰ ঐতিহাসিক স্থানসমূহক শেহতীয়াকৈ স্বীকৃতিপ্ৰাপ্ত ইউনেস্কোৰ স্থান চৰাইদেউৰ সৈতে সংযোগ কৰিবলৈ ২০২৬ চনৰ আৰম্ভণিতে কোনটো বিশেষ 'ঐতিহ্য কৰিডৰ' প্ৰকল্প উদ্বোধন কৰা হৈছে?",
+    "options": ["Ahom Heritage Trail", "Si-iu-Ki Corridor", "Bor Asom Path", "Swargadeo Roadway"],
+    "answer": 0
+  },
+  {
+    "question": "The 'Posa' system, a unique administrative arrangement in medieval Assam, involved the payment of black-mail or tribute to which group? / মধ্যযুগীয় অসমৰ এক অনন্য প্ৰশাসনিক ব্যৱস্থা 'পাচা' (Posa) ৰ অধীনত কোনটো গোটক কৰ বা উপহাৰ দিয়াৰ ব্যৱস্থা আছিল?",
+    "options": ["Ahom Nobility", "Mughal Governors", "Hill Tribes", "Paik Officials"],
+    "answer": 2
+  },
+  {
+    "question": "Under the 'Assam Semiconductor Policy 2025-26', which location was designated as the primary hub for the state's first major electronics manufacturing cluster? / 'অসম ছেমিকণ্ডাক্টৰ নীতি ২০২৫-২৬'ৰ অধীনত ৰাজ্যৰ প্ৰথমটো বৃহৎ ইলেক্ট্ৰনিক্স উৎপাদন ক্লাষ্টাৰৰ বাবে কোনটো স্থানক প্ৰাথমিক কেন্দ্ৰ হিচাপে নিৰ্ধাৰণ কৰা হৈছে?",
+    "options": ["Jagiroad", "Amingaon", "Palasbari", "Tezpur"],
+    "answer": 0
+  },
+  {
+    "question": "Who was the Ahom King that officially introduced the 'Silver Coinage' system in the kingdom for the first time? / আহোম ৰাজ্যত পোনপ্ৰথমবাৰৰ বাবে 'ৰূপৰ মুদ্ৰা'ৰ প্ৰচলন কৰা আহোম ৰজাজন কোন আছিল?",
+    "options": ["Jayadhwaj Singha", "Suklenmung", "Rudra Singha", "Suhungmung"],
+    "answer": 0
+  },
+  {
+    "question": "The 'Gopinath Bordoloi Committee', which played a crucial role in the drafting of the 6th Schedule, was technically a sub-committee of which larger body? / ষষ্ঠ অনুসূচীৰ খচৰা প্ৰস্তুত কৰাত গুৰুত্বপূৰ্ণ ভূমিকা পালন কৰা 'গোপীনাথ বৰদলৈ কমিটি' কাৰিকৰীভাৱে কোনটো বৃহৎ গোটৰ এটা উপ-কমিটি আছিল?",
+    "options": ["Assam Legislative Council", "Cabinet Mission Plan", "Advisory Committee on Fundamental Rights", "Simon Commission"],
+    "answer": 2
+  }
+]
