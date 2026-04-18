@@ -1,1 +1,27 @@
-
+[
+  {
+    "question": "Which historic 'Bill' was passed by the Assam Legislative Assembly in late 2025 to officially grant protected status to the 'Moidams' located outside the Charaideo core area? / চৰাইদেউৰ মূল এলেকাৰ বাহিৰত থকা 'মৈদাম'সমূহক আনুষ্ঠানিকভাৱে সুৰক্ষিত মৰ্যাদা প্ৰদান কৰিবলৈ ২০২৫ চনৰ শেষৰ ফালে অসম বিধানসভাত কোনটো ঐতিহাসিক 'বিল' গৃহীত হৈছিল?",
+    "options": ["Assam Heritage (Moidam) Protection Bill", "Assam Ancient Monuments Expansion Act", "Assam Indigenous Site Preservation Bill", "Assam Cultural Landscape Act"],
+    "answer": 0
+  },
+  {
+    "question": "The 'Coupland Plan' (1940s), which proposed a 'Crown Colony' for the hill areas of Northeast India, was vehemently opposed by which prominent Assamese leader? / উত্তৰ-পূব ভাৰতৰ পাহাৰীয়া অঞ্চলৰ বাবে 'ক্ৰাউন কলনী'ৰ প্ৰস্তাৱ আগবঢ়োৱা 'কুপলেণ্ড প্লেন' (১৯৪০ চনৰ) কোনগৰাকী প্ৰখ্যাত অসমীয়া নেতাই তীব্ৰ বিৰোধিতা কৰিছিল?",
+    "options": ["Sir Syed Muhammad Saadulla", "Bishnuram Medhi", "Gopinath Bordoloi", "Amalendu Guha"],
+    "answer": 2
+  },
+  {
+    "question": "Which traditional Assamese community was granted a new 'Satellite Autonomous Council' in 2026 to preserve its unique linguistic and cultural identity? / কোনটো থলুৱা অসমীয়া সম্প্ৰদায়ক নিজৰ অনন্য ভাষিক আৰু সাংস্কৃতিক পৰিচয় ৰক্ষাৰ বাবে ২০২৬ চনত এটা নতুন 'ছেটেলাইট স্বায়ত্তশাসিত পৰিষদ' প্ৰদান কৰা হৈছে?",
+    "options": ["Moran Community", "Koch Rajbongshi", "Thengal Kachari", "Tai Ahom"],
+    "answer": 0
+  },
+  {
+    "question": "In the context of the 1857 Uprising in Assam, the letter sent by Maniram Dewan to the Ahom Prince Kandarpeswar Singha was intercepted by the British at which place? / ১৮৫৭ চনৰ অসমৰ বিদ্ৰোহৰ প্ৰেক্ষাপটত মণিৰাম দেৱানে আহোম ৰাজকুমাৰ কন্দৰ্পেশ্বৰ সিংহলৈ পঠোৱা পত্ৰখন ব্ৰিটিছে কোনটো স্থানত জব্দ কৰিছিল?",
+    "options": ["Golaghat", "Jorhat", "Shillong", "Sibsagar"],
+    "answer": 0
+  },
+  {
+    "question": "The 'Assam State Space Application Centre' (ASSAC) launched a dedicated portal in 2025 for monitoring the erosion of which specific Brahmaputra island? / 'অসম ৰাজ্যিক মহাকাশ প্ৰয়োগ কেন্দ্ৰ'ই (ASSAC) ২০২৫ চনত ব্ৰহ্মপুত্ৰৰ কোনটো বিশেষ দ্বীপৰ খহনীয়া নিৰীক্ষণৰ বাবে এটা নিৰ্দিষ্ট পৰ্টেল মুকলি কৰিছে?",
+    "options": ["Umananda", "Majuli", "Dibru-Saikhowa", "Xatradwip"],
+    "answer": 1
+  }
+]
