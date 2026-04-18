@@ -1,1 +1,27 @@
-
+[
+  {
+    "question": "Which specific 'Heritage Belt' was inaugurated in early 2026 to protect the ancient monoliths and archaeological remains of the Dimasa Kingdom in Maibang? / মাইবঙত ডিমাছা ৰাজ্যৰ প্ৰাচীন মনোলিথ আৰু পুৰাতাত্ত্বিক অৱশেষসমূহ সুৰক্ষিত কৰিবলৈ ২০২৬ চনৰ আৰম্ভণিতে কোনটো বিশেষ 'ঐতিহ্য বলয়' উদ্বোধন কৰা হৈছে?",
+    "options": ["Dimasa Cultural Corridor", "Maibang Archaeological Zone", "Mahur-Piyong Heritage Circle", "Kachari Rajbari Protected Belt"],
+    "answer": 1
+  },
+  {
+    "question": "The 'Lee-Commission' of 1924, which dealt with the Superior Civil Services in India, had a significant impact on the recruitment of which cadre in colonial Assam? / ১৯২৪ চনৰ 'লী-কমিছন', যিয়ে ভাৰতৰ উচ্চ অসামৰিক সেৱাৰ সৈতে জড়িত আছিল, ঔপনিৱেশিক অসমৰ কোনটো কেডাৰৰ নিযুক্তিৰ ক্ষেত্ৰত গুৰুত্বপূৰ্ণ প্ৰভাৱ পেলাইছিল?",
+    "options": ["Assam Forest Service", "Assam Medical Service", "Assam Frontier Service", "Assam Educational Service"],
+    "answer": 0
+  },
+  {
+    "question": "Under the 2025-26 'Mission Atmanirbhar Assam', which district was selected as the primary hub for the large-scale commercial cultivation and processing of 'Agarwood'? / ২০২৫-২৬ বৰ্ষৰ 'মিছন আত্মনিৰ্ভৰ অসম'ৰ অধীনত কোনখন জিলাক 'আগৰু'ৰ (Agarwood) বৃহৎ পৰিসৰৰ বাণিজ্যিক খেতি আৰু সংসাধনৰ বাবে প্ৰাথমিক কেন্দ্ৰ হিচাপে নিৰ্বাচিত কৰা হৈছে?",
+    "options": ["Sivasagar", "Hojai", "Golaghat", "Tinsukia"],
+    "answer": 1
+  },
+  {
+    "question": "Which historic treaty, signed in 1639, saw the boundary between the Ahom and Mughal empires fixed at the Barnadi river for the first time? / ১৬৩৯ চনত স্বাক্ষৰিত কোনখন ঐতিহাসিক সন্ধিৰ দ্বাৰা আহোম আৰু মোগল সাম্ৰাজ্যৰ সীমা পোনপ্ৰথমবাৰৰ বাবে বৰনদীৰ দ্বাৰা নিৰ্ধাৰণ কৰা হৈছিল?",
+    "options": ["Treaty of Ghilajharighat", "Treaty of Asurar Ali", "Treaty of Majuli", "Treaty of Yandabo"],
+    "answer": 1
+  },
+  {
+    "question": "The 'Assam State Data Policy 2025' introduced a unique digital ID system for identifying indigenous landholders, known by which name? / 'অসম ৰাজ্যিক তথ্য নীতি ২০২৫'ত থলুৱা ভূমিধিকাৰীসকলক চিনাক্ত কৰিবলৈ এটা অনন্য ডিজিটেল আইডি ব্যৱস্থা প্ৰৱৰ্তন কৰা হৈছে, যাৰ নাম কি?",
+    "options": ["Bhumiputra ID", "Asamiya Identity Card", "Mati-Praman", "Bhulekh Unique ID"],
+    "answer": 0
+  }
+]
