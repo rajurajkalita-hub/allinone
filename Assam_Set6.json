@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Which historic tea estate in Assam was selected in 2025 for a pilot project to produce India's first 'Carbon Neutral' certified orthodox tea? / ২০২৫ চনত ভাৰতৰ প্ৰথমটো 'কাৰ্বন নিউট্ৰেল' প্ৰমাণিত অৰ্থডক্স চাহ উৎপাদনৰ বাবে অসমৰ কোনখন ঐতিহাসিক চাহ বাগিচাক পাইলট প্ৰকল্পৰ বাবে নিৰ্বাচিত কৰা হৈছে?",
+    "options": ["Monabari Tea Estate", "Makaibari Tea Estate", "Cinnamara Tea Estate", "Dikom Tea Estate"],
+    "answer": 2
+  },
+  {
+    "question": "The 'Nongkhyllem' rebellion of 1829, which impacted the borders of colonial Assam, was led by which freedom fighter against the British expansion? / ১৮২৯ চনৰ 'নংখিলেম' বিদ্ৰোহ, যিয়ে ঔপনিৱেশিক অসমৰ সীমান্তত প্ৰভাৱ পেলাইছিল, ব্ৰিটিছ সম্প্ৰসাৰণৰ বিৰুদ্ধে কোনগৰাকী স্বাধীনতা সংগ্ৰামীয়ে নেতৃত্ব দিছিল?",
+    "options": ["U Tirot Sing", "Tikendrajit Singh", "Maniram Dewan", "Pa Togan Sangma"],
+    "answer": 0
+  },
+  {
+    "question": "The 'Asam Sahitya Sabha' adopted its first official 'Logo' (Insigina) in which year, which was recently commemorated in a 2025-26 heritage exhibition? / অসম সাহিত্য সভাই কোনটো বছৰত নিজৰ প্ৰথমটো চৰকাৰী 'লগ' (প্ৰতীক চিহ্ন) গ্ৰহণ কৰিছিল, যাক শেহতীয়াকৈ ২০২৫-২৬ চনৰ এক ঐতিহ্য প্ৰদৰ্শনীত স্মৰণ কৰা হৈছিল?",
+    "options": ["1917", "1924", "1960", "1952"],
+    "answer": 2
+  },
+  {
+    "question": "Which specific 'Inland Waterway' terminal in Assam was integrated with the 'Indo-Bangla Protocol Route' (IBPR) for heavy cargo movements in early 2026? / ২০২৬ চনৰ আৰম্ভণিতে গধুৰ মালবাহী বাহনৰ চলাচলৰ বাবে অসমৰ কোনটো বিশেষ 'অভ্যন্তৰীণ জলপথ' টাৰ্মিনেল 'ইণ্ডো-বাংলা প্ৰটোকল ৰুট'ৰ (IBPR) সৈতে একত্ৰিত কৰা হৈছে?",
+    "options": ["Dhubri Port", "Jogighopa Multimodal Terminal", "Pandu Port", "Silghat Terminal"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first Assamese lady to preside over the 'Asam Sahitya Sabha' in its 1960 session held in Goreswar? / ১৯৬০ চনত গোৰেশ্বৰত অনুষ্ঠিত হোৱা 'অসম সাহিত্য সভা'ৰ অধিবেশনত সভাপতিত্ব কৰা প্ৰথমগৰাকী অসমীয়া মহিলা কোন আছিল?",
+    "options": ["Nalinibala Devi", "Nirmal Prabha Bordoloi", "Anupama Bhattacharya", "Sneha Devi"],
+    "answer": 0
+  }
+]
