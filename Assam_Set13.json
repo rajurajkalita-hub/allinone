@@ -1,1 +1,27 @@
-
+[
+  {
+    "question": "Which specific 'Border Trade Centre' in Assam was upgraded in early 2026 to facilitate direct digital commerce with Bhutan under the 'Sarma-Wangchuck' trade agreement? / 'শৰ্মা-ৱাংচুক' বাণিজ্য চুক্তিৰ অধীনত ভূটানৰ সৈতে পোনপটীয়া ডিজিটেল বাণিজ্যৰ সুবিধাৰ বাবে ২০২৬ চনৰ আৰম্ভণিতে অসমৰ কোনটো বিশেষ 'সীমান্ত বাণিজ্য কেন্দ্ৰ' উন্নীত কৰা হৈছে?",
+    "options": ["Sutarkandi", "Darranga", "Golakganj", "Mankachar"],
+    "answer": 1
+  },
+  {
+    "question": "The 'Bronson's Dictionary' (1867), the first Anglo-Assamese dictionary, was significantly influenced by the linguistic style of which specific region's dialect? / ১৮৬৭ চনৰ প্ৰথমখন ইংৰাজী-অসমীয়া অভিধান 'ব্ৰনচনৰ অভিধান'ত কোনটো বিশেষ অঞ্চলৰ উপভাষাৰ ভাষিক শৈলীৰ বিশেষ প্ৰভাৱ পৰিছিল?",
+    "options": ["Kamrup", "Sibsagar (Sivasagar)", "Darrang", "Goalpara"],
+    "answer": 1
+  },
+  {
+    "question": "Under the 2025-26 'Assam State Industrial Policy', which district was designated as the state's first 'Food Processing Special Economic Zone' (FP-SEZ)? / ২০২৫-২৬ চনৰ 'অসম ৰাজ্যিক ঔদ্যোগিক নীতি'ৰ অধীনত কোনখন জিলাক ৰাজ্যৰ প্ৰথমটো 'খাদ্য সংসাধন বিশেষ অৰ্থনৈতিক অঞ্চল' (FP-SEZ) হিচাপে নিৰ্ধাৰণ কৰা হৈছে?",
+    "options": ["Nalbari", "Sonitpur", "Cachar", "Morigaon"],
+    "answer": 1
+  },
+  {
+    "question": "The historic 'Battle of Mahgarh' (1822) is significant because it marked the final defeat of the Ahoms against which external force before the British entry? / ঐতিহাসিক 'মাহগড়ৰ ৰণ' (১৮২২) তাৎপৰ্যপূৰ্ণ কাৰণ ই ব্ৰিটিছৰ প্ৰৱেশৰ পূৰ্বে কোনটো বহিঃশক্তিৰ বিৰুদ্ধে আহোমসকলৰ চূড়ান্ত পৰাজয়ক সূচাইছিল?",
+    "options": ["The Mughals", "The Burmese (Maans)", "The Koch Kings", "The Moamorias"],
+    "answer": 1
+  },
+  {
+    "question": "Which ancient rock-cut temple in Assam, recently added to the 2026 'Heritage Security Map', features the unique 'Dvadasa-Aditya' (12 Sun Gods) relief carvings? / ২০২৬ চনৰ 'ঐতিহ্য সুৰক্ষা মানচিত্ৰ'ত শেহতীয়াকৈ অন্তৰ্ভুক্ত কৰা অসমৰ কোনটো প্ৰাচীন শিলালিপি খোদিত মন্দিৰত অনন্য 'দ্বাদশ-আদিত্য' (১২ গৰাকী সূৰ্য দেৱতা) খোদিত শিল্প দেখা পোৱা যায়?",
+    "options": ["Madhav-Sulapani Temple", "Surya Pahar", "Kasomarighat Temple", "Kamakhya Cave Temple"],
+    "answer": 1
+  }
+]
