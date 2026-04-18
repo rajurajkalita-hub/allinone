@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Which specific 'Heritage Village' was established in early 2026 near the Kaziranga National Park to showcase the traditional lifestyles of the Mising and Karbi communities? / মিচিং আৰু কাৰ্বি সম্প্ৰদায়ৰ পৰম্পৰাগত জীৱনশৈলী প্ৰদৰ্শনৰ বাবে ২০২৬ চনৰ আৰম্ভণিতে কাজিৰঙা ৰাষ্ট্ৰীয় উদ্যানৰ ওচৰত কোনটো বিশেষ 'ঐতিহ্য গাওঁ' স্থাপন কৰা হৈছে?",
+    "options": ["Kohora Ethnic Village", "Agoratoli Cultural Hub", "Kaziranga Janajatiya Path", "Panbari Heritage Cluster"],
+    "answer": 0
+  },
+  {
+    "question": "The 'Wilkinson's System' (1830s), which briefly governed the administration of Justice in colonial Assam, was primarily replaced by which legal framework? / ১৮৩০ চনৰ দশকত ঔপনিৱেশিক অসমত ন্যায় প্ৰশাসন পৰিচালনা কৰা 'উইলকিনছন চিষ্টেম' মূলতঃ কোনটো আইনী গাঁথনিৰ দ্বাৰা প্ৰতিষ্ঠাপন কৰা হৈছিল?",
+    "options": ["The Assam Code", "The Bengal Regulations", "The Moffussil Rules", "The Assam Frontier Regulation"],
+    "answer": 1
+  },
+  {
+    "question": "Under the 'Assam Green Hydrogen Policy 2025-26', which industrial town has been designated as the state's first 'Green Hydrogen Hub'? / 'অসম গ্ৰীণ হাইড্ৰজেন নীতি ২০২৫-২৬'ৰ অধীনত কোনটো উদ্যোগিক চহৰক ৰাজ্যৰ প্ৰথমটো 'গ্ৰীণ হাইড্ৰজেন হাব' হিচাপে নিৰ্ধাৰণ কৰা হৈছে?",
+    "options": ["Digboi", "Numaligarh", "Bongaigaon", "Namrup"],
+    "answer": 1
+  },
+  {
+    "question": "In the context of the Moamoria Rebellion, the 'Nahar-Khowa' incident, which triggered the first violent uprising, involved a direct confrontation with which Ahom official? / মোৱামৰীয়া বিদ্ৰোহৰ প্ৰেক্ষাপটত, প্ৰথমটো হিংসাত্মক বিদ্ৰোহৰ সূচনা কৰা 'নহৰ-খোৱা' ঘটনাটোত কোনজন আহোম বিষয়াৰ সৈতে পোনপটীয়া সংঘৰ্ষ হৈছিল?",
+    "options": ["Kirti Chandra Borbarua", "Purnananda Burhagohain", "Lachit Borphukan", "Badan Chandra Borphukan"],
+    "answer": 0
+  },
+  {
+    "question": "Which ancient site in Assam, recently explored in 2025 for its megalithic structures, is often referred to as the 'Stonehenge of the Northeast'? / মেগালিথিক গাঁথনিৰ বাবে ২০২৫ চনত শেহতীয়াকৈ অন্বেষণ কৰা অসমৰ কোনটো প্ৰাচীন স্থানক প্ৰায়ে 'উত্তৰ-পূবৰ ষ্টোনহেঞ্জ' বুলি কোৱা হয়?",
+    "options": ["Gachtal", "Willong Khullen", "Vaso Heritage Site", "Dima Hasao Megalithic Site"],
+    "answer": 3
+  }
+]
