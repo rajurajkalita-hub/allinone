@@ -1,1 +1,27 @@
-
+[
+  {
+    "question": "Which specific administrative unit was created in early 2026 to streamline the governance of the newly recognized 'Heritage Belts' near Charaideo? / চৰাইদেউৰ ওচৰত শেহতীয়াকৈ স্বীকৃতিপ্ৰাপ্ত 'ঐতিহ্য বলয়'সমূহৰ শাসন ব্যৱস্থা সুশৃংখলিত কৰিবলৈ ২০২৬ চনৰ আৰম্ভণিতে কোনটো বিশেষ প্ৰশাসনিক গোট গঠন কৰা হৈছে?",
+    "options": ["Sivasagar Development Authority", "Charaideo Cultural Conservation Zone", "Ahom Heritage Management District", "Upper Assam Tourism Circle"],
+    "answer": 1
+  },
+  {
+    "question": "The 'Line System' introduced in 1916 in colonial Assam was a precursor to modern land disputes; in which specific district was it first implemented? / ১৯১৬ চনত ঔপনিৱেশিক অসমত প্ৰৱৰ্তন কৰা 'লাইন চিষ্টেম' আধুনিক ভূমি বিবাদৰ অগ্ৰদূত আছিল; ইয়াক পোনপ্ৰথমবাৰৰ বাবে কোনখন জিলাত কাৰ্যকৰী কৰা হৈছিল?",
+    "options": ["Goalpara", "Nowgong (Nagaon)", "Kamrup", "Barpeta"],
+    "answer": 1
+  },
+  {
+    "question": "Which satellite imagery-based project was launched by the Assam Government in 2025-26 to map and protect the 'Xatra' lands from encroachment? / ২০২৫-২৬ বৰ্ষত 'সত্ৰ'ৰ ভূমি বেদখলৰ পৰা সুৰক্ষিত কৰিবলৈ আৰু মেপিং কৰিবলৈ অসম চৰকাৰে উপগ্ৰহ চিত্ৰভিত্তিক কোনটো প্ৰকল্প আৰম্ভ কৰিছে?",
+    "options": ["Project Bhumiputra 2.0", "Mission Xatradhikar", "Project Pavitra Bhoomi", "Project Assam-Darpan"],
+    "answer": 2
+  },
+  {
+    "question": "During the 1857 Uprising in Assam, who was the close associate of Maniram Dewan that was executed alongside him in Jorhat? / ১৮৫৭ চনৰ অসমৰ বিদ্ৰোহৰ সময়ত মণিৰাম দেৱানৰ ঘনিষ্ঠ সহযোগী কোন আছিল যাৰ সৈতে যোৰহাটত তেওঁক ফাঁচী দিয়া হৈছিল?",
+    "options": ["Piyoli Barua", "Piyoli Phukan", "Jeuram Dulia Baruah", "Gomdhar Konwar"],
+    "answer": 0
+  },
+  {
+    "question": "The 'Asam Sahitya Sabha' was presided over by whom during its first-ever session held in Sivasagar in 1917? / ১৯১৭ চনত শিৱসাগৰত অনুষ্ঠিত হোৱা 'অসম সাহিত্য সভা'ৰ প্ৰথমখন অধিবেশনত কোনে সভাপতিত্ব কৰিছিল?",
+    "options": ["Lakshminath Bezbaroa", "Padmanath Gohain Baruah", "Chandradhar Barua", "Kaliram Medhi"],
+    "answer": 1
+  }
+]
