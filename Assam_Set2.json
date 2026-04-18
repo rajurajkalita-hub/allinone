@@ -1,1 +1,22 @@
-
+[
+  {
+    "question": "Which Ahom King created the post of 'Barpatragohain' to counter the growing influence of the Borgohain and Burhagohain? / বৰগোঁহাই আৰু বুঢ়াগোঁহাইৰ বৰ্ধিত প্ৰভাৱ প্ৰতিহত কৰিবলৈ কোনজন আহোম ৰজাই 'বৰপাত্ৰগোঁহাই' পদৰ সৃষ্টি কৰিছিল?",
+    "options": ["Pratap Singha", "Suklenmung", "Suhungmung", "Supimphaa"],
+    "answer": 2
+  },
+  {
+    "question": "The 'Dunlop Policy' of 1945 in colonial Assam was primarily concerned with which issue? / ঔপনিৱেশিক অসমৰ ১৯৪৫ চনৰ 'ডানলপ নীতি' মূলতঃ কোনটো বিষয়ৰ সৈতে জড়িত আছিল?",
+    "options": ["Opium prohibition", "Land settlement for immigrants", "Primary education funding", "Tea garden labor wages"],
+    "answer": 1
+  },
+  {
+    "question": "Which obscure medieval text is considered the primary source for the history of the Chutiya Kingdom? / কোনখন মধ্যযুগীয় দুৰ্লভ গ্ৰন্থক চুতীয়া ৰাজ্যৰ ইতিহাসৰ প্ৰাথমিক উৎস হিচাপে গণ্য কৰা হয়?",
+    "options": ["Deodhai Buranji", "Kamrupar Buranji", "Patsah Buranji", "Chutiyar Rajar Vamsavali"],
+    "answer": 3
+  },
+  {
+    "question": "The 'Battle of Itakhuli' (1682) is significant because it permanently fixed the boundary between the Ahoms and Mughals at which river? / ১৬৮২ চনৰ 'ইটাখুলিৰ ৰণ' তাৎপৰ্যপূৰ্ণ কাৰণ ই আহোম আৰু মোগলৰ মাজৰ সীমা স্থায়ীভাৱে কোনখন নদীত নিৰ্ধাৰণ কৰিছিল?",
+    "options": ["Sonosh River", "Barnadi River", "Manas River", "Bharali River"],
+    "answer": 2
+  }
+]
