@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Which specific location in Assam was selected in 2025 to host the state's first 'Global Tea Museum' to preserve the 200-year legacy of Assam Tea? / অসম চাহৰ ২০০ বছৰীয়া ঐতিহ্য ৰক্ষাৰ বাবে ২০২৫ চনত অসমৰ কোনটো বিশেষ স্থানক ৰাজ্যৰ প্ৰথমটো 'গোলকীয় চাহ সংগ্ৰহালয়' স্থাপনৰ বাবে নিৰ্বাচিত কৰা হৈছে?",
+    "options": ["Tinsukia", "Dibrugarh", "Jorhat", "Biswanath Chariali"],
+    "answer": 2
+  },
+  {
+    "question": "The 'Sinicization' of the Ahoms reached a turning point when the Ahom language was replaced by Assamese as the court language during the reign of which King? / কোনজন ৰজাৰ শাসনকালত আহোম ভাষাৰ পৰিৱৰ্তে অসমীয়া ভাষাক ৰাজসভাৰ ভাষা হিচাপে গ্ৰহণ কৰাৰ ফলত আহোমসকলৰ 'অসমীয়াকৰণ' প্ৰক্ৰিয়া এক গুৰুত্বপূৰ্ণ মোৰ লৈছিল?",
+    "options": ["Siva Singha", "Rudra Singha", "Gadadhar Singha", "Pramatta Singha"],
+    "answer": 1
+  },
+  {
+    "question": "According to the 2026 'Assam State Biodiversity Map', which wetland was officially designated as the state's first 'Community Biodiversity Reserve'? / ২০২৬ চনৰ 'অসম ৰাজ্যিক জৈৱ-বৈচিত্ৰ্য মানচিত্ৰ' অনুসৰি কোনটো জলাশয়ক আনুষ্ঠানিকভাৱে ৰাজ্যৰ প্ৰথমটো 'সামূহিক জৈৱ-বৈচিত্ৰ্য সংৰক্ষিত অঞ্চল' হিচাপে ঘোষণা কৰা হৈছে?",
+    "options": ["Deepor Beel", "Maguri-Motapung Beel", "Sila Beel", "Dheer Beel"],
+    "answer": 1
+  },
+  {
+    "question": "The 'Treaty of Ghilajharighat' (1663) resulted in the Ahoms losing control over which specific administrative region to the Mughals temporarily? / ১৬৬৩ চনৰ 'ঘিলাধাৰীঘাটৰ সন্ধি'ৰ ফলত আহোমকলে কোনটো বিশেষ প্ৰশাসনিক অঞ্চলৰ ওপৰত নিয়ন্ত্ৰণ সাময়িকভাৱে মোগলক এৰি দিবলগীয়া হৈছিল?",
+    "options": ["Sarkar Kamrup", "Sarkar Darrang", "Sarkar Beltola", "Sarkar Goalpara"],
+    "answer": 0
+  },
+  {
+    "question": "Which tribe in Assam is associated with the 'Baishagu' festival, which was integrated into the 2025-26 official state tourism calendar for the first time? / অসমৰ কোনটো জনজাতীয় গোট 'বৈশাগু' উৎসৱৰ সৈতে জড়িত, যিটোক ২০২৫-২৬ চনৰ চৰকাৰী ৰাজ্যিক পৰ্যটন কেলেণ্ডাৰত প্ৰথমবাৰৰ বাবে অন্তৰ্ভুক্ত কৰা হৈছে?",
+    "options": ["The Rabhas", "The Bodos", "The Tiwas", "The Karbis"],
+    "answer": 1
+  }
+]
