@@ -1,52 +1,52 @@
 [
   {
     "question": "Which Ahom King created the post of 'Barpatragohain' to counter the growing influence of the Borgohain and Burhagohain? / বৰগোঁহাই আৰু বুঢ়াগোঁহাইৰ বৰ্ধিত প্ৰভাৱ প্ৰতিহত কৰিবলৈ কোনজন আহোম ৰজাই 'বৰপাত্ৰগোঁহাই' পদৰ সৃষ্টি কৰিছিল?",
-    "options": ["Suhungmung", "Supimphaa", "Suklenmung", "Pratap Singha"],
-    "answer": 0
+    "options": ["Pratap Singha", "Suklenmung", "Suhungmung", "Supimphaa"],
+    "answer": 2
   },
   {
     "question": "The 'Dunlop Policy' of 1945 in colonial Assam was primarily concerned with which issue? / ঔপনিৱেশিক অসমৰ ১৯৪৫ চনৰ 'ডানলপ নীতি' মূলতঃ কোনটো বিষয়ৰ সৈতে জড়িত আছিল?",
-    "options": ["Tea garden labor wages", "Land settlement for immigrants", "Opium prohibition", "Primary education funding"],
+    "options": ["Opium prohibition", "Land settlement for immigrants", "Primary education funding", "Tea garden labor wages"],
     "answer": 1
   },
   {
     "question": "Which obscure medieval text is considered the primary source for the history of the Chutiya Kingdom? / কোনখন মধ্যযুগীয় দুৰ্লভ গ্ৰন্থক চুতীয়া ৰাজ্যৰ ইতিহাসৰ প্ৰাথমিক উৎস হিচাপে গণ্য কৰা হয়?",
-    "options": ["Deodhai Buranji", "Chutiya Vamsavali", "Patsah Buranji", "Kamrupar Buranji"],
-    "answer": 1
+    "options": ["Deodhai Buranji", "Kamrupar Buranji", "Patsah Buranji", "Chutiya Vamsavali"],
+    "answer": 3
   },
   {
     "question": "The 'Battle of Itakhuli' (1682) is significant because it permanently fixed the boundary between the Ahoms and Mughals at which river? / ১৬৮২ চনৰ 'ইটাখুলিৰ ৰণ' তাৎপৰ্যপূৰ্ণ কাৰণ ই আহোম আৰু মোগলৰ মাজৰ সীমা স্থায়ীভাৱে কোনখন নদীত নিৰ্ধাৰণ কৰিছিল?",
-    "options": ["Bharali River", "Manas River", "Barnadi River", "Sonosh River"],
-    "answer": 1
+    "options": ["Sonosh River", "Barnadi River", "Manas River", "Bharali River"],
+    "answer": 2
   },
   {
     "question": "Under the 2026 administrative reforms, which unique 'Autonomous Council' in Assam was granted additional legislative powers over 30 subjects? / ২০২৬ চনৰ প্ৰশাসনিক সংস্কাৰৰ অধীনত অসমৰ কোনটো স্বায়ত্তশাসিত পৰিষদক ৩০টা বিষয়ৰ ওপৰত অতিৰিক্ত বিধায়িনী ক্ষমতা প্ৰদান কৰা হৈছে?",
-    "options": ["Karbi Anglong (KAAC)", "Bodoland (BTR)", "Dima Hasao (NCHAC)", "Mising Autonomous Council"],
-    "answer": 1
-  },
-  {
-    "question": "Who was the only Assamese representative in the 'Drafting Committee' of the Constituent Assembly of India? / ভাৰতৰ সংবিধান সভাৰ 'খচৰা সমিতি'ত একমাত্ৰ অসমীয়া প্ৰতিনিধি কোন আছিল?",
-    "options": ["Gopinath Bordoloi", "Sir Syed Muhammad Saadulla", "Bishnuram Medhi", "Dharidhar Chaliha"],
-    "answer": 1
-  },
-  {
-    "question": "The 'Moamoria Rebellion' first broke out during the reign of which Ahom monarch? / কোনজন আহোম ৰজাৰ শাসনকালত প্ৰথমবাৰৰ বাবে 'মোৱামৰীয়া বিদ্ৰোহ' আৰম্ভ হৈছিল?",
-    "options": ["Rudra Singha", "Lakshmi Singha", "Pramatta Singha", "Gaurinath Singha"],
-    "answer": 1
-  },
-  {
-    "question": "Which specific 'Ghat' in Assam is known as the 'Patharughat of South Kamrup' due to a similar peasant uprising against the British? / ব্ৰিটিছৰ বিৰুদ্ধে কৃষক বিদ্ৰোহৰ বাবে অসমৰ কোনটো বিশেষ 'ঘাট'ক 'দক্ষিণ কামৰূপৰ পথৰুঘাট' বুলি জনা যায়?",
-    "options": ["Lachima", "Phulaguri", "Rangia", "Sualkuchi"],
+    "options": ["Bodoland (BTR)", "Karbi Anglong (KAAC)", "Mising Autonomous Council", "Dima Hasao (NCHAC)"],
     "answer": 0
   },
   {
-    "question": "Which botanical species, endemic to the Joypur Rainforest, is famously known as the 'Hollong of the South'? / জয়পুৰ বৰ্ষাৰণ্যৰ কোনটো বিশেষ উদ্ভিদ প্ৰজাতিক 'দক্ষিণৰ হোলং' বুলি জনা যায়?",
-    "options": ["Dipterocarpus retusus", "Vatica lanceaefolia", "Mesua ferrea", "Shoreia robusta"],
+    "question": "Who was the only Assamese representative in the 'Drafting Committee' of the Constituent Assembly of India? / ভাৰতৰ সংবিধান সভাৰ 'খচৰা সমিতি'ত একমাত্ৰ অসমীয়া প্ৰতিনিধি কোন আছিল?",
+    "options": ["Gopinath Bordoloi", "Bishnuram Medhi", "Dharidhar Chaliha", "Sir Syed Muhammad Saadulla"],
+    "answer": 3
+  },
+  {
+    "question": "The 'Moamoria Rebellion' first broke out during the reign of which Ahom monarch? / কোনজন আহোম ৰজাৰ শাসনকালত প্ৰথমবাৰৰ বাবে 'মোৱামৰীয়া বিদ্ৰোহ' আৰম্ভ হৈছিল?",
+    "options": ["Rudra Singha", "Pramatta Singha", "Lakshmi Singha", "Gaurinath Singha"],
+    "answer": 2
+  },
+  {
+    "question": "Which specific 'Ghat' in Assam is known as the 'Patharughat of South Kamrup' due to a similar peasant uprising against the British? / ব্ৰিটিছৰ বিৰুদ্ধে কৃষক বিদ্ৰোহৰ বাবে অসমৰ কোনটো বিশেষ 'ঘাট'ক 'দক্ষিণ কামৰূপৰ পথৰুঘাট' বুলি জনা যায়?",
+    "options": ["Phulaguri", "Lachima", "Sualkuchi", "Rangia"],
     "answer": 1
   },
   {
+    "question": "Which botanical species, endemic to the Joypur Rainforest, is famously known as the 'Hollong of the South'? / জয়পুৰ বৰ্ষাৰণ্যৰ কোনটো বিশেষ উদ্ভিদ প্ৰজাতিক 'দক্ষিণৰ হোলং' বুলি জনা যায়?",
+    "options": ["Vatica lanceaefolia", "Dipterocarpus retusus", "Shoreia robusta", "Mesua ferrea"],
+    "answer": 0
+  },
+  {
     "question": "In the 2025 'State of Forest Report', which district of Assam showed the highest percentage increase in 'Very Dense Forest' (VDF) cover? / ২০২৫ চনৰ 'ৰাজ্যিক বন প্ৰতিবেদন'ত অসমৰ কোনখন জিলাত 'অতি ঘন অৰণ্য' (VDF) আৱৰণৰ সৰ্বাধিক শতাংশ বৃদ্ধি পাইছে?",
-    "options": ["Lakhimpur", "Karbi Anglong", "Sonitpur", "Kokrajhar"],
-    "answer": 1
+    "options": ["Kokrajhar", "Sonitpur", "Karbi Anglong", "Lakhimpur"],
+    "answer": 2
   }
 ]
