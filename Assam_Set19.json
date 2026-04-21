@@ -1,27 +1,32 @@
 [
   {
-    "question": "Which specific 'Heritage Hub' was established in early 2026 to promote the preservation of the unique mask-making tradition (Mukha Shilpa) of Majuli? / মাজুলীৰ অনন্য মুখাশিল্পৰ সংৰক্ষণৰ বাবে ২০২৬ চনৰ আৰম্ভণিতে কোনটো বিশেষ 'ঐতিহ্য কেন্দ্ৰ' উদ্বোধন কৰা হৈছে?",
-    "options": ["Auniati Cultural Center", "Samaguri Satra Heritage Hub", "Kamalabari Shilpagram", "Uttar Kamalabari Museum"],
+    "question": "Which Ahom monarch, known for his administrative acumen, created the post of 'Borphukan' to manage the administration of Lower Assam from the headquarters at Kaliabor? / প্ৰশাসনিক দক্ষতাৰ বাবে পৰিচিত কোনজন আহোম স্বৰ্গদেউৱে কলিয়াবৰৰ সদৰৰ পৰা নামনি অসমৰ শাসন পৰিচালনাৰ বাবে 'বৰফুকন' পদৰ সৃষ্টি কৰিছিল?",
+    "options": ["Suhungmung", "Pratap Singha", "Gadadhar Singha", "Chakradhwaj Singha"],
     "answer": 1
   },
   {
-    "question": "The 'Line System' of 1916, which governed land settlement in colonial Assam, was first introduced in which specific district? / ১৯১৬ চনত ঔপনিৱেশিক অসমত ভূমি বন্দোৱস্তি নিয়ন্ত্ৰণ কৰা 'লাইন চিষ্টেম' পোনপ্ৰথমবাৰৰ বাবে কোনখন জিলাত প্ৰৱৰ্তন কৰা হৈছিল?",
-    "options": ["Nagaon", "Goalpara", "Kamrup", "Barpeta"],
+    "question": "The 'Wilkinson's System' (1830s), which briefly influenced the judicial administration of colonial Assam, was primarily concerned with which aspect? / ১৮৩০ চনৰ দশকত ঔপনিৱেশিক অসমৰ ন্যায়িক প্ৰশাসনক সাময়িকভাৱে প্ৰভাৱিত কৰা 'উইলকিনছন চিষ্টেম' মূলতঃ কোনটো দিশৰ সৈতে জড়িত আছিল?",
+    "options": ["Abolition of the Paik system", "Separation of Civil and Criminal courts", "Collection of land revenue in cash", "Regulation of tribal frontier trade"],
     "answer": 1
   },
   {
-    "question": "Under the 2025-26 'Assam State Industrial Policy', which location has been designated as the state's first 'Green Hydrogen Cluster' for clean energy production? / ২০২৫-২৬ চনৰ 'অসম ৰাজ্যিক ঔদ্যোগিক নীতি'ৰ অধীনত নিকা শক্তি উৎপাদনৰ বাবে কোনটো স্থানক ৰাজ্যৰ প্ৰথমটো 'গ্ৰীণ হাইড্ৰজেন ক্লাষ্টাৰ' হিচাপে নিৰ্ধাৰণ কৰা হৈছে?",
-    "options": ["Numaligarh", "Digboi", "Bongaigaon", "Namrup"],
+    "question": "Under the 2026 'Assam Silk Mission 2.0', which specific cluster has been designated as the state's first 'Bio-Tech Silk Park' for high-yield Muga variety research? / ২০২৬ চনৰ 'অসম চিল্ক মিছন ২.০'ৰ অধীনত উচ্চ উৎপাদনশীল মুগাৰ জাতৰ গৱেষণাৰ বাবে কোনটো গোটক ৰাজ্যৰ প্ৰথমটো 'বায়ো-টেক চিল্ক পাৰ্ক' হিচাপে নিৰ্ধাৰণ কৰা হৈছে?",
+    "options": ["Sualkuchi", "Dhakuakhana", "Palasbari", "Sarbhog"],
+    "answer": 1
+  },
+  {
+    "question": "During the Moamoria Rebellion, the rebels established a parallel government at Bengmara (Tinsukia). By what traditional title was the ruler of this independent Matak kingdom known? / মোৱামৰীয়া বিদ্ৰোহৰ সময়ত বিদ্ৰোহীসকলে বেংমৰাত (তিনিচুকীয়া) এক সমান্তৰাল চৰকাৰ গঠন কৰিছিল। এই স্বতন্ত্ৰ মটক ৰাজ্যৰ শাসকজনক কি পৰম্পৰাগত উপাধিৰে জনা গৈছিল?",
+    "options": ["Borpailan", "Sarbananda Singha", "Borsenapati", "Chao-Pha"],
+    "answer": 2
+  },
+  {
+    "question": "In the context of 2026 administrative reforms, which unique 'Zila Parishad' in Assam was the first to transition to a 100% paperless digital governance model? / ২০২৬ চনৰ প্ৰশাসনিক সংস্কাৰৰ প্ৰেক্ষাপটত অসমৰ কোনটো অনন্য 'জিলা পৰিষদ' ১০০% কাগজহীন ডিজিটেল চৰকাৰী আৰ্হিলৈ ৰূপান্তৰিত হোৱা প্ৰথমটো পৰিষদ হিচাপে পৰিগণিত হৈছে?",
+    "options": ["Kamrup Metropolitan", "Majuli", "Nagaon", "Dibrugarh"],
+    "answer": 1
+  },
+  {
+    "question": "The 'Treaty of Badarpur' (1824) was a crucial diplomatic agreement between the British and which local ruler that paved the way for the intervention in the Burmese Wars? / ১৮২৪ চনৰ 'বদৰপুৰৰ সন্ধি' ব্ৰিটিছ আৰু কোনজন স্থানীয় শাসকৰ মাজত হোৱা এক গুৰুত্বপূৰ্ণ কূটনৈতিক বুজাবুজি আছিল, যিয়ে মানৰ যুদ্ধত হস্তক্ষেপৰ পথ প্ৰশস্ত কৰিছিল?",
+    "options": ["Govinda Chandra of Cachar", "Purandar Singha", "Gambhir Singh of Manipur", "The Raja of Jaintia"],
     "answer": 0
-  },
-  {
-    "question": "In the Ahom administrative hierarchy, the official responsible for the maintenance of 'Royal Boats' and naval warfare was known by which title? / আহোম প্ৰশাসনিক ব্যৱস্থাত 'ৰাজকীয় নাও'সমূহৰ তত্ত্বাৱধান আৰু নৌ-যুদ্ধৰ দায়িত্বত থকা বিষয়াজনক কি উপাধিৰে জনা গৈছিল?",
-    "options": ["Naoboicha Phukan", "Pani Phukan", "Choladhara Phukan", "Dhekial Phukan"],
-    "answer": 0
-  },
-  {
-    "question": "Which historic tea estate in Assam was recognized in 2025 as the first to successfully implement 100% 'Smart-Agri' automation for plucking and processing? / অসমৰ কোনখন ঐতিহাসিক চাহ বাগিচাক ২০২৫ চনত চাহ পাত তোলা আৰু সংসাধনৰ বাবে ১০০% 'স্মাৰ্ট-এগ্ৰি' অটোমেচন সফলতাৰে কাৰ্যকৰী কৰা প্ৰথমখন চাহ বাগিচা হিচাপে স্বীকৃতি দিয়া হৈছে?",
-    "options": ["Monabari Tea Estate", "Dikom Tea Estate", "Cinnamara Tea Estate", "Makaibari Tea Estate"],
-    "answer": 1
   }
 ]
