@@ -1,27 +1,27 @@
 [
   {
-    "question": "Which specific 'Heritage Hub' was established in early 2026 to promote the preservation of the unique mask-making tradition (Mukha Shilpa) of Majuli? / মাজুলীৰ অনন্য মুখাশিল্পৰ সংৰক্ষণৰ বাবে ২০২৬ চনৰ আৰম্ভণিতে কোনটো বিশেষ 'ঐতিহ্য কেন্দ্ৰ' উদ্বোধন কৰা হৈছে?",
-    "options": ["Auniati Cultural Center", "Samaguri Satra Heritage Hub", "Kamalabari Shilpagram", "Uttar Kamalabari Museum"],
-    "answer": 1
-  },
-  {
-    "question": "The 'Line System' of 1916, which governed land settlement in colonial Assam, was first introduced in which specific district? / ১৯১৬ চনত ঔপনিৱেশিক অসমত ভূমি বন্দোৱস্তি নিয়ন্ত্ৰণ কৰা 'লাইন চিষ্টেম' পোনপ্ৰথমবাৰৰ বাবে কোনখন জিলাত প্ৰৱৰ্তন কৰা হৈছিল?",
-    "options": ["Nagaon", "Goalpara", "Kamrup", "Barpeta"],
-    "answer": 1
-  },
-  {
-    "question": "Under the 2025-26 'Assam State Industrial Policy', which location has been designated as the state's first 'Green Hydrogen Cluster' for clean energy production? / ২০২৫-২৬ চনৰ 'অসম ৰাজ্যিক ঔদ্যোগিক নীতি'ৰ অধীনত নিকা শক্তি উৎপাদনৰ বাবে কোনটো স্থানক ৰাজ্যৰ প্ৰথমটো 'গ্ৰীণ হাইড্ৰজেন ক্লাষ্টাৰ' হিচাপে নিৰ্ধাৰণ কৰা হৈছে?",
-    "options": ["Numaligarh", "Digboi", "Bongaigaon", "Namrup"],
+    "question": "The 'Robertson’s Regulations' of 1833 in colonial Assam were primarily aimed at reforming which specific administrative sector? / ঔপনিৱেশিক অসমৰ ১৮৩৩ চনৰ 'ৰবাৰ্টছনৰ নিয়মাৱলী' মূলতঃ কোনটো বিশেষ প্ৰশাসনিক খণ্ডৰ সংস্কাৰৰ বাবে তৈয়াৰ কৰা হৈছিল?",
+    "options": ["Land Revenue Collection", "Tea Plantation Labor", "Judicial Procedure", "Police and Intelligence"],
     "answer": 0
   },
   {
-    "question": "In the Ahom administrative hierarchy, the official responsible for the maintenance of 'Royal Boats' and naval warfare was known by which title? / আহোম প্ৰশাসনিক ব্যৱস্থাত 'ৰাজকীয় নাও'সমূহৰ তত্ত্বাৱধান আৰু নৌ-যুদ্ধৰ দায়িত্বত থকা বিষয়াজনক কি উপাধিৰে জনা গৈছিল?",
-    "options": ["Naoboicha Phukan", "Pani Phukan", "Choladhara Phukan", "Dhekial Phukan"],
-    "answer": 0
+    "question": "As per the 2026 'Assam Digital Agri-Tech' framework, which district has been established as the central hub for the state's first Drone-based Crop Monitoring and Spraying service? / ২০২৬ চনৰ 'অসম ডিজিটেল এগ্ৰি-টেক' গাঁথনি অনুসৰি ৰাজ্যৰ প্ৰথমটো ড্ৰোন-চালিত শস্য নিৰীক্ষণ আৰু স্প্ৰেয়িং সেৱাৰ কেন্দ্ৰ হিচাপে কোনখন জিলাক প্ৰতিষ্ঠা কৰা হৈছে?",
+    "options": ["Jorhat", "Golaghat", "Biswanath", "Cachar"],
+    "answer": 2
   },
   {
-    "question": "Which historic tea estate in Assam was recognized in 2025 as the first to successfully implement 100% 'Smart-Agri' automation for plucking and processing? / অসমৰ কোনখন ঐতিহাসিক চাহ বাগিচাক ২০২৫ চনত চাহ পাত তোলা আৰু সংসাধনৰ বাবে ১০০% 'স্মাৰ্ট-এগ্ৰি' অটোমেচন সফলতাৰে কাৰ্যকৰী কৰা প্ৰথমখন চাহ বাগিচা হিচাপে স্বীকৃতি দিয়া হৈছে?",
-    "options": ["Monabari Tea Estate", "Dikom Tea Estate", "Cinnamara Tea Estate", "Makaibari Tea Estate"],
-    "answer": 1
+    "question": "Which specific medieval chronicle (Buranji) is considered the most authoritative source for understanding the diplomatic relations between the Ahoms and the neighboring hill tribes? / আহোম আৰু চুবুৰীয়া পাহাৰীয়া জনজাতিসমূহৰ মাজৰ কূটনৈতিক সম্পৰ্ক বুজিবলৈ কোনখন মধ্যযুগীয় বুৰঞ্জীক আটাইতকৈ নিৰ্ভৰযোগ্য উৎস বুলি গণ্য কৰা হয়?",
+    "options": ["Deodhai Buranji", "Patsah Buranji", "Kachari Buranji", "Tungkhungia Buranji"],
+    "answer": 2
+  },
+  {
+    "question": "In the administrative restructuring of 2026, which 'Development Block' in Assam became the first to integrate AI-driven public grievance redressal via the 'Mukhya Mantri Lok Sewa' portal? / ২০২৬ চনৰ প্ৰশাসনিক পুনৰ্গঠনত অসমৰ কোনটো 'উন্নয়ন খণ্ড'ই (Development Block) 'মুখ্যমন্ত্ৰী লোকসেৱা' পৰ্টেলৰ জৰিয়তে AI-চালিত ৰাজহুৱা ওজৰ-আপত্তি নিষ্পত্তিৰ ব্যৱস্থা একত্ৰিত কৰা প্ৰথমটো খণ্ড হিচাপে পৰিগণিত হয়?",
+    "options": ["Kaliabor", "Dispur", "North Guwahati", "Titabar"],
+    "answer": 3
+  },
+  {
+    "question": "The 'Treaty of David Scott' (1824) was a secret military alliance formed with which specific hill chieftain to counter the Burmese occupation of the Brahmaputra Valley? / ১৮২৪ চনৰ 'ডেভিদ স্কটৰ সন্ধি' ব্ৰহ্মপুত্ৰ উপত্যকাৰ মানৰ দখল প্ৰতিহত কৰিবলৈ কোনজন পাহাৰীয়া মুখিয়ালৰ সৈতে গঠন কৰা এক গোপন সামৰিক মিত্ৰতা আছিল?",
+    "options": ["The Singpho Chief", "The Moamoria Chief", "The Raja of Jaintia", "The Khamti Gohain"],
+    "answer": 2
   }
 ]
