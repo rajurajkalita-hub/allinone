@@ -1,27 +1,27 @@
 [
   {
-    "question": "Which specific 'Heritage Hub' was established in early 2026 to promote the preservation of the unique mask-making tradition (Mukha Shilpa) of Majuli? / মাজুলীৰ অনন্য মুখাশিল্পৰ সংৰক্ষণৰ বাবে ২০২৬ চনৰ আৰম্ভণিতে কোনটো বিশেষ 'ঐতিহ্য কেন্দ্ৰ' উদ্বোধন কৰা হৈছে?",
-    "options": ["Auniati Cultural Center", "Samaguri Satra Heritage Hub", "Kamalabari Shilpagram", "Uttar Kamalabari Museum"],
+    "question": "Which specific 'Wildlife Corridor' in Assam saw the installation of the state's first AI-powered automated animal overpass monitoring system in early 2026? / ২০২৬ চনৰ আৰম্ভণিতে অসমৰ কোনটো বিশেষ 'বন্যপ্ৰাণী কৰিডৰ'ত ৰাজ্যৰ প্ৰথমটো AI-চালিত স্বয়ংক্ৰিয় পশু অভাৰপাছ নিৰীক্ষণ ব্যৱস্থা স্থাপন কৰা হৈছে?",
+    "options": ["Panbari Corridor", "Kanchanjuri Corridor", "Deosur Corridor", "Amguri Corridor"],
     "answer": 1
   },
   {
-    "question": "The 'Line System' of 1916, which governed land settlement in colonial Assam, was first introduced in which specific district? / ১৯১৬ চনত ঔপনিৱেশিক অসমত ভূমি বন্দোৱস্তি নিয়ন্ত্ৰণ কৰা 'লাইন চিষ্টেম' পোনপ্ৰথমবাৰৰ বাবে কোনখন জিলাত প্ৰৱৰ্তন কৰা হৈছিল?",
-    "options": ["Nagaon", "Goalpara", "Kamrup", "Barpeta"],
+    "question": "The 'Battle of Bansbari' (1682) was a significant naval engagement between the Ahoms and Mughals that took place just before which more famous conflict? / ১৬৮২ চনৰ 'বাঁহবাৰীৰ যুদ্ধ' আছিল আহোম আৰু মোগলৰ মাজত হোৱা এক গুৰুত্বপূৰ্ণ নৌ-যুদ্ধ, যিখন যুদ্ধ কোনখন অধিক বিখ্যাত যুদ্ধৰ ঠিক আগে আগে সংঘটিত হৈছিল?",
+    "options": ["Battle of Saraighat", "Battle of Itakhuli", "Battle of Alaboi", "Battle of Bharali"],
     "answer": 1
   },
   {
-    "question": "Under the 2025-26 'Assam State Industrial Policy', which location has been designated as the state's first 'Green Hydrogen Cluster' for clean energy production? / ২০২৫-২৬ চনৰ 'অসম ৰাজ্যিক ঔদ্যোগিক নীতি'ৰ অধীনত নিকা শক্তি উৎপাদনৰ বাবে কোনটো স্থানক ৰাজ্যৰ প্ৰথমটো 'গ্ৰীণ হাইড্ৰজেন ক্লাষ্টাৰ' হিচাপে নিৰ্ধাৰণ কৰা হৈছে?",
-    "options": ["Numaligarh", "Digboi", "Bongaigaon", "Namrup"],
-    "answer": 0
+    "question": "Under the 'Assam Silk Policy 2025-26', which location has been designated as the primary 'Muga Silk Incubation Center' to promote export-quality yarn? / 'অসম ৰেচম নীতি ২০২৫-২৬'ৰ অধীনত ৰপ্তানিযোগ্য মানদণ্ডৰ সূতাৰ প্ৰসাৰৰ বাবে কোনটো স্থানক প্ৰাথমিক 'মুগা ৰেচম ইনকিউবেচন চেণ্টাৰ' হিচাপে নিৰ্ধাৰণ কৰা হৈছে?",
+    "options": ["Sualkuchi", "Palasbari", "Dhakuakhana", "Khanapara"],
+    "answer": 2
   },
   {
-    "question": "In the Ahom administrative hierarchy, the official responsible for the maintenance of 'Royal Boats' and naval warfare was known by which title? / আহোম প্ৰশাসনিক ব্যৱস্থাত 'ৰাজকীয় নাও'সমূহৰ তত্ত্বাৱধান আৰু নৌ-যুদ্ধৰ দায়িত্বত থকা বিষয়াজনক কি উপাধিৰে জনা গৈছিল?",
-    "options": ["Naoboicha Phukan", "Pani Phukan", "Choladhara Phukan", "Dhekial Phukan"],
-    "answer": 0
+    "question": "The 'David Scott's Code', a set of administrative guidelines in early colonial Assam, was primarily designed to integrate which system into the British judiciary? / প্ৰাৰম্ভিক ঔপনিৱেশিক অসমৰ প্ৰশাসনিক নিৰ্দেশনাৱলী 'ডেভিদ স্কটৰ ক'ড' মূলতঃ ব্ৰিটিছ ন্যায়পালিকাৰ সৈতে কোনটো ব্যৱস্থাক একত্ৰিত কৰিবলৈ প্ৰস্তুত কৰা হৈছিল?",
+    "options": ["Ahom Paik System", "Local Punchayat/Customary Law", "Mughal Zamindari System", "The Bengal Regulation"],
+    "answer": 1
   },
   {
-    "question": "Which historic tea estate in Assam was recognized in 2025 as the first to successfully implement 100% 'Smart-Agri' automation for plucking and processing? / অসমৰ কোনখন ঐতিহাসিক চাহ বাগিচাক ২০২৫ চনত চাহ পাত তোলা আৰু সংসাধনৰ বাবে ১০০% 'স্মাৰ্ট-এগ্ৰি' অটোমেচন সফলতাৰে কাৰ্যকৰী কৰা প্ৰথমখন চাহ বাগিচা হিচাপে স্বীকৃতি দিয়া হৈছে?",
-    "options": ["Monabari Tea Estate", "Dikom Tea Estate", "Cinnamara Tea Estate", "Makaibari Tea Estate"],
+    "question": "Which ancient site in Assam, recently documented for the 2026 'State Archaeology Atlas', is known for its unique 'star-shaped' temple plinth dating back to the late medieval period? / ২০২৬ চনৰ 'ৰাজ্যিক পুৰাতত্ত্ব এটলাছ'ৰ বাবে শেহতীয়াকৈ নথিপত্ৰভুক্ত কৰা অসমৰ কোনটো প্ৰাচীন স্থান ইয়াৰ অনন্য 'তৰকা আকৃতিৰ' মন্দিৰৰ ভেটিৰ বাবে জনাজাত?",
+    "options": ["Nilachal Hill", "Khaspur (Cachar)", "Madan Kamdev", "Deoparbat"],
     "answer": 1
   }
 ]
