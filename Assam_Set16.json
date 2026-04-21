@@ -1,27 +1,27 @@
 [
   {
-    "question": "Which specific 'Heritage Hub' was established in early 2026 to promote the preservation of the unique mask-making tradition (Mukha Shilpa) of Majuli? / মাজুলীৰ অনন্য মুখাশিল্পৰ সংৰক্ষণৰ বাবে ২০২৬ চনৰ আৰম্ভণিতে কোনটো বিশেষ 'ঐতিহ্য কেন্দ্ৰ' উদ্বোধন কৰা হৈছে?",
-    "options": ["Auniati Cultural Center", "Samaguri Satra Heritage Hub", "Kamalabari Shilpagram", "Uttar Kamalabari Museum"],
-    "answer": 1
+    "question": "Which specific 'Bio-Diversity Park' was inaugurated in early 2026 at the foothills of the Karbi Hills to preserve the endangered medicinal orchids of Assam? / বিপন্ন ঔষধি অৰ্কিডসমূহ সংৰক্ষণৰ বাবে ২০২৬ চনৰ আৰম্ভণিতে কাৰ্বি পাহাৰৰ পাদদেশত কোনখন বিশেষ 'জৈৱ-বৈচিত্ৰ্য উদ্যান' উদ্বোধন কৰা হৈছে?",
+    "options": ["Silviculture Park", "Kaziranga Orchid Park", "Chandubi Bio-Park", "Amri Orchid Conservation Zone"],
+    "answer": 3
   },
   {
-    "question": "The 'Line System' of 1916, which governed land settlement in colonial Assam, was first introduced in which specific district? / ১৯১৬ চনত ঔপনিৱেশিক অসমত ভূমি বন্দোৱস্তি নিয়ন্ত্ৰণ কৰা 'লাইন চিষ্টেম' পোনপ্ৰথমবাৰৰ বাবে কোনখন জিলাত প্ৰৱৰ্তন কৰা হৈছিল?",
-    "options": ["Nagaon", "Goalpara", "Kamrup", "Barpeta"],
-    "answer": 1
-  },
-  {
-    "question": "Under the 2025-26 'Assam State Industrial Policy', which location has been designated as the state's first 'Green Hydrogen Cluster' for clean energy production? / ২০২৫-২৬ চনৰ 'অসম ৰাজ্যিক ঔদ্যোগিক নীতি'ৰ অধীনত নিকা শক্তি উৎপাদনৰ বাবে কোনটো স্থানক ৰাজ্যৰ প্ৰথমটো 'গ্ৰীণ হাইড্ৰজেন ক্লাষ্টাৰ' হিচাপে নিৰ্ধাৰণ কৰা হৈছে?",
-    "options": ["Numaligarh", "Digboi", "Bongaigaon", "Namrup"],
+    "question": "The 'Moamoria Rebellion' saw the installation of a rebel king named 'Bharat Singha' at which location, which briefly functioned as an independent capital? / মোৱামৰীয়া বিদ্ৰোহৰ সময়ত 'ভরত সিংহ' নামৰ এজন বিদ্ৰোহী ৰজাক কোনটো স্থানত সিংহাসনত বহুওৱা হৈছিল, যিটো ঠাই অলপ সময়ৰ বাবে এখন স্বতন্ত্ৰ ৰাজধানী হিচাপে পৰিগণিত হৈছিল?",
+    "options": ["Bengmara (Tinsukia)", "Rangpur", "Sadiya", "Khowang"],
     "answer": 0
   },
   {
-    "question": "In the Ahom administrative hierarchy, the official responsible for the maintenance of 'Royal Boats' and naval warfare was known by which title? / আহোম প্ৰশাসনিক ব্যৱস্থাত 'ৰাজকীয় নাও'সমূহৰ তত্ত্বাৱধান আৰু নৌ-যুদ্ধৰ দায়িত্বত থকা বিষয়াজনক কি উপাধিৰে জনা গৈছিল?",
-    "options": ["Naoboicha Phukan", "Pani Phukan", "Choladhara Phukan", "Dhekial Phukan"],
-    "answer": 0
+    "question": "Under the 'Assam Electronics Policy 2025-26', which town is being developed as the state's first 'Smart-Circuit Hub' for semiconductor testing? / 'অসম ইলেকট্ৰনিক্স নীতি ২০২৫-২৬'ৰ অধীনত কোনখন চহৰক ছেমিকণ্ডাক্টৰ পৰীক্ষণৰ বাবে ৰাজ্যৰ প্ৰথমটো 'স্মাৰ্ট-চাৰ্কিট হাব' হিচাপে গঢ়ি তোলা হৈছে?",
+    "options": ["Jagiroad", "Amingaon", "Palasbari", "Bokakhat"],
+    "answer": 2
   },
   {
-    "question": "Which historic tea estate in Assam was recognized in 2025 as the first to successfully implement 100% 'Smart-Agri' automation for plucking and processing? / অসমৰ কোনখন ঐতিহাসিক চাহ বাগিচাক ২০২৫ চনত চাহ পাত তোলা আৰু সংসাধনৰ বাবে ১০০% 'স্মাৰ্ট-এগ্ৰি' অটোমেচন সফলতাৰে কাৰ্যকৰী কৰা প্ৰথমখন চাহ বাগিচা হিচাপে স্বীকৃতি দিয়া হৈছে?",
-    "options": ["Monabari Tea Estate", "Dikom Tea Estate", "Cinnamara Tea Estate", "Makaibari Tea Estate"],
+    "question": "The 'Treaty of Yandabo' (1826) was signed between the British East India Company and which Burmese King? / ১৮২৬ চনৰ 'ইয়াণ্ডাবু সন্ধি' ব্ৰিটিছ ইষ্ট ইণ্ডিয়া কোম্পানী আৰু কোনজন মান (বৰ্মী) ৰজাৰ মাজত স্বাক্ষৰিত হৈছিল?",
+    "options": ["Bodawpaya", "Tharrawaddy", "Mindon Min", "Bagyidaw"],
+    "answer": 3
+  },
+  {
+    "question": "In the Ahom administration, the officer specifically in charge of 'Public Works' such as the construction of roads, bridges, and embankments was known as? / আহোম প্ৰশাসনত ৰাস্তা, দলং আৰু মঠাউৰি নিৰ্মাণৰ দৰে 'গড়কাপ্টানি' কামৰ দায়িত্বত থকা বিষয়াজনক কি নামেৰে জনা গৈছিল?",
+    "options": ["Likhon Phukan", "Chang-Rung Phukan", "Khargharia Phukan", "Barua-Phukan"],
     "answer": 1
   }
 ]
