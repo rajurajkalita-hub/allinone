@@ -1,1 +1,53 @@
 
+[
+  {
+    "question": "Which of the following geographical features marks the northern boundary of the Assam Valley? / তলৰ কোনটো ভৌগোলিক বৈশিষ্ট্যই অসম উপত্যকাৰ উত্তৰ সীমা নিৰ্ধাৰণ কৰে?",
+    "options": ["Karbi Hills", "Patkai Range", "Bhutan and Arunachal Himalayas", "Shillong Plateau"],
+    "answer": 2
+  },
+  {
+    "question": "The 'Mollem' or 'Molle' soil found in parts of the Brahmaputra valley is characterized by which of the following? / ব্ৰহ্মপুত্ৰ উপত্যকাৰ কিছু অংশত পোৱা 'মোলে' মাটিৰ বৈশিষ্ট্য তলৰ কোনটো?",
+    "options": ["High acidity and low organic matter", "New alluvial deposits (Khadar)", "Old alluvial deposits (Bhangar)", "Laterite soil with high iron oxide"],
+    "answer": 1
+  },
+  {
+    "question": "Which among the following is the primary reason for the 'Southwest Monsoon' to bifurcate into two branches in the Indian subcontinent? / ভাৰতীয় উপ-মহাদেশত 'দক্ষিণ-পশ্চিম মৌচুমী বায়ু' দুটা শাখাত বিভক্ত হোৱাৰ মূল কাৰণ কি?",
+    "options": ["The presence of the Himalayas", "The thermal contrast between land and sea", "The physical shape of Peninsular India", "The influence of the Jet Streams"],
+    "answer": 2
+  },
+  {
+    "question": "In the context of Assam's physiography, the 'North Cachar Hills' act as a watershed between which two river systems? / অসমৰ ভূ-প্ৰকৃতিৰ প্ৰেক্ষাপটত 'উত্তৰ কাছাৰ পাহাৰ' কোন দুটা নদী প্ৰণালীৰ মাজত জলবিভাজিকা হিচাপে কাম কৰে?",
+    "options": ["Dhansiri and Kopili", "Brahmaputra and Barak", "Barak and Imphal", "Lohit and Dibang"],
+    "answer": 1
+  },
+  {
+    "question": "The 'Khadin' and 'Johad' systems in India are traditional methods used for: / ভাৰতত 'খাদিন' আৰু 'জোহাদ' পদ্ধতি পৰম্পৰাগতভাৱে কিহৰ বাবে ব্যৱহাৰ কৰা হয়?",
+    "options": ["Soil conservation", "Jhum cultivation", "Rainwater harvesting", "Forest protection"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is the correct chronological order of the Brahmaputra tributaries from East to West? / পূবৰ পৰা পশ্চিমলৈ ব্ৰহ্মপুত্ৰৰ উপনৈসমূহৰ সঠিক কালানুক্ৰমিক ক্ৰম তলৰ কোনটো?",
+    "options": ["Lohit, Subansiri, Kameng, Manas", "Subansiri, Lohit, Manas, Kameng", "Lohit, Kameng, Subansiri, Manas", "Manas, Kameng, Subansiri, Lohit"],
+    "answer": 0
+  },
+  {
+    "question": "The 'Darrang Plain' is situated between which two rivers? / 'দৰং সমভূমি' কোন দুখন নদীৰ মাজত অৱস্থিত?",
+    "options": ["Dhansiri and Kopili", "Barnadi and Dhansiri (North)", "Puthimari and Jia Bharali", "Manas and Champamati"],
+    "answer": 1
+  },
+  {
+    "question": "Under Koeppen's Climate Classification, the climate of Assam is generally described as: / কোৱেপেনৰ জলবায়ু শ্ৰেণীবিভাজন অনুসৰি অসমৰ জলবায়ুক সাধাৰণতে কি বুলি বৰ্ণনা কৰা হয়?",
+    "options": ["Tropical Savanna (Aw)", "Monsoon type with short dry season (Am)", "Humid Subtropical Climate (Cwg)", "Tropical Wet Evergreen (Af)"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following passes connects Arunachal Pradesh with Lhasa (Tibet)? / তলৰ কোনটো গিৰিপথে অৰুণাচল প্ৰদেশক ল্হাছাৰ (তিব্বত) সৈতে সংযোগ কৰে?",
+    "options": ["Diphu Pass", "Bomdi La", "Shipki La", "Niti Pass"],
+    "answer": 1
+  },
+  {
+    "question": "The 'Main Boundary Thrust' (MBT) separates which two geological units? / 'মেইন বাউণ্ডাৰী থ্ৰাষ্ট' (MBT)-এ কোন দুটা ভূতাত্ত্বিক গোটক পৃথক কৰে?",
+    "options": ["Greater Himalayas and Lesser Himalayas", "Lesser Himalayas and Shiwaliks", "Shiwaliks and Indo-Gangetic Plains", "Tibetan Plateau and Greater Himalayas"],
+    "answer": 1
+  }
+]
