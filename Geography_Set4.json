@@ -1,1 +1,52 @@
-
+[
+  {
+    "question": "Which tributary of the Brahmaputra is known as the 'River of Sorrow' for its frequent flooding? / ব্ৰহ্মপুত্ৰৰ কোনখন উপনৈক সঘনাই হোৱা বানপানীৰ বাবে 'দুখৰ নদী' বুলি জনা যায়?",
+    "options": ["Pagladiya", "Subansiri", "Manas", "Jia Bharali"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following passes connects Arunachal Pradesh with Lhasa (Tibet)? / তলৰ কোনটো গিৰিপথে অৰুণাচল প্ৰদেশক লাছাৰ (তিব্বত) সৈতে সংযোগ কৰে?",
+    "options": ["Diphu Pass", "Bomdi La", "Shipki La", "Niti Pass"],
+    "answer": 1
+  },
+  {
+    "question": "Which district of Assam has the highest density of population according to the 2011 Census? / ২০১১ চনৰ লোকপিয়ল অনুসৰি অসমৰ কোনখন জিলাত জনসংখ্যাৰ ঘনত্ব সৰ্বাধিক?",
+    "options": ["Dhubri", "Kamrup Metropolitan", "Nagaon", "Barpeta"],
+    "answer": 1
+  },
+  {
+    "question": "The Barail Range forms the boundary between which of the following? / বৰাইল পৰ্বতশ্ৰেণীয়ে তলৰ কোনটোৰ মাজত সীমা গঠন কৰে?",
+    "options": ["Assam and Nagaland", "Assam and Meghalaya", "Assam, Manipur, and Nagaland", "Assam and Arunachal Pradesh"],
+    "answer": 2
+  },
+  {
+    "question": "Which among the following is the largest wetland in Assam? / তলৰ কোনখন অসমৰ বৃহত্তম বিল (আদ্ৰভূমি)?",
+    "options": ["Deepor Beel", "Son Beel", "Chandubi Beel", "Maguri Motapung Beel"],
+    "answer": 1
+  },
+  {
+    "question": "In which year was the Kaziranga National Park declared a UNESCO World Heritage Site? / কোন বছৰত কাজিৰঙা ৰাষ্ট্ৰীয় উদ্যানক ইউনেস্কোৰ বিশ্ব ঐতিহ্য ক্ষেত্ৰ হিচাপে ঘোষণা কৰা হৈছিল?",
+    "options": ["1985", "1974", "1992", "1988"],
+    "answer": 0
+  },
+  {
+    "question": "Which soil type covers the largest part of the geographical area of India? / ভাৰতৰ ভৌগোলিক এলেকাৰ সৰ্বাধিক অংশ কোন প্ৰকাৰৰ মৃত্তিকাই আৱৰি আছে?",
+    "options": ["Black Soil", "Red Soil", "Laterite Soil", "Alluvial Soil"],
+    "answer": 3
+  },
+  {
+    "question": "The Majuli island is situated between the Brahmaputra river and which of its branches? / মাজুলী দ্বীপ ব্ৰহ্মপুত্ৰ নদী আৰু ইয়াৰ কোনটো শাখাৰ মাজত অৱস্থিত?",
+    "options": ["Subansiri", "Kherkutia Xuti", "Lohit", "Dhansiri"],
+    "answer": 1
+  },
+  {
+    "question": "The 82°30' E longitude is chosen as the Standard Meridian of India because it passes through? / ৮২°৩০' পূব দ্ৰাঘিমাংশক ভাৰতৰ মানক দ্ৰাঘিমা হিচাপে নিৰ্বাচন কৰা হৈছে কাৰণ ই কাৰ মাজেৰে পাৰ হৈ গৈছে?",
+    "options": ["Patna", "Mirzapur", "Ujjain", "Ranchi"],
+    "answer": 1
+  },
+  {
+    "question": "Which coalfield in Assam is the largest and oldest? / অসমৰ কোনটো কয়লা ক্ষেত্ৰ আটাইতকৈ ডাঙৰ আৰু পুৰণি?",
+    "options": ["Nazira", "Makum", "Dilli-Jeypore", "Mikir Hills"],
+    "answer": 1
+  }
+]
