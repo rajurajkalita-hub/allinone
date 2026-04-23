@@ -1,12 +1,52 @@
 [
   {
-    "question": "Which district was officially reorganized/restored as the 35th district of Assam in the recent 2025-26 administrative update? / শেহতীয়া ২০২৫-২৬ বৰ্ষৰ প্ৰশাসনিক আপডেটত কোনখন জিলাক আনুষ্ঠানিকভাৱে অসমৰ ৩৫ সংখ্যক জিলা হিচাপে পুনৰ গঠন কৰা হৈছে?",
-    "options": ["Tamulpur", "Hojai", "Biswanath", "Bajali"],
+    "question": "The 'Pobitora Wildlife Sanctuary', famous for its high density of rhinos, is primarily situated in which specific floodplain of the Brahmaputra? / গঁড়ৰ অধিক ঘনত্বৰ বাবে বিখ্যাত 'পবিতৰা বন্যপ্ৰাণী অভয়াৰণ্য' মূলতঃ ব্ৰহ্মপুত্ৰৰ কোনটো বিশেষ প্লাবনভূমিত অৱস্থিত?",
+    "options": ["Mayong Floodplain", "Bokakhat Plain", "Biswanath Plain", "Sadiya Plain"],
+    "answer": 0
+  },
+  {
+    "question": "Which among the following is the only Southbank tributary of the Brahmaputra that originates in the Himalayas? / তলৰ কোনখন ব্ৰহ্মপুত্ৰৰ একমাত্ৰ দক্ষিণ পাৰৰ উপনৈ যি হিমালয়ত উৎপত্তি হৈছে?",
+    "options": ["Dhansiri", "Kopili", "Noa-Dihing", "None of these (All are Northbank)"],
     "answer": 3
   },
   {
-    "question": "According to the latest 2026 forest data, which national park in Assam saw a significant expansion in its buffer zone? / ২০২৬ চনৰ শেহতীয়া বন তথ্য অনুসৰি, অসমৰ কোনখন ৰাষ্ট্ৰীয় উদ্যানৰ বাফাৰ জন (buffer zone) বুজন পৰিমাণে বৃদ্ধি কৰা হৈছে?",
-    "options": ["Nameri National Park", "Kaziranga National Park", "Raimona National Park", "Orang National Park"],
+    "question": "The 'Garampani Wildlife Sanctuary', known for its hot water springs, is located in which district of Assam? / গৰম পানীৰ উঁহৰ বাবে পৰিচিত 'গৰমপানী বন্যপ্ৰাণী অভয়াৰণ্য' অসমৰ কোনখন জিলাত অৱস্থিত?",
+    "options": ["Dima Hasao", "Karbi Anglong", "Golaghat", "Hojai"],
+    "answer": 1
+  },
+  {
+    "question": "Under the 2026 'Assam River Navigation Project', which port is being developed as the primary multimodal logistics hub for trade with Bhutan? / ২০২৬ চনৰ 'অসম নদী জাহাজ পৰিবহণ প্ৰকল্প'ৰ অধীনত ভূটানৰ সৈতে বাণিজ্যৰ বাবে কোনটো বন্দৰক প্ৰাথমিক মাল্টিমডেল লজিষ্টিক হাব হিচাপে গঢ়ি তোলা হৈছে?",
+    "options": ["Dhubri", "Pandu", "Jogighopa", "Silghat"],
+    "answer": 2
+  },
+  {
+    "question": "The 'Main Central Thrust' (MCT) fault line, which is a significant seismic zone, passes through the northern boundary of which Assam district? / এক গুৰুত্বপূৰ্ণ ভূমিকম্পীয় মণ্ডল 'মেইন চেণ্ট্ৰেল থ্ৰাষ্ট' (MCT) চ্যুতি ৰেখাডাল অসমৰ কোনখন জিলাৰ উত্তৰ সীমাৰে পাৰ হৈ গৈছে?",
+    "options": ["Dhemaji", "Tinsukia", "Baksa", "Udalguri"],
+    "answer": 0
+  },
+  {
+    "question": "Which forest in Assam is famously known as the 'Amazon of the East' due to its rich biodiversity and dense tropical vegetation? / চহকী জৈৱ-বৈচিত্ৰ্য আৰু ঘন ক্ৰান্তীয় উদ্ভিদৰ বাবে অসমৰ কোনখন অৰণ্যক 'পূবৰ আমাজন' বুলি জনা যায়?",
+    "options": ["Raimona National Park", "Dehing Patkai", "Nameri National Park", "Dibru-Saikhowa"],
+    "answer": 1
+  },
+  {
+    "question": "The 'Kapili Fault' is a major tectonic feature that separates the Mikir Hills from which other physiographic unit? / 'কপিলী চ্যুতি' হৈছে এক প্ৰধান ভূ-তাত্ত্বিক বৈশিষ্ট্য যি মিকিৰ পাহাৰক আন কোনটো ভূ-প্ৰাকৃতিক গোটৰ পৰা পৃথক কৰে?",
+    "options": ["Barail Range", "Shillong Plateau", "Upper Assam Plains", "Patkai Range"],
+    "answer": 1
+  },
+  {
+    "question": "As of 2026, which district in Assam has the largest area under 'Organic Tea' cultivation as part of the state’s sustainable agriculture push? / ২০২৬ চনৰ তথ্য অনুসৰি ৰাজ্যখনৰ বহনক্ষম কৃষিৰ অংশ হিচাপে অসমৰ কোনখন জিলাত 'জৈৱিক চাহ' খেতিৰ অধীনত সৰ্বাধিক অঞ্চল আছে?",
+    "options": ["Dibrugarh", "Sonitpur", "Udalguri", "Baksa"],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following thermal power plants in Assam is fueled primarily by the natural gas produced in the Naharkatiya and Moran oil fields? / অসমৰ তলৰ কোনটো তাপ বিদ্যুৎ কেন্দ্ৰত মূলতঃ নাহৰকটীয়া আৰু মৰাণ তৈলক্ষেত্ৰত উৎপাদিত প্ৰাকৃতিক গেছ ইন্ধন হিচাপে ব্যৱহাৰ কৰা হয়?",
+    "options": ["Bongaigaon Thermal", "Namrup Thermal", "Chandrapur Thermal", "Lakwa Thermal"],
+    "answer": 1
+  },
+  {
+    "question": "The 'Lumding-Badarpur' hill section of the railway is famous for its tunnels and bridges. It primarily cuts through which mountain range? / ৰে’লপথৰ 'লামডিং-বদৰপুৰ' পাহাৰীয়া অংশটো ইয়াৰ সুৰংগ আৰু দলংসমূহৰ বাবে বিখ্যাত। ই মূলতঃ কোনটো পৰ্বতমালাৰ মাজেৰে পাৰ হৈ গৈছে?",
+    "options": ["Patkai Range", "Barail Range", "Khasi Hills", "Karbi Hills"],
     "answer": 1
   }
 ]
