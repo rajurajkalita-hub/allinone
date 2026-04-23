@@ -1,1 +1,52 @@
-
+[
+  {
+    "question": "Which peak is known as the highest point of the Karbi Anglong Hills? / কাৰ্বি আংলং পাহাৰৰ সৰ্বোচ্চ শৃংগ হিচাপে কোনটো জনাজাত?",
+    "options": ["Singhasan", "Chenghehishon", "Laike Peak", "Mahadeo Peak"],
+    "answer": 1
+  },
+  {
+    "question": "The tropic of cancer passes through how many states in India? / কৰ্কট বিপ্লৱ ৰেখা ভাৰতৰ কেইখন ৰাজ্যৰ মাজেৰে পাৰ হৈ গৈছে?",
+    "options": ["7", "9", "8", "6"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following forest types is predominantly found in the Kaziranga National Park? / তলৰ কোনটো বনজ প্ৰকাৰ কাজিৰঙা ৰাষ্ট্ৰীয় উদ্যানত মুখ্যত পোৱা যায়?",
+    "options": ["Tropical Semi-evergreen forest", "Tropical Wet Evergreen forest", "Montane Sub-tropical forest", "Tropical Moist Mixed Deciduous forest"],
+    "answer": 3
+  },
+  {
+    "question": "The 'Pani Dihing Bird Sanctuary' is located in which district of Assam? / 'পানী দিহিং পক্ষী অভয়াৰণ্য' অসমৰ কোনটো জিলাত অৱস্থিত?",
+    "options": ["Sivasagar", "Jorhat", "Dibrugarh", "Tinsukia"],
+    "answer": 0
+  },
+  {
+    "question": "Which national highway connects Guwahati with Silchar? / কোনটো ৰাষ্ট্ৰীয় ঘাইপথে গুৱাহাটীক শিলচৰৰ সৈতে সংযোগ কৰে?",
+    "options": ["NH 27", "NH 37", "NH 06", "NH 15"],
+    "answer": 2
+  },
+  {
+    "question": "The Patkai Bum range forms the boundary between India and which country? / পাটকাই বাম পৰ্বতশ্ৰেণীয়ে ভাৰত আৰু কোনখন দেশৰ মাজত সীমা নিৰ্ধাৰণ কৰে?",
+    "options": ["Bhutan", "Myanmar", "Bangladesh", "China"],
+    "answer": 1
+  },
+  {
+    "question": "Which river is known as the 'Coming' in Arunachal Pradesh before entering Assam as the Jia Bharali? / অসমত জিয়া ভৰালী নামেৰে প্ৰৱেশ কৰাৰ আগতে অৰুণাচল প্ৰদেশত কোনখন নদীক 'কামিং' বুলি জনা যায়?",
+    "options": ["Kameng", "Subansiri", "Lohit", "Siang"],
+    "answer": 0
+  },
+  {
+    "question": "In terms of area, what is the rank of Assam among the North-Eastern states? / কালিৰ হিচাপত উত্তৰ-পূবৰ ৰাজ্যসমূহৰ ভিতৰত অসমৰ স্থান কিমান?",
+    "options": ["1st", "3rd", "4th", "2nd"],
+    "answer": 3
+  },
+  {
+    "question": "The 'Dhubri-Phulbari Bridge', when completed, will connect Assam with which state? / নিৰ্মাণ সম্পূৰ্ণ হ’লে 'ধুবুৰী-ফুলবাৰী দলং'খনে অসমক কোনখন ৰাজ্যৰ সৈতে সংযোগ কৰিব?",
+    "options": ["West Bengal", "Arunachal Pradesh", "Meghalaya", "Tripura"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is the oldest oil refinery in India? / তলৰ কোনটো ভাৰতৰ আটাইতকৈ পুৰণি তৈল শোধনাগাৰ?",
+    "options": ["Haldia", "Digboi", "Barauni", "Numaligarh"],
+    "answer": 1
+  }
+]
