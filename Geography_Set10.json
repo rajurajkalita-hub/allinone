@@ -1,1 +1,52 @@
-
+[
+  {
+    "question": "Which of the following geographical features acts as the primary barrier preventing the cold Siberian winds from entering the Indian subcontinent? / তলৰ কোনটো ভৌগোলিক বৈশিষ্ট্যই ছাইবেৰিয়াৰ শীতল বতাহক ভাৰতীয় উপমহাদেশত প্ৰৱেশ কৰাত বাধা দিয়াৰ প্ৰাথমিক প্ৰাচীৰ হিচাপে কাম কৰে?",
+    "options": ["Western Ghats", "Himalayas", "Aravalli Range", "Thar Desert"],
+    "answer": 1
+  },
+  {
+    "question": "The 'Atheistic' or North-Bank tributaries of the Brahmaputra are characterized by which of the following? / ব্ৰহ্মপুত্ৰৰ উত্তৰ পাৰৰ উপনৈসমূহৰ বৈশিষ্ট্য তলৰ কোনটো?",
+    "options": ["Slow-moving with low sediment load", "Short courses with steady flow", "Meandering paths in rocky terrain", "Flashy floods and high sediment load"],
+    "answer": 3
+  },
+  {
+    "question": "Which type of soil, predominantly found in the foothills of the Himalayas in Assam, is characterized by its porous nature and coarse pebbles? / অসমত হিমালয়ৰ পাদদেশত মুখ্যত পোৱা কোনটো মাটিৰ বৈশিষ্ট্য হ’ল ইয়াৰ ছিদ্ৰযুক্ত প্ৰকৃতি আৰু খহটা শিলগুটি?",
+    "options": ["Alluvial Soil", "Laterite Soil", "Bhabar (Terai) Soil", "Red Soil"],
+    "answer": 2
+  },
+  {
+    "question": "The 'Main Boundary Thrust' (MBT) in the context of Himalayan geology separates which two regions? / হিমালয়ৰ ভূতত্ত্বৰ প্ৰেক্ষাপটত 'মেইন বাউণ্ডাৰী থ্ৰাষ্ট' (MBT) এ কোন দুটা অঞ্চলক পৃথক কৰে?",
+    "options": ["Greater Himalayas and Lesser Himalayas", "Lesser Himalayas and Outer Himalayas (Siwaliks)", "Siwaliks and Indo-Gangetic Plains", "Tibetan Plateau and Greater Himalayas"],
+    "answer": 1
+  },
+  {
+    "question": "The 'River Island' Majuli is situated between which two channels of the Brahmaputra? / নদীদ্বীপ মাজুলী ব্ৰহ্মপুত্ৰৰ কোন দুটা সুঁতিৰ মাজত অৱস্থিত?",
+    "options": ["Kherkutia Xuti and Brahmaputra main channel", "Subansiri and Lohit", "Jia Bharali and Dhansiri", "Buri Dihing and Brahmaputra"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following factors is primarily responsible for the 'Tropical Monsoon' climate of Assam? / অসমৰ 'ক্ৰান্তীয় মৌচুমী' জলবায়ুৰ বাবে তলৰ কোনটো কাৰক মুখ্যতঃ দায়ী?",
+    "options": ["Ocean currents", "Distance from the equator", "Physiography and Orographic effect", "Jet Streams only"],
+    "answer": 2
+  },
+  {
+    "question": "The 'Kopili Fault' is known for being seismically active. Which part of Assam's geography does it primarily impact? / 'কপিলী ফল্ট' ভূমিকম্পীয়ভাৱে সক্ৰিয় বুলি জনা যায়। ই অসমৰ ভূগোলৰ কোনটো অংশক প্ৰাথমিকভাৱে প্ৰভাৱিত কৰে?",
+    "options": ["Barak Valley", "Upper Assam Plains", "Mikir Hills and Central Assam", "Dhubri District"],
+    "answer": 2
+  },
+  {
+    "question": "What is the correct sequence of the following hills from West to East? / পশ্চিমৰ পৰা পূবলৈ তলৰ পাহাৰবোৰৰ সঠিক ক্ৰম কি?",
+    "options": ["Garo, Khasi, Jaintia, Mikir", "Mikir, Jaintia, Khasi, Garo", "Garo, Jaintia, Khasi, Mikir", "Khasi, Garo, Mikir, Jaintia"],
+    "answer": 0
+  },
+  {
+    "question": "The phenomenon of 'Western Disturbances' usually brings rainfall to Northwest India during winter. Which water body is the source of these disturbances? / 'পশ্চিমীয়া জঞ্জাল' (Western Disturbances) পৰিঘটনাটোৱে সাধাৰণতে শীতকালত উত্তৰ-পশ্চিম ভাৰতলৈ বৰষুণ আনে। এই জঞ্জালৰ উৎস কোনটো জলভাগ?",
+    "options": ["Arabian Sea", "Caspian Sea", "Mediterranean Sea", "Bay of Bengal"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following passes connects Arunachal Pradesh with Lhasa (Tibet)? / তলৰ কোনটো গিৰিপথে অৰুণাচল প্ৰদেশক লাছা (তিব্বত)ৰ সৈতে সংযোগ কৰে?",
+    "options": ["Shipki La", "Bomdila Pass", "Nathu La", "Jehlep La"],
+    "answer": 1
+  }
+]
