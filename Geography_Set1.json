@@ -1,27 +1,52 @@
 [
   {
-    "question": "Who was the only Assamese representative in the 'Drafting Committee' of the Constituent Assembly of India? / ভাৰতৰ সংবিধান সভাৰ 'খচৰা সমিতি'ত একমাত্ৰ অসমীয়া প্ৰতিনিধি কোন আছিল?",
-    "options": ["Gopinath Bordoloi", "Bishnuram Medhi", "Dharidhar Chaliha", "Sir Syed Muhammad Saadulla"],
-    "answer": 3
-  },
-  {
-    "question": "The 'Moamoria Rebellion' first broke out during the reign of which Ahom monarch? / কোনজন আহোম ৰজাৰ শাসনকালত প্ৰথমবাৰৰ বাবে 'মোৱামৰীয়া বিদ্ৰোহ' আৰম্ভ হৈছিল?",
-    "options": ["Rudra Singha", "Pramatta Singha", "Lakshmi Singha", "Gaurinath Singha"],
-    "answer": 2
-  },
-  {
-    "question": "Which specific 'Ghat' in Assam is known as the 'Patharughat of South Kamrup' due to a similar peasant uprising against the British? / ব্ৰিটিছৰ বিৰুদ্ধে কৃষক বিদ্ৰোহৰ বাবে অসমৰ কোনটো বিশেষ 'ঘাট'ক 'দক্ষিণ কামৰূপৰ পথৰুঘাট' বুলি জনা যায়?",
-    "options": ["Phulaguri", "Nagarbera", "Sualkuchi", "Rangia"],
+    "question": "Which specific peak in the Barail Range is the highest point in the state of Assam? / বৰাইল পৰ্বতমালাৰ কোনটো বিশেষ শৃংগ অসমৰ সৰ্বোচ্চ বিন্দু?",
+    "options": ["Mahaeb Peak", "Laike Peak", "Chenghehishon", "Hampu Peak"],
     "answer": 1
   },
   {
-    "question": "Which botanical species, endemic to the Joypur Rainforest, is famously known as the 'Hollong of the South'? / জয়পুৰ বৰ্ষাৰণ্যৰ কোনটো বিশেষ উদ্ভিদ প্ৰজাতিক 'দক্ষিণৰ হোলং' বুলি জনা যায়?",
-    "options": ["Vatica lanceaefolia", "Dipterocarpus retusus", "Shoreia robusta", "Mesua ferrea"],
+    "question": "The 'Deepor Beel', Assam's only Ramsar site, is a permanent freshwater lake situated in a former channel of which river? / অসমৰ একমাত্ৰ ৰামচাৰ স্থান 'দীপৰ বিল' কোনখন নদীৰ এক প্ৰাক্তন সুঁতিত অৱস্থিত এটা স্থায়ী মিঠা পানীৰ হ্ৰদ?",
+    "options": ["Brahmaputra", "Kulsi", "Kopili", "Dharla"],
     "answer": 0
   },
   {
-    "question": "In the 2025 'State of Forest Report', which district of Assam showed the highest percentage increase in 'Very Dense Forest' (VDF) cover? / ২০২৫ চনৰ 'ৰাজ্যিক বন প্ৰতিবেদন'ত অসমৰ কোনখন জিলাত 'অতি ঘন অৰণ্য' (VDF) আৱৰণৰ সৰ্বাধিক শতাংশ বৃদ্ধি পাইছে?",
-    "options": ["Kokrajhar", "Sonitpur", "Karbi Anglong", "Lakhimpur"],
-    "answer": 2
+    "question": "According to the 2026 'Assam Flood Mitigation Plan', which major tributary of the Brahmaputra is known as the 'Sorrow of North Lakhimpur' due to its frequent course changes? / ২০২৬ চনৰ 'অসম বান প্ৰশমন পৰিকল্পনা' অনুসৰি ব্ৰহ্মপুত্ৰৰ কোনখন প্ৰধান উপনৈক সঘনাই গতিপথ সলনি কৰাৰ বাবে 'উত্তৰ লক্ষীমপুৰৰ দুখ' বুলি জনা যায়?",
+    "options": ["Subansiri", "Ranganadi", "Dikrong", "Gai River"],
+    "answer": 3
+  },
+  {
+    "question": "Which type of soil, found extensively in the North Cachar Hills, is characterized by its reddish color due to a high presence of iron oxides? / উত্তৰ কাছাৰ পাহাৰত ব্যাপকভাৱে পোৱা কোনবিধ মাটি আইৰন অক্সাইডৰ উপস্থিতিৰ বাবে ৰঙা ৰঙৰ হয়?",
+    "options": ["Alluvial Soil", "Laterite Soil", "Peaty Soil", "Black Soil"],
+    "answer": 1
+  },
+  {
+    "question": "The 'Kopili Hydro Electric Project' is located on the border between Assam and which other North-Eastern state? / 'কপিলী জলবিদ্যুৎ প্ৰকল্প' অসম আৰু উত্তৰ-পূবৰ আন কোনখন ৰাজ্যৰ সীমান্তত অৱস্থিত?",
+    "options": ["Nagaland", "Meghalaya", "Arunachal Pradesh", "Mizoram"],
+    "answer": 1
+  },
+  {
+    "question": "Which specific pass in the Himalayas connects the Tawang district of Arunachal Pradesh with Tibet and is strategically vital for Assam's security? / হিমালয়ৰ কোনটো বিশেষ গিৰিপথে অৰুণাচল প্ৰদেশৰ টাৱাং জিলাক তিব্বতৰ সৈতে সংযোগ কৰে আৰু অসমৰ সুৰক্ষাৰ বাবে কৌশলগতভাৱে গুৰুত্বপূৰ্ণ?",
+    "options": ["Nathu La", "Bum La", "Diphu Pass", "Shipki La"],
+    "answer": 1
+  },
+  {
+    "question": "In the context of Assam's forest types, the 'Hollong' and 'Mekai' trees are dominant species in which specific category of forest? / অসমৰ বনঞ্চলৰ প্ৰকাৰৰ প্ৰেক্ষাপটত 'হালং' আৰু 'মেকাই' গছ কোনটো বিশেষ শ্ৰেণীৰ বনৰ প্ৰধান প্ৰজাতি?",
+    "options": ["Tropical Semi-Evergreen", "Tropical Wet Evergreen", "Sub-Tropical Pine", "Littoral and Swamp Forests"],
+    "answer": 1
+  },
+  {
+    "question": "Which among the following is the oldest oil refinery in India, established in Assam during the colonial era? / ঔপনিৱেশিক যুগত অসমত প্ৰতিষ্ঠা কৰা তলৰ কোনটো ভাৰতৰ আটাইতকৈ পুৰণি তেল শোধনাগাৰ?",
+    "options": ["Numaligarh", "Guwahati", "Bongaigaon", "Digboi"],
+    "answer": 3
+  },
+  {
+    "question": "The 'Dhola-Sadiya Bridge' (Bhupen Hazarika Setu) is built over the Lohit river. Which two districts/states does it primarily connect? / লোহিত নদীৰ ওপৰত নিৰ্মিত 'ধলা-শদিয়া দলং' (ভূপেন হাজৰিকা সেতু)এ মূলতঃ কোন দুখন জিলা/ৰাজ্যক সংযোগ কৰে?",
+    "options": ["Tinsukia and Roing", "Dibrugarh and Pasighat", "Sivasagar and Itanagar", "Lakhimpur and Ziro"],
+    "answer": 0
+  },
+  {
+    "question": "Under the 'Climate Resilient Agriculture' initiative of 2025-26, which agro-climatic zone in Assam is being prioritized for the cultivation of drought-resistant 'Boro' rice? / ২০২৫-২৬ চনৰ 'জলবায়ু সহনশীল কৃষি' পদক্ষেপৰ অধীনত অসমৰ কোনটো কৃষি-জলবায়ু মণ্ডলক খৰাং প্ৰতিৰোধী 'বৰো' ধান খেতিৰ বাবে অগ্ৰাধিকাৰ দিয়া হৈছে?",
+    "options": ["Lower Brahmaputra Valley Zone", "Central Brahmaputra Valley Zone", "North Hills Zone", "Barak Valley Zone"],
+    "answer": 1
   }
 ]
