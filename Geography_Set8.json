@@ -1,1 +1,52 @@
-
+[
+  {
+    "question": "Which of the following geographical features marks the northern boundary of the Brahmaputra Valley? / তলৰ কোনটো ভৌগোলিক বৈশিষ্ট্যই ব্ৰহ্মপুত্ৰ উপত্যকাৰ উত্তৰ সীমা নিৰ্ধাৰণ কৰে?",
+    "options": ["Patkai Range", "Meghalaya Plateau", "Bhutan and Arunachal Himalayas", "Karbi Hills"],
+    "answer": 2
+  },
+  {
+    "question": "The 'Deepor Beel', a Ramsar site, is a representative of which type of wetland? / ৰামসাৰ ক্ষেত্ৰ হিচাপে স্বীকৃত 'দীপৰ বিল' কেনে ধৰণৰ জলাশয়ৰ প্ৰতিনিধি?",
+    "options": ["Oxbow Lake", "Crater Lake", "Lagoon", "Glacial Lake"],
+    "answer": 0
+  },
+  {
+    "question": "Which among the following is the largest south-bank tributary of the Brahmaputra River? / তলৰ কোনখন ব্ৰহ্মপুত্ৰ নদীৰ বৃহত্তম দক্ষিণ পাৰৰ উপনৈ?",
+    "options": ["Dhansiri", "Kopili", "Burhi Dihing", "Lohit"],
+    "answer": 1
+  },
+  {
+    "question": "The 'Atherkhet' plains are associated with which region of Assam? / 'আঠাৰখাত' সমভূমি অসমৰ কোনটো অঞ্চলৰ সৈতে জড়িত?",
+    "options": ["Barak Valley", "Darrang-Udalguri border", "Majuli", "Cachar Hills"],
+    "answer": 1
+  },
+  {
+    "question": "In the context of soil types, 'New Alluvial Soil' found in the floodplains of Assam is locally known as? / মৃত্তিকাৰ প্ৰকাৰৰ ক্ষেত্ৰত, অসমৰ প্লাৱন ভূমিত পোৱা 'নতুন পলসুৱা মাটি'ক স্থানীয়ভাৱে কি বুলি জনা যায়?",
+    "options": ["Bhangar", "Tarai", "Khadar", "Bhabar"],
+    "answer": 2
+  },
+  {
+    "question": "The 'Main Boundary Thrust' (MBT) separates which two geological units in the Northeast? / 'মেইন বাউণ্ডেৰী থ্ৰাষ্ট' (MBT) এ উত্তৰ-পূৰ্বাঞ্চলৰ কোন দুটা ভূতাত্ত্বিক গোটক পৃথক কৰে?",
+    "options": ["Lesser Himalayas and Siwaliks", "Greater Himalayas and Lesser Himalayas", "Assam Valley and Mikir Hills", "Shillong Plateau and Bengal Basin"],
+    "answer": 0
+  },
+  {
+    "question": "Which district of Assam shares the longest international boundary with Bangladesh? / অসমৰ কোনখন জিলাৰ বাংলাদেশৰ সৈতে আটাইতকৈ দীঘল আন্তঃৰাষ্ট্ৰীয় সীমা আছে?",
+    "options": ["Cachar", "Karimganj", "South Salmara-Mankachar", "Dhubri"],
+    "answer": 3
+  },
+  {
+    "question": "The 'Hoollongapar Gibbon Sanctuary' is characterized by which type of vegetation? / 'হোলঙাপাৰ গিৱন অভয়াৰণ্য' কোন প্ৰকাৰৰ উদ্ভিদৰ দ্বাৰা বৈশিষ্ট্যপূৰ্ণ?",
+    "options": ["Tropical Dry Deciduous", "Tropical Evergreen Forest", "Sub-tropical Pine Forest", "Alpine Scrub"],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following passes connects Arunachal Pradesh with Lhasa (Tibet)? / তলৰ কোনটো গিৰিপথে অৰুণাচল প্ৰদেশক লাছাৰ (তিব্বত) সৈতে সংযোগ কৰে?",
+    "options": ["Diphu Pass", "Bomdi La", "Pangsau Pass", "Niti Pass"],
+    "answer": 1
+  },
+  {
+    "question": "The 'Surma River' enters Bangladesh from India through which district of Assam? / 'সুৰমা নদী' অসমৰ কোনখন জিলাৰ মাজেৰে ভাৰতৰ পৰা বাংলাদেশত প্ৰৱেশ কৰে?",
+    "options": ["Hailakandi", "Dhubri", "Karimganj", "Cachar"],
+    "answer": 2
+  }
+]
