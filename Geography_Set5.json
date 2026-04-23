@@ -1,1 +1,52 @@
-
+[
+  {
+    "question": "Which of the following passes connects Arunachal Pradesh with Lhasa? / তলৰ কোনটো গিৰিপথে অৰুণাচল প্ৰদেশক ল্হাছাৰ সৈতে সংযোগ কৰে?",
+    "options": ["Diphu Pass", "Bomdi La", "Shipki La", "Niti Pass"],
+    "answer": 1
+  },
+  {
+    "question": "The world's largest river island 'Majuli' is situated on which river? / বিশ্বৰ সৰ্ববৃহৎ নদী দ্বীপ 'মাজুলী' কোনখন নদীত অৱস্থিত?",
+    "options": ["Ganges", "Subansiri", "Barak", "Brahmaputra"],
+    "answer": 3
+  },
+  {
+    "question": "Which state shares the longest international boundary with Myanmar? / কোনখন ৰাজ্যই ম্যানমাৰৰ সৈতে আটাইতকৈ দীঘল আন্তঃৰাষ্ট্ৰীয় সীমা ভাগ কৰে?",
+    "options": ["Arunachal Pradesh", "Nagaland", "Mizoram", "Manipur"],
+    "answer": 0
+  },
+  {
+    "question": "In which year was the Kaziranga Wildlife Sanctuary declared a National Park? / কোন বছৰত কাজিৰঙা অভয়াৰণ্যক ৰাষ্ট্ৰীয় উদ্যান হিচাপে ঘোষণা কৰা হৈছিল?",
+    "options": ["1985", "1974", "1950", "1905"],
+    "answer": 1
+  },
+  {
+    "question": "The 'Dihing Patkai' is the ___ National Park of Assam. / 'দিহিং পাটকাই' অসমৰ ___ সংখ্যক ৰাষ্ট্ৰীয় উদ্যান।",
+    "options": ["5th", "6th", "8th", "7th"],
+    "answer": 3
+  },
+  {
+    "question": "Which river flows through the southern part of Assam (Barak Valley)? / অসমৰ দক্ষিণ অংশৰ (বৰাক উপত্যকা) মাজেৰে কোনখন নদী বৈ গৈছে?",
+    "options": ["Dhansiri", "Barak", "Kopili", "Manas"],
+    "answer": 1
+  },
+  {
+    "question": "Which is the highest peak in the Himalayan range located within India? / ভাৰতৰ ভিতৰত থকা হিমালয় পৰ্বতমালাৰ সৰ্বোচ্চ শৃংগ কোনটো?",
+    "options": ["Kanchenjunga", "Nanda Devi", "Mount Everest", "K2 (Godwin-Austen)"],
+    "answer": 0
+  },
+  {
+    "question": "How many districts of Assam share a boundary with Bangladesh? / অসমৰ কেইখন জিলাৰ সীমা বাংলাদেশৰ সৈতে লাগি আছে?",
+    "options": ["2", "4", "3", "5"],
+    "answer": 1
+  },
+  {
+    "question": "The 'Pobitora Wildlife Sanctuary' is famous for which animal? / 'পবিতৰা অভয়াৰণ্য' কোনটো প্ৰাণীৰ বাবে বিখ্যাত?",
+    "options": ["Royal Bengal Tiger", "One-horned Rhinoceros", "Clouded Leopard", "Wild Water Buffalo"],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is the southern-most point of the Indian Union? / তলৰ কোনটো ভাৰতীয় সংঘৰ একেবাৰে দক্ষিণৰ বিন্দু?",
+    "options": ["Kanyakumari", "Indira Point", "Pamban Island", "Indira Col"],
+    "answer": 1
+  }
+]
