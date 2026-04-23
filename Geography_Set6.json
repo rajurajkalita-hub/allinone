@@ -1,1 +1,52 @@
-
+[
+  {
+    "question": "Which geological era is primarily responsible for the formation of the Tertiary coal deposits found in Upper Assam? / ওপৰ অসমত পোৱা টাৰ্চিয়াৰী কয়লা ভাণ্ডাৰ গঠনৰ বাবে মুখ্যতঃ কোনটো ভূতাত্ত্বিক যুগ দায়ী?",
+    "options": ["Oligocene", "Paleocene", "Miocene", "Eocene"],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following mountain passes connects the Tawang district of Arunachal Pradesh with Lhasa? / তলৰ কোনটো গিৰিপথে অৰুণাচল প্ৰদেশৰ টাৱাং জিলাক ল্হাছাৰ সৈতে সংযোগ কৰে?",
+    "options": ["Diphu Pass", "Bum La Pass", "Jelep La Pass", "Shipki La Pass"],
+    "answer": 1
+  },
+  {
+    "question": "The 'Molai Forest', a man-made forest created by Jadav Payeng, is situated on which river island? / যাদৱ পায়েঙে সৃষ্টি কৰা মানৱনিৰ্মিত হাবি 'মোলাই কাঠনি' কোনটো নদী দ্বীপত অৱস্থিত?",
+    "options": ["Umananda", "Dibru-Saikhowa", "Majuli", "Aruna Chapori"],
+    "answer": 3
+  },
+  {
+    "question": "Which soil type, characterized by high iron oxide content, is predominantly found in the inner hilly regions of Assam like Karbi Anglong? / আইৰণ অক্সাইডৰ মাত্ৰা বেছি থকা কোনটো মাটিৰ প্ৰকাৰ অসমৰ কাৰ্বি আংলংৰ দৰে ভিতৰুৱা পাহাৰীয়া অঞ্চলত মুখ্যত পোৱা যায়?",
+    "options": ["Alluvial Soil", "Red Soil", "Laterite Soil", "Peaty Soil"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following rivers is a north-bank tributary of the Brahmaputra that originates from the Bhutan Himalayas? / তলৰ কোনখন নদী ভূটান হিমালয়ৰ পৰা উৎপত্তি হোৱা ব্ৰহ্মপুত্ৰৰ উত্তৰ পাৰৰ উপনৈ?",
+    "options": ["Kopili", "Dhansiri", "Manas", "Buridehing"],
+    "answer": 2
+  },
+  {
+    "question": "The 'Thal Ghat' and 'Bhor Ghat' are important passes located in which mountain range? / 'থল ঘাট' আৰু 'ভোৰ ঘাট' কোনটো পৰ্বতমালাত অৱস্থিত গুৰুত্বপূৰ্ণ গিৰিপথ?",
+    "options": ["Western Ghats", "Eastern Ghats", "Vindhyas", "Satpura"],
+    "answer": 0
+  },
+  {
+    "question": "According to the 2011 Census, which district of Assam has the highest population density? / ২০১১ চনৰ লোকপিয়ল অনুসৰি অসমৰ কোনখন জিলাত জনসংখ্যাৰ ঘনত্ব সৰ্বাধিক?",
+    "options": ["Dhubri", "Kamrup Metropolitan", "Nagaon", "Barpeta"],
+    "answer": 1
+  },
+  {
+    "question": "Which climatic phenomenon is responsible for the 'Bordoisila' (pre-monsoon thunderstorms) in Assam? / অসমত 'বৰদৈচিলা' (প্ৰাক-মৌচুমী ধুমুহা)ৰ বাবে কোনটো জলবায়ুজনিত পৰিঘটনা দায়ী?",
+    "options": ["Western Disturbances", "Tropical Cyclones", "Nor'westers", "Loo"],
+    "answer": 2
+  },
+  {
+    "question": "The boundary between the North Cachar Hills (Dima Hasao) and the Naga Hills is formed by which range? / উত্তৰ কাছাৰ পাহাৰ (ডিমা হাছাও) আৰু নগা পাহাৰৰ মাজৰ সীমা কোনটো পৰ্বতশ্ৰেণীয়ে গঠন কৰিছে?",
+    "options": ["Mikir Hills", "Barail Range", "Patkai Range", "Khasi Hills"],
+    "answer": 1
+  },
+  {
+    "question": "Which tributary of the Brahmaputra is known for its high sediment load and frequent course changes, often called the 'Sorrow of Northern Assam'? / ব্ৰহ্মপুত্ৰৰ কোনখন উপনৈ অধিক গেদ আৰু সঘনাই গতিপথ সলনি কৰাৰ বাবে জনাজাত, যাক প্ৰায়ে 'উত্তৰ অসমৰ দুখ' বুলি কোৱা হয়?",
+    "options": ["Subansiri", "Puthimari", "Pagladiya", "Jiabharali"],
+    "answer": 2
+  }
+]
