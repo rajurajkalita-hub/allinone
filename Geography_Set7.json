@@ -1,1 +1,52 @@
-
+[
+{
+"question": "Which specific geological feature separates the Karbi Anglong plateau from the Meghalaya plateau? / কাৰ্বি আংলং মালভূমিক মেঘালয় মালভূমিৰ পৰা কোনটো বিশেষ ভৌগোলিক বৈশিষ্ট্যই পৃথক কৰিছে?",
+"options": ["Dhansiri Fault", "Haflong-Disang Fault", "Brahmaputra Plain", "Barail Range"],
+"answer": 1
+},
+{
+"question": "The 'Beels' in Assam are primarily classified as which type of wetlands? / অসমৰ 'বিল'সমূহক মুখ্যতঃ কোন প্ৰকাৰৰ জলাভূমি হিচাপে শ্ৰেণীভুক্ত কৰা হৈছে?",
+"options": ["Tectonic Wetlands", "Oxbow Lakes", "Mangrove Wetlands", "High-altitude Marshes"],
+"answer": 1
+},
+{
+"question": "Which of these rivers is a right-bank tributary of the Brahmaputra originating from the Meghalaya plateau? / ইয়াৰ ভিতৰত কোনখন নদী মেঘালয় মালভূমিৰ পৰা উৎপত্তি হোৱা ব্ৰহ্মপুত্ৰৰ সোঁপাৰৰ উপনৈ?",
+"options": ["Manas", "Kulsi", "Puthimari", "Pagladiya"],
+"answer": 1
+},
+{
+"question": "The 'Barail Range' serves as a major watershed between which two river systems in the Northeast? / 'বৰাইল পৰ্বতশ্ৰেণী' উত্তৰ-পূৰ্বাঞ্চলৰ কোন দুখন নদী প্ৰণালীৰ মাজত এক প্ৰধান জলবিভাজিকা হিচাপে কাম কৰে?",
+"options": ["Brahmaputra and Barak", "Barak and Imphal", "Brahmaputra and Chindwin", "Lohit and Dibang"],
+"answer": 0
+},
+{
+"question": "Which soil type is most prevalent in the floodplains of the Brahmaputra, characterized by its high fertility? / ব্ৰহ্মপুত্ৰৰ প্লাৱনভূমিত কোন প্ৰকাৰৰ মাটি আটাইতকৈ বেছি পোৱা যায়, যি ইয়াৰ উচ্চ উৰ্বৰতাৰ বাবে জনাজাত?",
+"options": ["Laterite Soil", "Alluvial Soil", "Red Sandy Soil", "Black Soil"],
+"answer": 1
+},
+{
+"question": "In the context of the Ahom Kingdom, what was the primary geographical advantage of 'Charaideo'? / আহোম ৰাজ্যৰ প্ৰেক্ষাপটত 'চৰাইদেউ'ৰ মুখ্য ভৌগোলিক সুবিধা কি আছিল?",
+"options": ["Proximity to the Brahmaputra", "Strategic elevated position for defense", "Rich mineral deposits", "Access to the trade routes of Tibet"],
+"answer": 1
+},
+{
+"question": "The 'Nameri National Park' shares its northern border with which forest reserve in Arunachal Pradesh? / 'নামেৰী ৰাষ্ট্ৰীয় উদ্যান'ৰ উত্তৰ দিশৰ সীমা অৰুণাচল প্ৰদেশৰ কোনখন সংৰক্ষিত বনাঞ্চলৰ সৈতে সংলগ্ন?",
+"options": ["Pakke Tiger Reserve", "Namdapha National Park", "Mouling National Park", "Itanagar Wildlife Sanctuary"],
+"answer": 0
+},
+{
+"question": "Which climatic factor is primarily responsible for the high rainfall in the southern parts of Meghalaya and Assam? / মেঘালয় আৰু অসমৰ দক্ষিণ অংশত হোৱা প্ৰচুৰ বৃষ্টিপাতৰ বাবে কোনটো জলবায়ু কাৰক মুখ্যতঃ দায়ী?",
+"options": ["Cyclonic storms", "Orographic lifting", "Western Disturbances", "Convectional rainfall"],
+"answer": 1
+},
+{
+"question": "The 'Dibru-Saikhowa' biosphere reserve is unique for being located at the confluence of which rivers? / 'ডিব্ৰু-ছৈখোৱা' জৈৱমণ্ডল সংৰক্ষিত অঞ্চলটো কোনকেইখন নদীৰ সংগমস্থলত অৱস্থিত হোৱাৰ বাবে অনন্য?",
+"options": ["Brahmaputra, Lohit, and Dibang", "Brahmaputra, Siang, and Lohit", "Brahmaputra, Burhi Dihing, and Lohit", "Subansiri, Siang, and Brahmaputra"],
+"answer": 2
+},
+{
+"question": "Which tectonic plate interaction resulted in the formation of the Himalayas, directly impacting the drainage pattern of Assam? / কোনটো টেকটনিক প্লেটৰ প্ৰভাৱৰ ফলত হিমালয়ৰ সৃষ্টি হৈছিল, যিয়ে প্ৰত্যক্ষভাৱে অসমৰ নদী প্ৰণালীক প্ৰভাৱিত কৰিছে?",
+"options": ["Pacific and Eurasian", "Indian and Eurasian", "Australian and Eurasian", "Indian and African"],
+"answer": 1
+}
+]
