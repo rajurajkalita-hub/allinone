@@ -1,1 +1,52 @@
-
+[
+  {
+    "question": "Which article of the Indian Constitution empowers the Governor to appoint the Chief Minister of a state like Assam? / ভাৰতীয় সংবিধানৰ কোনটো অনুচ্ছেদৰ অধীনত ৰাজ্যপালক অসমৰ দৰে ৰাজ্যৰ মুখ্যমন্ত্ৰী নিযুক্তি দিয়াৰ ক্ষমতা প্ৰদান কৰা হৈছে?",
+    "options": ["Article 167", "Article 163", "Article 165", "Article 164"],
+    "answer": 3
+  },
+  {
+    "question": "In which year was the 'Assam Association' formed, which played a lead role in the political life of Assam? / কোন বছৰত 'অসম এছ’চিয়েচন' গঠন কৰা হৈছিল, যিয়ে অসমৰ ৰাজনৈতিক জীৱনত আগভাগ লৈছিল?",
+    "options": ["1901", "1903", "1912", "1905"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first President of the Assam Association? / অসম এছ’চিয়েচনৰ প্ৰথম সভাপতি কোন আছিল?",
+    "options": ["Raja Prabhat Chandra Baruah", "Jagannath Baruah", "Manik Chandra Baruah", "Maniram Dewan"],
+    "answer": 0
+  },
+  {
+    "question": "The 'Jorhat Sarbajanik Sabha' was founded in 1884 by: / ১৮৮৪ চনত 'যোৰহাট সাৰ্বজনিক সভা' কোনে প্ৰতিষ্ঠা কৰিছিল?",
+    "options": ["Nabinchandra Bordoloi", "Tarun Ram Phukan", "Jagannath Baruah", "Anandaram Dhekial Phukan"],
+    "answer": 2
+  },
+  {
+    "question": "Under which Schedule of the Indian Constitution is the administration of tribal areas in Assam governed? / ভাৰতীয় সংবিধানৰ কোনটো অনুসূচীৰ অধীনত অসমৰ জনজাতীয় অঞ্চলৰ প্ৰশাসন পৰিচালিত হয়?",
+    "options": ["Seventh Schedule", "Sixth Schedule", "Fifth Schedule", "Eighth Schedule"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first Speaker of the Assam Legislative Assembly? / অসম বিধানসভাৰ প্ৰথম অধ্যক্ষ কোন আছিল?",
+    "options": ["Kuladhar Chaliha", "Mahendra Mohan Choudhury", "Devakanta Barua", "Babu Basanta Kumar Das"],
+    "answer": 3
+  },
+  {
+    "question": "When was the High Court of Assam (now Gauhati High Court) established? / অসম উচ্চ ন্যায়ালয় (বৰ্তমানৰ গুৱাহাটী উচ্চ ন্যায়ালয়) কেতিয়া প্ৰতিষ্ঠা কৰা হৈছিল?",
+    "options": ["1948", "1947", "1952", "1950"],
+    "answer": 0
+  },
+  {
+    "question": "Which committee recommended the implementation of the Panchayati Raj system in Assam? / কোনখন সমিতিয়ে অসমত পঞ্চায়তী ৰাজ ব্যৱস্থা ৰূপায়ণৰ পৰামৰ্শ দিছিল?",
+    "options": ["L.M. Singhvi Committee", "Balwant Rai Mehta Committee", "G.V.K. Rao Committee", "Ashok Mehta Committee"],
+    "answer": 1
+  },
+  {
+    "question": "The total number of seats in the Assam Legislative Assembly is: / অসম বিধানসভাৰ মুঠ আসনৰ সংখ্যা হ’ল:",
+    "options": ["126", "124", "130", "120"],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first Chief Minister of Assam after Independence? / স্বাধীনতাৰ পাছত অসমৰ প্ৰথমগৰাকী মুখ্যমন্ত্ৰী কোন আছিল?",
+    "options": ["Bishnuram Medhi", "Gopinath Bordoloi", "Bimala Prasad Chaliha", "Sarat Chandra Singha"],
+    "answer": 1
+  }
+]
