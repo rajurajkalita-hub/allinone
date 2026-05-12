@@ -1,52 +1,52 @@
 [
   {
-    "question": "Which article of the Indian Constitution empowers the Governor to appoint the Chief Minister of a state like Assam? / ভাৰতীয় সংবিধানৰ কোনটো অনুচ্ছেদৰ অধীনত ৰাজ্যপালক অসমৰ দৰে ৰাজ্যৰ মুখ্যমন্ত্ৰী নিযুক্তি দিয়াৰ ক্ষমতা প্ৰদান কৰা হৈছে?",
-    "options": ["Article 167", "Article 163", "Article 165", "Article 164"],
-    "answer": 3
-  },
-  {
-    "question": "In which year was the 'Assam Association' formed, which played a lead role in the political life of Assam? / কোন বছৰত 'অসম এছ’চিয়েচন' গঠন কৰা হৈছিল, যিয়ে অসমৰ ৰাজনৈতিক জীৱনত আগভাগ লৈছিল?",
-    "options": ["1901", "1903", "1912", "1905"],
+    "question": "On which date was the Treaty of Yandaboo signed, ending the First Anglo-Burmese War? / কোন তাৰিখে প্ৰথম ইংল’-বাৰ্মীজ যুদ্ধৰ অন্ত পেলাই ইয়াণ্ডাবু সন্ধি স্বাক্ষৰিত হৈছিল? [1]",
+    "options": ["24th February, 1824", "24th February, 1826", "24th January, 1825", "12th March, 1826"],
     "answer": 1
   },
   {
-    "question": "Who was the first President of the Assam Association? / অসম এছ’চিয়েচনৰ প্ৰথম সভাপতি কোন আছিল?",
-    "options": ["Raja Prabhat Chandra Baruah", "Jagannath Baruah", "Manik Chandra Baruah", "Maniram Dewan"],
-    "answer": 0
+    "question": "Who was appointed as the Senior Commissioner of Lower Assam following the British division of the region? / ব্ৰিটিছে অঞ্চলটো বিভাজন কৰাৰ পিছত নামনি অসমৰ জ্যেষ্ঠ আয়ুক্ত হিচাপে কাক নিযুক্তি দিয়া হৈছিল? [1]",
+    "options": ["Colonel Richard", "David Scott", "Purandar Singha", "Archibald Campbell"],
+    "answer": 1
   },
   {
-    "question": "The 'Jorhat Sarbajanik Sabha' was founded in 1884 by: / ১৮৮৪ চনত 'যোৰহাট সাৰ্বজনিক সভা' কোনে প্ৰতিষ্ঠা কৰিছিল?",
-    "options": ["Nabinchandra Bordoloi", "Tarun Ram Phukan", "Jagannath Baruah", "Anandaram Dhekial Phukan"],
+    "question": "In which year was Upper Assam finally annexed to British India? / কোন বছৰত উজনি অসমক চূড়ান্তভাৱে ব্ৰিটিছ ভাৰতৰ অন্তৰ্ভুক্ত কৰা হৈছিল? [1, 2]",
+    "options": ["1826", "1835", "1838", "1853"],
     "answer": 2
   },
   {
-    "question": "Under which Schedule of the Indian Constitution is the administration of tribal areas in Assam governed? / ভাৰতীয় সংবিধানৰ কোনটো অনুসূচীৰ অধীনত অসমৰ জনজাতীয় অঞ্চলৰ প্ৰশাসন পৰিচালিত হয়?",
-    "options": ["Seventh Schedule", "Sixth Schedule", "Fifth Schedule", "Eighth Schedule"],
+    "question": "The Criminal Investigation Department (CID) in Assam was established in which year? / অসমত অপৰাধ অনুসন্ধান শাখা (CID) কোন বছৰত স্থাপন কৰা হৈছিল? [2, 3]",
+    "options": ["1912", "1913", "1919", "1947"],
     "answer": 1
   },
   {
-    "question": "Who was the first Speaker of the Assam Legislative Assembly? / অসম বিধানসভাৰ প্ৰথম অধ্যক্ষ কোন আছিল?",
-    "options": ["Kuladhar Chaliha", "Mahendra Mohan Choudhury", "Devakanta Barua", "Babu Basanta Kumar Das"],
-    "answer": 3
-  },
-  {
-    "question": "When was the High Court of Assam (now Gauhati High Court) established? / অসম উচ্চ ন্যায়ালয় (বৰ্তমানৰ গুৱাহাটী উচ্চ ন্যায়ালয়) কেতিয়া প্ৰতিষ্ঠা কৰা হৈছিল?",
-    "options": ["1948", "1947", "1952", "1950"],
+    "question": "According to the sources, who was appointed as the First Indian IGP in 1919? / উৎসসমূহৰ মতে, ১৯১৯ চনত কাক প্ৰথম ভাৰতীয় IGP হিচাপে নিযুক্তি দিয়া হৈছিল? [3]",
+    "options": ["A.A. Campbell", "H.G. Bartley", "David Scott", "J.P. Reid"],
     "answer": 0
   },
   {
-    "question": "Which committee recommended the implementation of the Panchayati Raj system in Assam? / কোনখন সমিতিয়ে অসমত পঞ্চায়তী ৰাজ ব্যৱস্থা ৰূপায়ণৰ পৰামৰ্শ দিছিল?",
-    "options": ["L.M. Singhvi Committee", "Balwant Rai Mehta Committee", "G.V.K. Rao Committee", "Ashok Mehta Committee"],
-    "answer": 1
-  },
-  {
-    "question": "The total number of seats in the Assam Legislative Assembly is: / অসম বিধানসভাৰ মুঠ আসনৰ সংখ্যা হ’ল:",
-    "options": ["126", "124", "130", "120"],
+    "question": "Assam was first separated from Bengal to form a Chief Commissionership on which date? / কোন তাৰিখে অসমক প্ৰথমবাৰৰ বাবে বংগৰ পৰা পৃথক কৰি মুখ্য আয়ুক্তৰ প্ৰদেশ গঠন কৰা হৈছিল? [4]",
+    "options": ["6th February 1874", "16th October 1905", "12th December 1911", "1st April 1912"],
     "answer": 0
   },
   {
-    "question": "Who was the first Chief Minister of Assam after Independence? / স্বাধীনতাৰ পাছত অসমৰ প্ৰথমগৰাকী মুখ্যমন্ত্ৰী কোন আছিল?",
-    "options": ["Bishnuram Medhi", "Gopinath Bordoloi", "Bimala Prasad Chaliha", "Sarat Chandra Singha"],
+    "question": "Which city served as the headquarters for the new province of 'East Bengal and Assam' created in 1905? / ১৯০৫ চনত সৃষ্টি কৰা 'পূব বংগ আৰু অসম' নামৰ নতুন প্ৰদেশখনৰ সদৰ ঠাই কোনখন চহৰ আছিল? [4]",
+    "options": ["Shillong", "Guwahati", "Dacca", "Sylhet"],
+    "answer": 2
+  },
+  {
+    "question": "When was the first meeting of the Assam Legislative Council held in Shillong? / শ্বিলঙত অসম বিধান পৰিষদৰ প্ৰথম বৈঠক কেতিয়া অনুষ্ঠিত হৈছিল? [5]",
+    "options": ["January 6, 1913", "December 18, 1906", "January 24, 1826", "April 1, 1912"],
+    "answer": 0
+  },
+  {
+    "question": "Who was appointed as the first Chief Commissioner of Assam in 1874? / ১৮৭৪ চনত অসমৰ প্ৰথমগৰাকী মুখ্য আয়ুক্ত হিচাপে কাক নিযুক্তি দিয়া হৈছিল? [4]",
+    "options": ["Richard Harte Keatinge", "David Scott", "Henry Hopkinson", "Francis Jenkins"],
+    "answer": 0
+  },
+  {
+    "question": "In which year were the Assam Rifles separated from the Assam Police? / কোন বছৰত অসম ৰাইফলছক অসম আৰক্ষীৰ পৰা পৃথক কৰা হৈছিল? [3]",
+    "options": ["1937", "1947", "1913", "1962"],
     "answer": 1
   }
 ]
