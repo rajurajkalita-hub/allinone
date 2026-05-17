@@ -1,1 +1,102 @@
-
+[
+  {
+    "question": "Who was the only member from the Muslim League to sit on the Drafting Committee of the Indian Constitution? / ভাৰতীয় সংবিধানৰ খচৰা সমিতিত বহা মুছলিম লীগৰ একমাত্ৰ সদস্য কোন আছিল?",
+    "options": [
+      "Rohini Kumar Chaudhuri",
+      "Syed Abdur Rouf",
+      "Muhammad Saadulla",
+      "Gopinath Bordoloi"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who served as the Speaker of the Assam Legislative Assembly from 1952 to 1957? / ১৯৫২ চনৰ পৰা ১৯৫৭ চনলৈ কোনে অসম বিধানসভাৰ অধ্যক্ষ হিচাপে কাৰ্যনিৰ্বাহ কৰিছিল?",
+    "options": [
+      "Nibaran Lahkar",
+      "Kuladhar Chaliha",
+      "James Joy Mohan Nichols Roy",
+      "Babu Basanta Kumar Das"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "According to the sources, who was the first Chief Minister (Premier) of Assam in British India? / উৎসসমূহৰ মতে, ব্ৰিটিছ ভাৰতত অসমৰ প্ৰথমজন মুখ্যমন্ত্ৰী (প্ৰিমিয়াৰ) কোন আছিল?",
+    "options": [
+      "Muhammad Saadulla",
+      "Gopinath Bordoloi",
+      "Sir Archdale Eastle",
+      "Sir Nicholas Dodd Beatson-Bell"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which post-independent Governor of Assam served for the longest period? / স্বাধীনতাৰ পিছৰ অসমৰ কোনজন ৰাজ্যপালে আটাইতকৈ দীঘলীয়া সময়ৰ বাবে কাৰ্যনিৰ্বাহ কৰিছিল?",
+    "options": [
+      "Arvind Dave",
+      "Braj Kumar Nehru",
+      "Lallan Prasad Singh",
+      "Jairamdas Daulatram"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first post-independent Governor of Assam? / স্বাধীনতাৰ পিছৰ অসমৰ প্ৰথমজন ৰাজ্যপাল কোন আছিল? ",
+    "options": [
+      "Sir Ronald Francis Lodge",
+      "Muhammad Saleh Akbar Hydari",
+      "Sri Prakasa",
+      "Saiyid Fazal Ali"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the founder Principal of Cachar College? / কাছাৰ কলেজৰ প্ৰতিষ্ঠাপক অধ্যক্ষ কোন আছিল?",
+    "options": [
+      "James Joy Mohan Nichols Roy",
+      "Kuladhar Chaliha",
+      "Nibaran Lahkar",
+      "Dharanidhar Basumatari"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "James Joy Mohan Nichols Roy was a key figure in the drafting of which schedule of the Indian Constitution? / জেমছ জয় মোহন নিকোলছ ৰয় ভাৰতীয় সংবিধানৰ কোনখন অনুসূচী প্ৰস্তুত কৰাৰ ক্ষেত্ৰত এজন গুৰুত্বপূৰ্ণ ব্যক্তি আছিল?",
+    "options": [
+      "Fourth Schedule",
+      "Fifth Schedule",
+      "Sixth Schedule",
+      "Seventh Schedule"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the Chairman of the sub-committee on North East Frontier Tribal Areas and Assam Excluded and Partially Excluded Areas? / উত্তৰ-পূব সীমান্ত জনজাতীয় অঞ্চল আৰু অসমৰ বহিৰ্ভুক্ত আৰু আংশিকভাৱে বহিৰ্ভুক্ত অঞ্চলৰ উপ-সমিতিৰ অধ্যক্ষ কোন আছিল?",
+    "options": [
+      "A.V. Thakkar",
+      "Gopinath Bordoloi",
+      "Nibaran Lahkar",
+      "James Joy Mohan Nichols Roy"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which member of the Constituent Assembly from Assam was elected to the Lok Sabha from Kokrajhar in 1957, 1962, 1967, and 1971? / অসমৰ সংবিধান সভাৰ কোনজন সদস্য ১৯৫৭, ১৯৬২, ১৯৬৭ আৰু ১৯৭১ চনত কোকৰাঝাৰৰ পৰা লোকসভালৈ নিৰ্বাচিত হৈছিল?",
+    "options": [
+      "Dharanidhar Basumatari",
+      "Nibaran Lahkar",
+      "Rohini Kumar Chaudhuri",
+      "Syed Abdur Rouf"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which Governor of Assam had the shortest period in office? / অসমৰ কোনজন ৰাজ্যপালৰ কাৰ্যকাল আটাইতকৈ চুটি আছিল?",
+    "options": [
+      "Prakash Mehrotra",
+      "Loknath Mishra",
+      "Tribeni Sahai Misra",
+      "Bhishma Narain Singh"
+    ],
+    "answer": 2
+  }
+]
