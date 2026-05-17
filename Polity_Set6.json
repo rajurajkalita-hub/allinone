@@ -1,1 +1,102 @@
-
+[
+  {
+    "question": "Which Act passed in 1983 was later described as placing the burden of proof on accusers regarding illegal migrants? / ১৯৮৩ চনত গৃহীত হোৱা কোনটো আইনে অবৈধ অনুপ্ৰৱেশকাৰীৰ সন্দৰ্ভত অভিযোগকাৰীৰ ওপৰত প্ৰমাণৰ বোজা জাপি দিয়া বুলি বৰ্ণনা কৰা হৈছিল?",
+    "options": [
+      "Assam Official Language Act",
+      "Illegal Migrants (Determination by Tribunal) Act (IMDT)",
+      "Immigrants (Expulsion from Assam) Act",
+      "Citizenship Amendment Act"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the Chief Minister when the IMDT Act was passed in 1983? / ১৯৮৩ চনত IMDT আইন গৃহীত হোৱাৰ সময়ত মুখ্যমন্ত্ৰী কোন আছিল?",
+    "options": [
+      "Prafulla Kumar Mahanta",
+      "Hiteswar Saikia",
+      "Golap Borbora",
+      "Anwara Taimur"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Biswajit Daimary took office as Speaker in which year? / বিশ্বজিৎ দৈমাৰীয়ে কোন চনত অধ্যক্ষ হিচাপে দায়িত্ব গ্ৰহণ কৰিছিল?",
+    "options": [
+      "2016",
+      "2021",
+      "2017",
+      "2011"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which constituency did Tarun Gogoi represent? / তৰুণ গগৈয়ে কোনটো সমষ্টিৰ প্ৰতিনিধিত্ব কৰিছিল?",
+    "options": [
+      "Nazira",
+      "Majuli",
+      "Jalukbari",
+      "Titabar"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Who was the Speaker from 1957 to 1959? / ১৯৫৭ চনৰ পৰা ১৯৫৯ চনলৈ অধ্যক্ষ কোন আছিল?",
+    "options": [
+      "Kuladhar Chaliha",
+      "Mahendra Mohan Choudhury",
+      "Devakanta Barua",
+      "Hareswar Goswami"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What was the duration of the first instance of President's Rule from 1979 to 1980? / ১৯৭৯ চনৰ পৰা ১৯৮০ চনলৈ প্ৰথমবাৰৰ বাবে ৰাষ্ট্ৰপতি শাসনৰ সময়সীমা কিমান আছিল?",
+    "options": [
+      "192 days",
+      "206 days",
+      "345 days",
+      "359 days"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "In 1837, which language was imposed in government schools and courts of Assam? / ১৮৩৭ চনত অসমৰ চৰকাৰী বিদ্যালয় আৰু আদালতত কোনটো ভাষা জাপি দিয়া হৈছিল?",
+    "options": [
+      "Bengali",
+      "English",
+      "Hindi",
+      "Assamese"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which Chief Minister represented the Nowgong constituency? / কোনগৰাকী মুখ্যমন্ত্ৰীয় নগাঁও সমষ্টিৰ প্ৰতিনিধিত্ব কৰিছিল?",
+    "options": [
+      "Bishnuram Medhi",
+      "Prafulla Kumar Mahanta",
+      "Hiteswar Saikia",
+      "Tarun Gogoi"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The Assam Official Language Act of 1960 declared which language as the official language? / ১৯৬০ চনৰ অসম চৰকাৰী ভাষা আইনে কোনটো ভাষাক চৰকাৰী ভাষা হিচাপে ঘোষণা কৰিছিল?",
+    "options": [
+      "Bengali",
+      "English",
+      "Assamese",
+      "Bodo"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who is the incumbent Chief Minister of Assam as of 2021? / ২০২১ চনৰ পৰা বৰ্তমানৰ অসমৰ মুখ্যমন্ত্ৰী কোন?",
+    "options": [
+      "Himanta Biswa Sarma",
+      "Sarbananda Sonowal",
+      "Prafulla Kumar Mahanta",
+      "Tarun Gogoi"
+    ],
+    "answer": 0
+  }
+]
