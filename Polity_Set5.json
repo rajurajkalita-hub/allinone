@@ -1,1 +1,102 @@
-
+[
+  {
+    "question": "Who was the first Speaker of the Assam Legislative Assembly (Assam Province)? / অসম বিধানসভাৰ (অসম প্ৰদেশ) প্ৰথমগৰাকী অধ্যক্ষ কোন আছিল?",
+    "options": [
+      "Debeswar Sarmah",
+      "Laksheswar Borooah",
+      "Babu Basanta Kumar Das",
+      "Kuladhar Chaliha"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In which year was Assamese restored as the medium of instruction in schools? / কোন চনত বিদ্যালয়ত শিক্ষাৰ মাধ্যম হিচাপে অসমীয়াক পুনৰ প্ৰতিষ্ঠা কৰা হৈছিল?",
+    "options": [
+      "1837",
+      "1960",
+      "1972",
+      "1873"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Who was the Prime Minister when the Assam Accord was signed? / অসম চুক্তি স্বাক্ষৰিত হোৱাৰ সময়ত ভাৰতৰ প্ৰধানমন্ত্ৰী কোন আছিল?",
+    "options": [
+      "Indira Gandhi",
+      "Morarji Desai",
+      "Rajiv Gandhi",
+      "V.P. Singh"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The 'Shastri Formula' (1961) was related to which movement? / 'শাস্ত্ৰী সূত্ৰ' (১৯৬১) কোনটো আন্দোলনৰ সৈতে জড়িত আছিল?",
+    "options": [
+      "Assam Movement",
+      "Quit India Movement",
+      "Language Movement",
+      "Non-Cooperation Movement"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which by-election in 1979 revealed discrepancies in electoral rolls, sparking the Assam Movement? / ১৯৭৯ চনৰ কোনটো উপ-নিৰ্বাচনত ভোটাৰ তালিকাত বিসংগতি ধৰা পৰিছিল, যাৰ ফলত অসম আন্দোলনৰ সূচনা হৈছিল?",
+    "options": [
+      "Mangaldoi",
+      "Hajo",
+      "Dalgaon",
+      "Tinsukia"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first Deputy Speaker of Assam? / অসমৰ প্ৰথমগৰাকী উপাধ্যক্ষ কোন আছিল?",
+    "options": [
+      "Bonily Khongmen",
+      "R.N. Baruah",
+      "D. Hazarika",
+      "Moulavi Muhammad Amiruddin"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which organization led the mass protests during the Assam Movement? / অসম আন্দোলনৰ সময়ত কোনে গণ প্ৰতিবাদৰ নেতৃত্ব দিছিল?",
+    "options": [
+      "APCC",
+      "All Assam Students' Union (AASU)",
+      "Assam Sahitya Sabha",
+      "Janata Party"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which political party was formed following the Assam Accord to represent Assamese interests? / অসমীয়াৰ স্বাৰ্থ ৰক্ষাৰ বাবে অসম চুক্তিৰ পিছত কোনটো ৰাজনৈতিক দল গঠন কৰা হৈছিল?",
+    "options": [
+      "Asom Gana Parishad (AGP)",
+      "Indian National Congress",
+      "Bharatiya Janata Party",
+      "Swatantra Party"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who served as the Speaker of the Assam Legislative Assembly from 2011 to 2016? / ২০১১ চনৰ পৰা ২০১৬ চনলৈ কোনে অসম বিধানসভাৰ অধ্যক্ষ হিচাপে কাৰ্যনিৰ্বাহ কৰিছিল?",
+    "options": [
+      "Tanka Bahadur Rai",
+      "Ranjit Kumar Das",
+      "Pranab Kumar Gogoi",
+      "Hitendra Nath Goswami"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In which city did the police firing on July 4, 1960, result in the death of Ranjit Barpujari? / ১৯৬০ চনৰ ৪ জুলাইত কোনখন চহৰত আৰক্ষীৰ গুলীবৰ্ষণত ৰঞ্জিত বৰপূজাৰীৰ মৃত্যু হৈছিল?",
+    "options": [
+      "Guwahati",
+      "Jorhat",
+      "Dibrugarh",
+      "Silchar"
+    ],
+    "answer": 0
+  }
+]
