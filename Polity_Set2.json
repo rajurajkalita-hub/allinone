@@ -1,1 +1,102 @@
-
+[
+  {
+    "question": "Who was the first Speaker of the Assam Legislative Assembly after independence? / স্বাধীনতাৰ পিছত অসম বিধানসভাৰ প্ৰথমজন অধ্যক্ষ কোন আছিল? ",
+    "options": [
+      "Gopinath Bordoloi",
+      "Babu Basanta Kumar Das",
+      "Sir Syed Muhammad Saadulla",
+      "Fakhruddin Ali Ahmed"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "On which date did the first sitting of the newly created Assam Legislative Assembly take place in Shillong? / কোন তাৰিখে শ্বিলঙত নৱগঠিত অসম বিধানসভাৰ প্ৰথমখন বৈঠক অনুষ্ঠিত হৈছিল? ",
+    "options": [
+      "6th January, 1913",
+      "7th April, 1937",
+      "15th August, 1947",
+      "24th December, 1941"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was appointed as the first Governor of Assam when the Chief-Commissionership was upgraded in 1921? / ১৯২১ চনত যেতিয়া মুখ্য আয়ুক্তৰ পদটোক ৰাজ্যপাললৈ উন্নীত কৰা হৈছিল, তেতিয়া অসমৰ প্ৰথমজন ৰাজ্যপাল হিচাপে কাক নিযুক্তি দিয়া হৈছিল? ",
+    "options": [
+      "Sir Archdale Eastle",
+      "Sir Nicholas Dodd Beatson-Bell",
+      "Sir Robert Neil Reid",
+      "Babu Basanta Kumar Das"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "According to the sources, the Assam Legislative Council (1912-1920) consisted of how many total members? / উৎসসমূহৰ মতে, অসম বিধান পৰিষদত (১৯১২-১৯২০) মুঠ কিমানজন সদস্য আছিল? ",
+    "options": [
+      "21",
+      "34",
+      "108",
+      "71"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "According to the Mountbatten Plan, a referendum was to be held in which district of Assam to decide its future? / মাউণ্টবেটেন আঁচনি অনুসৰি, ভৱিষ্যত নিৰ্ধাৰণ কৰিবলৈ অসমৰ কোনটো জিলাত গণভোট অনুষ্ঠিত কৰাৰ কথা আছিল? ",
+    "options": [
+      "Naga Hills",
+      "Kamrup",
+      "Sylhet",
+      "Cachar"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In which year was Nagaland formed as the 16th state of the Indian Union? / কোন বছৰত নাগালেণ্ডক ভাৰতীয় সংঘৰ ১৬ নং ৰাজ্য হিচাপে গঠন কৰা হৈছিল? ",
+    "options": [
+      "1947",
+      "1963",
+      "1971",
+      "1987"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In which year was the capital of Assam shifted from Shillong to Dispur? / কোন বছৰত অসমৰ ৰাজধানী শ্বিলঙৰ পৰা দিছপুৰলৈ স্থানান্তৰ কৰা হৈছিল? ",
+    "options": [
+      "1971",
+      "1972",
+      "1987",
+      "1963"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The Government of India Act 1935 provided for how many elected members in the provincial legislature of Assam? / ভাৰত চৰকাৰৰ আইন ১৯৩৫-এ অসমৰ প্ৰাদেশিক বিধানসভাত কিমানজন নিৰ্বাচিত সদস্যৰ ব্যৱস্থা কৰিছিল? ",
+    "options": [
+      "34",
+      "71",
+      "108",
+      "38"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Under the Cabinet Mission's Grouping plan, in which group was Assam included along with Bengal? / কেবিনেট মিছনৰ গ্ৰুপিং আঁচনিৰ অধীনত অসমক বংগৰ সৈতে কোনটো গোটত অন্তৰ্ভুক্ত কৰা হৈছিল? ",
+    "options": [
+      "Group A",
+      "Group B",
+      "Group C",
+      "Group D"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Following the 1947 referendum, which subdivision of the Sylhet district remained within the Indian state of Assam? / ১৯৪৭ চনৰ গণভোটৰ পিছত ছিলেট জিলাৰ কোনটো মহকুমা ভাৰতীয় ৰাজ্য অসমৰ ভিতৰত থাকি গৈছিল?",
+    "options": [
+      "Karimganj",
+      "Shillong",
+      "Dispur",
+      "Naga Hills"
+    ],
+    "answer": 0
+  }
+]
