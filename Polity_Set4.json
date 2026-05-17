@@ -1,1 +1,102 @@
-
+[
+  {
+    "question": "Who was the first Premier of Assam in 1937? / ১৯৩৭ চনত অসমৰ প্ৰথমগৰাকী প্ৰিমিয়াৰ (Premier) কোন আছিল?",
+    "options": [
+      "Gopinath Bordoloi",
+      "Bishnuram Medhi",
+      "Muhammed Saadulla",
+      "Sarat Chandra Singha"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who served as the first Chief Minister of Assam post-1950? / ১৯৫০ চনৰ পৰৱৰ্তী সময়ত অসমৰ প্ৰথমগৰাকী মুখ্যমন্ত্ৰী হিচাপে কোনে কাৰ্যনিৰ্বাহ কৰিছিল?",
+    "options": [
+      "Bishnuram Medhi",
+      "Gopinath Bordoloi",
+      "Bimala Prasad Chaliha",
+      "Mahendra Mohan Choudhry"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which political party did Golap Borbora belong to? / গোলাপ বৰবৰা কোনটো ৰাজনৈতিক দলৰ আছিল?",
+    "options": [
+      "Janata Party",
+      "Indian National Congress",
+      "Asom Gana Parishad",
+      "Bharatiya Janata Party"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first woman Chief Minister of Assam? / অসমৰ প্ৰথমগৰাকী মহিলা মুখ্যমন্ত্ৰী কোন আছিল?",
+    "options": [
+      "Pranati Phukan",
+      "Renupoma Rajkhowa",
+      "Bonily Khongmen",
+      "Anwara Taimur"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which Chief Minister served the shortest tenure of only 22 days in 1996? / ১৯৯৬ চনত মাত্ৰ ২২ দিনৰ বাবে আটাইতকৈ কম সময়ৰ বাবে কোনগৰাকী মুখ্যমন্ত্ৰীয় কাৰ্যনিৰ্বাহ কৰিছিল?",
+    "options": [
+      "Kesab Chandra Gogoi",
+      "Bhumidhar Barman",
+      "Jogendra Nath Hazarika",
+      "Hiteswar Saikia"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who has served the longest tenure as Chief Minister of Assam? / অসমৰ মুখ্যমন্ত্ৰী হিচাপে কোনে আটাইতকৈ দীঘলীয়া সময় কাৰ্যনিৰ্বাহ কৰিছে?",
+    "options": [
+      "Tarun Gogoi",
+      "Bimala Prasad Chaliha",
+      "Prafulla Kumar Mahanta",
+      "Hiteswar Saikia"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In which year was the Assam Accord signed? / অসম চুক্তি কোন চনত স্বাক্ষৰিত হৈছিল?",
+    "options": [
+      "1979",
+      "1985",
+      "1983",
+      "1950"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first martyr of the Language Movement in 1960? / ১৯৬০ চনৰ ভাষা আন্দোলনৰ প্ৰথমগৰাকী শ্বহীদ কোন আছিল?",
+    "options": [
+      "Khargeswar Talukdar",
+      "Prithibi Majhi",
+      "Ranjit Barpujari",
+      "Sarat Chandra Singha"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first martyr of the Assam Movement (1979-1985)? / অসম আন্দোলনৰ (১৯৭৯-১৯৮৫) প্ৰথমগৰাকী শ্বহীদ কোন আছিল?",
+    "options": [
+      "Ranjit Barpujari",
+      "Jiba Kanta Gogoi",
+      "Ganesh Kutum",
+      "Khargeswar Talukdar"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the cutoff date for detecting illegal immigrants according to the Assam Accord? / অসম চুক্তি অনুসৰি অবৈধ অনুপ্ৰৱেশকাৰী চিনাক্তকৰণৰ শেষ তাৰিখ (cutoff date) কি?",
+    "options": [
+      "25 March 1971",
+      "15 August 1947",
+      "26 January 1950",
+      "15 August 1985"
+    ],
+    "answer": 0
+  }
+]
