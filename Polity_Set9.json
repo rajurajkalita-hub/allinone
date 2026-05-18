@@ -1,1 +1,102 @@
-
+[
+  {
+    "question": "Who proposed the idea of a Constituent Assembly for India for the first time in 1934? / ১৯৩৪ চনত পোনপ্ৰথমবাৰৰ বাবে ভাৰতৰ বাবে এখন গণ পৰিষদৰ ধাৰণা কোনে আগবঢ়াইছিল?",
+    "options": [
+      "M.N. Roy",
+      "Dr. B.R. Ambedkar",
+      "Jawaharlal Nehru",
+      "Mahatma Gandhi"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who was the constitutional advisor (Legal advisor) to the Constituent Assembly? / গণ পৰিষদৰ সাংবিধানিক উপদেষ্টা (আইনী উপদেষ্টা) কোন আছিল?",
+    "options": [
+      "H.V.R. Iyengar",
+      "Sir B.N. Rau",
+      "S.N. Mukerjee",
+      "Dr. Rajendra Prasad"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the calligrapher of the original Indian Constitution? / ভাৰতীয় মূল সংবিধানখনৰ লিপিকাৰ (Calligrapher) কোন আছিল?",
+    "options": [
+      "Nand Lal Bose",
+      "Prem Behari Narain Raizada",
+      "Beohar Rammanohar Sinha",
+      "Vasant Krishan Vaidya"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "On which date was the national flag of India adopted by the Constituent Assembly? / গণ পৰিষদে ভাৰতৰ ৰাষ্ট্ৰীয় পতাকা কোন তাৰিখে গ্ৰহণ কৰিছিল?",
+    "options": [
+      "August 15, 1947",
+      "November 26, 1949",
+      "July 22, 1947",
+      "January 24, 1950"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was elected as the temporary President of the Constituent Assembly in its first meeting? / গণ পৰিষদৰ প্ৰথমখন বৈঠকত কাৰ্যকৰী সভাপতি হিচাপে কাক নিৰ্বাচিত কৰা হৈছিল?",
+    "options": [
+      "Dr. Rajendra Prasad",
+      "H.C. Mukherjee",
+      "Dr. Sachchidanand Sinha",
+      "V.T. Krishnamachari"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The Indian Constitution was adopted and finalized by the Constituent Assembly on which date? / ভাৰতীয় সংবিধান কোন তাৰিখে গণ পৰিষদৰ দ্বাৰা গৃহীত আৰু চূড়ান্ত কৰা হৈছিল?",
+    "options": [
+      "January 26, 1950",
+      "November 26, 1949",
+      "August 15, 1947",
+      "January 24, 1950"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The Drafting Committee, set up on August 29, 1947, consisted of how many members? / ১৯ ৪৭ চনৰ ২৯ আগষ্টত গঠন কৰা খচৰা প্ৰস্তুতকাৰী সমিতিত মুঠ কিমানজন সদস্য আছিল?",
+    "options": [
+      "5",
+      "9",
+      "11",
+      "7"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Who served as the Chairman of the Drafting Committee? / খচৰা প্ৰস্তুতকাৰী সমিতিৰ অধ্যক্ষ হিচাপে কোনে কাৰ্যনিৰ্বাহ কৰিছিল?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhai Patel",
+      "Dr. B.R. Ambedkar",
+      "K.M. Munshi"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which major committee was chaired by Sardar Vallabhai Patel? / চৰ্দাৰ বল্লভভাই পেটেল কোনটো গুৰুত্বপূৰ্ণ সমিতিৰ অধ্যক্ষ আছিল?",
+    "options": [
+      "Rules of Procedure Committee",
+      "Advisory Committee on Fundamental Rights, Minorities and Tribal and Excluded Areas",
+      "Union Powers Committee",
+      "Drafting Committee"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who proposed the 'Objective Resolution' in the Constituent Assembly? / গণ পৰিষদত 'লক্ষ্য নিৰ্ধাৰণকাৰী প্ৰস্তাৱ' (Objective Resolution) কোনে উত্থাপন কৰিছিল?",
+    "options": [
+      "Dr. B.R. Ambedkar",
+      "Sardar Patel",
+      "Jawaharlal Nehru",
+      "Mahatma Gandhi"
+    ],
+    "answer": 2
+  }
+]
