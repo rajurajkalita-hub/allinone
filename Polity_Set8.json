@@ -1,1 +1,102 @@
-
+[
+  {
+    "question": "Part IV of the Constitution deals with? / সংবিধানৰ চতুৰ্থ খণ্ডই (Part IV) কিহৰ বিষয়ে উল্লেখ কৰে?",
+    "options": [
+      "Directive Principles",
+      "Fundamental Rights",
+      "Fundamental Duties",
+      "The Union"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The Eleventh Schedule specifies the powers, authority, and responsibilities of? / একাদশ অনুসূচীত কিহৰ ক্ষমতা আৰু দায়িত্বৰ বিষয়ে উল্লেখ কৰা হৈছে?",
+    "options": [
+      "Municipalities",
+      "The Panchayats",
+      "Tribunals",
+      "Co-operative Societies"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which Schedule deals with the allocation of seats in the Rajya Sabha? / ৰাজ্যসভাত আসন বিতৰণৰ বিষয়টো কোনখন অনুসূচীত আছে?",
+    "options": [
+      "Third Schedule",
+      "Fifth Schedule",
+      "Fourth Schedule",
+      "Sixth Schedule"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Part XV of the Constitution is related to? / সংবিধানৰ পঞ্চদশ খণ্ড (Part XV) কিহৰ সৈতে জড়িত?",
+    "options": [
+      "Official Languages",
+      "Elections",
+      "Special Provisions",
+      "Miscellaneous"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The Third Schedule of the Constitution contains? / সংবিধানৰ তৃতীয় অনুসূচীত কি অন্তৰ্ভুক্ত কৰা হৈছে?",
+    "options": [
+      "Forms of Oaths or Affirmations",
+      "Emoluments and Allowances",
+      "Names of States and UTs",
+      "Land Reforms"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which Part covers the 'Relation between Union & States'? / 'কেন্দ্ৰ আৰু ৰাজ্যৰ মাজৰ সম্পৰ্ক' কোনটো খণ্ডত আছে?",
+    "options": [
+      "Part X",
+      "Part XII",
+      "Part XI",
+      "Part XIII"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Articles 343-351 fall under which Part? / ৩৪৩-৩৫১ নং অনুচ্ছেদসমূহ কোনটো খণ্ডৰ অন্তৰ্গত?",
+    "options": [
+      "Part XVI",
+      "Part XVII",
+      "Part XVIII",
+      "Part XIX"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The Ninth Schedule was added to deal with? / নৱম অনুসূচীটো কিহৰ বাবে যোগ কৰা হৈছিল?",
+    "options": [
+      "Anti-defection laws",
+      "Panchayati Raj",
+      "Land reforms and abolition of the zamindari system",
+      "Official languages"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Part IX B of the Constitution is related to? / সংবিধানৰ IX B খণ্ডটো কিহৰ সৈতে জড়িত?",
+    "options": [
+      "The Panchayats",
+      "Co-operative Societies",
+      "The Municipalities",
+      "Scheduled and Tribal Areas"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The Seventh Schedule deals with? / সপ্তম অনুসূচীটোৱে কিহৰ বিষয়ে কাম কৰে?",
+    "options": [
+      "Division of powers between the Union and the States",
+      "Languages recognized by the Constitution",
+      "Provisions relating to the administration of tribal areas",
+      "Forms of Oaths or Affirmations"
+    ],
+    "answer": 0
+  }
+]
