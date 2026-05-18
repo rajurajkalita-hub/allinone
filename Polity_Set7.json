@@ -1,1 +1,102 @@
-
+[
+  {
+    "question": "Which Part of the Constitution deals with Fundamental Rights? / ভাৰতীয় সংবিধানৰ কোনটো খণ্ডত মৌলিক অধিকাৰৰ বিষয়ে উল্লেখ কৰা হৈছে?",
+    "options": [
+      "Part II",
+      "Part III",
+      "Part IV",
+      "Part IV A"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The Fundamental Duties are contained in which Part of the Constitution? / মৌলিক কৰ্তব্যসমূহ সংবিধানৰ কোনটো খণ্ডত অন্তৰ্ভুক্ত কৰা হৈছে?",
+    "options": [
+      "Part IV A",
+      "Part V",
+      "Part III",
+      "Part VI"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which Schedule contains the list of languages recognized by the Constitution? / সংবিধানৰ দ্বাৰা স্বীকৃত ভাষাসমূহৰ তালিকা কোনখন অনুসূচীত আছে?",
+    "options": [
+      "Seventh Schedule",
+      "Ninth Schedule",
+      "Eighth Schedule",
+      "Tenth Schedule"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Articles 5-11 of the Constitution relate to? / সংবিধানৰ ৫-১১ নং অনুচ্ছেদসমূহ কিহৰ সৈতে জড়িত?",
+    "options": [
+      "Union & its Territory",
+      "Fundamental Rights",
+      "Directive Principles",
+      "Citizenship"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which Part of the Constitution was repealed by the 7th Amendment Act, 1956? / ১৯৫৬ চনৰ সপ্তম সংশোধনী আইনৰ দ্বাৰা সংবিধানৰ কোনটো খণ্ড বাতিল কৰা হৈছে?",
+    "options": [
+      "Part VII",
+      "Part VIII",
+      "Part IX",
+      "Part VI"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The Tenth Schedule of the Constitution deals with? / সংবিধানৰ দশম অনুসূচীটো কিহৰ সৈতে জড়িত?",
+    "options": [
+      "Panchayats",
+      "Municipalities",
+      "Disqualification on the ground of defection",
+      "Land Reforms"
+    ],
+    "answer": 2
+  },
+  {
+    "options": [
+      "The Panchayats",
+      "The Municipalities",
+      "Co-operative Societies",
+      "Tribunals"
+    ],
+    "question": "Part IX A of the Constitution deals with? / সংবিধানৰ IX A খণ্ডই কিহৰ বিষয়ে উল্লেখ কৰে?",
+    "answer": 1
+  },
+  {
+    "question": "Which article is associated with the Amendment of the Constitution? / সংবিধান সংশোধনীৰ সৈতে কোনটো অনুচ্ছেদ জড়িত?",
+    "options": [
+      "Article 352",
+      "Article 360",
+      "Article 368",
+      "Article 370"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The Sixth Schedule provides for the administration of tribal areas in which states? / ষষ্ঠ অনুসূচীত কোনকেইখন ৰাজ্যৰ জনজাতীয় অঞ্চলৰ প্ৰশাসনৰ ব্যৱস্থা কৰা হৈছে?",
+    "options": [
+      "Assam, Meghalaya, Tripura, and Mizoram",
+      "Assam, Nagaland, Manipur, and Tripura",
+      "Meghalaya, Mizoram, Manipur, and Nagaland",
+      "Assam, Tripura, Sikkim, and Mizoram"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which Part of the Constitution contains Emergency Provisions? / সংবিধানৰ কোনটো খণ্ডত জৰুৰীকালীন ব্যৱস্থাসমূহ আছে?",
+    "options": [
+      "Part XVII",
+      "Part XIX",
+      "Part XX",
+      "Part XVIII"
+    ],
+    "answer": 3
+  }
+]
