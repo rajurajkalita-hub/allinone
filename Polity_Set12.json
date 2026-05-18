@@ -1,1 +1,202 @@
-
+[
+  {
+    "question": "Under which Article of the Indian Constitution does Parliament have the power to regulate the right of citizenship by law? / ভাৰতীয় সংবিধানৰ কোনটো অনুচ্ছেদৰ অধীনত সংসদৰ নাগৰিকত্বৰ অধিকাৰ আইনৰ দ্বাৰা নিয়ন্ত্ৰণ কৰাৰ ক্ষমতা আছে?",
+    "options": [
+      "Article 5",
+      "Article 9",
+      "Article 10",
+      "Article 11"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Who is the Chairman of the 7th Assam Finance Commission constituted in 2024? / ২০২৪ চনত গঠিত সপ্তম অসম বিত্তীয় আয়োগৰ অধ্যক্ষ কোন?",
+    "options": [
+      "Shri Rajiv Kr. Bora",
+      "Lieutenant General Rana Pratap Kalita",
+      "Shri P.K. Bora",
+      "Shri M.M. Taimur"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "According to Section 6A of the Citizenship Act 1955, what is the cut-off date for migrants from Bangladesh to Assam? / নাগৰিকত্ব আইন ১৯৫৫ ৰ ধাৰা ৬এ অনুসৰি বাংলাদেশৰ পৰা অসমলৈ অহা প্ৰব্ৰজনকাৰীৰ বাবে কটা-অফ তাৰিখ (cut-off date) কি?",
+    "options": [
+      "January 1, 1966",
+      "August 15, 1947",
+      "March 25, 1971",
+      "July 19, 1949"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Article 9 of the Indian Constitution affirms which concept regarding citizenship? / ভাৰতীয় সংবিধানৰ ৯ নং অনুচ্ছেদে নাগৰিকত্ব সন্দৰ্ভত কোনটো ধাৰণা নিশ্চিত কৰে?",
+    "options": [
+      "Dual Citizenship",
+      "Single Citizenship",
+      "Citizenship by Birth",
+      "Citizenship by Naturalization"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Under the Assam Compulsory Registration of Muslim Marriages & Divorces Act 2024, who is responsible for the registration of marriages? / অসম মুছলমান বিবাহ আৰু বিবাহ বিচ্ছেদ বাধ্যতামূলক পঞ্জীয়ন আইন ২০২৪ ৰ অধীনত বিবাহ পঞ্জীয়নৰ বাবে কোন দায়বদ্ধ?",
+    "options": [
+      "Kazi",
+      "District Magistrate",
+      "Marriage and Divorce Registrar (Sub-Registrar)",
+      "Circle Officer"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The 'Heritage Belt and Block' under the 2024 amendment of the Assam Land and Revenue Regulation Act covers iconic structures that are more than how many years old? / অসম ভূমি আৰু ৰাজহ নিয়ন্ত্ৰণ আইনৰ ২০২৪ চনৰ সংশোধনীৰ অধীনত 'হেৰিটেজ বেল্ট এণ্ড ব্লক'ত কিমান বছৰতকৈ পুৰণি ঐতিহ্যবাহী গাঁথনি অন্তৰ্ভুক্ত কৰা হৈছে?",
+    "options": [
+      "100 years",
+      "150 years",
+      "200 years",
+      "250 years"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which was the first state in India to implement the Right to Public Service Act, which Assam followed in 2012? / জনসেৱাৰ অধিকাৰ আইন কাৰ্যকৰী কৰা ভাৰতৰ প্ৰথমখন ৰাজ্য কোনখন আছিল, যাক অসমে ২০১২ চনত অনুসৰণ কৰিছিল?",
+    "options": [
+      "Gujarat",
+      "Madhya Pradesh",
+      "Maharashtra",
+      "Kerala"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The Assam Agricultural Land Amendment Act 2024 proposes to launch which mission for seamless land reclassification? / অসম কৃষি ভূমি সংশোধনী আইন ২০২৪-এ নিৰৱচ্ছিন্ন ভূমি পুনৰ শ্ৰেণীবিভাজনৰ বাবে কোনটো মিছন আৰম্ভ কৰাৰ প্ৰস্তাৱ আগবঢ়াইছে?",
+    "options": [
+      "Mission Basundhara 2.0",
+      "Mission Sadbhavana",
+      "Mission Basundhara 3.0",
+      "Mission Bhumiputra"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Migrants who entered Assam between 1966 and 1971 are denied voting rights for how many years after being identified as foreigners? / ১৯৬৬ ৰ পৰা ১৯৭১ চনৰ ভিতৰত অসমত প্ৰৱেশ কৰা প্ৰব্ৰজনকাৰীসকলক বিদেশী হিচাপে চিনাক্ত হোৱাৰ পিছত কিমান বছৰলৈকে ভোটাধিকাৰৰ পৰা বঞ্চিত কৰা হয়?",
+    "options": [
+      "5 years",
+      "10 years",
+      "15 years",
+      "20 years"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Under Article 6, a person who migrated from Pakistan to India before which date is considered a citizen? / ৬ নং অনুচ্ছেদৰ অধীনত কোনটো তাৰিখৰ আগতে পাকিস্তানৰ পৰা ভাৰতলৈ প্ৰব্ৰজন কৰা ব্যক্তিক নাগৰিক বুলি গণ্য কৰা হয়?",
+    "options": [
+      "January 26, 1950",
+      "August 15, 1947",
+      "July 19, 1949",
+      "March 1, 1947"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the mandatory notice period required for parties to give to the registering officer under the Muslim Marriage Registration Act 2024? / মুছলমান বিবাহ পঞ্জীয়ন আইন ২০২৪ ৰ অধীনত পক্ষসমূহে পঞ্জীয়ন বিষয়াক দিবলগীয়া বাধ্যতামূলক জাননীৰ সময়সীমা কিমান?",
+    "options": [
+      "15 days",
+      "30 days",
+      "45 days",
+      "60 days"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Within what radius from heritage places does the 2024 legislation restrict land sale/purchase to only long-term inhabitants? / ২০২৪ চনৰ আইন অনুসৰি ঐতিহ্যবাহী স্থানৰ পৰা কিমান ব্যাসাৰ্ধৰ ভিতৰত ভূমি বিক্ৰী/ক্ৰয় কেৱল দীৰ্ঘম্যাদী বাসিন্দাৰ বাবে সীমাবদ্ধ কৰা হৈছে?",
+    "options": [
+      "2 km",
+      "3 km",
+      "5 km",
+      "10 km"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which Articles of the Constitution of India deal with the constitution of the State Finance Commission? / ভাৰতীয় সংবিধানৰ কোনকেইটা অনুচ্ছেদে ৰাজ্যিক বিত্তীয় আয়োগ গঠনৰ সৈতে জড়িত?",
+    "options": [
+      "Article 243K and 243ZA",
+      "Article 243-I and 243-Y",
+      "Article 280 and 281",
+      "Article 324 and 325"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The Seva Setu platform in Assam categorizes how many services as citizen rights? / অসমৰ সেৱা সেতু প্লেটফৰ্মে কিমানটা সেৱাক নাগৰিকৰ অধিকাৰ হিচাপে শ্ৰেণীভুক্ত কৰিছে?",
+    "options": [
+      "500 services",
+      "625 services",
+      "725 services",
+      "800 services"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which Article provides for the registration of a Person of Indian Origin residing outside India as an Indian citizen? / কোনটো অনুচ্ছেদে ভাৰতৰ বাহিৰত বাস কৰা ভাৰতীয় মূলৰ ব্যক্তিক ভাৰতীয় নাগৰিক হিচাপে পঞ্জীয়ন কৰাৰ ব্যৱস্থা কৰিছে?",
+    "options": [
+      "Article 5",
+      "Article 7",
+      "Article 8",
+      "Article 10"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How many additional local bodies (Autonomous Councils) have been entrusted to the Assam State Election Commission for conducting elections? / নিৰ্বাচন অনুষ্ঠিত কৰাৰ বাবে অসম ৰাজ্যিক নিৰ্বাচন আয়োগক অতিৰিক্তভাৱে কিমানটা স্থানীয় নিকায় (স্বায়ত্বশাসিত পৰিষদ) অৰ্পণ কৰা হৈছে?",
+    "options": [
+      "10 local bodies",
+      "13 local bodies",
+      "15 local bodies",
+      "18 local bodies"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the Chairman of the 1st Assam Finance Commission constituted in 1995? / ১৯৯৫ চনত গঠিত প্ৰথম অসম বিত্তীয় আয়োগৰ অধ্যক্ষ কোন আছিল?",
+    "options": [
+      "Shri H.N. Das",
+      "Shri Rajiv Kr. Bora",
+      "Shri M.M. Taimur",
+      "Smt. T.Y. Das"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the maximum fine for an officer who knowingly registers a marriage violating the conditions of the 2024 Act? / ২০২৪ চনৰ আইনৰ চৰ্ত উলংঘা কৰি জানি-বুজি বিবাহ পঞ্জীয়ন কৰা এজন বিষয়াৰ বাবে সৰ্বাধিক জৰিমনা কিমান?",
+    "options": [
+      "Rs 10,000",
+      "Rs 25,000",
+      "Rs 50,000",
+      "Rs 1,00,000"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Migrants who entered Assam before January 1, 1966, are classified as: / ১৯৬৬ চনৰ ১ জানুৱাৰীৰ আগতে অসমত প্ৰৱেশ কৰা প্ৰব্ৰজনকাৰীসকলক কিদৰে শ্ৰেণীভুক্ত কৰা হৈছে?",
+    "options": [
+      "Illegal immigrants",
+      "Deemed Indian citizens",
+      "Refugees",
+      "Foreigners with voting rights"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who is currently serving as the Chief Commissioner of the Assam State Commission for Right to Public Services? / বৰ্তমান অসম ৰাজ্যিক জনসেৱাৰ অধিকাৰ আয়োগৰ মুখ্য আয়ুক্ত হিচাপে কোনে কাৰ্যনিৰ্বাহ কৰি আছে?",
+    "options": [
+      "Shri Alok Kumar",
+      "Shri Sujoy Lal Thaosen",
+      "Shri H. N. Bora",
+      "Shri Biren Dutta"
+    ],
+    "answer": 1
+  }
+]
