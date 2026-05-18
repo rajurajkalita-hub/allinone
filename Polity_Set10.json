@@ -1,1 +1,102 @@
-
+[ 
+{
+    "question": "The 'Procedure for amendment of the Constitution' was borrowed from which country? / সংবিধানৰ 'সংশোধনী পদ্ধতি' কোন খন দেশৰ পৰা লোৱা হৈছে?",
+    "options": [
+      "South Africa",
+      "Canada",
+      "USA",
+      "Ireland"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The ideals of liberty, equality, and fraternity in the Preamble were borrowed from which constitution? / প্ৰস্তাৱনাত থকা স্বাধীনতা, সমতা আৰু ভ্ৰাতৃত্ববোধৰ আদৰ্শ কোনখন সংবিধানৰ পৰা লোৱা হৈছে?",
+    "options": [
+      "US Constitution",
+      "French Constitution",
+      "British Constitution",
+      "Irish Constitution"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which Amendment Act added the words 'Socialist', 'Secular', and 'Integrity' to the Preamble? / কোনটো সংশোধনী আইনৰ জৰিয়তে প্ৰস্তাৱনাত 'সমাজতান্ত্ৰিক', 'ধৰ্মনিৰপেক্ষ' আৰু 'সংহতি' শব্দকেইটা যোগ কৰা হৈছিল?",
+    "options": [
+      "44th Amendment Act, 1978",
+      "42nd Amendment Act, 1976",
+      "7th Amendment Act, 1956",
+      "1st Amendment Act, 1951"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Directive Principles of State Policy (DPSP) were borrowed from which constitution? / ৰাজ্য পৰিচালনাৰ নিৰ্দেশাত্মক নীতিসমূহ (DPSP) কোন দেশৰ সংবিধানৰ পৰা লোৱা হৈছে?",
+    "options": [
+      "Canadian Constitution",
+      "Irish Constitution",
+      "Australian Constitution",
+      "Weimar Constitution of Germany"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The concept of 'Fundamental Duties' was borrowed from which constitution? / 'মৌলিক কৰ্তব্য'ৰ ধাৰণাটো কোনখন সংবিধানৰ পৰা লোৱা হৈছে?",
+    "options": [
+      "US Constitution",
+      "USSR Constitution",
+      "British Constitution",
+      "Japanese Constitution"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In which case did the Supreme Court hold that the Preamble is a part of the Constitution and is amendable? / কোনটো গোচৰত উচ্চতম ন্যায়ালয়ে ৰায় দিছিল যে প্ৰস্তাৱনা সংবিধানৰ এটা অংশ আৰু ইয়াক সংশোধন কৰিব পাৰি?",
+    "options": [
+      "Berubari Union case",
+      "Kesavananda Bharati case",
+      "Golaknath case",
+      "Minerva Mills case"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the Chairman of the Union Powers Committee? / কেন্দ্ৰীয় শক্তি সমিতিৰ (Union Powers Committee) অধ্যক্ষ কোন আছিল?",
+    "options": [
+      "Sardar Patel",
+      "Dr. Rajendra Prasad",
+      "Jawaharlal Nehru",
+      "G.V. Mavalankar"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The 'Concurrent List' was borrowed from the constitution of which country? / 'যুগ্ম তালিকা'ৰ (Concurrent List) ব্যৱস্থাটো কোন দেশৰ সংবিধানৰ পৰা লোৱা হৈছে?",
+    "options": [
+      "Australia",
+      "Canada",
+      "USA",
+      "USSR"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What was the total time taken by the Constituent Assembly to complete the Constitution? / সংবিধান প্ৰস্তুত কৰিবলৈ গণ পৰিষদক মুঠ কিমান সময় লাগিছিল?",
+    "options": [
+      "2 years, 11 months and 18 days",
+      "3 years, 2 months and 10 days",
+      "2 years, 5 months and 12 days",
+      "1 year, 11 months and 18 days"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which animal was adopted as the symbol (seal) of the Constituent Assembly? / গণ পৰিষদে কোনটো জন্তুক প্ৰতীক (মোহৰ) হিচাপে গ্ৰহণ কৰিছিল?",
+    "options": [
+      "Tiger",
+      "Lion",
+      "Elephant",
+      "Peacock"
+    ],
+    "answer": 2
+  }
+]
