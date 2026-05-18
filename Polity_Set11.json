@@ -1,1 +1,202 @@
-
+[
+  {
+    "question": "Which was the first state to be formed on linguistic lines in India? / ভাৰতত ভাষাৰ ভিত্তিত গঠিত প্ৰথমখন ৰাজ্য কোনখন?",
+    "options": [
+      "Maharashtra",
+      "Andhra Pradesh",
+      "Kerala",
+      "Gujarat"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who were the members of the Fazl Ali Commission (State Reorganisation Commission)? / ফজল আলী আয়োগৰ (ৰাজ্য পুনৰ গঠন আয়োগ) সদস্যসকল কোন আছিল?",
+    "options": [
+      "Fazl Ali, K.M. Panikkar, and H.N. Kunzru",
+      "S.K. Dhar, J.L. Nehru, and Patel",
+      "Fazl Ali, H.N. Kunzru, and S.K. Dhar",
+      "J.L. Nehru, Vallabhbhai Patel, and Pattabhi Sitaramayya"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In which year did the JVP Committee submit its report? / JVP কমিটিয়ে নিজৰ প্ৰতিবেদন কেতিয়া দাখিল কৰিছিল?",
+    "options": [
+      "1948",
+      "1953",
+      "1949",
+      "1950"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Gujarat was formed on May 1, 1960, following its separation from which state? / ১৯৬০ চনৰ ১ মে'ত কোনখন ৰাজ্যৰ পৰা পৃথক কৰি গুজৰাট গঠন কৰা হৈছিল?",
+    "options": [
+      "Madras State",
+      "Bombay State",
+      "Punjab State",
+      "Mysore State"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which state became the 22nd state of India on May 16, 1975? / ১৯৭৫ চনৰ ১৬ মে'ত ভাৰতৰ ২২তম ৰাজ্য কোনখন হৈছিল?",
+    "options": [
+      "Manipur",
+      "Sikkim",
+      "Goa",
+      "Meghalaya"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When did Himachal Pradesh achieve full statehood? / হিমাচল প্ৰদেশে কেতিয়া পূৰ্ণ ৰাজ্যৰ মৰ্যাদা লাভ কৰিছিল?",
+    "options": [
+      "November 1, 1966",
+      "January 21, 1972",
+      "January 25, 1971",
+      "December 1, 1963"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Nagaland was formed in 1963 after years of demand for a separate state from which territory? / ১৯৬৩ চনত কোনটো ভূখণ্ডৰ অংশৰ পৰা নাগালেণ্ড গঠন কৰা হৈছিল?",
+    "options": [
+      "Assam",
+      "Manipur",
+      "Union Territory",
+      "West Bengal"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which Article of the Indian Constitution provided for citizenship at the commencement of the Constitution? / ভাৰতীয় সংবিধানৰ কোনটো অনুচ্ছেদে সংবিধান আৰম্ভ হোৱাৰ সময়ত নাগৰিকত্বৰ ব্যৱস্থা কৰিছিল?",
+    "options": [
+      "Article 6",
+      "Article 11",
+      "Article 5",
+      "Article 10"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which Article empowers Parliament to make laws regarding the acquisition and termination of citizenship? / সংসদক নাগৰিকত্ব লাভ আৰু বিলুপ্তি সম্পৰ্কীয় আইন প্ৰণয়নৰ ক্ষমতা কোনটো অনুচ্ছেদে প্ৰদান কৰে?",
+    "options": [
+      "Article 11",
+      "Article 9",
+      "Article 5",
+      "Article 8"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In which year was Haryana carved out from Punjab to create a Hindi-speaking state? / পঞ্জাৱৰ পৰা পৃথক কৰি হিন্দী ভাষী হাৰিয়ানা ৰাজ্য কেতিয়া গঠন কৰা হৈছিল?",
+    "options": [
+      "1956",
+      "1966",
+      "1971",
+      "1960"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Telangana was formed as a separate state on which date? / তেলেংগানা ৰাজ্য কেতিয়া গঠন কৰা হৈছিল?",
+    "options": [
+      "November 15, 2000",
+      "June 2, 2014",
+      "January 21, 1972",
+      "May 30, 1987"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Jharkhand was formed in 2000 by separating from which state? / ২০০০ চনত কোনখন ৰাজ্যৰ পৰা পৃথক কৰি ঝাৰখণ্ড গঠন কৰা হৈছিল?",
+    "options": [
+      "Madhya Pradesh",
+      "Uttar Pradesh",
+      "West Bengal",
+      "Bihar"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which Article deals with the citizenship rights of certain persons of Indian origin residing outside India? / ভাৰতৰ বাহিৰত বসবাস কৰা ভাৰতীয় মূলৰ লোকৰ নাগৰিকত্বৰ অধিকাৰৰ সৈতে কোনটো অনুচ্ছেদ জড়িত?",
+    "options": [
+      "Article 7",
+      "Article 8",
+      "Article 9",
+      "Article 10"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the chairman of the Linguistic Provinces Commission appointed in June 1948? / ১৯৪৮ চনৰ জুন মাহত নিযুক্তি দিয়া ভাষিক প্ৰদেশ আয়োগৰ অধ্যক্ষ কোন আছিল?",
+    "options": [
+      "Fazl Ali",
+      "H.N. Kunzru",
+      "S.K. Dhar",
+      "K.M. Panikkar"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Meghalaya was created in 1972 to accommodate the demands of which tribes? / ১৯৭২ চনত কোনবোৰ জনজাতিৰ দাবী পূৰণৰ বাবে মেঘালয় গঠন কৰা হৈছিল?",
+    "options": [
+      "Naga and Mizo tribes",
+      "Khasi, Garo, and Jaintia tribes",
+      "Bodo and Karbi tribes",
+      "Miri and Mishmi tribes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In which year did Goa achieve full statehood after being liberated from Portuguese rule? / পৰ্তুগীজ শাসনৰ পৰা মুক্ত হোৱাৰ পিছত গোৱাই কেতিয়া পূৰ্ণ ৰাজ্যৰ মৰ্যাদা লাভ কৰিছিল?",
+    "options": [
+      "1961",
+      "1987",
+      "1975",
+      "1972"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Chhattisgarh was formed on November 1, 2000, from which state? / ২০০০ চনৰ ১ নৱেম্বৰত কোনখন ৰাজ্যৰ পৰা ছত্তীশগড় গঠন কৰা হৈছিল?",
+    "options": [
+      "Bihar",
+      "Uttar Pradesh",
+      "Madhya Pradesh",
+      "Andhra Pradesh"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "According to Article 9, if a person voluntarily acquires citizenship of a foreign state, they: / অনুচ্ছেদ ৯ অনুসৰি যদি কোনো ব্যক্তিয়ে স্বেচ্ছাই বিদেশী ৰাষ্ট্ৰৰ নাগৰিকত্ব গ্ৰহণ কৰে, তেন্তে তেওঁ:",
+    "options": [
+      "Will remain a citizen of India",
+      "Will no longer be a citizen of India",
+      "Must register again",
+      "Will have dual citizenship"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What was the status of Mizoram before attaining statehood in 1987? / ১৯৮৭ চনত ৰাজ্যৰ মৰ্যাদা লাভ কৰাৰ আগতে মিজোৰামৰ স্থিতি কি আছিল?",
+    "options": [
+      "Part of Assam",
+      "Independent Kingdom",
+      "Union Territory",
+      "Part of Burma"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In which year was Mysore renamed as Karnataka? / মহীশূৰৰ নাম সলাই কৰ্ণাটক কেতিয়া কৰা হৈছিল?",
+    "options": [
+      "1956",
+      "1960",
+      "1973",
+      "1975"
+    ],
+    "answer": 2
+  }
+]
