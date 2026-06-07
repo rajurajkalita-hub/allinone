@@ -1,1 +1,102 @@
-
+[
+  {
+    "question": "Which of the following exercised the most profound influence in framing the Indian Constitution? / তলৰ কোনটোৱে ভাৰতীয় সংবিধান গঠনত আটাইতকৈ গভীৰ প্ৰভাৱ পেলাইছিল?",
+    "options": [
+      "British Constitution",
+      "US Constitution",
+      "Irish Constitution",
+      "The Government of India Act, 1935"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "The first attempt to introduce a representative and popular element in the governance of India was made through— / ভাৰতৰ শাসনত প্ৰতিনিধিত্বমূলক আৰু জনপ্ৰিয় উপাদান অন্তৰ্ভুক্ত কৰাৰ প্ৰথম প্ৰয়াস কিহৰ জৰিয়তে কৰা হৈছিল?",
+    "options": [
+      "Indian Council Act, 1861",
+      "Indian Council Act, 1892",
+      "Indian Council Act, 1909",
+      "Government of India Act, 1919"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following acts introduced communal electorate in India? / তলৰ কোনখন আইনে ভাৰতত সাম্প্ৰদায়িক নিৰ্বাচক মণ্ডলীৰ প্ৰৱৰ্তন কৰিছিল?",
+    "options": [
+      "Indian Council Act, 1861",
+      "Indian Council Act, 1892",
+      "Indian Council Act, 1909",
+      "Government of India Act, 1935"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "By virtue of which Act, dyarchy was introduced in India? / কোনখন আইনৰ দ্বাৰা ভাৰতত দ্বৈত শাসন (dyarchy) প্ৰৱৰ্তন কৰা হৈছিল?",
+    "options": [
+      "Indian Council Act, 1909",
+      "Government of India Act, 1919",
+      "Government of India Act, 1935",
+      "Indian Independence Act, 1947"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The monopoly of Indian trade of the East India Company was abolished by the— / ইষ্ট ইণ্ডিয়া কোম্পানীৰ ভাৰতীয় বাণিজ্যৰ একচেটিয়া অধিকাৰ কিহৰ দ্বাৰা বিলুপ্ত কৰা হৈছিল?",
+    "options": [
+      "Regulating Act, 1773",
+      "Charter Act, 1813",
+      "Charter Act, 1833",
+      "Government of India Act, 1858"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The Constitution of India was completed on— / ভাৰতীয় সংবিধান কেতিয়া সম্পূৰ্ণ হৈছিল?",
+    "options": [
+      "February 11, 1948",
+      "November 26, 1949",
+      "January 26, 1950",
+      "None of these"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How many Sessions of the Indian Constituent Assembly were conducted for the formulation of Indian Constitution? / ভাৰতীয় সংবিধান প্ৰণয়নৰ বাবে ভাৰতীয় সংবিধান সভাৰ কিমানটা অধিবেশন অনুষ্ঠিত হৈছিল?",
+    "options": [
+      "7",
+      "11",
+      "12",
+      "15"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the Chairman of the Drafting Committee of the Indian Constitution? / ভাৰতীয় সংবিধানৰ খচৰা সমিতিৰ অধ্যক্ষ কোন আছিল?",
+    "options": [
+      "Jawahar Lal Nehru",
+      "Dr. Rajendra Prasad",
+      "Dr. B.R. Ambedkar",
+      "Sardar Patel"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the Chairman of the Provincial Constitution Committee of the Constituent Assembly? / সংবিধান সভাৰ প্ৰাদেশিক সংবিধান সমিতিৰ অধ্যক্ষ কোন আছিল?",
+    "options": [
+      "Dr. B.R. Ambedkar",
+      "Pt. Jawahar Lal Nehru",
+      "Dr. Rajendra Prasad",
+      "Sardar Patel"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "The number of members included in the Constitution Drafting Committee was— / সংবিধান খচৰা সমিতিত অন্তৰ্ভুক্ত সদস্যৰ সংখ্যা আছিল—",
+    "options": [
+      "Seven",
+      "Nine",
+      "Eleven",
+      "Thirteen"
+    ],
+    "answer": 0
+  }
+]
