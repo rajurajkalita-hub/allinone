@@ -1,0 +1,52 @@
+[
+  {
+    "question": "In which year did Satriya Dance receive recognition as a classical dance of India? / কোন বছৰত সত্ৰীয়া নৃত্যই ভাৰতৰ শাস্ত্ৰীয় নৃত্য হিচাপে স্বীকৃতি লাভ কৰিছিল?",
+    "options": ["1998", "1999", "2001", "2000"],
+    "answer": 3
+  },
+  {
+    "question": "Who was awarded the Jnanpith Award in the year 2000? / ২০০০ চনত কাক জ্ঞানপীঠ বঁটা প্ৰদান কৰা হৈছিল?",
+    "options": ["Indira Goswami", "Nirupama Borgohain", "Seema Biswas", "Aadya Sarma"],
+    "answer": 0
+  },
+  {
+    "question": "In which year was the Bodoland Territorial Council (BTC) established? / বড়োলেণ্ড টেৰিটৰিয়েল কাউন্সিল (BTC) কোন বছৰত প্ৰতিষ্ঠা কৰা হৈছিল?",
+    "options": ["2001", "2002", "2003", "2004"],
+    "answer": 1
+  },
+  {
+    "question": "The first international flight from Guwahati was inaugurated in 2002 to which destination? / ২০০২ চনত গুৱাহাটীৰ পৰা প্ৰথমখন আন্তঃৰাষ্ট্ৰীয় বিমান ক’লৈ উদ্বোধন কৰা হৈছিল?",
+    "options": ["Singapore", "Dhaka", "Bangkok", "London"],
+    "answer": 2
+  },
+  {
+    "question": "What was the mascot of the National Games hosted by Assam for the first time in 2007? / ২০০৭ চনত অসমে প্ৰথমবাৰৰ বাবে আয়োজন কৰা ৰাষ্ট্ৰীয় ক্ৰীড়াৰ শুভংকৰ (Mascot) কি আছিল?",
+    "options": ["Bhogmon", "Tikhor", "Shera", "Rangman"],
+    "answer": 3
+  },
+  {
+    "question": "Who took over as the Principal Scientist of the Chandrayaan-1 mission in 2008? / ২০০৮ চনত কোনে চন্দ্ৰযান-১ অভিযানৰ প্ৰধান বিজ্ঞানী হিচাপে দায়িত্ব গ্ৰহণ কৰিছিল?",
+    "options": ["Dr. Jitendra Nath Goswami", "Dr. Lakhi Nandan Bora", "Dr. Bhupen Hazarika", "Dr. Bhabendra Nath Saikia"],
+    "answer": 0
+  },
+  {
+    "question": "In 2010, the North Cachar Hills district was renamed as: / ২০১০ চনত উত্তৰ কাছাৰ পাহাৰ জিলাৰ নাম সলনি কৰি কি ৰখা হৈছিল?",
+    "options": ["Karbi Anglong", "Dima Hasao", "Majuli", "West Karbi Anglong"],
+    "answer": 1
+  },
+  {
+    "question": "In which year did the legendary singer and music composer Dr. Bhupen Hazarika pass away? / কিংবদন্তি গায়ক তথা সংগীত পৰিচালক ড° ভূপেন হাজৰিকাৰ কোন বছৰত মৃত্যু হৈছিল?",
+    "options": ["2009", "2010", "2011", "2012"],
+    "answer": 2
+  },
+  {
+    "question": "Which Assamese movie was awarded as the best regional film in the 57th National Film Awards? / ৫৭ সংখ্যক ৰাষ্ট্ৰীয় চলচ্চিত্ৰ বঁটাত কোনখন অসমীয়া চিনেমা শ্ৰেষ্ঠ আঞ্চলিক ছবি হিচাপে পুৰস্কৃত হৈছিল?",
+    "options": ["Halodhia Choraye Baodhan Khai", "Village Rockstars", "Agnisnaan", "Basundhara"],
+    "answer": 3
+  },
+  {
+    "question": "In 2013, Assam became the first State in India to produce over how much tea? / ২০১৩ চনত অসম ভাৰতৰ ভিতৰত কিমানৰো অধিক চাহ উৎপাদন কৰা প্ৰথমখন ৰাজ্য হিচাপে পৰিগণিত হয়?",
+    "options": ["500 million kg", "400 million kg", "600 million kg", "700 million kg"],
+    "answer": 0
+  }
+]
