@@ -1,0 +1,52 @@
+[
+{
+    "question": "In 2014, who was the first recipient of the Mamoni Raisom Goswami National Award? / ২০১৪ চনত মামণি ৰয়ছম গোস্বামী ৰাষ্ট্ৰীয় বঁটাৰ প্ৰথম প্ৰাপক কোন আছিল?",
+    "options": ["Hirendra Nath Dutta", "Mahaswata Devi", "Lakshmi Nandan Bora", "Jahnu Barua"],
+    "answer": 1
+  },
+  {
+    "question": "Who received the Sangeet Natak Academy Award in 2015 as the youngest Assamese? / ২০১৫ চনত আটাইতকৈ কম বয়সীয়া অসমীয়া হিচাপে কোনে সংগীত নাটক একাডেমি বঁটা লাভ কৰিছিল?",
+    "options": ["Anita Sarma", "Hima Das", "Lovlina Borgohain", "Eli Ahmed"],
+    "answer": 0
+  },
+  {
+    "question": "Which film directed by Bhaskar Hazarika won the best Assamese film award at the 63rd National Film Awards in 2016? / ২০১৬ চনত ৬৩ সংখ্যক ৰাষ্ট্ৰীয় চলচ্চিত্ৰ বঁটাত ভাস্কৰ হাজৰিকাৰ কোনখন ছবিয়ে শ্ৰেষ্ঠ অসমীয়া ছবিৰ বঁটা লাভ কৰিছিল?",
+    "options": ["Village Rockstars", "Bulbul Can Sing", "Kothanodi", "Moriahola"],
+    "answer": 2
+  },
+  {
+    "question": "Which 2016 Padma Bhushan awardee is famously known as the 'Forest Man of India'? / ২০১৬ চনৰ কোনজন পদ্মভূষণ বঁটা বিজয়ীক বিখ্যাতভাৱে ভাৰতৰ 'অৰণ্য মানৱ' বুলি জনা যায়?",
+    "options": ["Prahlad Chandra Tasa", "Jahnu Barua", "Lakshmi Nandan Bora", "Jadav Payeng"],
+    "answer": 3
+  },
+  {
+    "question": "In which year did the BJP alliance form the government in Assam for the first time? / কোন বছৰত অসমত প্ৰথমবাৰৰ বাবে বিজেপি মিত্ৰজোঁটে চৰকাৰ গঠন কৰিছিল?",
+    "options": ["2014", "2016", "2011", "2019"],
+    "answer": 1
+  },
+  {
+    "question": "Which international sports event did Assam co-host in 2017? / ২০১৭ চনত অসমত কোনটো আন্তঃৰাষ্ট্ৰীয় ক্ৰীড়া অনুষ্ঠানৰ সহ-আয়োজন কৰা হৈছিল?",
+    "options": ["FIFA U17 World Cup", "Asian Games", "Commonwealth Games", "ICC World Cup"],
+    "answer": 0
+  },
+  {
+    "question": "According to the first draft released in 2017, how many people were included in the updated NRC? / ২০১৭ চনত মুকলি কৰা প্ৰথমটো খচৰা অনুসৰি উন্নীত এন আৰ চিত কিমান লোকক অন্তৰ্ভুক্ত কৰা হৈছিল?",
+    "options": ["3.2 Cr", "2.5 Cr", "1.5 Cr", "1.9 Cr"],
+    "answer": 3
+  },
+  {
+    "question": "Jayanta Madhab Bora won the Sahitya Akademi Award in 2017 for which novel? / জয়ন্ত মাধৱ বৰাই ২০১৭ চনত কোনখন উপন্যাসৰ বাবে সাহিত্য অকাডেমি বঁটা লাভ কৰিছিল?",
+    "options": ["Chanakya", "Kailoir Dintu Amar Hobo", "Moriahola", "Mamoni Raisom"],
+    "answer": 2
+  },
+  {
+    "question": "Which senior journalist was awarded the Padmashree in 2018? / ২০১৮ চনত কোনগৰাকী জ্যেষ্ঠ সাংবাদিকক পদ্মশ্ৰী বঁটা প্ৰদান কৰা হৈছিল?",
+    "options": ["Prafulla Govinda Baruah", "D.N. Bezboruah", "Arup Kumar Dutta", "Hiren Bhattacharya"],
+    "answer": 0
+  },
+  {
+    "question": "Sananta Tanti received the Sahitya Akademi Award for Assamese literature in 2018 for which book? / সানন্ত তাঁতীয়ে ২০১৮ চনত অসমীয়া সাহিত্যৰ বাবে কোনখন গ্ৰন্থৰ বাবে সাহিত্য অকাডেমি বঁটা লাভ কৰিছিল?",
+    "options": ["Moriahola", "Kailoir Dintu Amar Hobo", "Chanakya", "Antarip"],
+    "answer": 1
+  }
+]
