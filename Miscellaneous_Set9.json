@@ -1,1 +1,52 @@
-
+[
+  {
+    "question": "According to the latest census, what is the rhino population in Kaziranga? / শেহতীয়া লোকপিয়ল অনুসৰি কাজিৰঙাত গঁড়ৰ সংখ্যা কিমান?",
+    "options": ["2,000", "2,200", "2,350", "2,413"],
+    "answer": 3
+  },
+  {
+    "question": "In which year was Manas National Park declared a UNESCO World Heritage Site? / কোন বছৰত মানস ৰাষ্ট্ৰীয় উদ্যানক ইউনেস্কো বিশ্ব ঐতিহ্য ক্ষেত্ৰ হিচাপে ঘোষণা কৰা হৈছিল?",
+    "options": ["1985", "1973", "1990", "1928"],
+    "answer": 0
+  },
+  {
+    "question": "Which National Park in Assam is the only home to the Eastern Swamp Deer (Barasingha)? / অসমৰ কোনখন ৰাষ্ট্ৰীয় উদ্যান 'দল হৰিণা' (Barasingha) ৰ একমাত্ৰ আবাসস্থল?",
+    "options": ["Manas National Park", "Kaziranga National Park", "Nameri National Park", "Orang National Park"],
+    "answer": 1
+  },
+  {
+    "question": "Manas National Park is located in which district of Assam? / মানস ৰাষ্ট্ৰীয় উদ্যান অসমৰ কোনখন জিলাত অৱস্থিত?",
+    "options": ["Barpeta", "Udalguri", "Baksa", "Kokrajhar"],
+    "answer": 2
+  },
+  {
+    "question": "The name 'Manas' originated from which river named after a serpent goddess? / 'মানস' নামটো কোনগৰাকী সৰ্প দেৱীৰ নামেৰে নামাকৰণ কৰা নদীৰ পৰা আহিছে?",
+    "options": ["Ganga River", "Brahmaputra River", "Manas River", "Jia Bharali River"],
+    "answer": 2
+  },
+  {
+    "question": "Which range of Manas National Park is based at Bansbari? / মানস ৰাষ্ট্ৰীয় উদ্যানৰ কোনটো ৰেঞ্জ বাঁহবাৰীত অৱস্থিত?",
+    "options": ["Western Range", "Central Range", "Eastern Range", "Northern Range"],
+    "answer": 1
+  },
+  {
+    "question": "In which district is Orang National Park located? / ওৰাং ৰাষ্ট্ৰীয় উদ্যান কোনখন জিলাত অৱস্থিত?",
+    "options": ["Sonitpur district", "Nagaon district", "Dibrugarh district", "Darrang district"],
+    "answer": 3
+  },
+  {
+    "question": "In 1992, Orang National Park was renamed as which wildlife sanctuary? / ১৯৯২ চনত ওৰাং ৰাষ্ট্ৰীয় উদ্যানক কি বুলি পুনৰ নামকৰণ কৰা হৈছিল?",
+    "options": ["Rajiv Gandhi Wildlife Sanctuary", "Kaziranga Sanctuary", "Manas Sanctuary", "Nameri Sanctuary"],
+    "answer": 0
+  },
+  {
+    "question": "Which two rivers border Orang National Park and join the Brahmaputra? / কোন দুখন নদী ওৰাং ৰাষ্ট্ৰীয় উদ্যানৰ সীমাত আছে আৰু ব্ৰহ্মপুত্ৰত মিলিছে?",
+    "options": ["Lohit and Brahmaputra", "Belsiri and Dhansiri", "Jia Bharali and Brahmaputra", "Manas and Beki"],
+    "answer": 1
+  },
+  {
+    "question": "Dibru-Saikhowa National Park is primarily located in which district? / ডিব্ৰু-চৈখোৱা ৰাষ্ট্ৰীয় উদ্যান প্ৰধানকৈ কোনখন জিলাত অৱস্থিত?",
+    "options": ["Jorhat", "Majuli", "Tinsukia", "Dibrugarh"],
+    "answer": 2
+  }
+]
