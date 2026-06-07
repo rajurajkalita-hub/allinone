@@ -1,1 +1,102 @@
-
+[
+  {
+    "question": "The Tenth Schedule of Indian Constitution deals with— / ভাৰতীয় সংবিধানৰ দশম অনুসূচীয়ে কিহৰ সৈতে মোকাবিলা কৰে?",
+    "options": [
+      "Anti-defection Legislation",
+      "Panchayati Raj",
+      "Land Reforms",
+      "Distribution of powers between Union and States"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Procedure for creation of Legislative Council in States has been described in which Article? / ৰাজ্যসমূহত বিধান পৰিষদ গঠনৰ পদ্ধতি কোনটো অনুচ্ছেদত বৰ্ণনা কৰা হৈছে?",
+    "options": [
+      "Article 69",
+      "Article 169",
+      "Article 269",
+      "Article 369"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the constitutional provision lays down that taxes can neither be levied nor collected without the authority of law? / কোনটো সাংবিধানিক ব্যৱস্থাই নিৰ্ধাৰণ কৰিছে যে আইনৰ কৰ্তৃত্ব অবিহনে কৰ আৰোপ বা সংগ্ৰহ কৰিব নোৱাৰি?",
+    "options": [
+      "Article 265",
+      "Article 266",
+      "Article 300",
+      "Article 368"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Functions to be assigned to Panchayats by 73rd Amendment of the Constitution are mentioned in— / সংবিধানৰ ৭৩ সংখ্যক সংশোধনীৰ দ্বাৰা পঞ্চায়তসমূহক অৰ্পণ কৰিবলগীয়া কাৰ্যসমূহ ক’ত উল্লেখ কৰা হৈছে?",
+    "options": [
+      "Tenth Schedule",
+      "Eleventh Schedule",
+      "Twelfth Schedule",
+      "Thirteenth Schedule"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Article 249 of the Indian Constitution deals with— / ভাৰতীয় সংবিধানৰ ২৪৯ নং অনুচ্ছেদে কিহৰ সৈতে মোকাবিলা কৰে?",
+    "options": [
+      "Emergency power of the President",
+      "Dissolution of the Lok Sabha",
+      "Administrative power of the Parliament",
+      "Legislative power of the Parliament with respect to a matter in the State List"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which provision relating to Fundamental Rights is directly related to the exploitation of children? / মৌলিক অধিকাৰৰ সৈতে জড়িত কোনটো ব্যৱস্থা শিশুৰ শোষণৰ সৈতে পোনপটীয়াকৈ জড়িত?",
+    "options": [
+      "Article 17",
+      "Article 19",
+      "Article 23",
+      "Article 24"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "The Article of the Indian Constitution related to abolition of untouchability is— / অস্পৃশ্যতা দূৰীকৰণৰ সৈতে জড়িত ভাৰতীয় সংবিধানৰ অনুচ্ছেদটো হ’ল—",
+    "options": [
+      "Article 15",
+      "Article 16",
+      "Article 17",
+      "Article 18"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which Article of the Constitution of India enumerates Fundamental Duties of Indian Citizens? / ভাৰতীয় সংবিধানৰ কোনটো অনুচ্ছেদে ভাৰতীয় নাগৰিকৰ মৌলিক কৰ্তব্যসমূহ গণনা কৰে?",
+    "options": [
+      "Article 50 A",
+      "Article 50 B",
+      "Article 51 A",
+      "Article 51 B"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which one of the following pairs is properly matched? / তলৰ কোনটো জোৰা সঠিকভাৱে মিলিছে?",
+    "options": [
+      "Supreme Court of India : Article 318",
+      "Election Commission of India : Article 324",
+      "Union Public Service Commission : Article 332",
+      "Attorney General : Article 351"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "By which name/names is our country mentioned in the Constitution? / সংবিধানত আমাৰ দেশখনক কি নামেৰে উল্লেখ কৰা হৈছে?",
+    "options": [
+      "India and Bharat",
+      "India and Hindustan",
+      "Bharat Only",
+      "India, Bharat and Hindustan"
+    ],
+    "answer": 0
+  }
+]
