@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Where was the first matchbox factory of Assam established in 1925? / ১৯২৫ চনত অসমৰ প্ৰথমটো জুইশলা কাৰখানা ক’ত স্থাপন কৰা হৈছিল?",
+    "options": ["Dhubri", "Tinsukia", "Guwahati", "Dibrugarh"],
+    "answer": 0
+  },
+  {
+    "question": "The 41st session of the Indian National Congress (1926) was held at: / ভাৰতীয় জাতীয় কংগ্ৰেছৰ ৪১ তম অধিৱেশন (১৯২৬) ক’ত অনুষ্ঠিত হৈছিল?",
+    "options": ["Jorhat", "Pandu, Guwahati", "Sivsagar", "Silchar"],
+    "answer": 1
+  },
+  {
+    "question": "What was the name of the first Assamese women's magazine, published from Jorhat in 1927? / ১৯২৭ চনত যোৰহাটৰ পৰা প্ৰকাশিত প্ৰথমখন অসমীয়া মহিলা আলোচনীৰ নাম কি আছিল?",
+    "options": ["Orunodoi", "Bahi", "Ghar-Jeoti", "Jonaki"],
+    "answer": 2
+  },
+  {
+    "question": "Who wrote the poetry book 'Sandhiyar Sur', published in 1928? / ১৯২৮ চনত প্ৰকাশ পোৱা 'সন্ধিয়াৰ সুৰ' নামৰ কবিতা পুথিখন কোনে লিখিছিল?",
+    "options": ["Nalini Baladevi", "Chandraprabha Saikiani", "Hiranmayi Devi", "Nirmal Prabha Bordoloi"],
+    "answer": 0
+  },
+  {
+    "question": "Which Assamese leader participated in the Dandi March in 1930? / ১৯৩০ চনত কোনজন অসমীয়া নেতাই দাণ্ডী যাত্ৰাত অংশগ্ৰহণ কৰিছিল?",
+    "options": ["Gopinath Bordoloi", "Bishnuram Medhi", "Leeladhar Baruah", "Tarun Ram Phukan"],
+    "answer": 2
+  },
+  {
+    "question": "In which year was the first Assamese movie 'Jyotimati' released? / প্ৰথমখন অসমীয়া কথাছবি 'জয়মতী' কোন চনত মুক্তি পাইছিল?",
+    "options": ["1932", "1935", "1937", "1939"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the editor of the first English daily of Assam, 'The Assam Tribune' (1937)? / অসমৰ প্ৰথমখন ইংৰাজী দৈনিক কাকত 'দ্য আছাম ট্ৰিবিউন' (১৯৩৭) ৰ সম্পাদক কোন আছিল?",
+    "options": ["Lakhinath Phukon", "Radha Govinda Baruah", "Harendranath Baruah", "Satish Chandra Kakati"],
+    "answer": 0
+  },
+  {
+    "question": "Where was the first and only Sanskrit College of Assam established in 1938? / ১৯৩৮ চনত অসমৰ প্ৰথম আৰু একমাত্ৰ সংস্কৃত মহাবিদ্যালয়খন ক’ত স্থাপন কৰা হৈছিল?",
+    "options": ["Nalbari", "Barpeta", "Nagaon", "Kamrup"],
+    "answer": 0
+  },
+  {
+    "question": "Who honored Bishnu Prasad Rabha with the title 'Kalaguru' in 1940? / ১৯৪০ চনত কোনে বিষ্ণুপ্ৰসাদ ৰাভাক 'কলাগৰু' উপাধিৰে সন্মানিত কৰিছিল?",
+    "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Dr. Radhakrishnan", "Rabindranath Tagore"],
+    "answer": 2
+  },
+  {
+    "question": "In which year was the Assam State Museum established in Guwahati? / গুৱাহাটীত অসম ৰাজ্যিক সংগ্ৰহালয় কোন চনত স্থাপন কৰা হৈছিল?",
+    "options": ["1935", "1937", "1939", "1940"],
+    "answer": 3
+  }
+]
