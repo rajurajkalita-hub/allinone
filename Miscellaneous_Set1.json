@@ -1,1 +1,52 @@
-
+[
+  {
+    "question": "Who started the first mobile theatre of Assam, 'Assam Nataraj', in 1963? / ১৯৬৩ চনত অসমৰ প্ৰথমটো ভ্ৰাম্যমাণ থিয়েটাৰ 'অসম নটৰাজ' কোনে আৰম্ভ কৰিছিল? [1]",
+    "options": ["Dr. Bhupen Hazarika", "Achyut Lahkar", "Jyotiprasad Agarwala", "Bhabendra Nath Saikia"],
+    "answer": 1
+  },
+  {
+    "question": "In which year did Nagaland separate from Assam? / নাগালেণ্ড কোন চনত অসমৰ পৰা পৃথক হৈছিল? [1]",
+    "options": ["1961", "1963", "1971", "1972"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first Assamese player to win a Gold medal in the Asian Games? / এছিয়ান গেমছত স্বৰ্ণ পদক জয় কৰা প্ৰথমগৰাকী অসমীয়া খেলুৱৈ কোন আছিল? [1]",
+    "options": ["Dr. T. Ao", "Bhogeswar Baruah", "Hima Das", "Tayabulla"],
+    "answer": 1
+  },
+  {
+    "question": "The capital of Assam was shifted from Shillong to Dispur in which year? / কোন চনত অসমৰ ৰাজধানী শ্বিলঙৰ পৰা দিছপুৰলৈ স্থানান্তৰ কৰা হৈছিল? [1]",
+    "options": ["1970", "1971", "1972", "1973"],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first Assamese to be elected as the fifth President of India? / ভাৰতৰ পঞ্চমগৰাকী ৰাষ্ট্ৰপতি হিচাপে নিৰ্বাচিত হোৱা প্ৰথমজন অসমীয়া কোন আছিল? [1]",
+    "options": ["Gopinath Bordoloi", "Fakhruddin Ali Ahmed", "Birendra Nath Bhattacharyya", "Homen Borgohain"],
+    "answer": 1
+  },
+  {
+    "question": "Dr. Bhupen Hazarika received the Best Music Director award in 1975 for which film? / ড° ভূপেন হাজৰিকাই ১৯৭৫ চনত কোনখন ছবিৰ বাবে শ্ৰেষ্ঠ সংগীত পৰিচালকৰ বঁটা লাভ কৰিছিল? [1]",
+    "options": ["Piyoli Phukan", "Chameli Memsahab", "Monomoti", "Puberun"],
+    "answer": 1
+  },
+  {
+    "question": "In which year and place was the first book fair held in Assam? / অসমত প্ৰথমবাৰৰ বাবে কোন চনত আৰু ক'ত পুথিমেলা অনুষ্ঠিত হৈছিল? [1]",
+    "options": ["1978, Nagaon", "1978, Guwahati", "1980, Jorhat", "1984, Guwahati"],
+    "answer": 0
+  },
+  {
+    "question": "Which author received the Jnanpith Award in 1979 for the book 'Mrityunjoy'? / 'মৃত্যুঞ্জয়' গ্ৰন্থখনৰ বাবে ১৯৭৯ চনত কোনগৰাকী লেখকে জ্ঞানপীঠ বঁটা লাভ কৰিছিল? [1]",
+    "options": ["Homen Borgohain", "Birendra Nath Bhattacharyya", "Indira Goswami", "Nilamani Phukan"],
+    "answer": 1
+  },
+  {
+    "question": "In which year was the United Liberation Front of Asom (ULFA) formed at Rangpur? / ৰংপুৰত সংযুক্ত মুক্তি বাহিনী, অসম (উলফা) কোন চনত গঠিত হৈছিল? [1]",
+    "options": ["1972", "1976", "1979", "1985"],
+    "answer": 2
+  },
+  {
+    "question": "The Secondary Education Board of Assam (SEBA) was established in which year? / অসম মাধ্যমিক শিক্ষা পৰিষদ (SEBA) কোন চনত স্থাপিত হৈছিল? [1]",
+    "options": ["1962", "1972", "1982", "1984"],
+    "answer": 3
+  }
+]
