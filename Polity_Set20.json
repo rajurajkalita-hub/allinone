@@ -1,1 +1,102 @@
-
+[
+{
+    "question": "The method of Constitutional Amendment is provided in— / সংবিধান সংশোধনীৰ পদ্ধতি ক’ত উল্লেখ কৰা হৈছে?",
+    "options": [
+      "Article 348",
+      "Article 358",
+      "Article 368",
+      "Article 378"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Part III of the Constitution of India relates to— / ভাৰতীয় সংবিধানৰ তৃতীয় অংশ কিহৰ সৈতে জড়িত?",
+    "options": [
+      "Fundamental Rights",
+      "Directive Principles of State Policy",
+      "Fundamental Duties",
+      "Citizenship"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Article 340 of the Constitution of India provides for the appointment of a commission to investigate the conditions for the improvement of— / ভাৰতীয় সংবিধানৰ ৩৪০ নং অনুচ্ছেদে কিহৰ উন্নতিৰ চৰ্তসমূহ তদন্ত কৰিবলৈ আয়োগ নিযুক্তিৰ ব্যৱস্থা কৰে?",
+    "options": [
+      "Socially and educationally backward classes",
+      "Socially and economically backward classes",
+      "Scheduled castes and scheduled tribes",
+      "None of these"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which Amendment Act introduced changes in the Preamble to the Indian Constitution? / কোনটো সংশোধনী আইনে ভাৰতীয় সংবিধানৰ প্ৰস্তাৱনাত পৰিৱৰ্তন আনিছিল?",
+    "options": [
+      "38th Amendment Act, 1975",
+      "40th Amendment Act, 1976",
+      "42nd Amendment Act, 1976",
+      "44th Amendment Act, 1979"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The Presidential Government operates on the principle of— / ৰাষ্ট্ৰপতি শাসন কোনটো নীতিৰ ওপৰত চলি থাকে?",
+    "options": [
+      "Division of powers between centre and states",
+      "Centralisation of Powers",
+      "Balance of Powers",
+      "Separation of powers"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Who among the following was not a member of the Constituent Assembly? / তলৰ কোনজন সংবিধান সভাৰ সদস্য নাছিল?",
+    "options": [
+      "Sardar Vallabhbhai Patel",
+      "Acharya J.B. Kripalani",
+      "Jay Prakash Narayan",
+      "K.M. Munshi"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The first day session of Indian Constituent Assembly was chaired by— / ভাৰতীয় সংবিধান সভাৰ প্ৰথম দিনৰ অধিবেশনৰ পৌৰোহিত্য কোনে কৰিছিল?",
+    "options": [
+      "Dr. Rajendra Prasad",
+      "Dr. B.R. Ambedkar",
+      "Pandit Jawahar Lal Nehru",
+      "Dr. Sachchidananda Sinha"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Who among the following was the chairperson of the Drafting Committee set up by the Constituent Assembly? / সংবিধান সভাই গঠন কৰা খচৰা সমিতিৰ অধ্যক্ষ কোন আছিল?",
+    "options": [
+      "Jawahar Lal Nehru",
+      "Dr. Rajendra Prasad",
+      "Dr. B.R. Ambedkar",
+      "None of these"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "During which of the following periods did the Constituent Assembly deliberate upon and finalise the Constitution of India? / তলৰ কোনটো সময়ছোৱাত সংবিধান সভাই ভাৰতীয় সংবিধানৰ ওপৰত আলোচনা কৰি চূড়ান্ত ৰূপ দিছিল?",
+    "options": [
+      "November, 1946 - November, 1949",
+      "November, 1947 - November, 1949",
+      "December, 1946 - November, 1949",
+      "December, 1947 - November, 1949"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In Indian Polity which one is Supreme? / ভাৰতীয় ৰাজনীতি ব্যৱস্থাত কোনটো সৰ্বোচ্চ?",
+    "options": [
+      "The Supreme Court",
+      "The Constitution",
+      "The Parliament",
+      "Religion"
+    ],
+    "answer": 1
+  }
+]
