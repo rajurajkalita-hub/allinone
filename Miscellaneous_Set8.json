@@ -1,0 +1,53 @@
+
+[
+  {
+    "question": "In which year was the Assam Accord signed? / কোন বছৰত অসম চুক্তি স্বাক্ষৰিত হৈছিল?",
+    "options": ["1984", "1985", "1986", "1987"],
+    "answer": 1
+  },
+  {
+    "question": "Where was the 'Regional Coffee Research Centre' established in 1986? / ১৯৮৬ চনত 'আঞ্চলিক কফি গৱেষণা কেন্দ্ৰ' ক’ত স্থাপন কৰা হৈছিল?",
+    "options": ["Haflong", "Silchar", "Diphu", "Tezpur"],
+    "answer": 2
+  },
+  {
+    "question": "Which bridge over the Brahmaputra was inaugurated in 1987 at Tezpur? / ১৯৮৭ চনত তেজপুৰত ব্ৰহ্মপুত্ৰৰ ওপৰত কোনখন দলং উদ্বোধন কৰা হৈছিল?",
+    "options": ["Saraighat Bridge", "Naranarayan Setu", "Bogibeel Bridge", "Kalia Bhomora Bridge"],
+    "answer": 3
+  },
+  {
+    "question": "In which year were the two Central Universities established at Tezpur and Silchar? / কোন বছৰত তেজপুৰ আৰু শিলচৰত দুখন কেন্দ্ৰীয় বিশ্ববিদ্যালয় স্থাপন কৰা হৈছিল?",
+    "options": ["1989", "1990", "1991", "1992"],
+    "answer": 0
+  },
+  {
+    "question": "When was Manas declared as a National Park in India? / ভাৰতত মানসক কেতিয়া ৰাষ্ট্ৰীয় উদ্যান হিচাপে ঘোষণা কৰা হৈছিল?",
+    "options": ["1988", "1990", "1992", "1994"],
+    "answer": 1
+  },
+  {
+    "question": "Who was awarded the 'Dada Saheb Phalke Award' in 1992? / ১৯৯২ চনত কাক 'দাদা চাহেব ফাল্কে বঁটা' প্ৰদান কৰা হৈছিল?",
+    "options": ["Homen Borgohain", "Bhabendranath Saikia", "Dr. Bhupen Hazarika", "Indira Goswami"],
+    "answer": 2
+  },
+  {
+    "question": "Where was the only Science Museum of the Northeast established in 1994? / ১৯৯৪ চনত উত্তৰ-পূবৰ একমাত্ৰ বিজ্ঞান সংগ্ৰহালয় ক’ত স্থাপন কৰা হৈছিল?",
+    "options": ["Jorhat", "Dibrugarh", "Silchar", "Khanapara, Guwahati"],
+    "answer": 3
+  },
+  {
+    "question": "Chandraprasad Saikia was awarded the Sahitya Academy for which book? / চন্দ্ৰপ্ৰসাদ শইকীয়াক কোনখন গ্ৰন্থৰ বাবে সাহিত্য অকাডেমি বঁটা প্ৰদান কৰা হৈছিল?",
+    "options": ["Maharathi", "Abhijatri", "Basundhara", "Patkai Epare Mur Des"],
+    "answer": 0
+  },
+  {
+    "question": "The 'Naranarayan Setu', inaugurated in 1998, connects Jogighopa with which district? / ১৯৯৮ চনত উদ্বোধন কৰা 'নৰনাৰায়ণ সেতু'ৱে যোগীঘোপাক কোনটো জিলাৰ সৈতে সংযোগ কৰে?",
+    "options": ["Dhubri", "Goalpara", "Barpeta", "Bongaigaon"],
+    "answer": 1
+  },
+  {
+    "question": "Who was awarded the Bharat Ratna in 1999? / ১৯৯৯ চনত কাক ভাৰত ৰত্ন প্ৰদান কৰা হৈছিল?",
+    "options": ["Bhupen Hazarika", "Tarun Gogoi", "Gopinath Bordoloi", "Bishnuram Medhi"],
+    "answer": 2
+  }
+]
