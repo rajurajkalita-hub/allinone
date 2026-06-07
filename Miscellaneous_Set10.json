@@ -1,1 +1,52 @@
-
+[  
+  {
+    "question": "Which rare bird species is Dibru-Saikhowa National Park famous for? / ডিব্ৰু-চৈখোৱা ৰাষ্ট্ৰীয় উদ্যান কোনটো বিৰল পক্ষী প্ৰজাতিৰ বাবে বিখ্যাত?",
+    "options": ["Greater Adjutant Stork", "Hornbill", "Pelican", "White winged wood duck (Deo Hah)"],
+    "answer": 3
+  },
+  {
+    "question": "Nameri National Park is located in the northern foothills of which district? / নামেৰী ৰাষ্ট্ৰীয় উদ্যান কোনখন জিলাৰ উত্তৰ পাদদেশত অৱস্থিত?",
+    "options": ["Sonitpur district", "Lakhimpur district", "Dhemaji district", "Biswanath district"],
+    "answer": 0
+  },
+  {
+    "question": "Which was the second Tiger Reserve of Assam after Manas? / মানসৰ পিছত অসমৰ দ্বিতীয়খন ব্যাঘ্ৰ সংৰক্ষিত বনাঞ্চল কোনখন?",
+    "options": ["Orang National Park", "Nameri National Park", "Dehing Patkai National Park", "Raimona National Park"],
+    "answer": 1
+  },
+  {
+    "question": "Which National Park became Assam's sixth National Park on 5 June 2021? / ২০২১ চনৰ ৫ জুনত অসমৰ ষষ্ঠখন ৰাষ্ট্ৰীয় উদ্যান হিচাপে কোনখনক ঘোষণা কৰা হৈছিল?",
+    "options": ["Dehing Patkai National Park", "Kaziranga National Park", "Raimona National Park", "Manas National Park"],
+    "answer": 2
+  },
+  {
+    "question": "The Golden Langur is the mascot of which region in Assam? / সোণালী বান্দৰ অসমৰ কোনটো অঞ্চলৰ মেস্কট?",
+    "options": ["Karbi Anglong", "Dima Hasao", "Barak Valley", "Bodoland region"],
+    "answer": 3
+  },
+  {
+    "question": "Dehing Patkai National Park is located in which districts? / দেহিং পাটকাই ৰাষ্ট্ৰীয় উদ্যান কোনখন জিলাত অৱস্থিত?",
+    "options": ["Dibrugarh and Tinsukia", "Golaghat and Nagaon", "Kamrup and Morigaon", "Dhubri and Kokrajhar"],
+    "answer": 0
+  },
+  {
+    "question": "Pobitara Wildlife Sanctuary is situated in which district? / পবিতৰা অভয়াৰণ্য কোনখন জিলাত অৱস্থিত?",
+    "options": ["Bongaigaon district", "Morigaon district", "Hojai district", "Goalpara district"],
+    "answer": 1
+  },
+  {
+    "question": "Sonai Rupai Wildlife Sanctuary is located in which district? / সোণাই ৰূপাই অভয়াৰণ্য কোনখন জিলাত অৱস্থিত?",
+    "options": ["Sonitpur district", "Kamrup district", "Chirang district", "Baksa district"],
+    "answer": 0
+  },
+  {
+    "question": "Which wildlife sanctuary is very small with an area of only 6 km2? / কোনখন অভয়াৰণ্য মাত্ৰ ৬ বৰ্গ কিলোমিটাৰ মাটিকালিৰে অতি সৰু?",
+    "options": ["Laokhowa Wildlife Sanctuary", "Pobitara Wildlife Sanctuary", "Garampani Wildlife Sanctuary", "Sonai Rupai Wildlife Sanctuary"],
+    "answer": 2
+  },
+  {
+    "question": "Laokhowa Wildlife Sanctuary is located in which district? / লাওখোৱা অভয়াৰণ্য কোনখন জিলাত অৱস্থিত?",
+    "options": ["Cachar district", "Karbi Anglong district", "Hailakandi district", "Nagaon district"],
+    "answer": 3
+  }
+]
