@@ -1,0 +1,52 @@
+[
+  {
+    "question": "In which year was Cotton College, the first government college in Assam, established? / অসমৰ প্ৰথমখন চৰকাৰী মহাবিদ্যালয় কটন কলেজ কোন চনত স্থাপিত হৈছিল?",
+    "options": ["1900", "1901", "1902", "1903"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first secretary of the 'Assam Association', formed in 1903? / ১৯০৩ চনত গঠিত 'অসম এছ’চিয়েচন'ৰ প্ৰথম সম্পাদক কোন আছিল?",
+    "options": ["Manik Chandra Baruah", "Ambikagiri Raychoudhury", "Nabinchandra Bordoloi", "Jagannath Barooah"],
+    "answer": 0
+  },
+  {
+    "question": "The Swadeshi movement in Assam (1905) was led by: / ১৯০৫ চনত অসমত স্বদেশী আন্দোলনৰ নেতৃত্ব দিছিল:",
+    "options": ["Gopinath Bordoloi", "Lakhminath Bezbaruah", "Ambikagiri Raychoudhury", "Abdul Matin Choudhury"],
+    "answer": 2
+  },
+  {
+    "question": "In which year was Kaziranga announced as a protected area by Lord Curzon? / লৰ্ড কাৰ্ছনে কোন চনত কাজিৰঙাক সংৰক্ষিত এলেকা হিচাপে ঘোষণা কৰিছিল?",
+    "options": ["1905", "1908", "1910", "1912"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the editor of the Assamese magazine 'Bahi', published in 1909? / ১৯০৯ চনত প্ৰকাশিত অসমীয়া আলোচনী 'বাঁহী'ৰ সম্পাদক কোন আছিল?",
+    "options": ["Chandra Kumar Aggarwala", "Lakshmi Nath Bezbaruah", "Hemchandra Goswami", "Hiteshwar Borborah"],
+    "answer": 1
+  },
+  {
+    "question": "Where was the Tea Research Centre established in 1911? / ১৯১১ চনত চাহ গৱেষণা কেন্দ্ৰ ক’ত স্থাপন কৰা হৈছিল?",
+    "options": ["Dibrugarh", "Sivasagar", "Tocklai, Jorhat", "Nagaon"],
+    "answer": 2
+  },
+  {
+    "question": "Who wrote 'Assamiya Sahitar Buranji', the first Assamese history book on literature (1912)? / ১৯১২ চনত সাহিত্যৰ প্ৰথমখন অসমীয়া বুৰঞ্জী 'অসমীয়া সাহিত্যৰ বুৰঞ্জী' কোনে লিখিছিল?",
+    "options": ["Devendranath Bezbarua", "Lakshminath Bezbaruah", "Padmanath Gohain Baruah", "Surya Kumar Bhuyan"],
+    "answer": 0
+  },
+  {
+    "question": "Where was the first session of Asom Sahitya Sabha held in 1917? / ১৯১৭ চনত অসম সাহিত্য সভাৰ প্ৰথমখন অধিৱেশন ক’ত অনুষ্ঠিত হৈছিল?",
+    "options": ["Jorhat", "Guwahati", "Sivasagar", "Tezpur"],
+    "answer": 2
+  },
+  {
+    "question": "Which was the first Assamese sonnet book, published by Hiteshwar Borborah in 1918? / ১৯১৮ চনত হিতেশ্বৰ বৰবৰুৱাই প্ৰকাশ কৰা প্ৰথমখন অসমীয়া চনেট পুথি কোনখন?",
+    "options": ["Priyotomar Sithi", "Malach", "Sandhiyar Sur", "Pratima"],
+    "answer": 1
+  },
+  {
+    "question": "In which year did Mahatma Gandhi visit Assam for the first time? / মহাত্মা গান্ধীয়ে পোনপ্ৰথমবাৰৰ বাবে কোন চনত অসম ভ্ৰমণ কৰিছিল?",
+    "options": ["1919", "1920", "1921", "1922"],
+    "answer": 2
+  }
+]
