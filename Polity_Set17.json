@@ -1,1 +1,102 @@
-
+[
+  {
+    "question": "The English Crown is an example of— / ইংৰাজ মুকুট (English Crown) কিহৰ উদাহৰণ?",
+    "options": [
+      "Real executive",
+      "Quasi-real executive",
+      "Nominal executive",
+      "Nominated executive"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The declaration that 'Democracy is a Government of the people, by the people, for the people' was made by— / 'গণতন্ত্ৰ হ’ল জনসাধাৰণৰ দ্বাৰা, জনসাধাৰণৰ বাবে, জনসাধাৰণৰ চৰকাৰ'—এই ঘোষণা কোনে কৰিছিল?",
+    "options": [
+      "Abraham Lincoln",
+      "George Washington",
+      "Theodore Roosevelt",
+      "Winston Churchill"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is Gandhi's definition of 'Ram Raj'? / গান্ধীৰ 'ৰাম ৰাজ্য'ৰ সংজ্ঞা কি?",
+    "options": [
+      "Sovereignty of the people based on pure moral authority",
+      "The rule as it was during the time of Rama",
+      "The greatest good of all",
+      "The absolute power concentrated in the hands of a king"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The most essential feature of the Parliamentary form of Government is the— / সংসদীয় চৰকাৰৰ আটাইতকৈ অপৰিহাৰ্য বৈশিষ্ট্য হ’ল—",
+    "options": [
+      "Sovereignty of the Parliament",
+      "Written Constitution",
+      "Accountability of the executive to the legislature",
+      "Independent judiciary"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The Directive Principles of State Policy are covered under which Articles? / ৰাজ্য পৰিচালনাৰ নিৰ্দেশাত্মক নীতিসমূহ কোনকেইটা অনুচ্ছেদৰ অধীনত সামৰি লোৱা হৈছে?",
+    "options": [
+      "Articles 26 to 41",
+      "Articles 30 to 45",
+      "Articles 36 to 51",
+      "Articles 40 to 55"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "With what subject do Article 5 to 11 of the Constitution of India deal? / ভাৰতীয় সংবিধানৰ ৫ ৰ পৰা ১১ নং অনুচ্ছেদে কোনটো বিষয়ৰ সৈতে মোকাবিলা কৰে?",
+    "options": [
+      "Indian Union and its territory",
+      "Citizenship",
+      "Fundamental Duties",
+      "Union Executive"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Under which Article of the Constitution of India can the President of India be impeached? / ভাৰতীয় সংবিধানৰ কোনটো অনুচ্ছেদৰ অধীনত ভাৰতৰ ৰাষ্ট্ৰপতিক মহাভিযোগ (impeach) কৰিব পৰা যায়?",
+    "options": [
+      "Article 61",
+      "Article 75",
+      "Article 76",
+      "Article 356"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In which part of the Constitution, details of citizenship are mentioned? / সংবিধানৰ কোনটো অংশত নাগৰিকত্বৰ সবিশেষ উল্লেখ আছে?",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which one of the following provisions of the Constitution deals with the appointment and dismissal of the Council of Ministers? / সংবিধানৰ তলৰ কোনটো ব্যৱস্থাই মন্ত্ৰী পৰিষদৰ নিযুক্তি আৰু বৰ্খাস্তৰ সৈতে মোকাবিলা কৰে?",
+    "options": [
+      "Article 70",
+      "Article 72",
+      "Article 74",
+      "Article 75"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "The Constitution of India does not clearly provide for the 'Freedom of Press' but this freedom is implicit in— / ভাৰতীয় সংবিধানে স্পষ্টকৈ 'প্ৰেছৰ স্বাধীনতা'ৰ ব্যৱস্থা কৰা নাই কিন্তু এই স্বাধীনতা ক’ত নিহিত হৈ আছে?",
+    "options": [
+      "Article 19 (i) a",
+      "Article 19 (i) b",
+      "Article 19 (i) c",
+      "Article 19 (i) d"
+    ],
+    "answer": 0
+  }
+]
