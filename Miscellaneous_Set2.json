@@ -1,0 +1,52 @@
+[
+{
+    "question": "In which year was the third Assamese film 'Monomoti' released? / তৃতীয়খন অসমীয়া কথাছবি 'মনোমতী' কোন চনত মুক্তি পাইছিল? [1]",
+    "options": ["1935", "1941", "1942", "1948"],
+    "answer": 1
+  },
+  {
+    "question": "At which police station were Kanaklata and Mukunda Kakoti gunned down by the British Police? / বৃটিছ আৰক্ষীয়ে কনকলতা আৰু মুকুন্দ কাকতিক কোনখন থানাৰ সন্মুখত গুলীয়াই হত্যা কৰিছিল? [1]",
+    "options": ["Dhekiajuli", "Jorhat", "Gahpur", "Golaghat"],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first Governor of independent Assam? / স্বাধীন অসমৰ প্ৰথমগৰাকী ৰাজ্যপাল কোন আছিল? [1]",
+    "options": ["Gopinath Bordoloi", "Sir Akbar Hydari", "Bishnuram Medhi", "Fakhruddin Ali Ahmed"],
+    "answer": 1
+  },
+  {
+    "question": "In which year was the first medical college of Assam established in Dibrugarh? / ডিব্ৰুগড়ত অসমৰ প্ৰথমখন চিকিৎসা মহাবিদ্যালয় কোন চনত স্থাপিত হৈছিল? [1]",
+    "options": ["1947", "1948", "1950", "1952"],
+    "answer": 0
+  },
+  {
+    "question": "Which Assamese sports person represented India as the Captain of the Indian Football team in the 1948 London Olympics? / ১৯৪৮ চনৰ লণ্ডন অলিম্পিকত কোনগৰাকী অসমীয়া খেলুৱৈয়ে ভাৰতীয় ফুটবল দলৰ অধিনায়ক হিচাপে ভাৰতক প্ৰতিনিধিত্ব কৰিছিল? [1]",
+    "options": ["Bhogeswar Baruah", "Dr. T. Ao", "Tayabulla", "Hemen Baruah"],
+    "answer": 1
+  },
+  {
+    "question": "What was the magnitude of the mega earthquake that rocked Assam on 15th August 1950? / ১৯৫০ চনৰ ১৫ আগষ্টত অসমত হোৱা প্ৰলয়ংকাৰী ভূমিকম্পৰ প্ৰাবল্য কিমান আছিল? [1]",
+    "options": ["7.9", "8.2", "8.6", "9.1"],
+    "answer": 2
+  },
+  {
+    "question": "Who presided over the Asom Sahitya Sabha session held at Shillong in 1953? / ১৯৫৩ চনত শ্বিলঙত অনুষ্ঠিত হোৱা অসম সাহিত্য সভাৰ অধিবেশনত কোনে সভাপতিত্ব কৰিছিল? [1]",
+    "options": ["Surjya Kumar Bhuyan", "Nilamani Phukan", "Nalinibala Devi", "Birendra Nath Bhattacharyya"],
+    "answer": 0
+  },
+  {
+    "question": "The only Arabic college in Assam is located in which of the following places? / অসমৰ একমাত্ৰ আৰবী মহাবিদ্যালয়খন তলৰ কোনটো স্থানত অৱস্থিত? [1]",
+    "options": ["Nazira", "Rangia", "Jogighopa", "Nagaon"],
+    "answer": 1
+  },
+  {
+    "question": "Which was the first Assamese film to receive the President's Medal? / ৰাষ্ট্ৰপতিৰ পদক লাভ কৰা প্ৰথমখন অসমীয়া কথাছবি কোনখন আছিল? [1]",
+    "options": ["Monomoti", "Puberun", "Chameli Memsahab", "Piyoli Phukan"],
+    "answer": 3
+  },
+  {
+    "question": "In which year did Assamese become the official language of the state? / কোন চনত অসমীয়া ভাষা ৰাজ্যৰ চৰকাৰী ভাষা হিচাপে স্বীকৃতি পাইছিল? [1]",
+    "options": ["1950", "1960", "1961", "1972"],
+    "answer": 2
+  }
+]
