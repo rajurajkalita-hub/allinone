@@ -1,1 +1,102 @@
-
+[
+  {
+    "question": "The executive power of the State are vested in the Governor under Article— / ৰাজ্যৰ কাৰ্যবাহী ক্ষমতা কোনটো অনুচ্ছেদৰ অধীনত ৰাজ্যপালৰ ওপৰত ন্যস্ত কৰা হৈছে?",
+    "options": [
+      "Article 14",
+      "Article 154 (1)",
+      "Article 155",
+      "Article 356"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The Finance Commission is constituted under Article— / বিত্তীয় আয়োগ কোনটো অনুচ্ছেদৰ অধীনত গঠন কৰা হৈছে?",
+    "options": [
+      "275",
+      "280",
+      "282",
+      "None of these"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Trade monopoly of the East India Company was ended by— / ইষ্ট ইণ্ডিয়া কোম্পানীৰ বাণিজ্যিক একচেটিয়া অধিকাৰ কিহৰ দ্বাৰা অন্ত পৰিছিল?",
+    "options": [
+      "The Regulating Act of 1773",
+      "Pitt's India Act of 1784",
+      "The Charter Act of 1813",
+      "The Charter Act of 1833"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How much time the Constituent Assembly took to frame the Constitution of India? / ভাৰতীয় সংবিধান প্ৰণয়ন কৰিবলৈ সংবিধান সভাৰ কিমান সময় লাগিছিল?",
+    "options": [
+      "2 years 7 months 23 days",
+      "2 years 11 months 18 days",
+      "3 years 4 months 14 days",
+      "3 years 11 months 5 days"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following official documents is related with India? / তলৰ কোনটো চৰকাৰী নথি ভাৰতৰ সৈতে জড়িত?",
+    "options": [
+      "White Paper",
+      "Green Paper",
+      "Yellow Book",
+      "Blue Book"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which one of the following is a basic feature of the Presidential Government? / ৰাষ্ট্ৰপতি শাসন ব্যৱস্থাৰ এটা মৌলিক বৈশিষ্ট্য তলৰ কোনটো?",
+    "options": [
+      "Rigid Constitution",
+      "Single Executive",
+      "Supremacy of the Legislature",
+      "Residual Powers of the States"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Where was the concept of written constitution first born? / লিখিত সংবিধানৰ ধাৰণাটো প্ৰথমে ক’ত জন্ম হৈছিল?",
+    "options": [
+      "France",
+      "USA",
+      "Britain",
+      "Switzerland"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Where was the first parliamentary form of Government formed? / প্ৰথম সংসদীয় চৰকাৰ ক’ত গঠন কৰা হৈছিল?",
+    "options": [
+      "Britain",
+      "Belgium",
+      "Switzerland",
+      "France"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The Constitution of India is— / ভাৰতীয় সংবিধানখন হ’ল—",
+    "options": [
+      "Rigid",
+      "Flexible",
+      "Very rigid",
+      "Partly rigid, partly flexible"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Schedule Ninth of the Indian Constitution deals with— / ভাৰতীয় সংবিধানৰ নৱম অনুসূচীয়ে কিহৰ সৈতে মোকাবিলা কৰে?",
+    "options": [
+      "Subjects contained in Union List, State List and Concurrent List",
+      "The recognition of languages",
+      "Certain acts and regulations of State Legislatures dealing with land reforms and abolition of Zamindari",
+      "The territories of State and Union territories"
+    ],
+    "answer": 2
+  }
+]
