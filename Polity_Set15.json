@@ -1,1 +1,102 @@
-
+[
+  {
+    "question": "Which language is NOT listed in the Eighth Schedule of the Constitution? / সংবিধানৰ অষ্টম অনুসূচীত কোনটো ভাষা তালিকাভুক্ত নহয়?",
+    "options": [
+      "Kashmiri",
+      "Urdu",
+      "Sindhi",
+      "Nepali"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The item 'Education' belongs to the— / 'শিক্ষা' বিষয়টো কোনটো তালিকাৰ অন্তৰ্গত?",
+    "options": [
+      "Union List",
+      "State List",
+      "Concurrent List",
+      "Residuary subjects"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How many schedules the Constitution of India contains? / ভাৰতীয় সংবিধানত কিমানটা অনুসূচী আছে?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which article of the Indian Constitution provides for the institution of Panchayati Raj? / ভাৰতীয় সংবিধানৰ কোনটো অনুচ্ছেদে পঞ্চায়তী ৰাজ প্ৰতিষ্ঠানৰ ব্যৱস্থা কৰে?",
+    "options": [
+      "Article 36",
+      "Article 39",
+      "Article 40",
+      "Article 48"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Article 1 of the Constitution declares India as— / সংবিধানৰ ১ নং অনুচ্ছেদে ভাৰতক কি বুলি ঘোষণা কৰিছে?",
+    "options": [
+      "Federal State",
+      "Quasi-Federal State",
+      "Unitary State",
+      "Union of States"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "How many Articles are there in the Indian Constitution? / ভাৰতীয় সংবিধানত কিমানটা অনুচ্ছেদ আছে?",
+    "options": [
+      "395",
+      "396",
+      "398",
+      "399"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Power, authority and responsibilities of municipalities are listed in which schedule? / পৌৰসভাৰ ক্ষমতা, কৰ্তৃত্ব আৰু দায়িত্বসমূহ কোনটো অনুসূচীত তালিকাভুক্ত কৰা হৈছে?",
+    "options": [
+      "Ninth",
+      "Tenth",
+      "Eleventh",
+      "Twelfth"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "How many languages have recognized by the Constitution? / সংবিধানে কিমানটা ভাষাক স্বীকৃতি দিছে?",
+    "options": [
+      "15",
+      "18",
+      "22",
+      "24"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Under which Article of the Constitution is the 'Annual Financial Statement' laid before Parliament? / সংবিধানৰ কোনটো অনুচ্ছেদৰ অধীনত সংসদত 'বাৰ্ষিক বিত্তীয় বিৱৰণ' দাখিল কৰা হয়?",
+    "options": [
+      "Article 16",
+      "Article 31",
+      "Article 112",
+      "Article 124"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which article of the Constitution of India has provision for the President to proclaim emergency? / ভাৰতীয় সংবিধানৰ কোনটো অনুচ্ছেদত ৰাষ্ট্ৰপতিয়ে জৰুৰীকালীন অৱস্থা ঘোষণা কৰাৰ ব্যৱস্থা আছে?",
+    "options": [
+      "Article 352",
+      "Article 355",
+      "Article 356",
+      "Article 360"
+    ],
+    "answer": 0
+  }
+]
