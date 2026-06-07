@@ -1,1 +1,102 @@
-
+[
+  {
+    "question": "Who proposed the Preamble before the Drafting Committee of the Constitution? / সংবিধানৰ খচৰা সমিতিৰ আগত কোনে প্ৰস্তাৱনা (Preamble) উত্থাপন কৰিছিল?",
+    "options": [
+      "Jawahar Lal Nehru",
+      "B.R. Ambedkar",
+      "B.N. Rau",
+      "Mahatma Gandhi"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Who was the President of the Constituent Assembly of Independent India? / স্বাধীন ভাৰতৰ সংবিধান সভাৰ সভাপতি কোন আছিল?",
+    "options": [
+      "Dr. Bhim Rao Ambedkar",
+      "Dr. Rajendra Prasad",
+      "C. Rajagopalachari",
+      "K.M. Munshi"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How many members were initially there in the Constituent Assembly of India? / ভাৰতৰ সংবিধান সভাত আৰম্ভণিতে কিমানজন সদস্য আছিল?",
+    "options": [
+      "300",
+      "304",
+      "308",
+      "389"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Who was the Chairman of the Union Constitution Committee of the Constituent Assembly? / সংবিধান সভাৰ কেন্দ্ৰীয় সংবিধান সমিতিৰ অধ্যক্ষ কোন আছিল?",
+    "options": [
+      "B.R. Ambedkar",
+      "J.B. Kripalani",
+      "Jawahar Lal Nehru",
+      "Alladi Krishnaswami Ayyar"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first nominated Chairman of the Constituent Assembly? / সংবিধান সভাৰ প্ৰথম মনোনীত অধ্যক্ষ কোন আছিল?",
+    "options": [
+      "T.T. Krishnamachari",
+      "V.T. Krishnamachari",
+      "H.C. Mukherjee",
+      "Frank Anthony"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "The concept of Judicial Review in our Constitution has been taken from the Constitution of— / আমাৰ সংবিধানত ন্যায়িক পৰ্যালোচনা (Judicial Review) ৰ ধাৰণাটো কাৰ সংবিধানৰ পৰা লোৱা হৈছে?",
+    "options": [
+      "England",
+      "Australia",
+      "Canada",
+      "USA"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "The Constitution of India borrowed the scheme of Indian Federation from the Constitution of— / ভাৰতীয় সংবিধানে ভাৰতীয় যুক্তৰাষ্ট্ৰৰ আঁচনিখন কাৰ সংবিধানৰ পৰা ধাৰ কৰিছে?",
+    "options": [
+      "USA",
+      "Canada",
+      "UK",
+      "Ireland"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The idea of including the Emergency provisions in the Constitution of India has been borrowed from the— / ভাৰতীয় সংবিধানত জৰুৰীকালীন ব্যৱস্থা অন্তৰ্ভুক্ত কৰাৰ ধাৰণাটো ক’ৰ পৰা ধাৰ কৰা হৈছে?",
+    "options": [
+      "Constitution of Canada",
+      "Weimar Constitution of Germany",
+      "Constitution of Ireland",
+      "Constitution of USA"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Indian Constitution has taken certain features of the constitution of other countries. Which country contributed to the 'Directive Principles of State Policy'? / ভাৰতীয় সংবিধানে আন দেশৰ সংবিধানৰ কিছুমান বৈশিষ্ট্য গ্ৰহণ কৰিছে। 'ৰাজ্য পৰিচালনাৰ নিৰ্দেশাত্মক নীতি'ত কোনখন দেশে অৱদান আগবঢ়াইছিল?",
+    "options": [
+      "France",
+      "Ireland",
+      "Japan",
+      "USA"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following was the biggest source for the Constitution of India? / ভাৰতীয় সংবিধানৰ বাবে তলৰ কোনটো আটাইতকৈ ডাঙৰ উৎস আছিল?",
+    "options": [
+      "The Government of India Act, 1919",
+      "The Government of India Act, 1935",
+      "The Indian Independence Act, 1947",
+      "None of the above"
+    ],
+    "answer": 1
+  }
+]
