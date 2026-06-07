@@ -1,1 +1,102 @@
-
+[
+  {
+    "question": "The word 'Socialist' was added to the Preamble by which amendment? / কোনটো সংশোধনীৰ দ্বাৰা প্ৰস্তাৱনাত 'সমাজতান্ত্ৰিক' শব্দটো যোগ কৰা হৈছিল?",
+    "options": [
+      "42nd Amendment",
+      "44th Amendment",
+      "25th Amendment",
+      "None of these"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The Preamble of our Constitution reads India as— / আমাৰ সংবিধানৰ প্ৰস্তাৱনাত ভাৰতক কি বুলি কোৱা হৈছে?",
+    "options": [
+      "Sovereign, Democratic, Republic",
+      "Sovereign, Socialist, Secular, Democratic, Republic",
+      "Sovereign, Socialist, Democratic, Republic",
+      "None of these"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which Amendment of the Indian Constitution inserted the two words 'Socialist' and 'Secular' in the Preamble? / ভাৰতীয় সংবিধানৰ কোনটো সংশোধনীয়ে প্ৰস্তাৱনাত 'সমাজতান্ত্ৰিক' আৰু 'ধৰ্মনিৰপেক্ষ' এই শব্দ দুটা অন্তৰ্ভুক্ত কৰিছিল?",
+    "options": [
+      "28th",
+      "40th",
+      "42nd",
+      "52nd"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which among the following is the correct expression of the term 'Secular' in India? / ভাৰতত 'ধৰ্মনিৰপেক্ষ' শব্দটোৰ সঠিক প্ৰকাশ তলৰ কোনটো?",
+    "options": [
+      "India has many religions",
+      "Indians have religious freedom",
+      "Following the religion depends upon the will of individual",
+      "There is no religion of the State in India"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following describes India a Secular State? / তলৰ কোনটোৱে ভাৰতক ধৰ্মনিৰপেক্ষ ৰাষ্ট্ৰ হিচাপে বৰ্ণনা কৰিছে?",
+    "options": [
+      "Fundamental Rights",
+      "9th Schedule",
+      "Directive Principles",
+      "Preamble to the Constitution"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which one of the following words was NOT included in the Preamble of the Indian Constitution in 1975? / ১৯৭৫ চনত ভাৰতীয় সংবিধানৰ প্ৰস্তাৱনাত তলৰ কোনটো শব্দ অন্তৰ্ভুক্ত কৰা হোৱা নাছিল?",
+    "options": [
+      "Fraternity",
+      "Sovereign",
+      "Equality",
+      "Integrity"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "The Preamble of the Indian Constitution adopted on 26th November, 1949 did not include the terms— / ১৯৪৯ চনৰ ২৬ নৱেম্বৰত গৃহীত ভাৰতীয় সংবিধানৰ প্ৰস্তাৱনাত কোনকেইটা শব্দ অন্তৰ্ভুক্ত নাছিল?",
+    "options": [
+      "Socialist, Secular, Integrity",
+      "Secular, Integrity, Republic",
+      "Socialist, Integrity, Republic",
+      "None of these"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What was the exact constitutional status of the Indian Republic on 26 January, 1950? / ১৯৫০ চনৰ ২৬ জানুৱাৰীত ভাৰতীয় গণৰাজ্যৰ প্ৰকৃত সাংবিধানিক মৰ্যাদা কি আছিল?",
+    "options": [
+      "A Democratic Republic",
+      "A Sovereign Democratic Republic",
+      "A Sovereign Secular Democratic Republic",
+      "A Sovereign Socialist Secular Democratic Republic"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following countries have an Unwritten Constitution? / তলৰ কোনখন দেশৰ অলিখিত সংবিধান আছে?",
+    "options": [
+      "USA",
+      "UK",
+      "India",
+      "Pakistan"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following countries enjoys a federal form of government? / তলৰ কোনখন দেশে যুক্তৰাষ্ট্ৰীয় চৰকাৰ উপভোগ কৰে?",
+    "options": [
+      "China",
+      "USA",
+      "Cuba",
+      "Belgium"
+    ],
+    "answer": 1
+  }
+]
