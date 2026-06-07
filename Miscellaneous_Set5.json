@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who was posthumously conferred the Bharat Ratna, India's highest civilian award, in 2019? / ২০১৯ চনত কাক মৰণোত্তৰভাৱে ভাৰতৰ সৰ্বোচ্চ অসামৰিক সন্মান 'ভাৰত ৰত্ন' প্ৰদান কৰা হৈছিল?",
+    "options": ["Gopinath Bordoloi", "Mamoni Raisom Goswami", "Hiren Bhattacharya", "Dr. Bhupen Hazarika"],
+    "answer": 3
+  },
+  {
+    "question": "Jayashree Goswami Mahanta was chosen for the Sahitya Akademi Award in 2019 for which of her novels? / জয়শ্ৰী গোস্বামী মহন্তক ২০১৯ চনত তেওঁৰ কোনখন উপন্যাসৰ বাবে সাহিত্য অকাডেমি বঁটাৰ বাবে নিৰ্বাচিত কৰা হৈছিল?",
+    "options": ["Moriahola", "Kailoir Dintu Amar Hobo", "Chanakya", "Aparajita"],
+    "answer": 2
+  },
+  {
+    "question": "Where was the third edition of the Khelo India Youth Games held in 2020? / ২০২০ চনত খেল’ ইণ্ডিয়া যুৱ ক্ৰীড়াৰ তৃতীয় সংস্কৰণ ক’ত অনুষ্ঠিত হৈছিল?",
+    "options": ["New Delhi", "Guwahati", "Pune", "Bhubaneswar"],
+    "answer": 1
+  },
+  {
+    "question": "As per the 2020 tripartite accord, what is the new name for Bodoland? / ২০২০ চনৰ ত্ৰিপাক্ষিক চুক্তি অনুসৰি বড়োলেণ্ডৰ নতুন নাম কি?",
+    "options": ["Bodoland Territorial Region (BTR)", "Bodoland Autonomous Council", "Bodoland State", "Greater Bodoland"],
+    "answer": 0
+  },
+  {
+    "question": "Which of these was upgraded to a National Park in 2021? / ২০২১ চনত ইয়াৰে কোনটোক ৰাষ্ট্ৰীয় উদ্যানলৈ উন্নীত কৰা হৈছিল?",
+    "options": ["Kaziranga", "Manas", "Nameri", "Raimona"],
+    "answer": 3
+  },
+  {
+    "question": "India's longest river ropeway was inaugurated in 2021 in which city? / ২০২১ চনত ভাৰতৰ আটাইতকৈ দীঘল নদী ৰজ্জুপথ (ৰোপৱে) কোনখন চহৰত উদ্বোধন কৰা হৈছিল?",
+    "options": ["Dibrugarh", "Tezpur", "Guwahati", "Silchar"],
+    "answer": 2
+  },
+  {
+    "question": "Who became the first woman Finance Minister of Assam in 2021? / ২০২১ চনত অসমৰ প্ৰথম মহিলা বিত্ত মন্ত্ৰী কোন হৈছিল?",
+    "options": ["Ajanta Neog", "Jayashree Goswami Mahanta", "Anita Sarma", "Pramila Rani Brahma"],
+    "answer": 0
+  },
+  {
+    "question": "Lovlina Borgohain won which medal in boxing at the Tokyo Olympics? / টকিঅ’ অলিম্পিকত লাভলীনা বৰগোহাঁয়ে বক্সিঙত কি পদক জয় কৰিছিল?",
+    "options": ["Gold", "Bronze", "Silver", "Platinum"],
+    "answer": 1
+  },
+  {
+    "question": "In which year did Sukapha enter the Brahmaputra valley? / চুকফাই কোন বছৰত ব্ৰহ্মপুত্ৰ উপত্যকাত প্ৰৱেশ কৰিছিল?",
+    "options": ["1215 A.D.", "1228 A.D.", "1248 A.D.", "1253 A.D."],
+    "answer": 3
+  },
+  {
+    "question": "The first armed conflict between the Ahoms and the Kamata took place during the reign of which Ahom king? / আহোম আৰু কামতাৰ মাজত প্ৰথম সশস্ত্ৰ সংঘাত কোনজন আহোম ৰজাৰ শাসনকালত হৈছিল?",
+    "options": ["Suteupha", "Sukhangpha", "Sukhangpha", "Suklenmung"],
+    "answer": 2
+  }
+]
